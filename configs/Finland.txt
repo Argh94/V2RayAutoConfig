@@ -8,6 +8,7 @@ ss://6207414d-7b7b-48a9-9e7a-7579f3c2ef01@Ikco.ir:2082?security=none&type=ws&hea
 ss://6207414d-7b7b-48a9-9e7a-7579f3c2ef01@Tapsi.ir:2052?security=none&type=ws&headerType=&path=/cdn&host=dl5.movizdl.ir#Finland
 ss://6207414d-7b7b-48a9-9e7a-7579f3c2ef01@Tapsi.ir:80?security=none&type=ws&headerType=&path=/cdn&host=dl6.movizdl.ir#Finland
 ss://6207414d-7b7b-48a9-9e7a-7579f3c2ef01@snappfood.ir:2086?security=none&type=ws&headerType=&path=/cdn&host=dl5.movizdl.ir#Finland
+ss://6c364976-715e-4454-a2e4-0ff6db9c522d@fl-4-direct.djarbnet.ru:443?&security=tls&fp=chrome&sni=fl-4-direct.djarbnet.ru&type=ws&headerType=none&host=fl-4-direct.djarbnet.ru&path=%2Fgetupdates#%E8%8A%AC%E5%85%B0%20230
 ss://79d324def14c420a9b917ea4f42e67c0@95.164.55.77:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=suomikauppa.fi&pbk=8r7EZolq2cbB5OduMvMZ4QT6GTRw25n1qoAPKwh2sHs&sid=aabbccdd&fp=random#REALITY|FI🇫🇮
 ss://9c42819a-67a6-4742-9c6d-64900ba62160@fl-2.bot-iphone.ru:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#REALITY|FI🇫🇮
 ss://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?type=tcp&encryption=none&flow=#FI🇫🇮
@@ -21,7 +22,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWUF0ODVTRkdWNTY=@185.77.217.217:443#%F0%9F%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaUY5OHhCTDJ2MWk=@135.181.114.242:8478#%F0%9F%87%AB%F0%9F%87%AEFI-135.181.114.242-3901
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.143.129.230:989#%F0%9F%87%AB%F0%9F%87%AEFI-37.143.129.230-3900
 ss://a2b2a4fb-7b34-472b-b4c0-e206fef1edfc@login.xwhiteness.site:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=_4UuX1REaRypO-PGfiKkq6ZHd-qaMKySdsDpzie7FRk&security=reality&sni=login.xwhiteness.site&type=tcp#REALITY|FI🇫🇮
-ss://a42c8b66-d0a7-4b49-9143-b98f1c84edba@144.31.82.47:18038?&security=reality&flow=xtls-rprx-vision&pbk=UDLhjunZjP-5A6KBMeuWe3qp_FusLAshcQIcCF7EZh8&sid=ce9f790791426d83&fp=chrome&sni=www.microsoft.com&type=tcp&headerType=none&path=%2F#_FI_%E8%8A%AC%E5%85%B0
 ss://abcd6b4c-2d85-4de5-be7f-62791b0f5085@fi.gryaz-vpn.com:34572?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8PkeN5hkQBkoBt0I2JdcDC865gUXui86897Th8DaDlY&security=reality&sid=88acba&sni=cloudflare.com&type=tcp#REALITY|FI🇫🇮
 ss://aef7716a-d0a5-4a85-9cb0-fda41d9f34b0@109.172.54.70:2040?encryption=none&fp=chrome&pbk=b6DZwkKAeXf3wjXrL6iV6dTt1Crpv2o88LRDJRgFglE&security=reality&sid=b589db8f02882bae&sni=eh.vk.com&type=tcp#REALITY|FI🇫🇮
 ss://d2de6d6d-4735-4fe3-b4b6-00a81ced69f5@fi.srv.happvpn.com:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.com&fp=chrome&security=reality&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&sid=4c02bbbfa833b3b6#REALITY|FI🇫🇮
@@ -79,11 +79,11 @@ vless://6207414d-7b7b-48a9-9e7a-7579f3c2ef01@Ikco.ir:2082?security=none&type=ws&
 vless://6207414d-7b7b-48a9-9e7a-7579f3c2ef01@Tapsi.ir:2052?security=none&type=ws&headerType=&path=/cdn&host=dl5.movizdl.ir#Finland
 vless://6207414d-7b7b-48a9-9e7a-7579f3c2ef01@Tapsi.ir:80?security=none&type=ws&headerType=&path=/cdn&host=dl6.movizdl.ir#Finland
 vless://6207414d-7b7b-48a9-9e7a-7579f3c2ef01@snappfood.ir:2086?security=none&type=ws&headerType=&path=/cdn&host=dl5.movizdl.ir#Finland
+vless://6c364976-715e-4454-a2e4-0ff6db9c522d@fl-4-direct.djarbnet.ru:443?&security=tls&fp=chrome&sni=fl-4-direct.djarbnet.ru&type=ws&headerType=none&host=fl-4-direct.djarbnet.ru&path=%2Fgetupdates#%E8%8A%AC%E5%85%B0%20230
 vless://79d324def14c420a9b917ea4f42e67c0@95.164.55.77:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=suomikauppa.fi&pbk=8r7EZolq2cbB5OduMvMZ4QT6GTRw25n1qoAPKwh2sHs&sid=aabbccdd&fp=random#REALITY|FI🇫🇮
 vless://9c42819a-67a6-4742-9c6d-64900ba62160@fl-2.bot-iphone.ru:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#REALITY|FI🇫🇮
 vless://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?type=tcp&encryption=none&flow=#FI🇫🇮
 vless://a2b2a4fb-7b34-472b-b4c0-e206fef1edfc@login.xwhiteness.site:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=_4UuX1REaRypO-PGfiKkq6ZHd-qaMKySdsDpzie7FRk&security=reality&sni=login.xwhiteness.site&type=tcp#REALITY|FI🇫🇮
-vless://a42c8b66-d0a7-4b49-9143-b98f1c84edba@144.31.82.47:18038?&security=reality&flow=xtls-rprx-vision&pbk=UDLhjunZjP-5A6KBMeuWe3qp_FusLAshcQIcCF7EZh8&sid=ce9f790791426d83&fp=chrome&sni=www.microsoft.com&type=tcp&headerType=none&path=%2F#_FI_%E8%8A%AC%E5%85%B0
 vless://abcd6b4c-2d85-4de5-be7f-62791b0f5085@fi.gryaz-vpn.com:34572?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8PkeN5hkQBkoBt0I2JdcDC865gUXui86897Th8DaDlY&security=reality&sid=88acba&sni=cloudflare.com&type=tcp#REALITY|FI🇫🇮
 vless://aef7716a-d0a5-4a85-9cb0-fda41d9f34b0@109.172.54.70:2040?encryption=none&fp=chrome&pbk=b6DZwkKAeXf3wjXrL6iV6dTt1Crpv2o88LRDJRgFglE&security=reality&sid=b589db8f02882bae&sni=eh.vk.com&type=tcp#REALITY|FI🇫🇮
 vless://d2de6d6d-4735-4fe3-b4b6-00a81ced69f5@fi.srv.happvpn.com:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.com&fp=chrome&security=reality&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&sid=4c02bbbfa833b3b6#REALITY|FI🇫🇮
