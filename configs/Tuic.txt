@@ -1,3 +1,4 @@
+tuic://32d6d133-0496-4b24-ab42-24d6dba0c071:32d6d133-0496-4b24-ab42-24d6dba0c071@104.253.175.139:64246?alpn=h3&congestion_control=bbr&sni=www.apple.com&udp_relay_mode=native#
 tuic://32d6d133-0496-4b24-ab42-24d6dba0c071:32d6d133-0496-4b24-ab42-24d6dba0c071@104.253.175.139:64246?sni=www.apple.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#
 tuic://36106e0f-4d9a-470b-a3fd-535f3b7a1e92:dongtaiwang.com@5.178.101.117:30006/?congestion_control=cubic&udp_relay_mode=native&alpn=h3#
 tuic://36106e0f-4d9a-470b-a3fd-535f3b7a1e92:dongtaiwang.com@5.178.101.117:30006?congestion_control=cubic&udp_relay_mode=native&alpn=h3#
