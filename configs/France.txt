@@ -69,6 +69,7 @@ ss://6202b230-417c-4d8e-b624-0f71afa9c75d@54.36.98.82:2053?allowInsecure=1&encry
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@54.36.98.93:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F&security=tls&sni=sni.111000.v6.navy&type=ws#%3E%3E%40configshub2%3A%3AFR
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@54.36.99.75:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@54.37.51.238:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.181.219:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%E6%B3%95%E5%9B%BD+%E5%9B%BD%E9%99%85%E8%88%AA%E7%A9%BA%E7%94%B5%E8%AE%AF%E9%9B%86%E5%9B%A2%E5%85%AC%E5%8F%B8%28SITA%29
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.63.149:8443?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D#%E6%B3%95%E5%9B%BD%20%E5%9B%BD%E9%99%85%E8%88%AA%E7%A9%BA%E7%94%B5%E8%AE%AF%E9%9B%86%E5%9B%A2%E5%85%AC%E5%8F%B8%28SITA%29
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@94.130.132.180:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40app_bedal&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%3E%3E%40outline_vpn%3A%3AFR
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@94.23.167.32:8443/?type=ws&encryption=none&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2&security=tls&sni=sni.111000.indevs.in#%F0%9F%87%A9%F0%9F%87%AAGermany%20-%3E%20%F0%9F%87%AB%F0%9F%87%B7France%20%E2%9A%A1%40DeamNet_Proxy
@@ -85,7 +86,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:804#%F0%9F%87
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:810#%F0%9F%87%AB%F0%9F%87%B7FR-51.178.87.37-8160
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLcTNpUXF0Vmx5UEpCUGNENlFwbkdF@92.243.27.51:9802#%F0%9F%87%AB%F0%9F%87%B7FR-92.243.27.51-8104
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMlk1WQ==@141.95.160.152:8388#%F0%9F%87%AB%F0%9F%87%B7FR-141.95.160.152-8774
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWZVVKajZIV0N5RFplU2FxcG1mOEFN@162.19.175.40:7425#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+162.19.175.40-7425+%7C+156.35ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplN3lRS09lbEtNNFVJSkNaWUxyelFY@162.19.214.191:59724#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+162.19.214.191-59724+%7C+156.94ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplN3lRS09lbEtNNFVJSkNaWUxyelFY@162.19.214.191:59724#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+162.19.214.191-59724+%7C+162.69ms
@@ -134,7 +134,6 @@ trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@141.95.61.209:1145?security=tls#%F
 trojan://6e3b4240-38f9-4321-9b3c-bc669a34b848@141.94.76.177:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-141.94.76.177-2371
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@62.210.254.72:28443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-62.210.254.72-2744
 trojan://79770a32-9607-4919-9483-0f1794559390@95.179.217.221:443?security=tls&sni=nika2.hdfy2.foriran.trade&type=grpc&serviceName=M9hnxw1wCQSfVHaiznU#%F0%9F%87%AB%F0%9F%87%B7FR-95.179.217.221-8092
-trojan://8r%3C%5B9%27l6hAO%238ZQi@146.19.168.188:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳+@WangCai2&Host=Koma-YT.PAGeS.Dev#%E6%B3%95%E5%9B%BD+V2CROSS.COM
 trojan://8r%3C%5B9%27l6hAO%238ZQi@146.19.168.188:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳+@WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%87%AB%F0%9F%87%B7FR-146.19.168.188-1685
 trojan://8r%3C%5B9%27l6hAO%238ZQi@188.130.207.119:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳+@WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%87%AB%F0%9F%87%B7FR-188.130.207.119-1694
 trojan://8r%3C%5B9%27l6hAO%238ZQi@188.130.207.30:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳+@WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%87%AB%F0%9F%87%B7FR-188.130.207.30-1695
@@ -253,6 +252,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.36.98.82:2053?allowInsecure=1&en
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.36.98.93:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F&security=tls&sni=sni.111000.v6.navy&type=ws#%3E%3E%40configshub2%3A%3AFR
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.36.99.75:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.37.51.238:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.181.219:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%E6%B3%95%E5%9B%BD+%E5%9B%BD%E9%99%85%E8%88%AA%E7%A9%BA%E7%94%B5%E8%AE%AF%E9%9B%86%E5%9B%A2%E5%85%AC%E5%8F%B8%28SITA%29
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.63.149:8443?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D#%E6%B3%95%E5%9B%BD%20%E5%9B%BD%E9%99%85%E8%88%AA%E7%A9%BA%E7%94%B5%E8%AE%AF%E9%9B%86%E5%9B%A2%E5%85%AC%E5%8F%B8%28SITA%29
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.130.132.180:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40app_bedal&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%3E%3E%40outline_vpn%3A%3AFR
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.23.167.32:8443/?type=ws&encryption=none&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2&security=tls&sni=sni.111000.indevs.in#%F0%9F%87%A9%F0%9F%87%AAGermany%20-%3E%20%F0%9F%87%AB%F0%9F%87%B7France%20%E2%9A%A1%40DeamNet_Proxy
