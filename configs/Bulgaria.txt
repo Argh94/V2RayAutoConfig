@@ -6,7 +6,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLYm0zeG9LMDRwNE9ob3FWcEV6ZGxq@95.164.113.198
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjSnZHa1hMUWcxVENvdXY4Qm1FMFh1@95.164.113.153:5669#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+95.164.113.153-5669+%7C+116.8ms
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@213.183.63.221:9001#%F0%9F%87%A7%F0%9F%87%ACBG-213.183.63.221-0302
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.180.2.141:5499#%3E%3E%40FreakConfig%3A%3ABG
-ss://c9424b66-67dd-4dbf-ddbc-752514cc04a5@93.123.84.128:777?encryption=none&security=none&type=tcp#%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A+V2CROSS.COM
+ss://c9424b66-67dd-4dbf-ddbc-752514cc04a5@93.123.84.128:777?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%5BVless%5D%20%F0%9F%87%A7%F0%9F%87%AC%20%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%20V2CROSS.COM
+ss://c9424b66-67dd-4dbf-ddbc-752514cc04a5@93.123.84.128:777?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%20CCZZUU.TOP
+ss://c9424b66-67dd-4dbf-ddbc-752514cc04a5@93.123.84.128:777?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%20V2CROSS.COM
 ss://e502ee54-8e2a-41c6-a3ca-3d192e8710fb@94.156.155.75:64003?encryption=none&fp=&pbk=dG1suoqzIlJMu_sHTvWy1RK12ZORBro6NrkqdQ6h7iQ&security=reality&serviceName=xraygrpc&sid=fbf3edeea8eabbdc&sni=download.docker.com&type=grpc#REALITY|BG🇧🇬
 ss://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws&security=tls&encryption=none&type=ws&sni=azizoarjmand.info#Bulgaria%20WorkTitans
 ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@147.78.140.20:8880#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+147.78.140.20-8880+%7C+2.27ms
@@ -14,7 +16,9 @@ ss://fe10ab92c5bc4d48a563749f58e930a5@95.164.113.153:8443?encryption=none&type=x
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.98.115.65:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.rocks&security=tls&sni=sni.111000.v6.rocks&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ABG
 vless://919526f8-86c8-4f43-b5f7-91eea1368bad@141.227.178.165:25365?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria
 vless://944a0133-3ffc-4772-8bd3-6125ad0683fa@193.24.120.154:8080?security=none&encryption=none&headerType=none&type=tcp#🇧🇬Bulgaria,
-vless://c9424b66-67dd-4dbf-ddbc-752514cc04a5@93.123.84.128:777?encryption=none&security=none&type=tcp#%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A+V2CROSS.COM
+vless://c9424b66-67dd-4dbf-ddbc-752514cc04a5@93.123.84.128:777?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%5BVless%5D%20%F0%9F%87%A7%F0%9F%87%AC%20%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%20V2CROSS.COM
+vless://c9424b66-67dd-4dbf-ddbc-752514cc04a5@93.123.84.128:777?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%20CCZZUU.TOP
+vless://c9424b66-67dd-4dbf-ddbc-752514cc04a5@93.123.84.128:777?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%20V2CROSS.COM
 vless://e502ee54-8e2a-41c6-a3ca-3d192e8710fb@94.156.155.75:64003?encryption=none&fp=&pbk=dG1suoqzIlJMu_sHTvWy1RK12ZORBro6NrkqdQ6h7iQ&security=reality&serviceName=xraygrpc&sid=fbf3edeea8eabbdc&sni=download.docker.com&type=grpc#REALITY|BG🇧🇬
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws&security=tls&encryption=none&type=ws&sni=azizoarjmand.info#Bulgaria%20WorkTitans
 vless://fe10ab92c5bc4d48a563749f58e930a5@95.164.113.153:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=finland.fi&pbk=w5QtssSmdSWwtq06dNsFeU8o_XYZkWAxi8RjsWHNd30&sid=aabbccdd&fp=random#REALITY|BG🇧🇬
