@@ -2,7 +2,7 @@ ss://15c75de9a09149d0bf0393d855a98082@83.217.9.220:8443?encryption=none&type=xht
 ss://1965899d6e8d455a833a212f9145555e@62.133.63.221:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=apple.com&pbk=79ZqTj0XqzblUu5jWvXdDywlQDZFeFmNlGS7Ivg2RHI&sid=aabbccdd&fp=random#REALITY|TR🇹🇷
 ss://52a1f20b-e3e2-4280-a953-1c7e940408b6@103.231.75.17:443?path=%2Flfcinsws&security=tls&encryption=none&type=ws#TR🇹🇷
 ss://53353c51-ab85-4f1d-b81c-d855a0cdeeba@213.142.132.75:443?&security=false&fp=chrome&type=ws&headerType=none&path=%2F#TR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa9a.xyz%E3%80%917
-ss://53353c51-ab85-4f1d-b81c-d855a0cdeeba@213.142.132.75:443?path=%2F&type=ws#TR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9110
+ss://53353c51-ab85-4f1d-b81c-d855a0cdeeba@213.142.132.75:443?type=ws&path=/#TR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%916
 ss://5b34187f-f811-58b1-7e68-3cc63df5df3b@meli.masterdadeh.ir:80?path=/&security=none&encryption=none&type=ws#🇹🇷Türkiye,
 ss://9709f4d4-b3b9-15ea-b1f4-2ab4bfc3b91d@pari.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.204#TR🇹🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SW9wblgwd3pFa3JjM1pjVlE5Nzh6@185.39.204.189:34085#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+185.39.204.189-34085+%7C+122.11ms
@@ -35,7 +35,7 @@ vless://15c75de9a09149d0bf0393d855a98082@83.217.9.220:8443?encryption=none&type=
 vless://1965899d6e8d455a833a212f9145555e@62.133.63.221:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=apple.com&pbk=79ZqTj0XqzblUu5jWvXdDywlQDZFeFmNlGS7Ivg2RHI&sid=aabbccdd&fp=random#REALITY|TR🇹🇷
 vless://52a1f20b-e3e2-4280-a953-1c7e940408b6@103.231.75.17:443?path=%2Flfcinsws&security=tls&encryption=none&type=ws#TR🇹🇷
 vless://53353c51-ab85-4f1d-b81c-d855a0cdeeba@213.142.132.75:443?&security=false&fp=chrome&type=ws&headerType=none&path=%2F#TR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa9a.xyz%E3%80%917
-vless://53353c51-ab85-4f1d-b81c-d855a0cdeeba@213.142.132.75:443?path=%2F&type=ws#TR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9110
+vless://53353c51-ab85-4f1d-b81c-d855a0cdeeba@213.142.132.75:443?type=ws&path=/#TR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%916
 vless://5b34187f-f811-58b1-7e68-3cc63df5df3b@meli.masterdadeh.ir:80?path=/&security=none&encryption=none&type=ws#🇹🇷Türkiye,
 vless://9709f4d4-b3b9-15ea-b1f4-2ab4bfc3b91d@pari.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.204#TR🇹🇷
 vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@portal.sane-new-eb.net:8080?encryption=none&security=none&type=grpc&headerType=none&mode=gun#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Başakşehir🅿️ping:110.2ms
