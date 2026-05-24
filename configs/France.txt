@@ -170,6 +170,8 @@ trojan://humanity@185.18.250.252:443?allowInsecure=1&host=www.calmlunch.com&path
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%3E%3E%40outline_vpn%3A%3AFR
 trojan://humanity@2.144.2.51:443?security=tls&sni=www.ignitelimit.com&alpn=h2&fp=chrome&type=ws&host=www.ignitelimit.com&path=/assignment#🇫🇷France,
 trojan://humanity@2.144.2.51:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&fp=chrome&alpn=h2#🇫🇷France,
+trojan://humanity@45.89.221.111:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome&allowInsecure=0#🇫🇷France,
+trojan://humanity@45.89.221.111:443?type=ws&security=tls&path=/assignment&sni=www.ignitelimit.com&allowInsecure=1#🇫🇷France,
 trojan://humanity@8.6.112.0:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%3E%3E%40v2rayNG_Matsuri%3A%3AFR
 trojan://humanity@sourceforge.net:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
