@@ -3,6 +3,7 @@ ss://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@bsex.serv00.net:50401?encryption=none&
 ss://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl194.mechvpn.online:443?allowInsecure=0&sni=pl194.mechvpn.online&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#PL🇵🇱
 ss://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?sni=pl74.mechvpn.online&flow=xtls-rprx-vision-udp443&security=tls#%3E%3E%40v2nodes%3A%3APL
 ss://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?type=tcp&encryption=none&sni=google.com&fp=chrome&security=reality&pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&sid=d1#REALITY|PL🇵🇱
+ss://79149019-5abe-46f9-91ae-e1e7d1d2c408@dns.dressforida.monster:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=4YLfHf90V012Oyd2wHbwAXaJNvNUGrKWmatTKc165U8&sni=www.techradar.com&sid=174c6cf22e22#%E6%B3%A2%E5%85%B0+V2CROSS.COM
 ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@217.30.10.70:9020#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4724
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@217.30.10.68:9031#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8342
 ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@217.30.10.68:9019#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8333
@@ -66,7 +67,7 @@ ss://ae8ddd8e-00af-48e5-bd57-05074a1bbffb@144.31.5.247:443?encryption=none&flow=
 ss://f9d8aa07-589f-4da0-9cb0-fd8f2f0e4fa8@144.31.4.166:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&security=reality&sid=0123456789abcdef&sni=www.deepl.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-51.83.186.142-2619
 trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-51.83.186.142-3648
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.133.0.159:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&Host=Koma-YT.PAGeS.Dev#%E6%B3%A2%E5%85%B0+V2CROSS.COM
+trojan://8r%3C%5B9%27l6hAO%238ZQi@31.133.0.159:2053?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&ws=1&wspath=%252FtrTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%252B%2540WangCai2#%F0%9F%87%B5%F0%9F%87%B1%20%E6%B3%A2%E5%85%B0%20CCZZUU.TOP
 trojan://8r%3C%5B9%27l6hAO%238ZQi@82.118.22.141:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳+@WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%87%B5%F0%9F%87%B1PL-82.118.22.141-1778
 trojan://8r%3C%5B9%27l6hAO%238ZQi@82.118.22.141:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳+@WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%87%B5%F0%9F%87%B1PL-82.118.22.141-1779
 trojan://8r%3C%5B9%27l6hAO%238ZQi@95.156.204.82:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳+@WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%87%B5%F0%9F%87%B1PL-95.156.204.82-1805
@@ -79,6 +80,7 @@ vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@bsex.serv00.net:50401?encryption=no
 vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl194.mechvpn.online:443?allowInsecure=0&sni=pl194.mechvpn.online&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#PL🇵🇱
 vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?sni=pl74.mechvpn.online&flow=xtls-rprx-vision-udp443&security=tls#%3E%3E%40v2nodes%3A%3APL
 vless://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?type=tcp&encryption=none&sni=google.com&fp=chrome&security=reality&pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&sid=d1#REALITY|PL🇵🇱
+vless://79149019-5abe-46f9-91ae-e1e7d1d2c408@dns.dressforida.monster:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=4YLfHf90V012Oyd2wHbwAXaJNvNUGrKWmatTKc165U8&sni=www.techradar.com&sid=174c6cf22e22#%E6%B3%A2%E5%85%B0+V2CROSS.COM
 vless://a2b2a4fb-7b34-472b-b4c0-e206fef1edfc@login.sempai.site:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ckikYsTKM-7icZi2rksqcCnIoy9slrruHnCLgsBub10&security=reality&sni=front.xwhiteness.site&type=tcp#REALITY|PL🇵🇱
 vless://ae8ddd8e-00af-48e5-bd57-05074a1bbffb@144.31.5.247:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&security=reality&sni=deepl.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
 vless://f9d8aa07-589f-4da0-9cb0-fd8f2f0e4fa8@144.31.4.166:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&security=reality&sid=0123456789abcdef&sni=www.deepl.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
