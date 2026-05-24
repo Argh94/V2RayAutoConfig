@@ -118,7 +118,7 @@ trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=1
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=getandroid.com#%F0%9F%87%B8%F0%9F%87%ACSG-15.235.197.4-8738
 trojan://635340b47bddf8f41c123dc6f2b5f7ce@16.162.217.83:4840?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://635340b47bddf8f41c123dc6f2b5f7ce@16.162.217.83:4840?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
-trojan://635340b47bddf8f41c123dc6f2b5f7ce@16.162.217.83:4840?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A14
+trojan://635340b47bddf8f41c123dc6f2b5f7ce@16.162.217.83:4840?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://635340b47bddf8f41c123dc6f2b5f7ce@52.195.217.94:3842?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://635340b47bddf8f41c123dc6f2b5f7ce@52.195.217.94:3842?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://635340b47bddf8f41c123dc6f2b5f7ce@52.195.217.94:3842?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
@@ -130,11 +130,13 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@141.11.43.124:443?security=tls&sni=Koma-YT.PAG
 trojan://8r%3C%5B9%27l6hAO%238ZQi@152.42.169.132:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%ACSG-152.42.169.132-1606
 trojan://8r%3C%5B9%27l6hAO%238ZQi@164.52.2.98:443?allowInsecure=0&sni=Koma-YT.PAGeS.Dev&ws=1&wspath=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20V2CROSS.COM
 trojan://8r%3C%5B9%27l6hAO%238ZQi@164.52.2.98:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%ACSG-164.52.2.98-0473
+trojan://8r%3C%5B9%27l6hAO%238ZQi@164.52.2.98:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A14
 trojan://8r%3C%5B9%27l6hAO%238ZQi@164.52.2.98:443?sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2027%20TG%3A%20%40nodpai
-trojan://8r%3C%5B9%27l6hAO%238ZQi@164.52.2.98:443?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
 trojan://8r%3C%5B9%27l6hAO%238ZQi@178.128.97.53:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&ws=1&wspath=%252FtrTelegram#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20Digital%20Ocean%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://8r%3C%5B9%27l6hAO%238ZQi@178.128.97.53:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A16
 trojan://8r%3C%5B9%27l6hAO%238ZQi@188.166.230.196:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&ws=1&wspath=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20DigitalOcean%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://8r%3C%5B9%27l6hAO%238ZQi@188.166.230.196:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%ACSG-188.166.230.196-0727
+trojan://8r%3C%5B9%27l6hAO%238ZQi@188.166.230.196:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
 trojan://8r%3C%5B9%27l6hAO%238ZQi@188.166.247.45:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%ACSG-188.166.247.45-1605
 trojan://8r%3C%5B9%27l6hAO%238ZQi@188.239.9.91:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%ACSG-188.239.9.91-0728
 trojan://8r%3C%5B9%27l6hAO%238ZQi@188.239.9.91:443?sni=Koma-YT.PAGeS.Dev#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2021%20TG%3A%20%40nodpai
@@ -150,7 +152,7 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@89.34.227.238:57606?security=tls#%F0%9F%87%B8%
 trojan://973ef350-f6a5-11ec-9274-1239d0255272@trojan2.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-128.199.185.211-5629
 trojan://BxceQaOe@43.207.215.131:10578?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://BxceQaOe@43.207.215.131:10578?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
-trojan://BxceQaOe@43.207.215.131:10578?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://BxceQaOe@43.207.215.131:10578?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A15
 trojan://FLpONjB2Lb@139.162.45.139:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-139.162.45.139-2853
 trojan://IL37892054@engaged-ram.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-54.169.245.181-4658
 trojan://affae2e0-e84b-11ec-b09f-1239d0255272@trojan1.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.51.247-5627
