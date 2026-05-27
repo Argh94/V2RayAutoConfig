@@ -6,7 +6,6 @@ hysteria2://522c2107-f297-4420-bd56-ec82b175aa2d@tw40.453521.xyz:8080?insecure=1
 hysteria2://64c5b7d0-87aa-45eb-9721-3602325fa106@tw40.453521.xyz:8080?insecure=1&sni=tw40.453521.xyz#A%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2014%20TG%3A%20%40nodpai
 hysteria2://94a5dea9-6175-4cd1-8f0b-786bde8eaf9b@tw40.453521.xyz:8080?insecure=1&sni=tw40.453521.xyz#A%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2003%20TG%3A%20%40nodpai
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=vpn-tw-002.fastervpn.world#A%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2003%20TG%3A%20%40nodpai
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=vpn-tw-002.fastervpn.world#A%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2003%20TG%3A%20%40nodpai%202
 hysteria2://aecd8c25-fd16-42a3-aefb-89c89557828f@5gzdx.769970.xyz:8080?insecure=1&sni=5gzdx.769970.xyz#B%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2018%20TG%3A%20%40nodpai
 hysteria2://c90cedc3-8d7f-4c7d-8bd7-d011d694aef3@5gzdx.769970.xyz:8080?insecure=1&sni=5gzdx.769970.xyz#B%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2019%20TG%3A%20%40nodpai
 hysteria2://df1a0967-5b79-41ec-8d12-915e9056c6e2@5gzdx.769970.xyz:8080?insecure=1&sni=5gzdx.769970.xyz#B%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2016%20TG%3A%20%40nodpai
@@ -84,8 +83,6 @@ trojan://b09d2aaa443af97a@211.72.35.155:3389?security=tls#%F0%9F%87%B9%F0%9F%87%
 trojan://b84d16a244460e09@211.72.35.152:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.35.152-2366
 trojan://b84d16a244460e09@211.72.35.152:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.35.152-3434
 trojan://gcuCpQfaiVeDBdWG@211.76.176.98:19128?security=tls&sni=yazhou10.dynu.net#%F0%9F%87%B9%F0%9F%87%BCTW-211.76.176.98-1613
-trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?allowInsecure=0&sni=yazhou10.dynu.net#%E5%8F%B0%E6%B9%BE%2028
-trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?allowInsecure=0&sni=yazhou10.dynu.net#%E5%8F%B0%E6%B9%BE%E7%9C%81%20V2CROSS.COM
 trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?security=tls&sni=yazhou10.dynu.net#%F0%9F%87%B9%F0%9F%87%BCTW-211.76.176.98-0254
 trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?sni=yazhou10.dynu.net#B%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2025%20TG%3A%20%40nodpai
 vless://15893455-4d21-4338-a273-01aed1d77fa2@tw06.459292.xyz:8443?sni=www.python.org&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#B%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2026%20TG%3A%20%40nodpai
