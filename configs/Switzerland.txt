@@ -1,5 +1,5 @@
 ss://41b92d9f-6c8d-4ac3-8eeb-eb3fcf48e102@92.119.165.11:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=UWUBepTdDtiUpf_ZgYjO2iriD0qc7RX2Gm-vtLDIG0k&security=reality&sid=182de34d29d30341&sni=sw.kickvpn.ru&type=tcp#REALITY|CH🇨🇭
-ss://41b92d9f-6c8d-4ac3-8eeb-eb3fcf48e102@92.119.165.11:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=UWUBepTdDtiUpf_ZgYjO2iriD0qc7RX2Gm-vtLDIG0k&security=reality&sid=182de34d29d30341&sni=sw.kickvpn.ru&type=tcp#REALITY|CH🇨🇭
+ss://6c36723b-75a3-4816-9c19-1ccd3fde83fe@ch.darknet.cv:8443?security=reality&%3Bencryption=none&%3Bpbk=YbUaUDQvG57zqhHndpn1OEsPz-TuZlqkddu9UxGDbWM&%3BheaderType=none&%3Bfp=firefox&%3Bspx=/&%3Btype=tcp&%3Bflow=xtls-rprx-vision&%3Bsni=cloudflare.com&%3Bsid=a2b223d4#%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%231
 ss://6e44b298-a091-4433-af5e-c89afd438c98@ch-4.hwowst.ru:443?security=reality&encryption=none&pbk=alCKf4MZILvvBYncFnXEpX1V1rcdFJb78JtDBL-VjFE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#REALITY|CH🇨🇭
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.160-3881
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#%3E%3E%40FreakConfig%3A%3ACH
@@ -7,10 +7,10 @@ ss://a77198e2-9cf7-44c7-a97f-319f6f0e5b07@swi.love-list-server.com:443?encryptio
 ss://c7ba57bf-0418-4b66-89bb-d320b5cdd8e5@45.12.111.128:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&security=reality&sid=0c80cc39&sni=store.steampowered.com&type=tcp#REALITY|CH🇨🇭
 ss://cdb38f5b-12c3-414b-eacd-a635dc633701@193.168.144.46:443?mode=gun&%3Bsecurity=reality&%3Bencryption=none&%3Bpbk=rsoZpDByMW3Ukcj68I5vw_-k-CivE6CV6TPJxyPl6WY&%3Bfp=chrome&%3Bspx=/storage&%3Btype=grpc&%3Bsni=mega.io&%3Bsid=07a9a22b#%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%20VLESS%20%7C%20%40proxyfn%20%231
 ss://ce069292-c8bf-40dd-a6b1-87818a1e64e9@45.15.167.17:443?allowInsecure=1&encryption=none&host=2-eox.pages.dev&security=tls&sni=2-eox.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ACH
-ss://d342d11ed4244583b36e524ab1f0afa4Og==@185.18.250.121:2095#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+185.18.250.121-2095+%7C+2.07ms
+ss://d342d11ed4244583b36e524ab1f0afa4Og==@185.18.250.121:2095#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+185.18.250.121-2095+%7C+18.31ms
 trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-152.67.71.149-2310
 vless://41b92d9f-6c8d-4ac3-8eeb-eb3fcf48e102@92.119.165.11:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=UWUBepTdDtiUpf_ZgYjO2iriD0qc7RX2Gm-vtLDIG0k&security=reality&sid=182de34d29d30341&sni=sw.kickvpn.ru&type=tcp#REALITY|CH🇨🇭
-vless://41b92d9f-6c8d-4ac3-8eeb-eb3fcf48e102@92.119.165.11:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=UWUBepTdDtiUpf_ZgYjO2iriD0qc7RX2Gm-vtLDIG0k&security=reality&sid=182de34d29d30341&sni=sw.kickvpn.ru&type=tcp#REALITY|CH🇨🇭
+vless://6c36723b-75a3-4816-9c19-1ccd3fde83fe@ch.darknet.cv:8443?security=reality&%3Bencryption=none&%3Bpbk=YbUaUDQvG57zqhHndpn1OEsPz-TuZlqkddu9UxGDbWM&%3BheaderType=none&%3Bfp=firefox&%3Bspx=/&%3Btype=tcp&%3Bflow=xtls-rprx-vision&%3Bsni=cloudflare.com&%3Bsid=a2b223d4#%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%231
 vless://6e44b298-a091-4433-af5e-c89afd438c98@ch-4.hwowst.ru:443?security=reality&encryption=none&pbk=alCKf4MZILvvBYncFnXEpX1V1rcdFJb78JtDBL-VjFE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#REALITY|CH🇨🇭
 vless://a77198e2-9cf7-44c7-a97f-319f6f0e5b07@swi.love-list-server.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=swi.great-server-list.co.uk&type=tcp#CH🇨🇭
 vless://c7ba57bf-0418-4b66-89bb-d320b5cdd8e5@45.12.111.128:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&security=reality&sid=0c80cc39&sni=store.steampowered.com&type=tcp#REALITY|CH🇨🇭
