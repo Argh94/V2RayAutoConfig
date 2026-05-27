@@ -1,7 +1,5 @@
-ss://106c376f-431d-4ea0-bc61-f82308fefb4e@83.168.91.237:443?sni=ads.x5.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#B%20-%20%F0%9F%87%B5%F0%9F%87%B1%20PL%2001%20TG%3A%20%40nodpai
 ss://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=plb.tunnelguard.ru#PL🇵🇱
 ss://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&host=beichuan.serv00.net&path=%2F&security=none&type=ws#PL🇵🇱
-ss://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@95.85.255.240:7443?sni=stats.vk-portal.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#B%20-%20%F0%9F%87%B5%F0%9F%87%B1%20PL%2002%20TG%3A%20%40nodpai
 ss://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?sni=pl74.mechvpn.online&flow=xtls-rprx-vision-udp443&security=tls#%3E%3E%40v2nodes%3A%3APL
 ss://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@82.26.91.244:443?encryption=none&fp=&pbk=g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU&security=reality&sid=b5&sni=vk.ru&type=grpc#REALITY|PL🇵🇱
 ss://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?type=tcp&encryption=none&sni=google.com&fp=chrome&security=reality&pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&sid=d1#REALITY|PL🇵🇱
@@ -11,7 +9,6 @@ ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@217.30.10.68:9019#%F0%9F%87%B5%F0%
 ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@217.30.10.68:9027#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8252
 ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.68:9006#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8265
 ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.70:9006#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-0266
-ss://YWVzLTI1Ni1jZmI6Rkc1ZGRMc01QYlY1Q3V0RQ==@217.30.10.70:9050#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-0220
 ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-8242
 ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@217.30.10.68:9014#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8257
 ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@217.30.10.68:9043#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8253
@@ -21,9 +18,7 @@ ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA==@217.30.10.70:9046#%F0%9F%87%B5%F0%
 ss://YWVzLTI1Ni1jZmI6U0JNN1I4ODNqQm1ucWU2Qw==@217.30.10.68:9053#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8264
 ss://YWVzLTI1Ni1jZmI6U0JNN1I4ODNqQm1ucWU2Qw==@217.30.10.70:9053#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-0265
 ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@217.30.10.68:9097#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8263
-ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@217.30.10.70:9097#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-0221
 ss://YWVzLTI1Ni1jZmI6UVdERHZWRTlucE51clFmQQ==@217.30.10.68:9026#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8258
-ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@217.30.10.70:9037#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-0219
 ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg==@217.30.10.68:9079#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8251
 ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.68:9033#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8255
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@217.30.10.68:9001#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8262
@@ -37,7 +32,6 @@ ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@217.30.10.68:9010#%F0%9F%87%B5%F0%
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.108.10:989#%F0%9F%87%B5%F0%9F%87%B1PL-5.188.108.10-8081
 ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw==@217.30.10.68:9018#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8260
 ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ==@217.30.10.68:9007#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8248
-ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@217.30.10.70:9040#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-0218
 ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@217.30.10.68:9093#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8259
 ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@217.30.10.70:9093#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-0262
 ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg==@217.30.10.68:9057#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8243
@@ -81,10 +75,8 @@ trojan://humanity@104.16.147.104:443?host=www.creationlong.org&path=%2Fassignmen
 trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#%3E%3E%40v2line%3A%3APL
 trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://humanity@v1.dabache.top:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
-vless://106c376f-431d-4ea0-bc61-f82308fefb4e@83.168.91.237:443?sni=ads.x5.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#B%20-%20%F0%9F%87%B5%F0%9F%87%B1%20PL%2001%20TG%3A%20%40nodpai
 vless://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=plb.tunnelguard.ru#PL🇵🇱
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&host=beichuan.serv00.net&path=%2F&security=none&type=ws#PL🇵🇱
-vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@95.85.255.240:7443?sni=stats.vk-portal.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#B%20-%20%F0%9F%87%B5%F0%9F%87%B1%20PL%2002%20TG%3A%20%40nodpai
 vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?sni=pl74.mechvpn.online&flow=xtls-rprx-vision-udp443&security=tls#%3E%3E%40v2nodes%3A%3APL
 vless://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@82.26.91.244:443?encryption=none&fp=&pbk=g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU&security=reality&sid=b5&sni=vk.ru&type=grpc#REALITY|PL🇵🇱
 vless://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?type=tcp&encryption=none&sni=google.com&fp=chrome&security=reality&pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&sid=d1#REALITY|PL🇵🇱
