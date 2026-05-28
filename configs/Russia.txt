@@ -49,6 +49,7 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@92.223.109.126:989#%F0%9F%87%B7%F0
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@45.89.52.66:9040#%F0%9F%87%B7%F0%9F%87%BARU-45.89.52.66-7734
 ss://YWVzLTI1Ni1nY2062YLZgg3D3A==@83.217.222.183:443#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+83.217.222.183-443+%7C+119.75ms
 ss://a8517b36fe6e4ff990711a8b0e4b35a6@212.192.14.223:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=NvRs6-EIik2ar7bpG0P6XvMbm3uiEb28HCqMFpqwQBA&sid=aabbccdd&fp=random#REALITY|RU🇷🇺
+ss://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?encryption=none&flow=xtls-rprx-vision&fp=edge&headerType=none&security=tls&sni=r1.mizulina.top&type=raw#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 ss://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?security=tls&encryption=none&insecure=0&headerType=&fp=edge&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#0701%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20VLESS%20%7C%20TG%3A%20%40ConfigV2RayNG
 ss://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#RU🇷🇺
 ss://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#RU🇷🇺
@@ -81,6 +82,7 @@ vless://792adea77a684201b13f85084a00287e@45.151.62.132:8443?encryption=none&type
 vless://7be400d9-67ad-4819-bd06-c889308f12d0@srv-0bc3dc.21freedom.net:443?mode=auto&path=%2Fapi%2Fv1%2Fabf98177&security=reality&encryption=none&pbk=iIhrPpoPQN1gDf8coQ8o54-oTRdYFpLD7I7e9tHF0EE&host=vk.com&fp=chrome&spx=%2F&type=xhttp&sni=vk.com&sid=a977328085692dc8#REALITY|RU🇷🇺
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20X
 vless://a8517b36fe6e4ff990711a8b0e4b35a6@212.192.14.223:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=NvRs6-EIik2ar7bpG0P6XvMbm3uiEb28HCqMFpqwQBA&sid=aabbccdd&fp=random#REALITY|RU🇷🇺
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?encryption=none&flow=xtls-rprx-vision&fp=edge&headerType=none&security=tls&sni=r1.mizulina.top&type=raw#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?security=tls&encryption=none&insecure=0&headerType=&fp=edge&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#0701%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20VLESS%20%7C%20TG%3A%20%40ConfigV2RayNG
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#RU🇷🇺
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#RU🇷🇺
