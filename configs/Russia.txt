@@ -1,9 +1,9 @@
+ss://18afb896-6e4b-403b-b804-714b09b517e5@109.122.198.76:443?sni=www.icloud.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#B%20-%20%F0%9F%87%B7%F0%9F%87%BA%20RU%2002%20TG%3A%20%40nodpai
 ss://1a9a250be0fc4838bf4a3be2df89c670@94.103.89.223:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=9XS6MeMlQBh4qCT1dhavAwGPKsWQGSyrSH_xHwotw0k&sid=aabbccdd&fp=random#REALITY|RU🇷🇺
 ss://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@freetg.strettenvpn.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&security=reality&sid=8248954896&sni=eh.vk.com&type=tcp#REALITY|RU🇷🇺
-ss://3c40e1d2-80d1-4fe2-82e6-064e38bdf7e5@85.193.91.14:443?type=tcp&security=reality&fp=chrome&pbk=cVCzyZ7hxqDXuv6uf4VDOmI2IOUdVVjoLGiclNiwuRc&sid=af0e&sni=yahoo.com&spx=/#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️St
+ss://3c40e1d2-80d1-4fe2-82e6-064e38bdf7e5@85.193.91.14:443?sni=yahoo.com&fp=chrome&security=tls#B%20-%20%F0%9F%87%B7%F0%9F%87%BA%20RU%2003%20TG%3A%20%40nodpai
 ss://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&spx=%2Fsinavm&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#REALITY|RU🇷🇺
 ss://5137b22bf02f4309a65bc06cf66a6b83@212.192.14.225:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=-ilN3RccV76Z1Sye-TAeBOkZmsE6ro6dYHfJYCb6kQM&sid=aabbccdd&fp=random#REALITY|RU🇷🇺
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@213.219.247.50:8880?encryption=none&security=none&type=ws&host=vms.lifetime26.workers.dev&path=%2F%3Fhttps%3A%2F%2Ft.me%2FYouTube%40%E5%B0%8F%E9%9D%92%E7%A7%91%E5%AD%A6%E7%BD%91%F0%9F%87%A8%F0%9F%87%B3#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 ss://741f2cb64d5b4fd7830ad731c9e1e859Og==@45.142.120.5:443#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+45.142.120.5-443+%7C+18.16ms
 ss://741f2cb64d5b4fd7830ad731c9e1e859Og==@45.142.120.5:443#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+45.142.120.5-443+%7C+26.19ms
 ss://75807638-6f19-0190-ae08-38492ee85c88@178.72.162.160:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=cluster-other-1.firstvideocdn.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU
@@ -59,12 +59,12 @@ ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@77.232.140.20:8880#RU%F0%9F%87%B7%F0%9
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.88.148.234:28443?security=tls#%F0%9F%87%B7%F0%9F%87%BARU-45.88.148.234-2799
 trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.88.148.237:28443?security=tls&sni=sbank.ir#%F0%9F%87%B7%F0%9F%87%BARU-45.88.148.237-2297
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
+vless://18afb896-6e4b-403b-b804-714b09b517e5@109.122.198.76:443?sni=www.icloud.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#B%20-%20%F0%9F%87%B7%F0%9F%87%BA%20RU%2002%20TG%3A%20%40nodpai
 vless://1a9a250be0fc4838bf4a3be2df89c670@94.103.89.223:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=9XS6MeMlQBh4qCT1dhavAwGPKsWQGSyrSH_xHwotw0k&sid=aabbccdd&fp=random#REALITY|RU🇷🇺
 vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@freetg.strettenvpn.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&security=reality&sid=8248954896&sni=eh.vk.com&type=tcp#REALITY|RU🇷🇺
-vless://3c40e1d2-80d1-4fe2-82e6-064e38bdf7e5@85.193.91.14:443?type=tcp&security=reality&fp=chrome&pbk=cVCzyZ7hxqDXuv6uf4VDOmI2IOUdVVjoLGiclNiwuRc&sid=af0e&sni=yahoo.com&spx=/#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️St
+vless://3c40e1d2-80d1-4fe2-82e6-064e38bdf7e5@85.193.91.14:443?sni=yahoo.com&fp=chrome&security=tls#B%20-%20%F0%9F%87%B7%F0%9F%87%BA%20RU%2003%20TG%3A%20%40nodpai
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&spx=%2Fsinavm&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#REALITY|RU🇷🇺
 vless://5137b22bf02f4309a65bc06cf66a6b83@212.192.14.225:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=-ilN3RccV76Z1Sye-TAeBOkZmsE6ro6dYHfJYCb6kQM&sid=aabbccdd&fp=random#REALITY|RU🇷🇺
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.219.247.50:8880?encryption=none&security=none&type=ws&host=vms.lifetime26.workers.dev&path=%2F%3Fhttps%3A%2F%2Ft.me%2FYouTube%40%E5%B0%8F%E9%9D%92%E7%A7%91%E5%AD%A6%E7%BD%91%F0%9F%87%A8%F0%9F%87%B3#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 vless://75807638-6f19-0190-ae08-38492ee85c88@178.72.162.160:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=cluster-other-1.firstvideocdn.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU
 vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.40:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cluster-russia-3.firstvideocdn.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU
 vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.69:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cluster-russia-1.firstvideocdn.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU

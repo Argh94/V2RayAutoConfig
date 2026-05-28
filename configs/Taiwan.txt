@@ -1,6 +1,6 @@
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=vpn-tw-002.fastervpn.world#A%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2003%20TG%3A%20%40nodpai
-hysteria2://aecd8c25-fd16-42a3-aefb-89c89557828f@5gzdx.769970.xyz:8080?insecure=1&sni=5gzdx.769970.xyz#A%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2003%20TG%3A%20%40nodpai
-ss://231a569a-55f0-4d31-94ac-dbe4bed3efdb@ecin.xfdv.5gw3.a.vvps.xyz:18799?allowInsecure=1&sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#B%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2008%20TG%3A%20%40nodpai
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=vpn-tw-002.fastervpn.world#B%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2008%20TG%3A%20%40nodpai
+ss://231a569a-55f0-4d31-94ac-dbe4bed3efdb@ecin.xfdv.5gw3.a.vvps.xyz:18799?allowInsecure=1&sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#A%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2003%20TG%3A%20%40nodpai
 ss://231a569a-55f0-4d31-94ac-dbe4bed3efdb@gzrefad01.odxxplay.com:10511?allowInsecure=1&sni=www.amazon.jobs&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#B%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2005%20TG%3A%20%40nodpai
 ss://231a569a-55f0-4d31-94ac-dbe4bed3efdb@tw.hsyun.top:443?allowInsecure=1&sni=soncnaura.si&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#B%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2009%20TG%3A%20%40nodpai
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@114.45.177.19:50099#%F0%9F%87%B9%F0%9F%87%BCTW-114.45.177.19-0238
@@ -27,7 +27,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptemVNWUJKWXA0Qm83bkExcVlMdnY3UUc3M2lndEFBODV
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@223.165.4.173:989#%F0%9F%87%B9%F0%9F%87%BCTW-223.165.4.173-0254
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@185.189.160.105:41632#%F0%9F%87%B9%F0%9F%87%BCTW-185.189.160.105-0131
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@61.220.130.70:50701#%F0%9F%87%B9%F0%9F%87%BCTW-61.220.130.70-8040
-ss://aecd8c25-fd16-42a3-aefb-89c89557828f@tw06.459292.xyz:8443?sni=www.python.org&flow=xtls-rprx-vision-udp443-udp443&fp=chrome&security=tls#B%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2006%20TG%3A%20%40nodpai
 ss://ce069292-c8bf-40dd-a6b1-87818a1e64e9@60.249.21.29:443?sni=gogo4.kmj.qzz.io&type=ws&host=gogo4.kmj.qzz.io&path=/fp=chrome&security=tls#%3E%3E%40v2ray_configs_pool%3A%3ATW
 trojan://0cc6b4268dea0ba8@60.249.3.231:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.3.231-2395
 trojan://182228812d1e0f23@60.249.3.229:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.3.229-2534
@@ -63,13 +62,11 @@ trojan://b09d2aaa443af97a@211.72.35.155:3389?security=tls#%F0%9F%87%B9%F0%9F%87%
 trojan://b84d16a244460e09@211.72.35.152:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.35.152-2317
 trojan://b84d16a244460e09@211.72.35.152:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.35.152-3385
 trojan://gcuCpQfaiVeDBdWG@211.76.176.98:19128?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.76.176.98-4704
-trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?allowInsecure=0&sni=yazhou10.dynu.net#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%E7%9C%81%20starcorenode.com
 trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?security=tls&sni=yazhou10.dynu.net#%F0%9F%87%B9%F0%9F%87%BCTW-211.76.176.98-0274
 trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?sni=yazhou10.dynu.net#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE%20146.6KB%2Fs
-vless://231a569a-55f0-4d31-94ac-dbe4bed3efdb@ecin.xfdv.5gw3.a.vvps.xyz:18799?allowInsecure=1&sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#B%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2008%20TG%3A%20%40nodpai
+vless://231a569a-55f0-4d31-94ac-dbe4bed3efdb@ecin.xfdv.5gw3.a.vvps.xyz:18799?allowInsecure=1&sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#A%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2003%20TG%3A%20%40nodpai
 vless://231a569a-55f0-4d31-94ac-dbe4bed3efdb@gzrefad01.odxxplay.com:10511?allowInsecure=1&sni=www.amazon.jobs&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#B%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2005%20TG%3A%20%40nodpai
 vless://231a569a-55f0-4d31-94ac-dbe4bed3efdb@tw.hsyun.top:443?allowInsecure=1&sni=soncnaura.si&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#B%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2009%20TG%3A%20%40nodpai
-vless://aecd8c25-fd16-42a3-aefb-89c89557828f@tw06.459292.xyz:8443?sni=www.python.org&flow=xtls-rprx-vision-udp443-udp443&fp=chrome&security=tls#B%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2006%20TG%3A%20%40nodpai
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@60.249.21.29:443?sni=gogo4.kmj.qzz.io&type=ws&host=gogo4.kmj.qzz.io&path=/fp=chrome&security=tls#%3E%3E%40v2ray_configs_pool%3A%3ATW
 vmess://ewogICAgImFkZCI6ICI0NS4xMjEuNTEuMTAzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJmNjQwNmI2ZC01NDg3LTQ2ZGEtZjc5My00NjYxMTI2OWEzMDYiLAogICAgIm5ldCI6ICJodHRwIiwKICAgICJwYXRoIjogIiIsCiAgICAicG9ydCI6IDIwNzE1LAogICAgInBzIjogIvCfh7nwn4e8VFctNDUuMTIxLjUxLjEwMy0wNjIwIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICI2MS4yMTYuODUuNjgiLAogICAgImFpZCI6IDY0LAogICAgImhvc3QiOiAid3d3Ljg4NjEyODYwLnh5eiIsCiAgICAiaWQiOiAiNWJhNzM4ZTctMGFiZi00OTM1LWI2N2UtZDQwNGEwODNkNmE2IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3BhdGgvMjQzNTM1MzIyOTA2IiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh7nwn4e8VFctNjEuMjE2Ljg1LjY4LTQxMTUiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
