@@ -1,5 +1,3 @@
-ss://06a1719f-417e-46f0-8a7d-e2b13ecf893a@43.203.249.214:39295?encryption=none&flow=xtls-rprx-vision&fp=&pbk=CKyy_gy40xRlKa3sBbCg759CMC7vDMjZKqsiuC5BtWU&security=reality&sid=88a32a0e9853b9&sni=www.icloud.com&type=tcp#REALITY|KR🇰🇷
-ss://26524cce-d514-4014-a426-365fb266a14d@222.96.225.202:20201?allowInsecure=0&sni=i8dxb.media-cdn-us.chinav.indevs.in&type=ws&host=i8dxb.media-cdn-us.chinav.indevs.in&path=/danfeng-lo9ew8-vfksib-hwrl-84fg5mvlfp=firefox&security=tls#%E9%9F%A9%E5%9B%BD+KT%E7%94%B5%E4%BF%A1
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@140.238.17.157:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%3E%3E%40configshub2%3A%3AKR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjU3MjdkZi0xNWVhLTQ1M2MtYTAwNi0xM2ZlOThmZWUxZDI=@141.164.63.32:30936?prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%87%B0%F0%9F%87%B7KR%20%7C%20@OutlineReleasedKey
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.125.124.161:443#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.124.161-3528
@@ -26,7 +24,6 @@ ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#%3E%3E%40v2ray_con
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#%F0%9F%87%B0%F0%9F%87%B7KR-141.164.45.187-0149
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@158.247.205.87:5601#%F0%9F%87%B0%F0%9F%87%B7KR-158.247.205.87-1700
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@158.247.205.87:443#%F0%9F%87%B0%F0%9F%87%B7KR-158.247.205.87-1701
-ss://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?allowInsecure=0&sni=ako.pagate.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#KR🇰🇷
 trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@138.2.115.240:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-138.2.115.240-2221
 trojan://433e785b-2077-47f7-a43d-985f63dd18d1@218.152.227.25:12000?allowInsecure=0&sni=vpn.rnmcnm.com&ws=1&wspath=%252Ftrojan#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%20KT%E7%94%B5%E4%BF%A1
 trojan://433e785b-2077-47f7-a43d-985f63dd18d1@218.152.227.25:12000?security=tls&sni=vpn.rnmcnm.com&type=ws&path=%252Ftrojan&Host=vpn.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR-218.152.227.25-0707
@@ -40,12 +37,15 @@ trojan://GKHWMe2R4qwNcNxu6l3KMkdd@112.166.213.102:16993?allowInsecure=0&sni=vpn1
 trojan://GKHWMe2R4qwNcNxu6l3KMkdd@112.166.213.102:16993?security=tls&sni=vpn1.rnmcnm.com&type=ws&path=%2Ftrj-ws&Host=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR-112.166.213.102-0685
 trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.178.83.161:26214?allowInsecure=0&sni=vpn1.rnmcnm.com&ws=1&wspath=%2Ftrj-ws#%F0%9F%87%B0%F0%9F%87%B7%20KR%E9%9F%A9%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.178.83.161:26214?security=tls&sni=vpn1.rnmcnm.com&type=ws&path=%2Ftrj-ws&Host=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR-121.178.83.161-0688
+trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.178.83.161:26214?sni=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD3
 trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.178.83.161:26214?sni=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD4
 trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.180.171.43:11310?allowInsecure=0&sni=vpn1.rnmcnm.com&ws=1&wspath=%2Ftrj-ws#%F0%9F%87%B0%F0%9F%87%B7%20KR%E9%9F%A9%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.180.171.43:11310?security=tls&sni=vpn1.rnmcnm.com&type=ws&path=%2Ftrj-ws&Host=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR-121.180.171.43-0689
 trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.180.171.43:11310?sni=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD
+trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.180.171.43:11310?sni=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD2
 trojan://GKHWMe2R4qwNcNxu6l3KMkdd@59.21.203.65:10443?allowInsecure=0&sni=vpn1.rnmcnm.com&ws=1&wspath=%2Ftrj-ws#%F0%9F%87%B0%F0%9F%87%B7%20KR%E9%9F%A9%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://GKHWMe2R4qwNcNxu6l3KMkdd@59.21.203.65:10443?security=tls&sni=vpn1.rnmcnm.com&type=ws&path=%2Ftrj-ws&Host=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR-59.21.203.65-0687
+trojan://GKHWMe2R4qwNcNxu6l3KMkdd@59.21.203.65:10443?sni=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD
 trojan://GKHWMe2R4qwNcNxu6l3KMkdd@59.21.203.65:10443?sni=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD3
 trojan://IL37892054@growing-tuna.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.143.133-4552
 trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.203.230.64-4540
@@ -63,10 +63,7 @@ trojan://cd27884b-c5af-34ec-b75f-8248077818fe@144.24.76.54:8443?security=tls&sni
 trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@146.56.189.146:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-146.56.189.146-2651
 trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@146.56.189.146:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-146.56.189.146-2992
 trojan://xxoo@3.34.6.217:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.6.217-3496
-vless://06a1719f-417e-46f0-8a7d-e2b13ecf893a@43.203.249.214:39295?encryption=none&flow=xtls-rprx-vision&fp=&pbk=CKyy_gy40xRlKa3sBbCg759CMC7vDMjZKqsiuC5BtWU&security=reality&sid=88a32a0e9853b9&sni=www.icloud.com&type=tcp#REALITY|KR🇰🇷
-vless://26524cce-d514-4014-a426-365fb266a14d@222.96.225.202:20201?allowInsecure=0&sni=i8dxb.media-cdn-us.chinav.indevs.in&type=ws&host=i8dxb.media-cdn-us.chinav.indevs.in&path=/danfeng-lo9ew8-vfksib-hwrl-84fg5mvlfp=firefox&security=tls#%E9%9F%A9%E5%9B%BD+KT%E7%94%B5%E4%BF%A1
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@140.238.17.157:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%3E%3E%40configshub2%3A%3AKR
-vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?allowInsecure=0&sni=ako.pagate.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#KR🇰🇷
 vmess://ewogICAgImFkZCI6ICI0NS4xNDEuMTM5LjEwOSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNjc1MmUyYzQtZmY3Yy00ZGE1LWE4MTUtYzMwN2JmODNhYjQ4IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDEzMzExLAogICAgInBzIjogIvCfh7Dwn4e3S1ItNDUuMTQxLjEzOS4xMDktNjc4MCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICI0OS4xMjguMjE5LjIxMyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiM2M5ZDAxMjMtNjYyMS00NDhlLWIyMzItNDU0N2Q0NzYwNTJlIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDM4MjY1LAogICAgInBzIjogIvCfh7Dwn4e3S1ItNDkuMTI4LjIxOS4yMTMtNjUzMCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICI1Mi43OC4yMTMuMjI0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI2ZjQ0MjgyMy02YjczLTRiMzEtZjFmNS1hYTFlOTA3YjA1MWUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+HsPCfh7dLUi01Mi43OC4yMTMuMjI0LTEwOTUiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
