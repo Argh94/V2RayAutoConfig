@@ -2,7 +2,6 @@ ss://1099da52-a516-40fc-9f4c-743b4d55231a@server.leedsroastery.com:80?alpn=h2%2C
 ss://2ce600d9-a655-4bec-9356-b245aeefdbca@gerr1.greewebservices.ir:1101?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=e3085d4fc679ba12#REALITY|PL🇵🇱
 ss://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&host=beichuan.serv00.net&path=%2F&security=none&type=ws#PL🇵🇱
 ss://60d0630c-8ac4-436d-ad2c-b798b63e1c69@pl.nodes.rocketnetwork.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&security=reality&sid=428ef87fd47a3a32&sni=pl.nodes.rocketnetwork.ru&type=tcp#REALITY|PL🇵🇱
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.110.30:8880?type=ws&host=vms.lifetime51.workers.dev#B%20-%20%F0%9F%87%B5%F0%9F%87%B1%20PL%2001%20TG%3A%20%40nodpai
 ss://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?sni=pl74.mechvpn.online&flow=xtls-rprx-vision-udp443&security=tls#%3E%3E%40v2nodes%3A%3APL
 ss://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@82.26.91.244:443?encryption=none&fp=&pbk=g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU&security=reality&sid=b5&sni=vk.ru&type=grpc#REALITY|PL🇵🇱
 ss://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?type=tcp&encryption=none&sni=google.com&fp=chrome&security=reality&pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&sid=d1#REALITY|PL🇵🇱
@@ -74,7 +73,6 @@ vless://1099da52-a516-40fc-9f4c-743b4d55231a@server.leedsroastery.com:80?alpn=h2
 vless://2ce600d9-a655-4bec-9356-b245aeefdbca@gerr1.greewebservices.ir:1101?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=e3085d4fc679ba12#REALITY|PL🇵🇱
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&host=beichuan.serv00.net&path=%2F&security=none&type=ws#PL🇵🇱
 vless://60d0630c-8ac4-436d-ad2c-b798b63e1c69@pl.nodes.rocketnetwork.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&security=reality&sid=428ef87fd47a3a32&sni=pl.nodes.rocketnetwork.ru&type=tcp#REALITY|PL🇵🇱
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.110.30:8880?type=ws&host=vms.lifetime51.workers.dev#B%20-%20%F0%9F%87%B5%F0%9F%87%B1%20PL%2001%20TG%3A%20%40nodpai
 vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?sni=pl74.mechvpn.online&flow=xtls-rprx-vision-udp443&security=tls#%3E%3E%40v2nodes%3A%3APL
 vless://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@82.26.91.244:443?encryption=none&fp=&pbk=g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU&security=reality&sid=b5&sni=vk.ru&type=grpc#REALITY|PL🇵🇱
 vless://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?type=tcp&encryption=none&sni=google.com&fp=chrome&security=reality&pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&sid=d1#REALITY|PL🇵🇱
