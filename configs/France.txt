@@ -7,7 +7,6 @@ ss://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=non
 ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@ov-france2.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20OVH
 ss://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?security=tls&%3Bsni=pqh23v5.hiddendom.shop&%3Balpn=h2&%3Btype=grpc&%3Bencryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20%40v2ray_collector%20%231
 ss://40bf709c-4353-4552-ba26-406d2bf7821d@95.182.96.225:20567?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1WOtQYIQ-3sJtbrhSA1LW6gAnO-wG0Z5aCnlL_zoiXQ&security=reality&sid=b82d7208fe23&sni=cloudflare.com&type=tcp#REALITY|FR🇫🇷
-ss://40bf709c-4353-4552-ba26-406d2bf7821d@95.182.96.225:20567?security=reality&encryption=none&pbk=1WOtQYIQ-3sJtbrhSA1LW6gAnO-wG0Z5aCnlL_zoiXQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=b82d7208fe23#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:37.19ms
 ss://42f4be04-31d7-477d-9549-c1f79c6b9ee0@51.38.32.227:2096?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&sid=42c0b628ba6a42a9&type=tcp&headerType=none#FR🇫🇷
 ss://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3AFR
 ss://4a26a7f0ceca440bbc1a577aab41a6e0Og==@uk.connfull.org:2052#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+uk.connfull.org-2052+%7C+284.16ms
@@ -82,7 +81,6 @@ ss://d64d52b1144f4bcea6d71324de187b1bOg==@uk.connfull.org:2053#FR%F0%9F%87%AB%F0
 ss://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20ProxyCloud%20France
-ss://dfd2bd8a-aedb-47d1-b87c-c22f18495592@f101001010.imsoon.org:80?path=%2Fsoon&security=none&encryption=none&host=play.google.com&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:73.15ms
 ss://f33c220b-5ebb-4437-ad71-138c7992f933@fr1.3erveronline.com:11000?security=reality&encryption=none&pbk=QsLV4EjkMwJn7JV9ZgbxDgHPoq8VJhtjI1oReXJC1ls&headerType=none&fp=chrome&type=tcp&sni=nazar.ac.ir&sid=2a682e2371133a6c#REALITY|FR🇫🇷
 ss://f4bad870-4b45-4a46-bec6-d05fa31df1cb@fr.clgate.network:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=r2B2KwffHmyjWrmwKmI0o3uW9UEsn2l_Ko0UmyTjKgM&host=m.twitch.tv&fp=chrome&type=xhttp&sni=m.twitch.tv#%3E%3E%40v2rayngvpn%3A%3AFR
 ss://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@152.228.162.19:80/?type=ws&encryption=none&flow=&path=/vless/#FR🇫🇷
@@ -179,7 +177,6 @@ vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@ov-france2.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20OVH
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?security=tls&%3Bsni=pqh23v5.hiddendom.shop&%3Balpn=h2&%3Btype=grpc&%3Bencryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20%40v2ray_collector%20%231
 vless://40bf709c-4353-4552-ba26-406d2bf7821d@95.182.96.225:20567?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1WOtQYIQ-3sJtbrhSA1LW6gAnO-wG0Z5aCnlL_zoiXQ&security=reality&sid=b82d7208fe23&sni=cloudflare.com&type=tcp#REALITY|FR🇫🇷
-vless://40bf709c-4353-4552-ba26-406d2bf7821d@95.182.96.225:20567?security=reality&encryption=none&pbk=1WOtQYIQ-3sJtbrhSA1LW6gAnO-wG0Z5aCnlL_zoiXQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=b82d7208fe23#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:37.19ms
 vless://42f4be04-31d7-477d-9549-c1f79c6b9ee0@51.38.32.227:2096?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&sid=42c0b628ba6a42a9&type=tcp&headerType=none#FR🇫🇷
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://4e580a1a-3ff5-456d-a1d6-b1640bea4e9e@51.254.142.162:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision#FR🇫🇷
@@ -207,7 +204,6 @@ vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@fran.scroogethebest.com:443/?type=t
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20ProxyCloud%20France
-vless://dfd2bd8a-aedb-47d1-b87c-c22f18495592@f101001010.imsoon.org:80?path=%2Fsoon&security=none&encryption=none&host=play.google.com&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:73.15ms
 vless://f33c220b-5ebb-4437-ad71-138c7992f933@fr1.3erveronline.com:11000?security=reality&encryption=none&pbk=QsLV4EjkMwJn7JV9ZgbxDgHPoq8VJhtjI1oReXJC1ls&headerType=none&fp=chrome&type=tcp&sni=nazar.ac.ir&sid=2a682e2371133a6c#REALITY|FR🇫🇷
 vless://f4bad870-4b45-4a46-bec6-d05fa31df1cb@fr.clgate.network:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=r2B2KwffHmyjWrmwKmI0o3uW9UEsn2l_Ko0UmyTjKgM&host=m.twitch.tv&fp=chrome&type=xhttp&sni=m.twitch.tv#%3E%3E%40v2rayngvpn%3A%3AFR
 vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@152.228.162.19:80/?type=ws&encryption=none&flow=&path=/vless/#FR🇫🇷
