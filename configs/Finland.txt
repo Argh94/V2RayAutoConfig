@@ -22,13 +22,10 @@ ss://6c36723b-75a3-4816-9c19-1ccd3fde83fe@fi2.darknet.cv:8443?security=reality&e
 ss://709bda9f-609f-4732-8cfa-5a4a91911320@az.gameirani.com:300?security=none&type=tcp&headerType=&path=&host=#FI🇫🇮
 ss://91af3d98-fb3c-40f9-8a69-21ff12ccaec4@65.21.132.249:443?mode=gun&security=reality&encryption=none&pbk=SH8hAIyzkC6kEHlxKPTItVv0hqQevBvNm_cGbaHU3g4&fp=random&spx=%2F&type=grpc&serviceName=%40UnlimitedDev&sni=ftp.debian.org&sid=c7cf5bc1#REALITY|FI🇫🇮
 ss://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?encryption=none&host=nobody.fastspeed.ir&path=%2Fws&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
-ss://9beef3b2-5749-4529-a91a-29af1c043d6b@ru.washing.help:8443?sni=ru.washing.help&alpn=h2%2Chttp/1.1&fp=chrome&security=tls#B%20-%20%F0%9F%87%AB%F0%9F%87%AE%20FI%2002%20TG%3A%20%40nodpai
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0M2ZYZjF1TUtiSUtreG9OWUdRTXR0@38.244.137.202:45380#FI%F0%9F%87%AB%F0%9F%87%AE+%7C+38.244.137.202-45380+%7C+158.69ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjEyQTc2Y1p2VnhxUHBldHlDMVhFY2lDRnVmcTV4S3ZSV0dHbktWZW1icFRodVVTUWhiWjdHTXNaWTRVVnhFQnc=@64.137.109.212:44884?prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%87%AB%F0%9F%87%AEFI%20%7C%20@OutlineReleasedKey
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#%F0%9F%87%AB%F0%9F%87%AEFI-193.47.60.186-0062
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#%F0%9F%87%AB%F0%9F%87%AEFI-193.47.60.186-0073
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#FI%F0%9F%87%AB%F0%9F%87%AE+%7C+193.47.60.186-28687+%7C+164.9ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.129.98:990#%F0%9F%87%AB%F0%9F%87%AEFI-37.143.129.98-0162
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.129.98:990#%F0%9F%87%AB%F0%9F%87%AEFI-37.143.129.98-0175
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFNkdialczSVo0V29rdno0VllMajRv@38.244.137.202:45380#FI%F0%9F%87%AB%F0%9F%87%AE+%7C+38.244.137.202-45380+%7C+165.97ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVdm9UNnljb25Rb1Q3Z2dBUW40dU9M@185.26.48.195:443#FI%F0%9F%87%AB%F0%9F%87%AE+%7C+185.26.48.195-443+%7C+171.4ms
@@ -111,7 +108,6 @@ vless://6c36723b-75a3-4816-9c19-1ccd3fde83fe@fi2.darknet.cv:8443?security=realit
 vless://709bda9f-609f-4732-8cfa-5a4a91911320@az.gameirani.com:300?security=none&type=tcp&headerType=&path=&host=#FI🇫🇮
 vless://91af3d98-fb3c-40f9-8a69-21ff12ccaec4@65.21.132.249:443?mode=gun&security=reality&encryption=none&pbk=SH8hAIyzkC6kEHlxKPTItVv0hqQevBvNm_cGbaHU3g4&fp=random&spx=%2F&type=grpc&serviceName=%40UnlimitedDev&sni=ftp.debian.org&sid=c7cf5bc1#REALITY|FI🇫🇮
 vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?encryption=none&host=nobody.fastspeed.ir&path=%2Fws&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://9beef3b2-5749-4529-a91a-29af1c043d6b@ru.washing.help:8443?sni=ru.washing.help&alpn=h2%2Chttp/1.1&fp=chrome&security=tls#B%20-%20%F0%9F%87%AB%F0%9F%87%AE%20FI%2002%20TG%3A%20%40nodpai
 vless://a42c8b66-d0a7-4b49-9143-b98f1c84edba@144.31.82.47:18038?&security=reality&flow=xtls-rprx-vision&pbk=UDLhjunZjP-5A6KBMeuWe3qp_FusLAshcQIcCF7EZh8&sid=ce9f790791426d83&fp=chrome&sni=www.microsoft.com&type=tcp&headerType=none&path=%2F#_FI_%E8%8A%AC%E5%85%B0
 vless://abcd6b4c-2d85-4de5-be7f-62791b0f5085@193.164.155.121:34572?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8PkeN5hkQBkoBt0I2JdcDC865gUXui86897Th8DaDlY&security=reality&sid=88acba&sni=cloudflare.com&type=tcp#REALITY|FI🇫🇮
 vless://abcd6b4c-2d85-4de5-be7f-62791b0f5085@fi.gryaz-vpn.com:34572?security=reality&encryption=none&pbk=8PkeN5hkQBkoBt0I2JdcDC865gUXui86897Th8DaDlY&host=v2raynplus-v2raynplus-v2raynplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=88acba#REALITY|FI🇫🇮
