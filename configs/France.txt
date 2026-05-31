@@ -11,11 +11,11 @@ ss://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?security=tls&%3Bsni
 ss://40bf709c-4353-4552-ba26-406d2bf7821d@95.182.96.225:20567?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1WOtQYIQ-3sJtbrhSA1LW6gAnO-wG0Z5aCnlL_zoiXQ&security=reality&sid=b82d7208fe23&sni=cloudflare.com&type=tcp#REALITY|FR🇫🇷
 ss://42f4be04-31d7-477d-9549-c1f79c6b9ee0@51.38.32.227:2096?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&sid=42c0b628ba6a42a9&type=tcp&headerType=none#FR🇫🇷
 ss://43488128-319e-f480-64ea-0acdc712e2a8@145.239.8.221:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ESRdmody9xdWVTaCtyGLg_LDopyMm9bUYDWH8NVWtjE&security=reality&sid=c906f73d3ba8211f&sni=www.leboncoin.fr&type=tcp#REALITY|FR🇫🇷
+ss://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%E6%B3%95%E5%9B%BD+%E5%B7%B4%E9%BB%8EOnline+S.A.S
 ss://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3AFR
 ss://4a26a7f0ceca440bbc1a577aab41a6e0Og==@uk.connfull.org:2052#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+uk.connfull.org-2052+%7C+207.44ms
 ss://54a54ea0-4409-4030-ad9b-44c45849c05a@152.89.253.239:7443?security=reality&type=tcp&sni=ya.ru&fp=firefox&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2004
 ss://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?alpn=h2&encryption=none&security=tls&sni=cdg-1.fromblancwithlove.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFR
-ss://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&encryption=none&headerType=none&allowinsecure=0&type=tcp&sni=cdg-1.fromblancwithlove.com#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:36.94ms
 ss://55f7d143-a594-4a91-b030-f227039f85ef@cdg-1.fromblancwithlove.com:8443?alpn=h2&encryption=none&fp=chrome&security=tls&sni=cdg-1.fromblancwithlove.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFR
 ss://55f7d143-a594-4a91-b030-f227039f85ef@cdg-1.fromblancwithlove.com:8443?encryption=none&security=tls&sni=cdg-1.fromblancwithlove.com&type=tcp#FR🇫🇷
 ss://55f7d143-a594-4a91-b030-f227039f85ef@cdg-1.fromblancwithlove.com:8443?encryption=none&security=tls&type=tcp#FR🇫🇷
@@ -121,6 +121,7 @@ trojan://9498f3a0-2992-11ee-a4c7-1239d0255272@fr.test3.net:443?security=tls&sni=
 trojan://973ed2e0-c4d8-4737-a093-71629148086d@51.77.213.197:443?security=tls&sni=frt2.sshocean.net#%F0%9F%87%AB%F0%9F%87%B7FR-51.77.213.197-3821
 trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?allowInsecure=0&sni=www.weavenet.click#%E6%B3%95%E5%9B%BD%20151
 trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?allowInsecure=0&sni=www.weavenet.click#%E6%B3%95%E5%9B%BD%20198
+trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?fp=chrome&security=tls&sni=www.weavenet.click#%E6%B3%95%E5%9B%BD+%E5%B7%B4%E9%BB%8EChoopa%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?fp=chrome&sni=www.weavenet.click#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?fp=chrome&sni=www.weavenet.click#FR🇫🇷
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.38.99.96-1122
@@ -182,10 +183,10 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?security=tls&%3B
 vless://40bf709c-4353-4552-ba26-406d2bf7821d@95.182.96.225:20567?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1WOtQYIQ-3sJtbrhSA1LW6gAnO-wG0Z5aCnlL_zoiXQ&security=reality&sid=b82d7208fe23&sni=cloudflare.com&type=tcp#REALITY|FR🇫🇷
 vless://42f4be04-31d7-477d-9549-c1f79c6b9ee0@51.38.32.227:2096?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&sid=42c0b628ba6a42a9&type=tcp&headerType=none#FR🇫🇷
 vless://43488128-319e-f480-64ea-0acdc712e2a8@145.239.8.221:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ESRdmody9xdWVTaCtyGLg_LDopyMm9bUYDWH8NVWtjE&security=reality&sid=c906f73d3ba8211f&sni=www.leboncoin.fr&type=tcp#REALITY|FR🇫🇷
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%E6%B3%95%E5%9B%BD+%E5%B7%B4%E9%BB%8EOnline+S.A.S
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://54a54ea0-4409-4030-ad9b-44c45849c05a@152.89.253.239:7443?security=reality&type=tcp&sni=ya.ru&fp=firefox&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2004
 vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?alpn=h2&encryption=none&security=tls&sni=cdg-1.fromblancwithlove.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFR
-vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&encryption=none&headerType=none&allowinsecure=0&type=tcp&sni=cdg-1.fromblancwithlove.com#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:36.94ms
 vless://55f7d143-a594-4a91-b030-f227039f85ef@cdg-1.fromblancwithlove.com:8443?alpn=h2&encryption=none&fp=chrome&security=tls&sni=cdg-1.fromblancwithlove.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://55f7d143-a594-4a91-b030-f227039f85ef@cdg-1.fromblancwithlove.com:8443?encryption=none&security=tls&sni=cdg-1.fromblancwithlove.com&type=tcp#FR🇫🇷
 vless://55f7d143-a594-4a91-b030-f227039f85ef@cdg-1.fromblancwithlove.com:8443?encryption=none&security=tls&type=tcp#FR🇫🇷
