@@ -21,6 +21,7 @@ ss://82379a84-d00e-42d1-a09a-89707b4f00dc@51.250.103.104:443?flow=xtls-rprx-visi
 ss://82379a84-d00e-42d1-a09a-89707b4f00dc@51.250.108.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#REALITY|RU🇷🇺
 ss://82379a84-d00e-42d1-a09a-89707b4f00dc@84.201.168.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#REALITY|RU🇷🇺
 ss://84640ef7-52ed-4458-8601-74c7a1d3bbb6@178.154.214.214:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=s8rHJ8TSxWVCl4OnDzygPD1rvGAulfXoXpGHvZV7tlE&sid=e4aa362b5f9d07d7&fp=firefox#REALITY|RU🇷🇺
+ss://85fc75e0-e84c-4a7f-943f-877d16e4a68a@84.201.168.186:443?security=reality&%3Bencryption=none&%3Bpbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&%3BheaderType=none&%3Bfp=safari&%3Btype=tcp&%3Bflow=xtls-rprx-vision&%3Bsni=cdp.x5.ru&%3Bsid=8ec792bfd725be8a#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20VLESS%20%7C%20%40netmellianti%20%231
 ss://888403d1-621b-481a-b5dc-7aca518a787b@5.35.85.51:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=www.kinopoisk.ru&pbk=BrGL0gTKK_Ir2VwJOa91Vd8870DswnOXhA6-F92RBGI&sid=a987b6bd1781daa3#REALITY|RU🇷🇺
 ss://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20X
 ss://8f10f091-759e-4c46-a1eb-f5c410397e32@fr-qp.api.dznn.net:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fr-qp.api.dznn.net&sid=19aa22f681923dc8#REALITY|RU🇷🇺
@@ -47,7 +48,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0dmYxeHdZcFdWODVTRHV1enJuUTBs@212.192.14.227
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1eTVjd3JDUjhJdW41bmxNU0ZTOHVK@95.142.47.40:62238#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+95.142.47.40-62238+%7C+129.23ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3RG9XcUx4RDVDTXVicFQxdHpJeVdY@145.249.109.13:4917#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+145.249.109.13-4917+%7C+90.2ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ==@45.144.31.24:443#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+45.144.31.24-443+%7C+130.93ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3azZsQTRYUm5FV2ZFbkRyZG0wTlk2@145.249.109.144:15544#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+145.249.109.144-15544+%7C+89.89ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCU2hjZWs1eWRJV2JYRW5oSTJ2SXlt@62.113.114.116:42320#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+62.113.114.116-42320+%7C+130.35ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDenR3eTM0QjA3ZXFONkg0WW9QR1ha@93.183.94.163:32609#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+93.183.94.163-32609+%7C+118.62ms
@@ -114,6 +115,7 @@ trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.88.148.237:28443?security=tls&s
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
 trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF%201.9MB%2Fs
+trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2%20463.4KB%2Fs
 vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@37.49.225.189:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=qq&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#RU🇷🇺
 vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@37.49.225.189:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=qq&type=tcp&allowInsecure=0&flow=xtls-rprx-vision-udp443&sni=sub.sbrf-cdn342.ru#RU🇷🇺
 vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@5.253.31.13:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=random&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#RU🇷🇺
@@ -135,6 +137,7 @@ vless://82379a84-d00e-42d1-a09a-89707b4f00dc@51.250.103.104:443?flow=xtls-rprx-v
 vless://82379a84-d00e-42d1-a09a-89707b4f00dc@51.250.108.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#REALITY|RU🇷🇺
 vless://82379a84-d00e-42d1-a09a-89707b4f00dc@84.201.168.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#REALITY|RU🇷🇺
 vless://84640ef7-52ed-4458-8601-74c7a1d3bbb6@178.154.214.214:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=s8rHJ8TSxWVCl4OnDzygPD1rvGAulfXoXpGHvZV7tlE&sid=e4aa362b5f9d07d7&fp=firefox#REALITY|RU🇷🇺
+vless://85fc75e0-e84c-4a7f-943f-877d16e4a68a@84.201.168.186:443?security=reality&%3Bencryption=none&%3Bpbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&%3BheaderType=none&%3Bfp=safari&%3Btype=tcp&%3Bflow=xtls-rprx-vision&%3Bsni=cdp.x5.ru&%3Bsid=8ec792bfd725be8a#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20VLESS%20%7C%20%40netmellianti%20%231
 vless://888403d1-621b-481a-b5dc-7aca518a787b@5.35.85.51:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=www.kinopoisk.ru&pbk=BrGL0gTKK_Ir2VwJOa91Vd8870DswnOXhA6-F92RBGI&sid=a987b6bd1781daa3#REALITY|RU🇷🇺
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20X
 vless://8f10f091-759e-4c46-a1eb-f5c410397e32@fr-qp.api.dznn.net:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fr-qp.api.dznn.net&sid=19aa22f681923dc8#REALITY|RU🇷🇺
