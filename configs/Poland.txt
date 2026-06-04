@@ -1,6 +1,4 @@
 ss://1a17fbd6-a54f-456c-8e71-5282893e2b69@p11.hdlowstream.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=p11.hdlowstream.com&fp=randomized&pbk=mTuT_isp316_u36EzJ2uqBdcj6VCD8LSq39mTO2vrzM&sid=93ed7d916252d203&flow=xtls-rprx-vision#REALITY|PL🇵🇱
-ss://35762c02-ff2b-4526-b41b-e96e5d99528b@transparency.cloud.appcore.org:34754?security=reality&type=tcp&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=81&pbk=MNw8WI6R7SDlWC71MClNgpxNGUa-nYN4nGHn9pG62Ss&encryption=none#%E6%B3%A2%E5%85%B0+V2CROSS.COM
-ss://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&host=128.204.223.94&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
 ss://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@beichuan.serv00.net:9815?security=none&type=ws&path=%2F&host=beichuan.serv00.net&encryption=none#PL🇵🇱
 ss://435954ab-38f3-40bf-b303-77e3f6576fa0@212.127.90.118:443?security=reality&%3Bencryption=none&%3Bpbk=xy8AHr_xZCNqFOuLq_t2fe4oLlrv5iu38uCQ1hUJ40w&%3BheaderType=none&%3Bfp=chrome&%3Btype=tcp&%3Bflow=xtls-rprx-vision&%3Bsni=dropbox.com&%3Bsid=954c99065465428d#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20VLESS%20%7C%20%40outline_ir%20%231
 ss://9181404f-cd0b-4969-a107-0171ddfd1061@mtnreal1.greewebservices.ir:1020?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9b60d3#REALITY|PL🇵🇱
@@ -23,6 +21,7 @@ ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.68:9033#%F0%9F%87%B5%F0%
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@217.30.10.68:9001#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7818
 ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@217.30.10.70:9025#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4697
 ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@217.30.10.68:9000#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7801
+ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@217.30.10.70:9000#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20SS%20%7C%20%40netfreedom0%20%231
 ss://YWVzLTI1Ni1jZmI6YmY3djMzNEtLRFYzWURoSA==@217.30.10.68:9070#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7817
 ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@217.30.10.68:9038#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7800
 ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA==@217.30.10.68:9073#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7810
@@ -69,15 +68,11 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@31.133.0.55:2053?security=tls&sni=Koma-YT.PAGe
 trojan://8r%3C%5B9%27l6hAO%238ZQi@45.144.51.133:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳+@WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%87%B5%F0%9F%87%B1PL-45.144.51.133-1556
 trojan://humanity@188.114.97.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#%3E%3E%40configshub2%3A%3APL
 trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
-trojan://humanity@v1.dabache.top:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?allowInsecure=0#PL-64.176.65.85-0175
 trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?alpn=http%2F1.1#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?fp=chrome#PL🇵🇱
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls#%F0%9F%87%B5%F0%9F%87%B1PL-64.176.65.85-0157
 trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls#%F0%9F%87%B5%F0%9F%87%B1PL-64.176.65.85-0175
 vless://1a17fbd6-a54f-456c-8e71-5282893e2b69@p11.hdlowstream.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=p11.hdlowstream.com&fp=randomized&pbk=mTuT_isp316_u36EzJ2uqBdcj6VCD8LSq39mTO2vrzM&sid=93ed7d916252d203&flow=xtls-rprx-vision#REALITY|PL🇵🇱
-vless://35762c02-ff2b-4526-b41b-e96e5d99528b@transparency.cloud.appcore.org:34754?security=reality&type=tcp&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=81&pbk=MNw8WI6R7SDlWC71MClNgpxNGUa-nYN4nGHn9pG62Ss&encryption=none#%E6%B3%A2%E5%85%B0+V2CROSS.COM
-vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&host=128.204.223.94&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@beichuan.serv00.net:9815?security=none&type=ws&path=%2F&host=beichuan.serv00.net&encryption=none#PL🇵🇱
 vless://435954ab-38f3-40bf-b303-77e3f6576fa0@212.127.90.118:443?security=reality&%3Bencryption=none&%3Bpbk=xy8AHr_xZCNqFOuLq_t2fe4oLlrv5iu38uCQ1hUJ40w&%3BheaderType=none&%3Bfp=chrome&%3Btype=tcp&%3Bflow=xtls-rprx-vision&%3Bsni=dropbox.com&%3Bsid=954c99065465428d#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20VLESS%20%7C%20%40outline_ir%20%231
 vless://9181404f-cd0b-4969-a107-0171ddfd1061@mtnreal1.greewebservices.ir:1020?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9b60d3#REALITY|PL🇵🇱
