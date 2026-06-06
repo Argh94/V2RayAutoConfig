@@ -38,7 +38,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.75.118.27:989#%F0%9F%87%AF%F0%
 ss://YWVzLTI1Ni1nY206MjMzYmxvZy5jb20=@20.210.122.21:443#%F0%9F%87%AF%F0%9F%87%B5JP-20.210.122.21-0414
 ss://YWVzLTI1Ni1nY206R1RaSTVBYmpOQWVXUUcwb1ZOcHR2V0pvZ0hOS2lpS0E=@47.79.144.115:40003#%F0%9F%87%AF%F0%9F%87%B5JP-47.79.144.115-0161
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@103.106.228.175:8009#%F0%9F%87%AF%F0%9F%87%B5JP-103.106.228.175-0104
-ss://bce38beb-a6d0-41d7-9c0a-26eed9a6634d@43.212.235.169:443?security=reality&encryption=none&pbk=JE82iOR_U_H7ffxJ5yfoxXeRkMlE-aVu1wxR7n6jrVM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dlcdnets.asus.com&sid=473277e2#%E6%97%A5%E6%9C%AC+V2CROSS.COM
 ss://ce069292-c8bf-40dd-a6b1-87818a1e64e9@134.122.194.186:443?path=%2Ffp&%3Bsecurity=tls&%3Bencryption=none&%3Binsecure=0&%3Bhost=2-ee1.pages.dev&%3Btype=ws&%3BallowInsecure=0&%3Bsni=2-ee1.pages.dev#JP🇯🇵
 ss://ce069292-c8bf-40dd-a6b1-87818a1e64e9@134.122.194.186:443?path=/fp&%3Bsecurity=tls&%3Bencryption=none&%3Binsecure=0&%3Bhost=2-ee1.pages.dev&%3Btype=ws&%3BallowInsecure=0&%3Bsni=2-ee1.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20VLESS%20%7C%20%40megavpn_link%20%231
 ss://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#Japan+AWS
@@ -114,7 +113,6 @@ vless://86b414b6-966e-4f6d-ab16-32049ef732d3@47.245.38.111:443/?type=raw&encrypt
 vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none&security=tls&sni=dongjing4.zqjsqapi.com&type=ws&path=/proxy#%3E%3E%40configshub2%3A%3AJP
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.75.118.144:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#JP🇯🇵
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@151.242.165.136:59124?security=tls&type=ws&path=/danfeng&host=snippet.fgfw.indevs.in&alpn=http/1.1&sni=snippet.fgfw.indevs.in&fp=random#JP🇯🇵
-vless://bce38beb-a6d0-41d7-9c0a-26eed9a6634d@43.212.235.169:443?security=reality&encryption=none&pbk=JE82iOR_U_H7ffxJ5yfoxXeRkMlE-aVu1wxR7n6jrVM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dlcdnets.asus.com&sid=473277e2#%E6%97%A5%E6%9C%AC+V2CROSS.COM
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@134.122.194.186:443?path=%2Ffp&%3Bsecurity=tls&%3Bencryption=none&%3Binsecure=0&%3Bhost=2-ee1.pages.dev&%3Btype=ws&%3BallowInsecure=0&%3Bsni=2-ee1.pages.dev#JP🇯🇵
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@134.122.194.186:443?path=/fp&%3Bsecurity=tls&%3Bencryption=none&%3Binsecure=0&%3Bhost=2-ee1.pages.dev&%3Btype=ws&%3BallowInsecure=0&%3Bsni=2-ee1.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20VLESS%20%7C%20%40megavpn_link%20%231
 vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#Japan+AWS
