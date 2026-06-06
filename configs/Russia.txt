@@ -64,9 +64,11 @@ ss://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.223:22231?allowInsecure=1&alp
 ss://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.223:22231?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&type=tcp#RU🇷🇺
 ss://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.254:22231?allowInsecure=1&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top&type=tcp#RU🇷🇺
 ss://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.254:22231?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&type=tcp#RU🇷🇺
+ss://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?allowInsecure=0&encryption=none&flow=xtls-rprx-vision&fp=edge&headerType=none&insecure=0&security=tls&sni=r1.mizulina.top&type=tcp#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 ss://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top&type=tcp#RU🇷🇺
 ss://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top&type=tcp#RU🇷🇺
-ss://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&fp=edge&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+ss://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+ss://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0&encryption=none&flow=xtls-rprx-vision&headerType=none&insecure=0&security=tls&sni=r1.mizulina.top&type=tcp#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 ss://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#RU🇷🇺
 ss://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?security=tls&encryption=none&insecure=1&headerType=none&fp=edge&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=r1.mizulina.top#RU🇷🇺
 ss://b9571cb5fcc541e99a36a4ad8bdf70f6@94.103.89.223:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=9XS6MeMlQBh4qCT1dhavAwGPKsWQGSyrSH_xHwotw0k&sid=aabbccdd&fp=random#REALITY|RU🇷🇺
@@ -127,9 +129,11 @@ vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.223:22231?allowInsecure=1&
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.223:22231?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&type=tcp#RU🇷🇺
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.254:22231?allowInsecure=1&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top&type=tcp#RU🇷🇺
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.254:22231?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&type=tcp#RU🇷🇺
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?allowInsecure=0&encryption=none&flow=xtls-rprx-vision&fp=edge&headerType=none&insecure=0&security=tls&sni=r1.mizulina.top&type=tcp#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top&type=tcp#RU🇷🇺
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top&type=tcp#RU🇷🇺
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&fp=edge&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0&encryption=none&flow=xtls-rprx-vision&headerType=none&insecure=0&security=tls&sni=r1.mizulina.top&type=tcp#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#RU🇷🇺
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?security=tls&encryption=none&insecure=1&headerType=none&fp=edge&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=r1.mizulina.top#RU🇷🇺
 vless://b9571cb5fcc541e99a36a4ad8bdf70f6@94.103.89.223:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=9XS6MeMlQBh4qCT1dhavAwGPKsWQGSyrSH_xHwotw0k&sid=aabbccdd&fp=random#REALITY|RU🇷🇺

@@ -1,6 +1,7 @@
 ss://04621baeab3611ecb9090242ac120002Og==@45.92.70.236:22324#IT%F0%9F%87%AE%F0%9F%87%B9+%7C+45.92.70.236-22324+%7C+155.6ms
 ss://049e56d8-0ba0-49e3-b764-ee04122b9f00@OV-Italy1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#%3E%3E%40configshub2%3A%3AIT
 ss://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?encryption=none&host=OV-Italy1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT
+ss://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?encryption=none&host=OV-Italy1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT
 ss://35762c02-ff2b-4526-b41b-e96e5d99528b@transparency.cloud-it.appcore.org:34754?encryption=none&type=tcp&security=reality&headerType=none&sni=yahoo.com&fp=firefox&allowInsecure=1&pbk=eMijZKuJlNEciXbhyzdbewk-ot_JLMZVaA42bxKFcBM&sid=43b3b1&spx=%2F4HdxQZTyNeNuAFR&flow=xtls-rprx-vision#REALITY|IT🇮🇹
 ss://478dd3f5-550c-4f3f-8848-fe75c21136db@it.n1etwork.prostosetup.org:443?security=reality&encryption=none&pbk=Nb99ZU29q7aI02rE_bSjlXAHj_U51NoLL0JEx6ohqjM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=bcb6b9117a1206c3#Italy
 ss://73201b52-b04d-4175-b98f-6209ca28add5@95.110.157.223:2003?security=reality&encryption=none&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=2418ed47b875e923#REALITY|IT🇮🇹
@@ -38,10 +39,8 @@ ss://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&s
 ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0=@57.131.28.246:2083#IT%F0%9F%87%AE%F0%9F%87%B9+%7C+57.131.28.246-2083+%7C+152.48ms
 ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0=@it5.taskflowhub.org:2083#IT%F0%9F%87%AE%F0%9F%87%B9+%7C+it5.taskflowhub.org-2083+%7C+166.55ms
 ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0=@it5.taskflowhub.org:2083#IT%F0%9F%87%AE%F0%9F%87%B9+%7C+it5.taskflowhub.org-2083+%7C+167.14ms
-ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@57.131.28.246:2083#%3E%3E%40oneclickvpnkeys%3A%3AIT
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.117:33992#%F0%9F%87%AE%F0%9F%87%B9IT-82.102.26.117-0833
 ss://YWVzLTI1Ni1nY206RldyWGN4UFpqSnhBTjg5eExncVkzQWNw@82.102.26.117:44236#%F0%9F%87%AE%F0%9F%87%B9IT-82.102.26.117-0839
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#%3E%3E%40oneclickvpnkeys%3A%3AIT
 ss://b76e3f80-ac74-43da-86fd-9c4c429c068b@95.110.157.223:2003?security=reality&encryption=none&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=2418ed47b875e923#REALITY|IT🇮🇹
 ss://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?encryption=none&path=%2Fvless%2F&security=tls&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT
 ss://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?encryption=none&path=%2Fvless%2F&security=tls&type=ws#IT🇮🇹
@@ -50,6 +49,7 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@151.241.215.148:443?security=tls&sni=Koma-YT.P
 trojan://8r%3C%5B9%27l6hAO%238ZQi@151.241.215.148:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AE%F0%9F%87%B9IT%E6%84%8F%E5%A4%A7%E5%88%A9
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@OV-Italy1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#%3E%3E%40configshub2%3A%3AIT
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?encryption=none&host=OV-Italy1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?encryption=none&host=OV-Italy1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT
 vless://35762c02-ff2b-4526-b41b-e96e5d99528b@transparency.cloud-it.appcore.org:34754?encryption=none&type=tcp&security=reality&headerType=none&sni=yahoo.com&fp=firefox&allowInsecure=1&pbk=eMijZKuJlNEciXbhyzdbewk-ot_JLMZVaA42bxKFcBM&sid=43b3b1&spx=%2F4HdxQZTyNeNuAFR&flow=xtls-rprx-vision#REALITY|IT🇮🇹
 vless://478dd3f5-550c-4f3f-8848-fe75c21136db@it.n1etwork.prostosetup.org:443?security=reality&encryption=none&pbk=Nb99ZU29q7aI02rE_bSjlXAHj_U51NoLL0JEx6ohqjM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=bcb6b9117a1206c3#Italy
 vless://73201b52-b04d-4175-b98f-6209ca28add5@95.110.157.223:2003?security=reality&encryption=none&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=2418ed47b875e923#REALITY|IT🇮🇹
