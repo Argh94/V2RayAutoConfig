@@ -16,7 +16,6 @@ ss://749a5df1-2d12-45cf-80f3-f85ea6b2e405@144.31.217.99:443?encryption=none&flow
 ss://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.88.109:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com#%3E%3E%40ISVvpn%3A%3AFI
 ss://749a5df1-2d12-45cf-80f3-f85ea6b2e405@31.76.53.0:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&security=reality&sni=google.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
 ss://81bbd0e6-5f0f-43c4-ba6c-99ef9a5ab6cd@832ee961658d813b.vertalist.ir:1310?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮FI-🚀@VPNine1
-ss://94117db3-72b5-4eba-8b35-bd3b269d4c02@45.38.143.229:48438?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:56.23ms
 ss://97de1f85-5f2c-4446-8507-b437125623a2@193.29.224.214:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.cloudflare.com&fp=chrome&pbk=mNPCrTF4rKb_SRmOH-9-IBs5ihK6Pn4SH29iZtKmiX0&sid=abcd1234#REALITY|FI🇫🇮
 ss://9c42819a-67a6-4742-9c6d-64900ba62160@fl-2.bot-iphone.ru:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#REALITY|FI🇫🇮
 ss://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?type=tcp&encryption=none&flow=#FI🇫🇮
@@ -134,7 +133,6 @@ vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@144.31.217.99:443?encryption=none&f
 vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.88.109:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com#%3E%3E%40ISVvpn%3A%3AFI
 vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@31.76.53.0:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&security=reality&sni=google.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://81bbd0e6-5f0f-43c4-ba6c-99ef9a5ab6cd@832ee961658d813b.vertalist.ir:1310?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮FI-🚀@VPNine1
-vless://94117db3-72b5-4eba-8b35-bd3b269d4c02@45.38.143.229:48438?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:56.23ms
 vless://97de1f85-5f2c-4446-8507-b437125623a2@193.29.224.214:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.cloudflare.com&fp=chrome&pbk=mNPCrTF4rKb_SRmOH-9-IBs5ihK6Pn4SH29iZtKmiX0&sid=abcd1234#REALITY|FI🇫🇮
 vless://9c42819a-67a6-4742-9c6d-64900ba62160@fl-2.bot-iphone.ru:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#REALITY|FI🇫🇮
 vless://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?type=tcp&encryption=none&flow=#FI🇫🇮
