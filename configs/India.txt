@@ -7,7 +7,6 @@ trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@159.65.147.91:443?security=
 trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls#%F0%9F%87%AE%F0%9F%87%B3IN-152.67.160.174-0481
 trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#IN🇮🇳
 trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?allowInsecure=0&sni=www.sandbox-cloud.click#IN-65.20.90.225-0122
-trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?security=tls&sni=www.sandbox-cloud.click#%F0%9F%87%AE%F0%9F%87%B3IN-65.20.90.225-0119
 trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?security=tls&sni=www.sandbox-cloud.click#%F0%9F%87%AE%F0%9F%87%B3IN-65.20.90.225-0122
 trojan://e05c749b-7c6b-41b8-9c71-9dcf685edf4a@152.67.162.166:443?security=tls#%F0%9F%87%AE%F0%9F%87%B3IN-152.67.162.166-2582
 vless://05b544a4-d479-4ba4-8208-950bd4411453@pq-india1.09vpn.com:80/?type=ws&encryption=none&path=%2Fvless%2F#%F0%9F%87%AE%F0%9F%87%B3India%2B-%3E%2B%F0%9F%87%AE%F0%9F%87%B3India%2B%E2%9A%A1%40DeamNet_Proxy%20%285%29
@@ -25,4 +24,3 @@ vmess://ewogICJ2IjogMiwKICAicHMiOiAi8J+HrvCfh6lfSURf5Y2w5bqm5bC86KW/5LqaLT7wn4es
 vmess://eyJ2IjoiMiIsInBzIjoiSU4tMTUyLjY3LjguMjA1LTAxMzYiLCJhZGQiOiIxNTIuNjcuOC4yMDUiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
 vmess://eyJhZGQiOiIxNzIuMjMyLjEwMy4xODYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiSU5cdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjMgfCAxNzIuMjMyLjEwMy4xODYtMjIzMjQgfCAyMzQuNDhtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxNzIuMjMyLjEwMy4xODYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiPj5AVjJyYXlORzM6OlhYOjpJTjo6WFg6OlhYOjpJTjo6SU46OklOOjpJTjo6SU46OklOOjpJTjo6SU46OklOIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
-vmess://eyJhZGQiOiIxNzIuMjMyLjEwMy4xODYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiPj5AVjJyYXlORzM6OlhYOjpJTjo6WFg6OlhYOjpJTjo6SU46OklOOjpJTjo6SU46OklOOjpJTjo6SU4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
