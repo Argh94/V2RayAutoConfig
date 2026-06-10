@@ -18,7 +18,6 @@ ss://02fcc79f-d92e-1681-500f-e6544077404d@de2.x3vpn.ru:47002?type=tcp&security=r
 ss://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?encryption=none&security=none&type=tcp#DE🇩🇪
 ss://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?encryption=none&type=tcp&headerType=none#DE🇩🇪
 ss://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?security=&encryption=none&headerType=none&type=tcp#DE🇩🇪
-ss://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?security=none&%3Bencryption=none&%3BheaderType=none&%3Btype=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40filtershekan_channel%20%231
 ss://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#DE🇩🇪
 ss://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?security=none&encryption=none&headerType=none&type=tcp#DE🇩🇪
 ss://05020a61-3c0c-4ead-b256-7851ff905a75@sweeT-coMBInATIOn.SeOtooLsFORyOU.co.Uk:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%F0%9F%97%BF
@@ -297,13 +296,11 @@ trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@fra13.yukiss.eu.org:18818?security
 trojan://92902210-2eb5-11ee-b234-205c6d5f5d78@95.179.255.171:2087?security=tls&sni=asia.oceis.net&type=grpc&serviceName=trgrpc#%F0%9F%87%A9%F0%9F%87%AADE-95.179.255.171-7375
 trojan://Cl150MQWlG@209.250.236.93:443?security=tls&sni=irancell-ir-4.mmdruby13.store&type=grpc#%F0%9F%87%A9%F0%9F%87%AADE-209.250.236.93-7674
 trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?security=tls&sni=fra34.tracker-ws.click#%F0%9F%87%A9%F0%9F%87%AADE-91.233.8.25-0124
-trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?security=tls&sni=fra34.tracker-ws.click#%F0%9F%87%A9%F0%9F%87%AADE-91.233.8.25-0214
 trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?security=tls&type=tcp&sni=fra34.tracker-ws.click#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
 trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?sni=fra34.tracker-ws.click#DE🇩🇪
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?allowInsecure=0&sni=de-1.hysteria.ltd#DE-94.103.173.70-0094
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?allowInsecure=0&sni=de-1.hysteria.ltd#DE🇩🇪
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?security=tls&sni=de-1.hysteria.ltd#%F0%9F%87%A9%F0%9F%87%AADE-94.103.173.70-0106
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?security=tls&sni=de-1.hysteria.ltd#%F0%9F%87%A9%F0%9F%87%AADE-94.103.173.70-0114
 trojan://Sp3eDVp@51.77.71.131:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-51.77.71.131-3780
 trojan://bs6KJkPBW9MP74uHEa@45.80.190.64:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-45.80.190.64-1411
 trojan://bs6KJkPBW9MP74uHEa@45.80.190.66:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-45.80.190.66-1364
@@ -312,7 +309,6 @@ trojan://cczQCxQBdYzynosgqLVSmUnZzwjJcWEnpWnMAjZQUy94hDdN@gm2.bw8848.org:443?sni
 trojan://hxn2jK9Uzezogua0oHuq9Y8viN%3DUCe.2Jd@185.137.157.254:443?type=tcp&security=tls&headerType=none&sni=www.directorypipeline.click&allowInsecure=0#DE🇩🇪
 trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&insecure=0&host=v2rayNplus-v2rayNplus-v2rayNplus&headerType=none&type=tcp&allowInsecure=0&sni=www.directorypipeline.click#DE🇩🇪
 trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&sni=www.directorypipeline.click#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.254-0123
-trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&sni=www.directorypipeline.click#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.254-0124
 trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?sni=www.directorypipeline.click#%3E%3E%40oneclickvpnkeys%3A%3ADE
 trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?sni=www.directorypipeline.click#DE🇩🇪
 trojan://mainssh-ddoejfv14@108.61.170.104:443?security=tls&sni=frtgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%F0%9F%87%A9%F0%9F%87%AADE-108.61.170.104-8138
@@ -329,7 +325,6 @@ trojan://q9870219@181.214.99.54:2035?security=tls&sni=ht.lljllj.buzz#%F0%9F%87%A
 trojan://qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq@91.233.8.138:443?allowInsecure=0&sni=www.homelywebs.click#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%20starcorenode.com
 trojan://qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq@91.233.8.138:443?allowInsecure=0&sni=www.homelywebs.click#DE%E5%BE%B7%E5%9B%BD3
 trojan://qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq@91.233.8.138:443?allowInsecure=0&sni=www.homelywebs.click#DE🇩🇪
-trojan://qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq@91.233.8.138:443?security=tls&sni=www.homelywebs.click#%F0%9F%87%A9%F0%9F%87%AADE-91.233.8.138-0182
 trojan://qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq@91.233.8.138:443?security=tls&sni=www.homelywebs.click#%F0%9F%87%A9%F0%9F%87%AADE-91.233.8.138-0189
 trojan://qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq@91.233.8.138:443?sni=www.homelywebs.click#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD3
 trojan://qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq@91.233.8.138:443?sni=www.homelywebs.click#DE🇩🇪
@@ -412,7 +407,6 @@ vless://02fcc79f-d92e-1681-500f-e6544077404d@de2.x3vpn.ru:47002?type=tcp&securit
 vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?encryption=none&security=none&type=tcp#DE🇩🇪
 vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?encryption=none&type=tcp&headerType=none#DE🇩🇪
 vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?security=&encryption=none&headerType=none&type=tcp#DE🇩🇪
-vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?security=none&%3Bencryption=none&%3BheaderType=none&%3Btype=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40filtershekan_channel%20%231
 vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#DE🇩🇪
 vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?security=none&encryption=none&headerType=none&type=tcp#DE🇩🇪
 vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweeT-coMBInATIOn.SeOtooLsFORyOU.co.Uk:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%F0%9F%97%BF
@@ -720,6 +714,7 @@ vmess://eyJhZGQiOiIxNDIuMTMyLjE2My4yMDAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiN2Y5
 vmess://eyJhZGQiOiIxNTcuOTAuMjAuMTgiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjZiN2NiYzQxLWZiODAtNDFhOC04ZWI2LWI1YmRiMGU4NjE0NyIsIm5ldCI6Imh0dHAiLCJwYXRoIjoiIiwicG9ydCI6NDQzLCJwcyI6IkRFXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIHwgMTU3LjkwLjIwLjE4LTQ0MyB8IDk2LjUybXMiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byJ9
 vmess://eyJhZGQiOiIxNjguMTE5LjE3NC4yMjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNmI3Y2JjNDEtZmI4MC00MWE4LThlYjYtYjViZGIwZTg2MTQ3IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiLwn4ep8J+HqiBERSB8IFZNRVNTIHwgQG1hZ2lja2V5X3Nob3AgIzEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJkZTUudGFza2Zsb3dodWIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImNhNThiMTY1LTBmN2QtNDlhYS05ZmFlLWEwMTdlOGEwZjg4NCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA1MyIsInBzIjoiPj5AdjJyYXluZ3Zwbjo6REU6OkRFOjpERTo6REU6OkRFOjpERSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
+vmess://eyJhZGQiOiJkZTUudGFza2Zsb3dodWIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImNhNThiMTY1LTBmN2QtNDlhYS05ZmFlLWEwMTdlOGEwZjg4NCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA1MyIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1ERSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 vmess://eyJhZGQiOiJkZWFybWEuNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI1ZjljN2JkYS0zM2Y5LTNkZDAtYmNmNS1hY2EzMjQ0MThlMzEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYWJ1Y2l3eWciLCJwb3J0IjoyMDUyLCJwcyI6IuW+t+WbvTEgfCAwLjV4XzEiLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6Mn0=
 vmess://eyJhZGQiOiJkZWFybWEuNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJlYWVmY2I2NC0yNzc2LTM3MDYtYjk2My1hMTlhMjQzMzc1NWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYWJ1Y2l3eWciLCJwb3J0IjoyMDUyLCJwcyI6IuW+t+WbvTEgfCAwLjV4XzIiLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6Mn0=
 vmess://eyJhZGQiOiJkZWFybWIuNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI1ZjljN2JkYS0zM2Y5LTNkZDAtYmNmNS1hY2EzMjQ0MThlMzEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYW5jaWhncnQiLCJwb3J0IjoyMDUyLCJwcyI6IuW+t+WbvTIgfCAwLjV4XzEiLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6Mn0=
