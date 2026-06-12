@@ -91,6 +91,7 @@ ssr://cdn01.25k2l8.meituan88.com:2108:auth_aes128_md5:chacha20-ietf:plain:ZGkxNV
 ssr://cdn01.25k2l8.meituan88.com:2109:auth_aes128_md5:rc4-md5:plain:ZGkxNVBW/?obfsparam=MzFkNDEyNzU3LmRvdXlpbi5jb20%3D&remarks=8J%2BHrfCfh7BISy00My4yNTUuMTE5LjIxLTQ1NjE%3D&protoparam=#
 ssr://cdn01.25k2l8.meituan88.com:2110:auth_aes128_md5:rc4-md5:plain:ZGkxNVBW/?obfsparam=MzFkNDEyNzU3LmRvdXlpbi5jb20%3D&remarks=8J%2BHrfCfh7BISy00My4yNTUuMTE5LjIxLTQ1NTA%3D&protoparam=#
 ssr://cdn01.25k2l8.meituan88.com:2111:auth_aes128_md5:rc4-md5:tls1.2_ticket_auth:ZGkxNVBW/?obfsparam=MzFkNDEyNzU3LmRvdXlpbi5jb20%3D&remarks=8J%2BHrfCfh7BISy00My4yNTUuMTE5LjIxLTQ1NTM%3D&protoparam=#
+ssr://cdn01.25k2l8.meituan88.com:2112:auth_aes128_md5:chacha20-ietf:plain:ZGkxNVBW/?obfsparam=MzFkNDEyNzU3LmRvdXlpbi5jb20%3D&remarks=8J%2BHrfCfh7BISy00My4yNTUuMTE5LjIxLTQ1NDc%3D&protoparam=#
 ssr://cdn01.25k2l8.meituan88.com:2201:auth_aes128_md5:chacha20-ietf:plain:ZGkxNVBW/?obfsparam=MzFkNDEyNzU3LmRvdXlpbi5jb20%3D&remarks=8J%2BHrfCfh7BISy00My4yNTUuMTE5LjIxLTQ1NTI%3D&protoparam=#
 ssr://cdn01.25k2l8.meituan88.com:2202:auth_aes128_md5:rc4-md5:tls1.2_ticket_auth:ZGkxNVBW/?obfsparam=MzFkNDEyNzU3LmRvdXlpbi5jb20%3D&remarks=8J%2BHrfCfh7BISy00My4yNTUuMTE5LjIxLTQ1NTU%3D&protoparam=#
 ssr://cdn01.25k2l8.meituan88.com:2204:auth_aes128_md5:chacha20-ietf:plain:ZGkxNVBW/?obfsparam=MzFkNDEyNzU3LmRvdXlpbi5jb20%3D&remarks=8J%2BHrfCfh7BISy00My4yNTUuMTE5LjIxLTQ1NDY%3D&protoparam=#
@@ -119,7 +120,6 @@ ssr://ssca.irundns.net:443:auth_aes128_md5:aes-128-cfb:http_post:JCRUdXJiMFZQTiQ
 ssr://ssrfree.zhujicn2.net:10002:auth_chain_a:aes-256-cfb:tls1.2_ticket_auth:ZG9uZ3RhaXdhbmcuY29t/?obfsparam=&remarks=8J%2BHuvCfh7hVUy02NC4zMi43LjE0Mi0xNzY1&protoparam=#
 ssr://z0110.security-cloudfront-cdn.com:42833:origin:aes-256-cfb:http_simple:WXBYMm9wQmJyZnFKenpNcw==/?obfsparam=d3d3Lm1pY3Jvc29mdC5jb20jVXNlci1BZ2VudDpNb3ppbGxhLzUuMChpUGhvbmU7Q1BVaVBob25lT1MxMV80XzFsaWtlTWFjT1NYKUFwcGxlV2ViS2l0LzYwMi40LjYoS0hUTUwsbGlrZUdlY2tvKVZlcnNpb24vMTAuME1vYmlsZS8xNEQyN01pY3JvTWVzc2VuZ2VyLzYuNS4xM0FjY2VwdDovQ29ubmVjdGlvbjprZWVwLWFsaXZl&remarks=8J%2BHqfCfh6pERS02My4xNzcuMTUyLjUxLTExMDA%3D&protoparam=#
 ssr://z0113.security-cloudfront-cdn.com:42833:origin:aes-256-cfb:http_simple:WXBYMm9wQmJyZnFKenpNcw==/?obfsparam=&remarks=8J%2BHpvCfh7pBVS0zLjEwNS4yMTEuMTkxLTEyOTc%3D&protoparam=#
-ssr://z0115.security-cloudfront-cdn.com:42833:origin:aes-256-cfb:http_simple:WXBYMm9wQmJyZnFKenpNcw==/?obfsparam=&remarks=8J%2BHqPCfh6ZDQS0zLjk3LjE3My41LTA2NjQ%3D&protoparam=#
 ssr://z0116.security-cloudfront-cdn.com:42833:origin:aes-256-cfb:http_simple:WXBYMm9wQmJyZnFKenpNcw==/?obfsparam=d3d3Lm1pY3Jvc29mdC5jb20jVXNlci1BZ2VudDpNb3ppbGxhLzUuMChpUGhvbmU7Q1BVaVBob25lT1MxMV80XzFsaWtlTWFjT1NYKUFwcGxlV2ViS2l0LzYwMi40LjYoS0hUTUwsbGlrZUdlY2tvKVZlcnNpb24vMTAuME1vYmlsZS8xNEQyN01pY3JvTWVzc2VuZ2VyLzYuNS4xM0FjY2VwdDovQ29ubmVjdGlvbjprZWVwLWFsaXZl&remarks=8J%2BHrvCfh6pJRS01NC4yMTYuMjIwLjkwLTExMDE%3D&protoparam=#
 ssr://z0117.security-cloudfront-cdn.com:42833:origin:aes-256-cfb:http_simple:WXBYMm9wQmJyZnFKenpNcw==/?obfsparam=&remarks=8J%2BHuPCfh6pTRS0xMy42MS4xNDIuMTI4LTEwOTg%3D&protoparam=#
 ssr://的格式#
