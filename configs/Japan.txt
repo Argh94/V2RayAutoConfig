@@ -1,5 +1,6 @@
 hy2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778/?insecure=1#JP
 hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1#JP
+ss://05dde938-bb2d-41c3-b176-2a9d370489b4@151.101.109.223:443?path=/&security=tls&encryption=none&host=pan1.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACFastly%E8%8A%82%E7%82%B9
 ss://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477?security=none&encryption=none&headerType=none&type=tcp#JP🇯🇵
 ss://33b83411-cf14-48af-8105-ff8370f7a3d5@69.84.182.13:443?&security=tls&fp=chrome&sni=jp1-jp1.aiopen.sbs&type=ws&headerType=none&host=jp1-jp1.aiopen.sbs&path=%2Fkbjc%2Fjp1#%E6%97%A5%E6%9C%AC%2019
 ss://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?allowInsecure=1&encryption=none&security=tls&sni=jp1.fromblancwithlove.com&type=tcp#%3E%3E%40configshub2%3A%3AJP
@@ -99,7 +100,6 @@ trojan://7a566d21dfcd0f12490275fd3dd3cfc4@trs09.bolab.net:443?security=tls#%F0%9
 trojan://7x42LetRa0@106.180.225.69:1443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-106.180.225.69-3979
 trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34470?allowInsecure=1&sni=gj1.sonofthewinds.com#%E6%97%A5%E6%9C%AC%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com%5Cr
 trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34470?sni=gj1.sonofthewinds.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
-trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34470?sni=gj1.sonofthewinds.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC4
 trojan://8d2d5953-d649-4034-94f2-72f2df2623da@168.138.44.176:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-168.138.44.176-0486
 trojan://8d2d5953-d649-4034-94f2-72f2df2623da@168.138.44.176:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-168.138.44.176-2911
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@133.167.100.203:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.167.100.203-2341
@@ -118,7 +118,6 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp08a.roc-taiwan.org.ua:65018?secu
 trojan://BxceQaOe@18.181.230.17:5408?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://BxceQaOe@18.181.230.17:5408?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://BxceQaOe@18.181.230.17:5408?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-18.181.230.17-1636
-trojan://BxceQaOe@18.181.230.17:5408?sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
 trojan://BxceQaOe@18.181.230.17:5408?sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 trojan://BxceQaOe@18.183.150.2:47655?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.150.2-0732
 trojan://BxceQaOe@18.183.163.141:50712?security=tls&sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.163.141-4415
@@ -133,13 +132,11 @@ trojan://c19d1432-8b3e-4818-8837-3d160cf65908@138.2.45.243:443?security=tls#%F0%
 trojan://c51d3975-a40c-4a5b-929b-c8595ed87850@15.168.28.231:443?security=tls&sni=wel-usgt.optage.moe#%F0%9F%87%AF%F0%9F%87%B5JP-15.168.28.231-4022
 trojan://d02e3bb7e6b3333e818d36866d40de6e@16.163.97.86:5701?allowInsecure=1&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://d02e3bb7e6b3333e818d36866d40de6e@16.163.97.86:5701?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
-trojan://d02e3bb7e6b3333e818d36866d40de6e@16.163.97.86:5701?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
 trojan://d02e3bb7e6b3333e818d36866d40de6e@16.163.97.86:5701?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC4
 trojan://d02e3bb7e6b3333e818d36866d40de6e@18.183.58.98:53018?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.58.98-0729
 trojan://d02e3bb7e6b3333e818d36866d40de6e@95.40.55.96:55973?allowInsecure=1&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://d02e3bb7e6b3333e818d36866d40de6e@95.40.55.96:55973?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://d02e3bb7e6b3333e818d36866d40de6e@95.40.55.96:55973?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
-trojan://d02e3bb7e6b3333e818d36866d40de6e@95.40.55.96:55973?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 trojan://d06a3f01-1ff0-4792-9b8e-a5a604bc74a2@168.138.43.89:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-168.138.43.89-2253
 trojan://d84665c37878196ecf983cf6910e3b44@18.181.199.223:8066?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-18.181.199.223-4413
 trojan://da777aae-defb-41d0-a183-2c27da2b4677@150.230.96.103:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-150.230.96.103-2537
@@ -147,6 +144,7 @@ trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@47.245.62.4:8443/?type=ws&%3Bhost=
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@47.245.62.4:8443/?type=ws&amp%3Bhost=dxy1h.twiladaphne.ndjp.net&amp%3Bpath=/proxyip%3D104.168.132.123%2C172.104.53.198%2C85.121.50.16%2C151.242.125.226&amp%3Bsecurity=tls&amp%3Bsni=dxy1h.twiladaphne.ndjp.net&amp%3Bfp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20TROJAN%20%7C%20%40freeconfigsplus%20%231
 trojan://f42e1a2e-e650-44f4-8d17-bcb68663da18@150.230.201.192:443?security=tls&sni=www.seetheworldjp.ga#%F0%9F%87%AF%F0%9F%87%B5JP-150.230.201.192-4019
 trojan://hV66LcSGyxUdHq2aAeqxmLfpBDQmRYxo8Wte43oZr8L379SS@43.207.87.133:443?security=tls&sni=node2.bw8848.org&type=ws&host=node2.bw8848.org&path=/node2-node2-gu7bfd#🇯🇵JP-🚀@VPNine1
+vless://05dde938-bb2d-41c3-b176-2a9d370489b4@151.101.109.223:443?path=/&security=tls&encryption=none&host=pan1.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACFastly%E8%8A%82%E7%82%B9
 vless://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477?security=none&encryption=none&headerType=none&type=tcp#JP🇯🇵
 vless://33b83411-cf14-48af-8105-ff8370f7a3d5@69.84.182.13:443?&security=tls&fp=chrome&sni=jp1-jp1.aiopen.sbs&type=ws&headerType=none&host=jp1-jp1.aiopen.sbs&path=%2Fkbjc%2Fjp1#%E6%97%A5%E6%9C%AC%2019
 vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?allowInsecure=1&encryption=none&security=tls&sni=jp1.fromblancwithlove.com&type=tcp#%3E%3E%40configshub2%3A%3AJP

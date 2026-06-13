@@ -7,7 +7,7 @@ ss://0ff7989d-59b3-4cbd-a2e4-960ac02fb2f1@46.137.225.209:32946?security=reality&
 ss://3228b0ea-5421-4199-a099-f06b49602052@27.50.48.49:8443?alpn=h2,h3&encryption=none&fp=chrome&host=ger.riziro.ir&path=/therfirstpleaseworsadf&security=tls&sni=ger.riziro.ir&type=ws#🇸🇬SG-🚀@VPNine1
 ss://48959fe8-4a5e-4996-bc87-8d66398e6860@1.sdwan.realm-sync.com:55567?&security=reality&flow=xtls-rprx-vision&pbk=0soGDTguByd3I9e2nLuzkw5BOHELZ_AHHDkA0Zx3JRA&sid=f3f70ca767&fp=chrome&sni=www.discoverasr.com&type=tcp&headerType=none&host=1.sdwan.realm-sync.com&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1%2028
 ss://65309b8f-e98d-432e-be20-b9d39a124d86@www.jianjimi.cn:443?encryption=none&type=ws&security=tls&path=%2F22115%2Fapi&host=api.mmadcoffee.info&sni=sni.mmadcoffee.info&fp=chrome&insecure=0&allowInsecure=0#SG🇸🇬
-ss://66031b35-3a36-4fc1-9225-b7c39a7b4453@52.76.240.5:35349?security=reality&encryption=none&pbk=3r4wYm2KaeRLbvchgFhhCNvY1qeM3-fUz91UrX5kry8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=4806f5b119797c#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:180ms
+ss://66031b35-3a36-4fc1-9225-b7c39a7b4453@52.76.240.5:35349?security=reality&encryption=none&pbk=3r4wYm2KaeRLbvchgFhhCNvY1qeM3-fUz91UrX5kry8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=4806f5b119797c#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:181.1ms
 ss://6f99505678024a1dbff761678e626c3fOg==@52.187.36.104:443#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+52.187.36.104-443+%7C+170.99ms
 ss://74bcfbf9259642438c0f1042e4725ae7Og==@15.235.186.127:80#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+15.235.186.127-80+%7C+171.71ms
 ss://9d33dc91-fb84-4f96-d9b1-fe28a230a94f@5.223.42.211:443?security=reality&%3Bencryption=none&%3Bpbk=fXxqq2kGD1gwVUdFEHMtyxDudwQgQRWYz_YM02ONiW8&%3BheaderType=none&%3Bfp=chrome&%3Bspx=/x1&%3Btype=tcp&%3Bsni=www.faceit.com&%3Bsid=f7#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20VLESS%20%7C%20%40v2rayexpress%20%231
@@ -104,7 +104,6 @@ trojan://973ef350-f6a5-11ec-9274-1239d0255272@trojan2.udpgw.com:443?security=tls
 trojan://BxceQaOe@16.163.154.228:45744?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://BxceQaOe@16.163.154.228:45744?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://BxceQaOe@16.163.154.228:45744?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://BxceQaOe@16.163.154.228:45744?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
 trojan://FLpONjB2Lb@139.162.45.139:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-139.162.45.139-2714
 trojan://IL37892054@engaged-ram.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-54.169.245.181-4418
 trojan://affae2e0-e84b-11ec-b09f-1239d0255272@trojan1.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.51.247-4992
@@ -113,9 +112,7 @@ trojan://d02e3bb7e6b3333e818d36866d40de6e@16.162.192.48:48738?allowInsecure=1&sn
 trojan://d02e3bb7e6b3333e818d36866d40de6e@16.162.192.48:48738?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://d02e3bb7e6b3333e818d36866d40de6e@16.162.192.48:48738?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://d02e3bb7e6b3333e818d36866d40de6e@16.162.192.48:48738?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
-trojan://d02e3bb7e6b3333e818d36866d40de6e@16.162.192.48:48738?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
 trojan://d30ab83dbde4480082048fb315bedebd@5.180.78.22:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-5.180.78.22-4493
-trojan://gcuCpQfaiVeDBdWG@211.76.176.97:19128?sni=yazhou10.dynu.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://gcuCpQfaiVeDBdWG@211.76.176.97:19128?sni=yazhou10.dynu.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
 trojan://iyinglong@13.213.69.245:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.213.69.245-5088
 trojan://iyinglong@18.140.67.76:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.140.67.76-4995
@@ -126,7 +123,7 @@ vless://0ff7989d-59b3-4cbd-a2e4-960ac02fb2f1@46.137.225.209:32946?security=reali
 vless://3228b0ea-5421-4199-a099-f06b49602052@27.50.48.49:8443?alpn=h2,h3&encryption=none&fp=chrome&host=ger.riziro.ir&path=/therfirstpleaseworsadf&security=tls&sni=ger.riziro.ir&type=ws#🇸🇬SG-🚀@VPNine1
 vless://48959fe8-4a5e-4996-bc87-8d66398e6860@1.sdwan.realm-sync.com:55567?&security=reality&flow=xtls-rprx-vision&pbk=0soGDTguByd3I9e2nLuzkw5BOHELZ_AHHDkA0Zx3JRA&sid=f3f70ca767&fp=chrome&sni=www.discoverasr.com&type=tcp&headerType=none&host=1.sdwan.realm-sync.com&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1%2028
 vless://65309b8f-e98d-432e-be20-b9d39a124d86@www.jianjimi.cn:443?encryption=none&type=ws&security=tls&path=%2F22115%2Fapi&host=api.mmadcoffee.info&sni=sni.mmadcoffee.info&fp=chrome&insecure=0&allowInsecure=0#SG🇸🇬
-vless://66031b35-3a36-4fc1-9225-b7c39a7b4453@52.76.240.5:35349?security=reality&encryption=none&pbk=3r4wYm2KaeRLbvchgFhhCNvY1qeM3-fUz91UrX5kry8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=4806f5b119797c#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:180ms
+vless://66031b35-3a36-4fc1-9225-b7c39a7b4453@52.76.240.5:35349?security=reality&encryption=none&pbk=3r4wYm2KaeRLbvchgFhhCNvY1qeM3-fUz91UrX5kry8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=4806f5b119797c#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:181.1ms
 vless://9d33dc91-fb84-4f96-d9b1-fe28a230a94f@5.223.42.211:443?security=reality&%3Bencryption=none&%3Bpbk=fXxqq2kGD1gwVUdFEHMtyxDudwQgQRWYz_YM02ONiW8&%3BheaderType=none&%3Bfp=chrome&%3Bspx=/x1&%3Btype=tcp&%3Bsni=www.faceit.com&%3Bsid=f7#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20VLESS%20%7C%20%40v2rayexpress%20%231
 vless://9d33dc91-fb84-4f96-d9b1-fe28a230a94f@5.223.42.211:443?security=reality&amp%3Bencryption=none&amp%3Bpbk=fXxqq2kGD1gwVUdFEHMtyxDudwQgQRWYz_YM02ONiW8&amp%3BheaderType=none&amp%3Bfp=chrome&amp%3Bspx=/x1&amp%3Btype=tcp&amp%3Bsni=www.faceit.com&amp%3Bsid=f7#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20VLESS%20%7C%20%40v2rayexpress%20%231
 vless://e85ce618-50cd-42e0-a8ba-5052e6be9498@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
