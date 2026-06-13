@@ -4,6 +4,7 @@ ss://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.30.30:8880?type=ws&host=vms.li
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.146.50:8880?type=ws&host=vms.lifetime36.workers.dev&path=/?ed=2560#A%20-%20%F0%9F%87%AC%F0%9F%87%A7%20GB%2002%20TG%3A%20%40nodpai
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.110.30:8880?type=ws&host=vms.lifetime51.workers.dev#A%20-%20%F0%9F%87%AC%F0%9F%87%A7%20GB%2003%20TG%3A%20%40nodpai
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@77.75.199.30:8880?type=ws&host=vms.lifetime59.workers.dev#B%20-%20%F0%9F%87%AC%F0%9F%87%A7%20GB%2005%20TG%3A%20%40nodpai
+ss://eeb6823c-b926-4ea2-866a-5542edd26e59@youxuan.cf.090227.xyz:443?&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=%2F#%E5%A4%9A%E5%93%A5
 ss://fe273991-0514-4a16-8ec4-b15ae861c000@198.41.219.218:443?sni=zyzzzoao.xn--fiqv8j.eu.org&type=ws&host=zyzzzoao.xn--fiqv8j.eu.org&path=/?ed=2048fp=randomized&security=tls#A%20-%20%F0%9F%87%AD%F0%9F%87%B0%20HK%2002%20TG%3A%20%40nodpai
 vless://17011a43-97e2-44b0-b0da-a2ea151ad75c@103.123.162.50:10011?sni=www.microsoft.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#B%20-%20%F0%9F%87%AD%F0%9F%87%B0%20HK%2005%20TG%3A%20%40nodpai
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.159.247.30:8880?type=ws&host=vms.lifetime59.workers.dev&path=/#B%20-%20%F0%9F%87%AC%F0%9F%87%A7%20GB%2004%20TG%3A%20%40nodpai
@@ -11,4 +12,5 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.30.30:8880?type=ws&host=vms
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.146.50:8880?type=ws&host=vms.lifetime36.workers.dev&path=/?ed=2560#A%20-%20%F0%9F%87%AC%F0%9F%87%A7%20GB%2002%20TG%3A%20%40nodpai
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.110.30:8880?type=ws&host=vms.lifetime51.workers.dev#A%20-%20%F0%9F%87%AC%F0%9F%87%A7%20GB%2003%20TG%3A%20%40nodpai
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.75.199.30:8880?type=ws&host=vms.lifetime59.workers.dev#B%20-%20%F0%9F%87%AC%F0%9F%87%A7%20GB%2005%20TG%3A%20%40nodpai
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@youxuan.cf.090227.xyz:443?&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=%2F#%E5%A4%9A%E5%93%A5
 vless://fe273991-0514-4a16-8ec4-b15ae861c000@198.41.219.218:443?sni=zyzzzoao.xn--fiqv8j.eu.org&type=ws&host=zyzzzoao.xn--fiqv8j.eu.org&path=/?ed=2048fp=randomized&security=tls#A%20-%20%F0%9F%87%AD%F0%9F%87%B0%20HK%2002%20TG%3A%20%40nodpai
