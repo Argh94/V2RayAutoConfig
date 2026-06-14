@@ -46,7 +46,6 @@ ss://YWVzLTI1Ni1nY206MjMzYmxvZy5jb20=@20.210.122.21:443#%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTI1Ni1nY206R1RaSTVBYmpOQWVXUUcwb1ZOcHR2V0pvZ0hOS2lpS0E=@47.79.144.115:40003#%F0%9F%87%AF%F0%9F%87%B5JP-47.79.144.115-0189
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@103.106.228.175:8009#%F0%9F%87%AF%F0%9F%87%B5JP-103.106.228.175-0125
 ss://YWVzLTI1Ni1nY206ZGQyNTc1YzEtNDEwOS00NGRmLWJlNDctZWQzYTYzMjM0MmU5@141.147.171.105:10014#%F0%9F%87%AF%F0%9F%87%B5JP-141.147.171.105-0233
-ss://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.109.223:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACFastly%E8%8A%82%E7%82%B9
 ss://ce069292-c8bf-40dd-a6b1-87818a1e64e9@134.122.194.186:443?path=/fp&%3Bsecurity=tls&%3Bencryption=none&%3Binsecure=0&%3Bhost=2-ee1.pages.dev&%3Btype=ws&%3BallowInsecure=0&%3Bsni=2-ee1.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20VLESS%20%7C%20%40megavpn_link%20%231
 ss://ce069292-c8bf-40dd-a6b1-87818a1e64e9@134.122.194.186:443?path=/fp&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=2-ee1.pages.dev&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=2-ee1.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20VLESS%20%7C%20%40megavpn_link%20%231
 ss://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.12:443?security=reality&encryption=none&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=jp.s3-cloud.org&sid=7a3f9e2b1c8d4f6a#REALITY|JP🇯🇵
@@ -57,9 +56,9 @@ ss://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?allowInsecure=0&sn
 ss://eeb6823c-b926-4ea2-866a-5542edd26e59@104.238.151.159:443?&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=%2F#%E6%97%A5%E6%9C%AC%2016
 ss://eeb6823c-b926-4ea2-866a-5542edd26e59@138.2.62.8:443?&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=%2F#%E6%97%A5%E6%9C%AC%209
 ss://eeb6823c-b926-4ea2-866a-5542edd26e59@140.238.58.181:2053?&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=%2F#%E6%97%A5%E6%9C%AC%208
-ss://eeb6823c-b926-4ea2-866a-5542edd26e59@156.246.92.195:443?&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=%2F#%E6%97%A5%E6%9C%AC%204
 ss://eeb6823c-b926-4ea2-866a-5542edd26e59@158.101.78.162:443?&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=%2F#%E6%97%A5%E6%9C%AC%2010
 ss://eeb6823c-b926-4ea2-866a-5542edd26e59@167.179.101.103:443?&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=%2F#%E6%97%A5%E6%9C%AC%2017
+ss://eeb6823c-b926-4ea2-866a-5542edd26e59@168.138.212.80:443?&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=%2F#%E6%97%A5%E6%9C%AC%2012
 ss://eeb6823c-b926-4ea2-866a-5542edd26e59@168.138.46.67:443?&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=%2F#%E6%97%A5%E6%9C%AC%2013
 ss://eeb6823c-b926-4ea2-866a-5542edd26e59@18.179.140.180:443?&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=%2F#%E6%97%A5%E6%9C%AC
 ss://eeb6823c-b926-4ea2-866a-5542edd26e59@217.142.254.144:443?&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=%2F#%E6%97%A5%E6%9C%AC%2015
@@ -151,7 +150,6 @@ vless://86b414b6-966e-4f6d-ab16-32049ef732d3@47.245.38.111:443/?type=raw&encrypt
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.75.118.144:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#JP🇯🇵
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@151.242.165.136:59124?security=tls&type=ws&path=/danfeng&host=snippet.fgfw.indevs.in&alpn=http/1.1&sni=snippet.fgfw.indevs.in&fp=random#JP🇯🇵
 vless://9cb72288-da5a-40a4-b856-4557f9849016@3.112.19.64:26902?encryption=none&type=tcp&security=reality&headerType=none&sni=www.icloud.com&fp=firefox&allowInsecure=1&pbk=5CqD0ZEtt5W_xA9adU4CxjH4xAV-BdCwhDuthBBnpFM&sid=450d60a09ffb65&spx=%2F&flow=xtls-rprx-vision#REALITY|JP🇯🇵
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.109.223:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACFastly%E8%8A%82%E7%82%B9
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@134.122.194.186:443?path=/fp&%3Bsecurity=tls&%3Bencryption=none&%3Binsecure=0&%3Bhost=2-ee1.pages.dev&%3Btype=ws&%3BallowInsecure=0&%3Bsni=2-ee1.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20VLESS%20%7C%20%40megavpn_link%20%231
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@134.122.194.186:443?path=/fp&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=2-ee1.pages.dev&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=2-ee1.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20VLESS%20%7C%20%40megavpn_link%20%231
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.12:443?security=reality&encryption=none&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=jp.s3-cloud.org&sid=7a3f9e2b1c8d4f6a#REALITY|JP🇯🇵
@@ -162,9 +160,9 @@ vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?allowInsecure=0
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.238.151.159:443?&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=%2F#%E6%97%A5%E6%9C%AC%2016
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@138.2.62.8:443?&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=%2F#%E6%97%A5%E6%9C%AC%209
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@140.238.58.181:2053?&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=%2F#%E6%97%A5%E6%9C%AC%208
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@156.246.92.195:443?&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=%2F#%E6%97%A5%E6%9C%AC%204
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@158.101.78.162:443?&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=%2F#%E6%97%A5%E6%9C%AC%2010
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@167.179.101.103:443?&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=%2F#%E6%97%A5%E6%9C%AC%2017
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@168.138.212.80:443?&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=%2F#%E6%97%A5%E6%9C%AC%2012
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@168.138.46.67:443?&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=%2F#%E6%97%A5%E6%9C%AC%2013
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@18.179.140.180:443?&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=%2F#%E6%97%A5%E6%9C%AC
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@217.142.254.144:443?&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=%2F#%E6%97%A5%E6%9C%AC%2015

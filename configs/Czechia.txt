@@ -10,6 +10,7 @@ ss://a2415a12-3f92-4636-9823-9828d3ceb818@103.200.28.244:8443?type=xhttp&encrypt
 ss://b8c51058-4378-46d3-b2c9-50b43b5715a0@main.saforia.ru:2086?encryption=none&host=main.saforia.ru&path=%2F&security=none&type=ws#CZ🇨🇿
 trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#%F0%9F%87%A8%F0%9F%87%BFCZ-92.118.149.85-2320
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?type=tcp&security=tls&headerType=none&sni=ch-2.bexum.fun&fp=chrome&allowInsecure=0#CZ🇨🇿
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?allowInsecure=0&sni=ch-2.bexum.fun#CZ-46.8.113.142-0170
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun#%F0%9F%87%A8%F0%9F%87%BFCZ-46.8.113.142-0160
 vless://01c40f1e-73c9-4c08-9a84-d5d1baccff3d@de1.safesurf.cloud:443?encryption=none&type=grpc&security=reality&mode=gun&sni=de1.safesurf.cloud&fp=chrome&allowInsecure=1&pbk=DtrZmUl6FG-yOGVepZ8HTLhyOC8FtuJQ1iIvjXMQhzs#REALITY|CZ🇨🇿
 vless://347a56c2-a453-4b32-86cd-7522943df88c@103.119.19.201:2087?security=reality&encryption=none&pbk=vZuBWF0YzlKI0fJWxU6hmOLHHQ5Qb1kf35HbZDcFCH4&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=493c3d4e37c23c28#REALITY|CZ🇨🇿
