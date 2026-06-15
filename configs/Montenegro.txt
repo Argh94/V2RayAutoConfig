@@ -154,7 +154,6 @@ ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca28.myfymain.com:8880?mode=gun&secur
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca30.mysilipdir.com:8880?mode=gun&security=&encryption=none&type=grpc#https://t.me/ShadowsocksM14
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca30.mysilipdir.com:8880?mode=gun&security=&encryption=none&type=grpc&sni=sca30.mysilipdir.com#https://t.me/ShadowsocksM30
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca30.mysilipdir.com:8880?mode=gun&security=&encryption=none&type=grpc&sni=sca30.mysilipdir.com#https://t.me/v2raynplus
-ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca34.mysilipdir.com:8880?encryption=none&type=grpc&mode=gun#1https://t.me/ConfigX2ray
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca34.mysilipdir.com:8880?mode=gun&security=&encryption=none&type=grpc#https://t.me/ShadowsocksM74
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca35.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#https://t.me/ShadowsocksM7
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca37.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#https://t.me/ShadowsocksM77
@@ -172,7 +171,6 @@ ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.170:8443?encryption=none&typ
 ss://934943ff-bc93-4715-ed3c-c7b33cdedb40@65.109.241.111:443?type=tcp&path=%2F&host=zula.ir&headerType=http#https%3A%2F%2Ft.me%2Fcustom_14.-%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%DA%86%D9%86%D9%84%20%D9%85%D8%A7https%3A%2F%2Ft.me%2Fcustom_14
 ss://94e00788-9664-4ff5-7943-3a7166b4f2df@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=dns.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.darafiq.ir#%F0%9F%87%AE%F0%9F%87%B770825%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 ss://95e118b4-4352-4218-8493-f20cc7fc467a@nl08.abvpn.ru:443?path=%2Fwebsocket&security=tls&encryption=none&&type=ws&&sni=nl08.abvpn.ru#https://t.me/ShadowsocksM102
-ss://9627f554-a1d9-4f4e-bee4-4c8d07a56ada@snapp.ir:8080/?type=ws&encryption=none&path=/ray&host=dwn.budgetnet.ir&security=none#Shdo-t.me/MdProxyi
 ss://97aaeab2-f8a7-4ec7-b9e2-c5cac9559083@snapp.ir:80?security=none&encryption=none&headerType=none&type=tcp#t.me/ConfigFori
 ss://983da2df-bc52-4226-84c1-bbfef0704427@016fab73dd0e5521.freestly.sapienza-mahan.ir:443?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=nazan-baba-z1.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=speedtest.net#t.me/ConfigFori
 ss://990f5f4d-5568-4e0a-96bf-2d86270d8fbf@65.109.241.111:443?type=tcp&path=%2F&host=zula.ir&headerType=http#https%3A%2F%2Ft.me%2Fcustom_14.-%DA%86%D9%86%D9%84%20%D9%85%D8%A7https%3A%2F%2Ft.me%2Fcustom_14
@@ -274,7 +272,6 @@ ss://cabbfe13-038b-4dbb-9c45-5079c829abfa@104.26.15.16:8080?path=/&security=none
 ss://cabbfe13-038b-4dbb-9c45-5079c829abfa@104.26.15.16:8080?security=&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#https://t.me/ShadowsocksM16
 ss://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80/?type=ws&encryption=none&flow=&host=max-gb1.global.ssl.fastly.net&path=%2F&packetEncoding=xudp#%E2%98%81%EF%B8%8F%20%F0%9F%87%A9%F0%9F%87%AA01%20https%3A%2F%2Ft.me%2Finikotesla
 ss://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.109.223:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#https://t.me/ShadowsocksM174
-ss://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.66.219:80?encryption=none&type=ws&path=/&host=max-gb1.global.ssl.fastly.net#4https://t.me/ConfigX2ray
 ss://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.66.219:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&fp=chrome&type=ws#https://t.me/ShadowsocksM173
 ss://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#https://t.me/ShadowsocksM166
 ss://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#https://t.me/v2rayNplus
@@ -558,7 +555,6 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca28.myfymain.com:8880?mode=gun&se
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca30.mysilipdir.com:8880?mode=gun&security=&encryption=none&type=grpc#https://t.me/ShadowsocksM14
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca30.mysilipdir.com:8880?mode=gun&security=&encryption=none&type=grpc&sni=sca30.mysilipdir.com#https://t.me/ShadowsocksM30
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca30.mysilipdir.com:8880?mode=gun&security=&encryption=none&type=grpc&sni=sca30.mysilipdir.com#https://t.me/v2raynplus
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca34.mysilipdir.com:8880?encryption=none&type=grpc&mode=gun#1https://t.me/ConfigX2ray
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca34.mysilipdir.com:8880?mode=gun&security=&encryption=none&type=grpc#https://t.me/ShadowsocksM74
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca35.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#https://t.me/ShadowsocksM7
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca37.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#https://t.me/ShadowsocksM77
@@ -576,7 +572,6 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.170:8443?encryption=none&
 vless://934943ff-bc93-4715-ed3c-c7b33cdedb40@65.109.241.111:443?type=tcp&path=%2F&host=zula.ir&headerType=http#https%3A%2F%2Ft.me%2Fcustom_14.-%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%DA%86%D9%86%D9%84%20%D9%85%D8%A7https%3A%2F%2Ft.me%2Fcustom_14
 vless://94e00788-9664-4ff5-7943-3a7166b4f2df@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=dns.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.darafiq.ir#%F0%9F%87%AE%F0%9F%87%B770825%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 vless://95e118b4-4352-4218-8493-f20cc7fc467a@nl08.abvpn.ru:443?path=%2Fwebsocket&security=tls&encryption=none&&type=ws&&sni=nl08.abvpn.ru#https://t.me/ShadowsocksM102
-vless://9627f554-a1d9-4f4e-bee4-4c8d07a56ada@snapp.ir:8080/?type=ws&encryption=none&path=/ray&host=dwn.budgetnet.ir&security=none#Shdo-t.me/MdProxyi
 vless://97aaeab2-f8a7-4ec7-b9e2-c5cac9559083@snapp.ir:80?security=none&encryption=none&headerType=none&type=tcp#t.me/ConfigFori
 vless://983da2df-bc52-4226-84c1-bbfef0704427@016fab73dd0e5521.freestly.sapienza-mahan.ir:443?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=nazan-baba-z1.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=speedtest.net#t.me/ConfigFori
 vless://990f5f4d-5568-4e0a-96bf-2d86270d8fbf@65.109.241.111:443?type=tcp&path=%2F&host=zula.ir&headerType=http#https%3A%2F%2Ft.me%2Fcustom_14.-%DA%86%D9%86%D9%84%20%D9%85%D8%A7https%3A%2F%2Ft.me%2Fcustom_14
@@ -650,7 +645,6 @@ vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@104.26.15.16:8080?path=/&security=n
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@104.26.15.16:8080?security=&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#https://t.me/ShadowsocksM16
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80/?type=ws&encryption=none&flow=&host=max-gb1.global.ssl.fastly.net&path=%2F&packetEncoding=xudp#%E2%98%81%EF%B8%8F%20%F0%9F%87%A9%F0%9F%87%AA01%20https%3A%2F%2Ft.me%2Finikotesla
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.109.223:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#https://t.me/ShadowsocksM174
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.66.219:80?encryption=none&type=ws&path=/&host=max-gb1.global.ssl.fastly.net#4https://t.me/ConfigX2ray
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.66.219:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&fp=chrome&type=ws#https://t.me/ShadowsocksM173
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#https://t.me/ShadowsocksM166
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#https://t.me/v2rayNplus
