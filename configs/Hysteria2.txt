@@ -54,6 +54,7 @@ hysteria2://5z15av99psrlhdqp@32.195.51.20:39150?insecure=0&sni=32.195.51.20&obfs
 hysteria2://5z15av99psrlhdqp@32.195.51.20:39150?security=tls&obfs=salamander&obfs-password=dlxmzvxvcp3i6v0e&insecure=0&sni=32.195.51.20#
 hysteria2://5z15av99psrlhdqp@32.195.51.20:39150?sni=32.195.51.20&insecure=0&obfs=salamander#
 hysteria2://71b0bd15-a03a-481e-a52d-74042c8db157@103.88.241.133:8443?headerType=none&encryption=none&sni=slopllex.app&insecure=0#
+hysteria2://71b0bd15-a03a-481e-a52d-74042c8db157@103.88.241.133:8443?insecure=0&security=tls&sni=slopllex.app#
 hysteria2://71b0bd15-a03a-481e-a52d-74042c8db157@103.88.241.133:8443?insecure=0&sni=slopllex.app#
 hysteria2://71b0bd15-a03a-481e-a52d-74042c8db157@103.88.241.133:8443?insecure=0&sni=slopllex.app#%E5%8D%B0%E5%BA%A6%20V2CROSS.COM
 hysteria2://71b0bd15-a03a-481e-a52d-74042c8db157@103.88.241.133:8443?insecure=0&sni=slopllex.app#🌐سرور
@@ -64,7 +65,6 @@ hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056?insecure=1
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055?insecure=1&sni=xjp1.mangshe.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A11
 hysteria2://83fz46anjge1ntdy@139.59.94.41:443?alpn=h3&fp=firefox&security=tls&sni=139.59.94.41#
 hysteria2://940f51d6-e0a4-4add-b96b-328e4a84b642@140.245.27.220:51000?insecure=1&sni=cn.cremedelamer.com#%E7%BE%8E%E5%9B%BD%20%E6%95%99%E8%82%B2%E7%BD%91
-hysteria2://940f51d6-e0a4-4add-b96b-328e4a84b642@140.245.27.220:51000?insecure=1&sni=cn.cremedelamer.com#%F0%9F%87%AE%F0%9F%87%B370942%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/SO...
 hysteria2://940f51d6-e0a4-4add-b96b-328e4a84b642@140.245.27.220:51000?insecure=1&sni=cn.cremedelamer.com#70942%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20-%20t.me%2FSO...
 hysteria2://940f51d6-e0a4-4add-b96b-328e4a84b642@140.245.27.220:51000?insecure=1&sni=cn.cremedelamer.com#9%7C%F0%9F%87%AE%F0%9F%87%B370942%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20-%20t.me%2FSO...
 hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1#JP
@@ -110,7 +110,6 @@ hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?insecure=0&sni=se.esimpson.org
 hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?obfs=salamander&obfs-password=EsimObfs_9mK2x7&sni=se.esimpson.org#%F0%9F%87%B8%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%91%9E%E5%85%B8%2001
 hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?security=tls&obfs=salamander&obfs-password=EsimObfs_9mK2x7&insecure=0&sni=se.esimpson.org#
 hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?security=tls&obfs=salamander&obfs-password=EsimObfs_9mK2x7&insecure=0&sni=se.esimpson.org#%40V2rayNGVPN%20%3E%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@pl-tor.pvdata.host:1080#%40V2rayNGVPN%20%3E%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?security=tls&obfs=salamander&obfs-password=EsimObfs_9mK2x7&insecure=0&sni=se.esimpson.org#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%
 hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?security=tls&obfs=salamander&obfs-password=EsimObfs_9mK2x7&insecure=0&sni=se.esimpson.org#@prrofile_purple
 hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?security=tls&obfs=salamander&obfs-password=EsimObfs_9mK2x7&insecure=0&sni=se.esimpson.org#@vmesskhodam
 hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?security=tls&obfs=salamander&obfs-password=EsimObfs_9mK2x7&insecure=0&sni=se.esimpson.org#🇸🇪
@@ -236,6 +235,7 @@ hysteria2://c7166f8f-236b-4fa4-b99c-172813b24f73@31.56.197.205:13337?sni=h2.mtpr
 hysteria2://c7166f8f-236b-4fa4-b99c-172813b24f73@fi-hel-hostvds-05.sssrvpn.pro:13337?sni=h2.mtproxy-hub.org&obfs=salamander&obfs-password=killmebaby#
 hysteria2://c7166f8f-236b-4fa4-b99c-172813b24f73@fi-hel-hostvds-06.sssrvpn.pro:13337?sni=h2.mtproxy-hub.org&obfs=salamander&obfs-password=killmebaby#
 hysteria2://c7166f8f-236b-4fa4-b99c-172813b24f73@fi-hel-hostvds-07.sssrvpn.pro:13337/?obfs=salamander&obfs-password=killmebaby&sni=h2.mtproxy-hub.org#
+hysteria2://d1db0080-669a-4357-ab9f-ab16719ed736@192.9.165.40:51000?allowInsecure=1&insecure=1&security=tls&sni=cn.cremedelamer.com#%E7%BE%8E%E5%9B%BD+Nokia
 hysteria2://dd4xmofilrdbpqwx@696969696969.duckdns.org:443?alpn=h3&fp=chrome&security=tls&sni=104.248.149.145#
 hysteria2://dfbxu5tmmnmf23u5@ger1.riziro.ir:2087?alpn=h2%2Ch3&fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%22xdbc2u01v1j9fhvv%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&fp=chrome&obfs=salamander&obfs-password=xdbc2u01v1j9fhvv&security=tls&sni=ger1.riziro.ir#
 hysteria2://dfbxu5tmmnmf23u5@ger1.riziro.ir:2087?alpn=h2%2Ch3&fp=chrome&sni=ger1.riziro.ir&obfs=salamander&obfs-password=xdbc2u01v1j9fhvv#
@@ -293,3 +293,4 @@ hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?security=tls&obfs=sala
 hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?sni=tunel1.washing.help&insecure=0&obfs=salamander#
 hysteria2://vlxjqoiauby22dvb@n.acp.us.ci:443?security=tls&obfs=salamander&obfs-password=%40arshiacomplus&insecure=0&sni=n.acp.us.ci#
 hysteria2://vlxjqoiauby22dvb@n.acp.us.ci:443?sni=n.acp.us.ci&insecure=0&obfs=salamander#
+hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#
