@@ -4,6 +4,8 @@ ss://0058c215-ab1e-400c-a403-b5b2fda7e846@www.parsvds.com:8080/?type=ws&encrypti
 ss://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?encryption=none&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ACL
 ss://7270612b-49f6-4b04-999c-34d8263da767@162.159.44.45:443?encryption=none&fp=chrome&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ACL
 ss://7270612b-49f6-4b04-999c-34d8263da767@172.64.35.45:443?encryption=none&fp=chrome&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ACL
+ss://7270612b-49f6-4b04-999c-34d8263da767@188.114.97.6:443?path=%2Faymdlws&security=tls&encryption=none&insecure=0&host=picassooo.info&type=ws&allowInsecure=0&sni=picassooo.info#%3E%3E%40ShadowsocksM%3A%3ACL
+ss://7270612b-49f6-4b04-999c-34d8263da767@199.181.197.46:443?path=%2Faymdlws&security=tls&encryption=none&insecure=0&host=picassooo.info&fp=chrome&type=ws&allowInsecure=0&sni=picassooo.info#%3E%3E%40ShadowsocksM%3A%3ACL
 ss://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?encryption=none&fp=chrome&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ACL
 ss://cabbfe13-038b-4dbb-9c45-5079c829abfa@104.16.0.0:8080/?type=ws&encryption=none&host=tr-cd.sublink-vip2.com&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE7%7C24.8MB%2Fs%7CGPT%E2%81%BA-DE%7CGM-DE%7CCL-DE%7CSP-DE
 ss://cabbfe13-038b-4dbb-9c45-5079c829abfa@104.21.65.173:8080/?type=ws&encryption=none&host=tr-cd.sublink-vip2.com&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE4%7C27.8MB%2Fs%7CGPT%E2%81%BA-DE%7CGM-DE%7CCL-DE%7CSP-DE
@@ -18,6 +20,8 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.parsvds.com:8080/?type=ws&encry
 vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?encryption=none&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ACL
 vless://7270612b-49f6-4b04-999c-34d8263da767@162.159.44.45:443?encryption=none&fp=chrome&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ACL
 vless://7270612b-49f6-4b04-999c-34d8263da767@172.64.35.45:443?encryption=none&fp=chrome&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ACL
+vless://7270612b-49f6-4b04-999c-34d8263da767@188.114.97.6:443?path=%2Faymdlws&security=tls&encryption=none&insecure=0&host=picassooo.info&type=ws&allowInsecure=0&sni=picassooo.info#%3E%3E%40ShadowsocksM%3A%3ACL
+vless://7270612b-49f6-4b04-999c-34d8263da767@199.181.197.46:443?path=%2Faymdlws&security=tls&encryption=none&insecure=0&host=picassooo.info&fp=chrome&type=ws&allowInsecure=0&sni=picassooo.info#%3E%3E%40ShadowsocksM%3A%3ACL
 vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?encryption=none&fp=chrome&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ACL
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@104.16.0.0:8080/?type=ws&encryption=none&host=tr-cd.sublink-vip2.com&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE7%7C24.8MB%2Fs%7CGPT%E2%81%BA-DE%7CGM-DE%7CCL-DE%7CSP-DE
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@104.21.65.173:8080/?type=ws&encryption=none&host=tr-cd.sublink-vip2.com&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE4%7C27.8MB%2Fs%7CGPT%E2%81%BA-DE%7CGM-DE%7CCL-DE%7CSP-DE
