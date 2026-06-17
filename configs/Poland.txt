@@ -18,6 +18,7 @@ ss://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?type=tcp&encryption=no
 ss://7a5cd520-f42a-5190-802f-d2cf86772c95@193.200.16.127:2052?encryption=none&type=ws&path=%2Fvless#PL🇵🇱
 ss://7a5cd520-f42a-5190-802f-d2cf86772c95@193.200.16.127:2052?path=%2Fvless&security=&encryption=none&type=ws#%3E%3E%40ShadowsocksM%3A%3APL
 ss://84539eef-b551-4d41-b85f-4b07c83db922@pl-2.pandaonline.org:443?security=reality&encryption=none&pbk=8nKH8G-zPFcTUegyTT_bwRkSGR4ZTvWPXGEMHS_4JxQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl-2.pandaonline.org#REALITY|PL🇵🇱
+ss://8553ae90-2a81-493a-b050-8ee79c8dbe4c@85.158.109.113:443?mode=auto&path=/tDjkeuxyQPUDqF8wT2&security=reality&encryption=none&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&fp=chrome&allowinsecure=0&type=xhttp&sni=www.kinopoisk.ru&sid=aabbccdd#🇵🇱PL-🚀@VPNine1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCVEgzS1dyQ0FSY0ZYRkpmS3AxUE4wY1NEWjVIMzNwUA==@poland.vpnserverhub.com:1234#PL%F0%9F%87%B5%F0%9F%87%B1+%7C+poland.vpnserverhub.com-1234+%7C+233.66ms
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@217.30.10.68:9031#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7703
 ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@217.30.10.68:9019#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7694
@@ -28,7 +29,6 @@ ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@217.30.10.68:9014#%F0%9F%87%B5%F0%
 ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@217.30.10.68:9043#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7700
 ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@217.30.10.68:9045#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7696
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@217.30.10.68:9011#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7697
-ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA==@217.30.10.70:9046#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-0244
 ss://YWVzLTI1Ni1jZmI6U0JNN1I4ODNqQm1ucWU2Qw==@217.30.10.68:9053#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7711
 ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@217.30.10.68:9097#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7710
 ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA@217.30.10.70:9097#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-0381
@@ -74,10 +74,7 @@ ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8881#%F0%9F%87%B5%F0%9F%8
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8882#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-1771
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@51.77.53.200:4444#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-1763
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.77.53.200:6379#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-1762
-ss://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#🇵🇱PL-🚀@VPNine1
-ss://a8160c2f-561b-4849-83d2-9900d1442c74@45.144.50.212:443?security=reality&encryption=none&pbk=MlXt3-f7eUcUBoZgCOEKCO0vi0idFZ_0XTlzpF0TIzI&fp=chrome&type=grpc&sni=ads.x5.ru#🇵🇱PL-🚀@VPNine1
 ss://dd9b5b35-c3bb-4e26-8b26-daedffcb3921@45.140.204.119:443/?type=raw&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=vl5WQd9UDA3DvLxPPS1yF9ivUipxkxoxhaBRHpnyLho&sid=67fb#-%3EPL%2B%28%40DeamNet_Proxy%29%20%281%29
-ss://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.103:4443?security=&encryption=none&type=grpc#🇵🇱PL-🚀@VPNine1
 ss://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.104:4443?encryption=none&security=none&type=grpc#PL🇵🇱
 ss://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.107:4443?encryption=none&security=none&type=grpc#PL🇵🇱
 ss://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.98:4443?encryption=none&security=none&type=grpc#PL🇵🇱
@@ -114,10 +111,8 @@ vless://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?type=tcp&encryption
 vless://7a5cd520-f42a-5190-802f-d2cf86772c95@193.200.16.127:2052?encryption=none&type=ws&path=%2Fvless#PL🇵🇱
 vless://7a5cd520-f42a-5190-802f-d2cf86772c95@193.200.16.127:2052?path=%2Fvless&security=&encryption=none&type=ws#%3E%3E%40ShadowsocksM%3A%3APL
 vless://84539eef-b551-4d41-b85f-4b07c83db922@pl-2.pandaonline.org:443?security=reality&encryption=none&pbk=8nKH8G-zPFcTUegyTT_bwRkSGR4ZTvWPXGEMHS_4JxQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl-2.pandaonline.org#REALITY|PL🇵🇱
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#🇵🇱PL-🚀@VPNine1
-vless://a8160c2f-561b-4849-83d2-9900d1442c74@45.144.50.212:443?security=reality&encryption=none&pbk=MlXt3-f7eUcUBoZgCOEKCO0vi0idFZ_0XTlzpF0TIzI&fp=chrome&type=grpc&sni=ads.x5.ru#🇵🇱PL-🚀@VPNine1
+vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@85.158.109.113:443?mode=auto&path=/tDjkeuxyQPUDqF8wT2&security=reality&encryption=none&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&fp=chrome&allowinsecure=0&type=xhttp&sni=www.kinopoisk.ru&sid=aabbccdd#🇵🇱PL-🚀@VPNine1
 vless://dd9b5b35-c3bb-4e26-8b26-daedffcb3921@45.140.204.119:443/?type=raw&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=vl5WQd9UDA3DvLxPPS1yF9ivUipxkxoxhaBRHpnyLho&sid=67fb#-%3EPL%2B%28%40DeamNet_Proxy%29%20%281%29
-vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.103:4443?security=&encryption=none&type=grpc#🇵🇱PL-🚀@VPNine1
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.104:4443?encryption=none&security=none&type=grpc#PL🇵🇱
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.107:4443?encryption=none&security=none&type=grpc#PL🇵🇱
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.98:4443?encryption=none&security=none&type=grpc#PL🇵🇱
