@@ -12,6 +12,7 @@ ss://2864749a-b45d-52c3-0f36-e64224f5480f@188.166.176.63:443/?type=raw&encryptio
 ss://317c8bd5-2e89-4bfb-9513-a37b8e29427f@cms.umtheme.com:443?path=%2F19426%2Fmmad&security=tls&encryption=none&insecure=0&host=mail.mmadcoffee.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#SG🇸🇬
 ss://317c8bd5-2e89-4bfb-9513-a37b8e29427f@mail.mmadcoffee.info:443?path=%2F19426%2Fmmad&security=tls&encryption=none&insecure=0&host=mail.mmadcoffee.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#SG🇸🇬
 ss://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#SG🇸🇬
+ss://3fd28704-112e-4451-8c5f-d6657f8ecf44@54.169.248.107:29746?type=tcp&headerType=none&security=reality&encryption=none&sni=www.intel.com&fp=firefox&pbk=s1u_Iy1x_b1Ph9Tp3a7xdekHcbcqGy7VA4BpQtJ-mE0&sid=86c4bf418676a6e2&spx=%2F&flow=xtls-rprx-vision#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:192.26ms
 ss://66031b35-3a36-4fc1-9225-b7c39a7b4453@52.76.240.5:35349?encryption=none&type=tcp&security=reality&headerType=none&sni=www.amazon.com&fp=chrome&insecure=1&allowInsecure=1&pbk=3r4wYm2KaeRLbvchgFhhCNvY1qeM3-fUz91UrX5kry8&sid=4806f5b119797c&flow=xtls-rprx-vision#REALITY|SG🇸🇬
 ss://6f99505678024a1dbff761678e626c3fOg==@52.187.36.104:443#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+52.187.36.104-443+%7C+221.46ms
 ss://70252937-5c61-4fb0-8656-d1a16261b795@188.114.97.6:2096?path=%2Fshalana&security=tls&encryption=none&insecure=0&host=group.shalana.xyz&type=ws&allowInsecure=0&sni=group.shalana.xyz#%3E%3E%40ShadowsocksM%3A%3ASG
@@ -94,8 +95,8 @@ trojan://6f0a9d0fa39d65fa@5.44.249.43:3389?security=tls#%F0%9F%87%B8%F0%9F%87%AC
 trojan://71086710-33eb-11ed-adce-1239d0255272@sg1-trojan.bonds.id:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-103.253.24.212-5037
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@168.138.189.17:28443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-168.138.189.17-2255
 trojan://973ef350-f6a5-11ec-9274-1239d0255272@trojan2.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-128.199.185.211-5034
+trojan://BxceQaOe@16.162.87.106:45744?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://BxceQaOe@16.162.87.106:45744?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
-trojan://BxceQaOe@16.162.87.106:45744?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬[openproxylist.com]trojan-SG
 trojan://BxceQaOe@16.162.87.106:45744?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
 trojan://FLpONjB2Lb@139.162.45.139:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-139.162.45.139-2807
 trojan://IL37892054@engaged-ram.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-54.169.245.181-4495
@@ -125,6 +126,7 @@ vless://2864749a-b45d-52c3-0f36-e64224f5480f@188.166.176.63:443/?type=raw&encryp
 vless://317c8bd5-2e89-4bfb-9513-a37b8e29427f@cms.umtheme.com:443?path=%2F19426%2Fmmad&security=tls&encryption=none&insecure=0&host=mail.mmadcoffee.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#SG🇸🇬
 vless://317c8bd5-2e89-4bfb-9513-a37b8e29427f@mail.mmadcoffee.info:443?path=%2F19426%2Fmmad&security=tls&encryption=none&insecure=0&host=mail.mmadcoffee.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#SG🇸🇬
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#SG🇸🇬
+vless://3fd28704-112e-4451-8c5f-d6657f8ecf44@54.169.248.107:29746?type=tcp&headerType=none&security=reality&encryption=none&sni=www.intel.com&fp=firefox&pbk=s1u_Iy1x_b1Ph9Tp3a7xdekHcbcqGy7VA4BpQtJ-mE0&sid=86c4bf418676a6e2&spx=%2F&flow=xtls-rprx-vision#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:192.26ms
 vless://66031b35-3a36-4fc1-9225-b7c39a7b4453@52.76.240.5:35349?encryption=none&type=tcp&security=reality&headerType=none&sni=www.amazon.com&fp=chrome&insecure=1&allowInsecure=1&pbk=3r4wYm2KaeRLbvchgFhhCNvY1qeM3-fUz91UrX5kry8&sid=4806f5b119797c&flow=xtls-rprx-vision#REALITY|SG🇸🇬
 vless://70252937-5c61-4fb0-8656-d1a16261b795@188.114.97.6:2096?path=%2Fshalana&security=tls&encryption=none&insecure=0&host=group.shalana.xyz&type=ws&allowInsecure=0&sni=group.shalana.xyz#%3E%3E%40ShadowsocksM%3A%3ASG
 vless://75979242-d597-4311-a019-f3735eb3793d@group.shalana.xyz:443?security=tls&allowInsecure=0&encryption=none&type=tcp&sni=aka.ms&fp=chrome&headerType=none&alpn=h2,http/1.1#SG%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%918
