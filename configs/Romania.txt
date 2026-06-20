@@ -165,7 +165,6 @@ ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.170:8443?security=tls&%3Ben
 ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.170:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=qq&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#RO🇷🇴
 ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?allowInsecure=1&encryption=none&security=tls&type=tcp#RO🇷🇴
 ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn3-87.vk-cdnvideo.com&alpn=http%2F1.1&fp=safari&insecure=0&allowInsecure=0#RO🇷🇴
-ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?security=tls&%3Bencryption=none&%3Binsecure=0&%3BheaderType=none&%3Bfp=chrome&%3Btype=tcp&%3BallowInsecure=0&%3Bsni=cdn3-87.vk-cdnvideo.com#%F0%9F%87%B7%F0%9F%87%B4%20RO%20%7C%20VLESS%20%7C%20%40v2rayprotocol%20%231
 ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&fp=safari&type=tcp&sni=cdn3-87.vk-cdnvideo.com#RO🇷🇴
 ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#RO🇷🇴
 ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#RO🇷🇴
@@ -181,10 +180,13 @@ ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=
 ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0#RO🇷🇴
 ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#RO🇷🇴
 ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?security=tls&%3Bencryption=none&%3Binsecure=0&%3BheaderType=none&%3Bfp=chrome&%3Btype=tcp&%3BallowInsecure=0#%F0%9F%87%B7%F0%9F%87%B4%20RO%20%7C%20VLESS%20%7C%20%40v2rayngvpn_1%20%231
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dTJYblNQV2htUWp4bjgzaUpBM0RB@91.208.75.251:3478#%3E%3E%40oneclickvpnkeys%3A%3ARO
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#%F0%9F%87%B7%F0%9F%87%B4RO-194.14.217.115-7754
 ss://c0d445a7-4f33-446f-a113-2180ef25ed2d@64.7.199.242:14342/?type=ws&encryption=none&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3ARO%20%281%29
 ss://d342d11ed4244583b36e524ab1f0afa4Og==@45.85.118.93:2095#RO%F0%9F%87%B7%F0%9F%87%B4+%7C+45.85.118.93-2095+%7C+1.56ms
 ss://eedcee2e-7517-4162-852d-b21b864b8e3f@195.74.93.254:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#REALITY|RO🇷🇴
+trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?allowInsecure=0&sni=www.lateralio.click#%F0%9F%87%B7%F0%9F%87%B4%20%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%20V2CROSS.COM
+trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?security=tls&sni=www.lateralio.click#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
 vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#REALITY|RO🇷🇴
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.104:8443?&security=tls&fp=chrome&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none&path=%2F#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.116:8443?&security=tls&fp=chrome&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none&path=%2F#RO-Bucharest-h-1731996-qdec
@@ -351,7 +353,6 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.170:8443?security=tls&%3
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.170:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=qq&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#RO🇷🇴
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?allowInsecure=1&encryption=none&security=tls&type=tcp#RO🇷🇴
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn3-87.vk-cdnvideo.com&alpn=http%2F1.1&fp=safari&insecure=0&allowInsecure=0#RO🇷🇴
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?security=tls&%3Bencryption=none&%3Binsecure=0&%3BheaderType=none&%3Bfp=chrome&%3Btype=tcp&%3BallowInsecure=0&%3Bsni=cdn3-87.vk-cdnvideo.com#%F0%9F%87%B7%F0%9F%87%B4%20RO%20%7C%20VLESS%20%7C%20%40v2rayprotocol%20%231
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&fp=safari&type=tcp&sni=cdn3-87.vk-cdnvideo.com#RO🇷🇴
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#RO🇷🇴
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#RO🇷🇴
