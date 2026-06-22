@@ -22,12 +22,10 @@ ss://ff76c582-77fa-4840-9247-729076fbab29@45.141.119.16:443?security=reality&enc
 ss://ff76c582-77fa-4840-9247-729076fbab29@45.141.119.16:443?security=reality&encryption=none&pbk=1Txlqu4hCFzUPBSO6anONR0ql930aitMuh4ZcsJcxm4&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ch-zrh-1.blook.network&sid=f7ef1b05#👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Bern🅿️ping:31ms
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:45553?sni=ch.01.naiun.bilibili.com#%F0%9F%87%A8%F0%9F%87%ADCH%E7%91%9E%E5%A3%AB
 trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-152.67.71.149-2145
-trojan://SoftNetConnect@37.156.45.237:2087?mode=gun&security=reality&authority=185.204.169.129&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&fp=chrome&spx=/&type=grpc&sni=www.yahoo.com&sid=96a17085678b#🇨🇭CH-🚀@VPNine1
 trojan://SoftNetConnect@37.156.45.237:2087?type=grpc&security=reality&authority=185.204.169.129&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&sid=96a17085678b&spx=%2F#👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Geneva🅿️ping:50.85ms
-trojan://SoftNetConnect@37.156.45.237:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#🇨🇭CH-🚀@VPNine1
+trojan://SoftNetConnect@37.156.45.237:42549?allowInsecure=1&sni=www.speedtest.net#%E7%91%9E%E5%A3%AB%20-%20Les%20Acacias%20-%201
 trojan://SoftNetConnect@37.156.45.237:443?mode=auto&path=%2F&security=reality&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=141b14d8#👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Geneva🅿️ping:43ms
 trojan://SoftNetConnect@37.156.45.237:443?type=xhttp&security=reality&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&sid=141b14d8&spx=%2F#👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Geneva🅿️ping:42.8ms
-trojan://SoftNetConnect@37.156.45.237:8443?security=reality&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&headerType=none&fp=chrome&spx=/&type=tcp&sni=play.google.com&sid=c7#🇨🇭CH-🚀@VPNine1
 trojan://SoftNetConnect@37.156.45.237:8443?type=tcp&security=reality&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&sid=c7&spx=%2F#👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Geneva🅿️ping:50.19ms
 trojan://SoftNetConnect@83.228.224.161:42549?allowInsecure=1&sni=www.speedtest.net#🇨🇭[openproxylist.com]trojan-CH
 trojan://SoftNetConnect@83.228.224.161:42549?security=tls&sni=www.speedtest.net#%F0%9F%87%A8%F0%9F%87%ADCH-83.228.224.161-1604

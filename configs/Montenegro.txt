@@ -16,7 +16,6 @@ ss://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80?path=%2F&security=&
 ss://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws&sni=max-gb1.global.ssl.fastly.net#https://t.me/ShadowsocksM169
 ss://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%F0%9F%87%BA%F0%9F%87%B881029%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 ss://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%F0%9F%87%BA%F0%9F%87%B881029%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2Fconfigraygan
-ss://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#https://t.me/v2rayNplus
 ss://0058c215-ab1e-400c-a403-b5b2fda7e846@172.67.69.236:8080?path=%2F&security=&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#https://t.me/ShadowsocksM61
 ss://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=%2F&security=&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#https://t.me/ShadowsocksM43
 ss://0058c215-ab1e-400c-a403-b5b2fda7e846@www.parsvds.com:8080?path=%2F&security=&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#https://t.me/ShadowsocksM143
@@ -80,7 +79,6 @@ ss://36a41d68-7ee1-4eac-80de-76848f5879da@s2.meoshop.ir:2053?mode=auto&path=/&se
 ss://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?security=&encryption=none&type=ws#https://t.me/ShadowsocksM139
 ss://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.10:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#https://t.me/ShadowsocksM87
 ss://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.11:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#https://t.me/ShadowsocksM90
-ss://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.130:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=ams1.fromblancwithlove.com&fp=chrome&insecure=1&allowInsecure=1#4https://t.me/FREE_VPN02
 ss://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.130:8443?security=tls&encryption=none&&headerType=none&fp=chrome&type=tcp&&sni=ams1.fromblancwithlove.com#https://t.me/ShadowsocksM4
 ss://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.149:8443?security=tls&encryption=none&&headerType=none&type=tcp&&sni=ams1.fromblancwithlove.com#https://t.me/ShadowsocksM1
 ss://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.183:8443?security=tls&encryption=none&&headerType=none&type=tcp&&sni=ams1.fromblancwithlove.com#https://t.me/ShadowsocksM109
@@ -180,6 +178,8 @@ ss://6253100c-3ff4-42d9-b183-7fe46e5a9039@global.cloud-play.ir:80?mode=auto&path
 ss://6253100c-3ff4-42d9-b183-7fe46e5a9039@local.cloud-play.ir:80?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&type=xhttp#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me%2FConfigV2RayNG
 ss://6253100c-3ff4-42d9-b183-7fe46e5a9039@mci.cloud-play.ir:80?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&type=xhttp#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me%2FConfigV2RayNG
 ss://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?security=reality&encryption=none&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=15052edc8120b63d#%5B%F0%9F%87%AA%F0%9F%87%B8%5Dt.me%2FConfigV2RayNG
+ss://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?security=reality&encryption=none&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=15052edc8120b63d#[🇪🇸]t.me/TEHRANARGO
+ss://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?security=reality&encryption=none&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=15052edc8120b63d#[🇪🇸]t.me/configprxy
 ss://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?security=reality&encryption=none&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=15052edc8120b63d&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇪🇸]t.me/Raiv2mmr
 ss://62a1c62a-99bf-466e-8270-0aa37fb74be0@104.247.189.230:8443?security=reality&encryption=none&pbk=DGsei9cK5PqALlHa6zaFx82PWRvEK_9-D9TtyiDeNRs&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.microsoft.com#https://t.me/v2rayNplus
 ss://62d26257-546d-a267-c4f1-fb19de937929@151.101.109.223:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=wwwfgggffffii.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#https://t.me/ShadowsocksM112
@@ -278,19 +278,9 @@ ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca8.myfymain.com:8880?mode=gun&securi
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca8.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AE%F0%9F%87%B980998%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 ss://92e400bc-6590-442e-e40e-4deb818b894b@88.135.43.117:249?security=none&encryption=none&host=uk4cdmo5.divarcdn.com%2C+uk4cdmo5.tic.ir%2C+uk4cdmo5.soft98.ir%2C+uk4cdmo5.irib.ir%2C+uk4cdmo5.splus.ir&headerType=http&type=tcp#%2824571%29t.me%2Fshadowlinkserverr
 ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.199:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#VLESS%2026%20t.me%2FiProxyChannel
-ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.132:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn7-39.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0#8https://t.me/FREE_VPN02
 ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.132:8443?security=tls&encryption=none&insecure=0&host=@v2rayNplus@v2rayNplus@v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#https://t.me/v2raynplus
 ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.133:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#https://t.me/v2raynplus
-ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.134:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn7-09.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0#9https://t.me/FREE_VPN02
-ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.138:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn7-09.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0#11https://t.me/FREE_VPN02
-ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.139:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn3-87.vk-cdnvideo.com&fp=chrome&insecure=1&allowInsecure=1#1https://t.me/FREE_VPN02
 ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.144:8443?security=tls&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&allowInsecure=0&sni=cdn9-33.vk-cdnvideo.com#https://t.me/v2rayNplus
-ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.67:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn9-33.vk-cdnvideo.com&fp=chrome&insecure=1&allowInsecure=1#6https://t.me/FREE_VPN02
-ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.71:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn3-87.vk-cdnvideo.com&insecure=1&allowInsecure=1#12https://t.me/FREE_VPn02
-ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.162:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn7-39.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0#7https://t.me/FREE_VPN02
-ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.165:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn3-87.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0#3https://t.me/FREE_VPN02
-ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.167:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn7-09.vk-cdnvideo.com&insecure=0&allowInsecure=0#10https://t.me/FREE_VPN02
-ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.176:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn3-87.vk-cdnvideo.com&fp=chrome&insecure=1&allowInsecure=1#2https://t.me/FREE_VPN02
 ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.109:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn9-33.vk-cdnvideo.com#VLESS%2033%20t.me%2FiProxyChannel
 ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.166:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#VLESS%2040%20t.me%2FiProxyChannel
 ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.170:8443?security=tls&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#https://t.me/v2rayNplus
@@ -309,7 +299,6 @@ ss://9a1ca418-134f-4750-b97a-55ea81135742@140.248.185.253:443?path=/&security=tl
 ss://9a1ca418-134f-4750-b97a-55ea81135742@167.82.101.251:443?path=/&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#https://t.me/mtmvpn
 ss://9b02c0ee-3a79-4914-90a5-a0a05d805337@check03.allenshop2024.ir:8443?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=b7b70c104ad267b8#%F0%9F%87%A9%F0%9F%87%AA81033%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2Fconfigraygan
 ss://9bccefee-13d9-4005-8cc4-c3fe3af87ed6@38.180.104.124:49709/?type=ws&encryption=none&path=%2F#https%3A%2F%2Ft.me%2Fv2rayNplus%20%2821%29
-ss://9bccefee-13d9-4005-8cc4-c3fe3af87ed6@38.180.104.124:49709?path=/&security=none&encryption=none&type=ws#https://t.me/v2rayNplus
 ss://9c8bf6ca-5b56-4f0b-ba22-a2ecd0282daf@193.228.169.221:443?security=reality&encryption=none&pbk=gJjDGu05qCVpcJMcBJKwNmUgueWgr9-6SdTrZieuVwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aparat.com&sid=6186#https://t.me/mtmvpn
 ss://9c8bf6ca-5b56-4f0b-ba22-a2ecd0282daf@host.rent-home-now.com:443?security=reality&encryption=none&pbk=gJjDGu05qCVpcJMcBJKwNmUgueWgr9-6SdTrZieuVwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aparat.com&sid=6186#https://t.me/ShadowsocksM49
 ss://9c8bf6ca-5b56-4f0b-ba22-a2ecd0282daf@host.rent-home-now.com:443?security=reality&encryption=none&pbk=gJjDGu05qCVpcJMcBJKwNmUgueWgr9-6SdTrZieuVwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aparat.com&sid=6186#https://t.me/v2raynplus
@@ -464,7 +453,6 @@ ss://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80/?type=ws&encryption=non
 ss://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.109.223:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#https://t.me/ShadowsocksM174
 ss://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.66.219:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&fp=chrome&type=ws#https://t.me/ShadowsocksM173
 ss://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#https://t.me/ShadowsocksM166
-ss://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#https://t.me/v2rayNplus
 ss://cabbfe13-038b-4dbb-9c45-5079c829abfa@www.speedtest.org:8080?path=%2F&security=&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#https://t.me/ShadowsocksM180
 ss://cb1c797b-72e1-44ef-8f93-b740775056bb@169.40.32.242:8080?path=%2FPath&security=&encryption=none&host=169.40.32.242&type=ws#https://t.me/ShadowsocksM13
 ss://cb7b5122-7030-4d3d-9590-da00fafe1c05@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#%5B%F0%9F%8F%81%5Dt.me%2FConfigV2RayNG
@@ -595,8 +583,6 @@ trojan://telegram-id-privatevpns@13.37.68.185:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@13.38.144.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.38.243.193:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.226.23:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@15.188.169.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@15.188.182.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.224.37.193:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.224.63.38:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B781003%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 trojan://telegram-id-privatevpns@15.224.63.38:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B781003%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2Fconfigraygan
@@ -606,7 +592,6 @@ trojan://telegram-id-privatevpns@15.224.75.26:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@3.120.67.79:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.126.148.235:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.69.117.42:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@3.70.56.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.158.190.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.236.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.86.50:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
@@ -632,7 +617,6 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80?path=%2F&securit
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws&sni=max-gb1.global.ssl.fastly.net#https://t.me/ShadowsocksM169
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%F0%9F%87%BA%F0%9F%87%B881029%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%F0%9F%87%BA%F0%9F%87%B881029%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2Fconfigraygan
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#https://t.me/v2rayNplus
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@172.67.69.236:8080?path=%2F&security=&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#https://t.me/ShadowsocksM61
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=%2F&security=&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#https://t.me/ShadowsocksM43
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.parsvds.com:8080?path=%2F&security=&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#https://t.me/ShadowsocksM143
@@ -696,7 +680,6 @@ vless://36a41d68-7ee1-4eac-80de-76848f5879da@s2.meoshop.ir:2053?mode=auto&path=/
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?security=&encryption=none&type=ws#https://t.me/ShadowsocksM139
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.10:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#https://t.me/ShadowsocksM87
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.11:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#https://t.me/ShadowsocksM90
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.130:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=ams1.fromblancwithlove.com&fp=chrome&insecure=1&allowInsecure=1#4https://t.me/FREE_VPN02
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.130:8443?security=tls&encryption=none&&headerType=none&fp=chrome&type=tcp&&sni=ams1.fromblancwithlove.com#https://t.me/ShadowsocksM4
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.149:8443?security=tls&encryption=none&&headerType=none&type=tcp&&sni=ams1.fromblancwithlove.com#https://t.me/ShadowsocksM1
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.183:8443?security=tls&encryption=none&&headerType=none&type=tcp&&sni=ams1.fromblancwithlove.com#https://t.me/ShadowsocksM109
@@ -796,6 +779,8 @@ vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@global.cloud-play.ir:80?mode=auto&p
 vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@local.cloud-play.ir:80?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&type=xhttp#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me%2FConfigV2RayNG
 vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@mci.cloud-play.ir:80?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&type=xhttp#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me%2FConfigV2RayNG
 vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?security=reality&encryption=none&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=15052edc8120b63d#%5B%F0%9F%87%AA%F0%9F%87%B8%5Dt.me%2FConfigV2RayNG
+vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?security=reality&encryption=none&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=15052edc8120b63d#[🇪🇸]t.me/TEHRANARGO
+vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?security=reality&encryption=none&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=15052edc8120b63d#[🇪🇸]t.me/configprxy
 vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?security=reality&encryption=none&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=15052edc8120b63d&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇪🇸]t.me/Raiv2mmr
 vless://62a1c62a-99bf-466e-8270-0aa37fb74be0@104.247.189.230:8443?security=reality&encryption=none&pbk=DGsei9cK5PqALlHa6zaFx82PWRvEK_9-D9TtyiDeNRs&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.microsoft.com#https://t.me/v2rayNplus
 vless://62d26257-546d-a267-c4f1-fb19de937929@151.101.109.223:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=wwwfgggffffii.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#https://t.me/ShadowsocksM112
@@ -894,19 +879,9 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca8.myfymain.com:8880?mode=gun&sec
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca8.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AE%F0%9F%87%B980998%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 vless://92e400bc-6590-442e-e40e-4deb818b894b@88.135.43.117:249?security=none&encryption=none&host=uk4cdmo5.divarcdn.com%2C+uk4cdmo5.tic.ir%2C+uk4cdmo5.soft98.ir%2C+uk4cdmo5.irib.ir%2C+uk4cdmo5.splus.ir&headerType=http&type=tcp#%2824571%29t.me%2Fshadowlinkserverr
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.199:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#VLESS%2026%20t.me%2FiProxyChannel
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.132:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn7-39.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0#8https://t.me/FREE_VPN02
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.132:8443?security=tls&encryption=none&insecure=0&host=@v2rayNplus@v2rayNplus@v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#https://t.me/v2raynplus
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.133:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#https://t.me/v2raynplus
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.134:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn7-09.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0#9https://t.me/FREE_VPN02
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.138:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn7-09.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0#11https://t.me/FREE_VPN02
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.139:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn3-87.vk-cdnvideo.com&fp=chrome&insecure=1&allowInsecure=1#1https://t.me/FREE_VPN02
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.144:8443?security=tls&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&allowInsecure=0&sni=cdn9-33.vk-cdnvideo.com#https://t.me/v2rayNplus
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.67:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn9-33.vk-cdnvideo.com&fp=chrome&insecure=1&allowInsecure=1#6https://t.me/FREE_VPN02
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.71:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn3-87.vk-cdnvideo.com&insecure=1&allowInsecure=1#12https://t.me/FREE_VPn02
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.162:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn7-39.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0#7https://t.me/FREE_VPN02
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.165:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn3-87.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0#3https://t.me/FREE_VPN02
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.167:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn7-09.vk-cdnvideo.com&insecure=0&allowInsecure=0#10https://t.me/FREE_VPN02
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.176:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn3-87.vk-cdnvideo.com&fp=chrome&insecure=1&allowInsecure=1#2https://t.me/FREE_VPN02
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.109:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn9-33.vk-cdnvideo.com#VLESS%2033%20t.me%2FiProxyChannel
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.166:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#VLESS%2040%20t.me%2FiProxyChannel
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.170:8443?security=tls&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#https://t.me/v2rayNplus
@@ -925,7 +900,6 @@ vless://9a1ca418-134f-4750-b97a-55ea81135742@140.248.185.253:443?path=/&security
 vless://9a1ca418-134f-4750-b97a-55ea81135742@167.82.101.251:443?path=/&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#https://t.me/mtmvpn
 vless://9b02c0ee-3a79-4914-90a5-a0a05d805337@check03.allenshop2024.ir:8443?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=b7b70c104ad267b8#%F0%9F%87%A9%F0%9F%87%AA81033%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2Fconfigraygan
 vless://9bccefee-13d9-4005-8cc4-c3fe3af87ed6@38.180.104.124:49709/?type=ws&encryption=none&path=%2F#https%3A%2F%2Ft.me%2Fv2rayNplus%20%2821%29
-vless://9bccefee-13d9-4005-8cc4-c3fe3af87ed6@38.180.104.124:49709?path=/&security=none&encryption=none&type=ws#https://t.me/v2rayNplus
 vless://9c8bf6ca-5b56-4f0b-ba22-a2ecd0282daf@193.228.169.221:443?security=reality&encryption=none&pbk=gJjDGu05qCVpcJMcBJKwNmUgueWgr9-6SdTrZieuVwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aparat.com&sid=6186#https://t.me/mtmvpn
 vless://9c8bf6ca-5b56-4f0b-ba22-a2ecd0282daf@host.rent-home-now.com:443?security=reality&encryption=none&pbk=gJjDGu05qCVpcJMcBJKwNmUgueWgr9-6SdTrZieuVwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aparat.com&sid=6186#https://t.me/ShadowsocksM49
 vless://9c8bf6ca-5b56-4f0b-ba22-a2ecd0282daf@host.rent-home-now.com:443?security=reality&encryption=none&pbk=gJjDGu05qCVpcJMcBJKwNmUgueWgr9-6SdTrZieuVwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aparat.com&sid=6186#https://t.me/v2raynplus
@@ -1032,7 +1006,6 @@ vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80/?type=ws&encryption=
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.109.223:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#https://t.me/ShadowsocksM174
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.66.219:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&fp=chrome&type=ws#https://t.me/ShadowsocksM173
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#https://t.me/ShadowsocksM166
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#https://t.me/v2rayNplus
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@www.speedtest.org:8080?path=%2F&security=&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#https://t.me/ShadowsocksM180
 vless://cb1c797b-72e1-44ef-8f93-b740775056bb@169.40.32.242:8080?path=%2FPath&security=&encryption=none&host=169.40.32.242&type=ws#https://t.me/ShadowsocksM13
 vless://cb7b5122-7030-4d3d-9590-da00fafe1c05@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#%5B%F0%9F%8F%81%5Dt.me%2FConfigV2RayNG
