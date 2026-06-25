@@ -3,7 +3,6 @@ hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000/?insecure=1&sni=bin
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055?insecure=1&sni=xjp1.mangshe.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A11
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#SG
 ss://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
-ss://275e5518-9097-57bf-3241-8b9f369a115b@underline.xp98.usdtbama.site:3223?security=reality&%3Bencryption=none&%3Bpbk=-g0bzNFN2Of9vbBXL5ZWXQ5GIrwS1uZlFPcmphN0PiI&%3BheaderType=none&%3Bfp=firefox&%3Bspx=/&%3Btype=tcp&%3Bsni=play.google.com&%3Bsid=bbcdcac5#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20VLESS%20%7C%20%40netmellianti%20%231
 ss://2864749a-b45d-52c3-0f36-e64224f5480f@128.199.142.119:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.maybank2u.com.sg&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%283%29
 ss://2864749a-b45d-52c3-0f36-e64224f5480f@152.42.246.121:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.booking.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%286%29
 ss://2864749a-b45d-52c3-0f36-e64224f5480f@157.230.254.149:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.ocbc.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%282%29
@@ -11,7 +10,6 @@ ss://2864749a-b45d-52c3-0f36-e64224f5480f@159.89.198.1:443/?type=raw&encryption=
 ss://2864749a-b45d-52c3-0f36-e64224f5480f@174.138.21.249:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.adobe.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29
 ss://2864749a-b45d-52c3-0f36-e64224f5480f@188.166.176.63:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.alibaba.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%289%29
 ss://317c8bd5-2e89-4bfb-9513-a37b8e29427f@mail.mmadcoffee.info:443?path=%2F19426%2Fmmad&security=tls&encryption=none&insecure=0&host=mail.mmadcoffee.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#SG🇸🇬
-ss://3e7f67de-648e-4871-b51a-a225214d41ee@8.222.179.80:443?&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&fp=chrome&sni=commerce.adobe.com&type=tcp&headerType=none&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1%202
 ss://66031b35-3a36-4fc1-9225-b7c39a7b4453@52.76.240.5:35349?encryption=none&flow=xtls-rprx-vision&fp=&pbk=3r4wYm2KaeRLbvchgFhhCNvY1qeM3-fUz91UrX5kry8&security=reality&sid=4806f5b119797c&sni=www.amazon.com&type=tcp#REALITY|SG🇸🇬
 ss://6f99505678024a1dbff761678e626c3fOg==@52.187.36.104:443#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+52.187.36.104-443+%7C+220.56ms
 ss://74bcfbf9259642438c0f1042e4725ae7Og==@15.235.186.127:80#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+15.235.186.127-80+%7C+222.74ms
@@ -105,7 +103,6 @@ trojan://BxceQaOe@18.166.60.29:41421?allowInsecure=1&sni=t.me%252Fripaojiedian#%
 trojan://BxceQaOe@18.166.60.29:41421?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://FLpONjB2Lb@139.162.45.139:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-139.162.45.139-2934
 trojan://IL37892054@engaged-ram.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-54.169.245.181-4623
-trojan://OccIqeORGQwiNkwS@jpbgp.netvigor.cc:19128?allowInsecure=0&sni=yazhou10.dynu.net#%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://affae2e0-e84b-11ec-b09f-1239d0255272@trojan1.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.51.247-5160
 trojan://ba5b6f1d3a9da87096165da523fb4375@16.162.120.149:6357?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://ba5b6f1d3a9da87096165da523fb4375@16.162.120.149:6357?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
@@ -124,7 +121,6 @@ trojan://mitivpn@27.50.48.49:443?path=/index.html/ed%3Dmitivpn&%3Bsecurity=tls&%
 trojan://mitivpn@27.50.48.49:443?path=/index.html/ed%3Dmitivpn&%3Bsecurity=tls&%3Balpn=http/1.1&%3Binsecure=0&%3Bhost=gamingdll.ir&%3Bfp=chrome&%3Btype=ws&%3BallowInsecure=0&%3Bsni=gamingdll.ir#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20TROJAN%20%7C%20%40nofiltering2%20%231
 trojan://pro@_LlpRWwEh4tRl4cSzc0TZDxM@starlink-sg2.mfa.cat:20000?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-52.77.220.84-4716
 vless://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
-vless://275e5518-9097-57bf-3241-8b9f369a115b@underline.xp98.usdtbama.site:3223?security=reality&%3Bencryption=none&%3Bpbk=-g0bzNFN2Of9vbBXL5ZWXQ5GIrwS1uZlFPcmphN0PiI&%3BheaderType=none&%3Bfp=firefox&%3Bspx=/&%3Btype=tcp&%3Bsni=play.google.com&%3Bsid=bbcdcac5#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20VLESS%20%7C%20%40netmellianti%20%231
 vless://2864749a-b45d-52c3-0f36-e64224f5480f@128.199.142.119:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.maybank2u.com.sg&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%283%29
 vless://2864749a-b45d-52c3-0f36-e64224f5480f@152.42.246.121:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.booking.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%286%29
 vless://2864749a-b45d-52c3-0f36-e64224f5480f@157.230.254.149:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.ocbc.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%282%29
@@ -132,7 +128,6 @@ vless://2864749a-b45d-52c3-0f36-e64224f5480f@159.89.198.1:443/?type=raw&encrypti
 vless://2864749a-b45d-52c3-0f36-e64224f5480f@174.138.21.249:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.adobe.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29
 vless://2864749a-b45d-52c3-0f36-e64224f5480f@188.166.176.63:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.alibaba.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%289%29
 vless://317c8bd5-2e89-4bfb-9513-a37b8e29427f@mail.mmadcoffee.info:443?path=%2F19426%2Fmmad&security=tls&encryption=none&insecure=0&host=mail.mmadcoffee.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#SG🇸🇬
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.222.179.80:443?&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&fp=chrome&sni=commerce.adobe.com&type=tcp&headerType=none&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1%202
 vless://66031b35-3a36-4fc1-9225-b7c39a7b4453@52.76.240.5:35349?encryption=none&flow=xtls-rprx-vision&fp=&pbk=3r4wYm2KaeRLbvchgFhhCNvY1qeM3-fUz91UrX5kry8&security=reality&sid=4806f5b119797c&sni=www.amazon.com&type=tcp#REALITY|SG🇸🇬
 vless://779d227c-f7be-4b9d-a4a9-1197c734b4e7@18.141.49.252:35308/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.tesla.com&fp=firefox&security=reality&pbk=4g1kpdmdbN6aNxeBYMj9WherunH9JSXsI_nKZTDiewE&sid=fef8dcb8cafe30#-%3ESG%2B%28%40DeamNet_Proxy%29%20%2838%29
 vless://9d33dc91-fb84-4f96-d9b1-fe28a230a94f@5.223.42.211:443?security=reality&%3Bencryption=none&%3Bpbk=fXxqq2kGD1gwVUdFEHMtyxDudwQgQRWYz_YM02ONiW8&%3BheaderType=none&%3Bfp=chrome&%3Bspx=/x1&%3Btype=tcp&%3Bsni=www.faceit.com&%3Bsid=f7#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20VLESS%20%7C%20%40v2rayexpress%20%231
