@@ -1,6 +1,6 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-4976
+trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.117:443?security=tls#%E5%B8%8C%E8%85%8A+V2CROSS.COM
 trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.123:443?allowInsecure=0#%E5%B8%8C%E8%85%8A%20V2CROSS.COM%203
-trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.123:443?allowInsecure=0&security=tls#%E5%B8%8C%E8%85%8A+V2CROSS.COM
 trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.123:443?security=tls#%F0%9F%87%AC%F0%9F%87%B7GR%E5%B8%8C%E8%85%8A5%204.2MB%2Fs
 trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.127:443?allowInsecure=0#GR%E5%B8%8C%E8%85%8A3
 trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.127:443?security=tls&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%B7GR%E5%B8%8C%E8%85%8A3
@@ -13,10 +13,11 @@ trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.131:443?#%F0%9F%87%AC%F0%9
 trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.131:443?allowInsecure=0#%F0%9F%87%AC%F0%9F%87%B7%20%E5%B8%8C%E8%85%8A%20V2CROSS.COM
 trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.71:443?#%F0%9F%87%AC%F0%9F%87%B7GR%E5%B8%8C%E8%85%8A6%203.7MB%2Fs
 trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.71:443?allowInsecure=0#%F0%9F%87%AC%F0%9F%87%B7%20%E5%B8%8C%E8%85%8A%20V2CROSS.COM
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.71:443?security=tls#%E5%B8%8C%E8%85%8A+V2CROSS.COM
 trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.87:443?#%F0%9F%87%AC%F0%9F%87%B7GR%E5%B8%8C%E8%85%8A7
 trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.87:443?allowInsecure=0#%F0%9F%87%AC%F0%9F%87%B7%20%E5%B8%8C%E8%85%8A%20V2CROSS.COM
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.87:443?security=tls#%E5%B8%8C%E8%85%8A+V2CROSS.COM
 trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.93:443?allowInsecure=0&sni=92.119.35.93#%E5%B8%8C%E8%85%8A%20V2CROSS.COM%204
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.93:443?security=tls&sni=92.119.35.93#%E5%B8%8C%E8%85%8A+V2CROSS.COM
 trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.93:443?security=tls&sni=92.119.35.93#%F0%9F%87%AC%F0%9F%87%B7GR%E5%B8%8C%E8%85%8A2
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.97:443?security=tls&sni=92.119.35.97&type=tcp#%E5%B8%8C%E8%85%8A+V2CROSS.COM
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.93:443?type=tcp&security=tls&headerType=none&sni=92.119.35.93&insecure=0&allowInsecure=0#%E5%B8%8C%E8%85%8A+V2CROSS.COM
 trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.97:443?security=tls&type=tcp&sni=92.119.35.97#%F0%9F%87%AC%F0%9F%87%B7GR%E5%B8%8C%E8%85%8A8
