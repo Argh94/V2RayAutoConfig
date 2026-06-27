@@ -4,6 +4,8 @@ hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055?insecure=
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#SG
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-001.fastervpn.world:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#Singapore%20%F0%9F%87%B8%F0%9F%87%AC
 ss://03d73bc8-01a9-46a7-90b9-3d27065ed328@43.153.208.246:7788?fp=chrome&host=c.eoa.ccwu.cc&path=%2F&security=tls&sni=c.eoa.ccwu.cc&type=ws#SG%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%919
+ss://03d73bc8-01a9-46a7-90b9-3d27065ed328@43.153.208.246:7788?path=/&security=tls&encryption=none&insecure=0&host=c.eoa.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=c.eoa.ccwu.cc#🇸🇬SG-🚀@VPNine1
+ss://03d73bc8-01a9-46a7-90b9-3d27065ed328@43.156.200.201:443?path=/&security=tls&encryption=none&insecure=0&host=c.eoa.ccwu.cc&type=ws&allowInsecure=0&sni=c.eoa.ccwu.cc#🇸🇬SG-🚀@VPNine1
 ss://03d73bc8-01a9-46a7-90b9-3d27065ed328@43.163.89.186:3389?host=c.eoa.ccwu.cc&path=%2F&security=tls&sni=c.eoa.ccwu.cc&type=ws#SG%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%918
 ss://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 ss://2864749a-b45d-52c3-0f36-e64224f5480f@128.199.142.119:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.maybank2u.com.sg&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%283%29
@@ -98,8 +100,6 @@ trojan://230012981ba34c12fec11deca0379005@54.46.30.217:48738?allowInsecure=1&sni
 trojan://230012981ba34c12fec11deca0379005@54.46.30.217:48738?allowInsecure=1&sni=www.nintendogames.net#11%2C12%7C%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian%202
 trojan://230012981ba34c12fec11deca0379005@54.46.30.217:48738?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
 trojan://38f169d6-d202-4b1b-8db8-e6eb1648f5cf@43.160.197.160:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-43.160.197.160-6011
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:46424?allowInsecure=1&sni=de.01.naiun.bilibili.com#🇸🇬SG-🚀@VPNine1
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:47909?allowInsecure=1&sni=is.01.naiun.bilibili.com#🇸🇬SG-🚀@VPNine1
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:41943?security=tls&sni=az.01.naiun.bilibili.com#%F0%9F%87%B8%F0%9F%87%ACSG-188.253.12.93-6139
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.94:45553?security=tls&sni=ch.01.naiun.bilibili.com#%F0%9F%87%B8%F0%9F%87%ACSG-188.253.12.94-6141
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.99:41943?security=tls&sni=az.01.naiun.bilibili.com#%F0%9F%87%B8%F0%9F%87%ACSG-188.253.12.99-6140
@@ -125,6 +125,8 @@ trojan://iyinglong@18.141.8.87:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.14
 trojan://mitivpn@27.50.48.49:443?path=/index.html/ed%3Dmitivpn&%3Bsecurity=tls&%3Balpn=http/1.1&%3Binsecure=0&%3Bhost=gamingdll.ir&%3Bfp=chrome&%3Btype=ws#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20TROJAN%20%7C%20%40nofiltering2%20%232
 trojan://mitivpn@27.50.48.49:443?path=/index.html/ed%3Dmitivpn&%3Bsecurity=tls&%3Balpn=http/1.1&%3Binsecure=0&%3Bhost=gamingdll.ir&%3Bfp=chrome&%3Btype=ws&%3BallowInsecure=0&%3Bsni=gamingdll.ir#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20TROJAN%20%7C%20%40nofiltering2%20%231
 vless://03d73bc8-01a9-46a7-90b9-3d27065ed328@43.153.208.246:7788?fp=chrome&host=c.eoa.ccwu.cc&path=%2F&security=tls&sni=c.eoa.ccwu.cc&type=ws#SG%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%919
+vless://03d73bc8-01a9-46a7-90b9-3d27065ed328@43.153.208.246:7788?path=/&security=tls&encryption=none&insecure=0&host=c.eoa.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=c.eoa.ccwu.cc#🇸🇬SG-🚀@VPNine1
+vless://03d73bc8-01a9-46a7-90b9-3d27065ed328@43.156.200.201:443?path=/&security=tls&encryption=none&insecure=0&host=c.eoa.ccwu.cc&type=ws&allowInsecure=0&sni=c.eoa.ccwu.cc#🇸🇬SG-🚀@VPNine1
 vless://03d73bc8-01a9-46a7-90b9-3d27065ed328@43.163.89.186:3389?host=c.eoa.ccwu.cc&path=%2F&security=tls&sni=c.eoa.ccwu.cc&type=ws#SG%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%918
 vless://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vless://2864749a-b45d-52c3-0f36-e64224f5480f@128.199.142.119:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.maybank2u.com.sg&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%283%29
