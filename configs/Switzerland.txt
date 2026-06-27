@@ -50,6 +50,9 @@ ss://ff19693c-11f3-4df9-8713-79a85a5ca090@208.69.78.205:443?security=reality&enc
 ss://ff76c582-77fa-4840-9247-729076fbab29@45.141.119.16:443?security=reality&encryption=none&pbk=1Txlqu4hCFzUPBSO6anONR0ql930aitMuh4ZcsJcxm4&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ch-zrh-1.blook.network&sid=f7ef1b05#REALITY|CH🇨🇭
 trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-152.67.71.149-3793
 trojan://SoftNetConnect@37.156.44.157:443?type=xhttp&security=reality&path=%2F&mode=auto&extra=%7B#REALITY|CH🇨🇭
+trojan://SoftNetConnect@37.156.44.215:2087?type=grpc&security=reality&authority=185.204.169.129&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&sid=96a17085678b&spx=/#🇨🇭CH-🚀@VPNine1
+trojan://SoftNetConnect@37.156.44.215:42549?type=tcp&security=tls&sni=www.speedtest.net&alpn=h2,http/1.1,h3&fp=chrome&insecure=1&allowInsecure=1#🇨🇭CH-🚀@VPNine1
+trojan://SoftNetConnect@37.156.44.215:8443?type=tcp&security=reality&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&sid=c7&spx=/#🇨🇭CH-🚀@VPNine1
 trojan://SoftNetConnect@83.228.224.161:42549?security=tls&sni=www.speedtest.net#%F0%9F%87%A8%F0%9F%87%ADCH-83.228.224.161-0700
 trojan://SoftNetConnect@83.228.226.164:42549?security=tls&sni=www.speedtest.net#%F0%9F%87%A8%F0%9F%87%ADCH-83.228.226.164-0621
 vless://18323cf8-8def-4456-9ac7-ec5cb7cceae1@83.228.225.64:2053?encryption=none&type=grpc&security=reality&serviceName=xyz&mode=gun&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=r44-29dhInxzD-1JIMYuQMrbhieWsLm00BEHXn-6ggg&sid=6ba85179e30d4fc2#REALITY|CH🇨🇭
