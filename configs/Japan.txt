@@ -72,6 +72,7 @@ trojan://2009158055b4d37156cee7082c50ffde@57.183.13.23:49277?security=tls&sni=ww
 trojan://2009158055b4d37156cee7082c50ffde@57.183.13.23:6357?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-57.183.13.23-0712
 trojan://230012981ba34c12fec11deca0379005@54.46.30.217:3743?allowInsecure=1&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://230012981ba34c12fec11deca0379005@54.46.30.217:3743?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+trojan://230012981ba34c12fec11deca0379005@54.46.30.217:3743?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 trojan://230012981ba34c12fec11deca0379005@54.46.30.217:3743?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC7
 trojan://230012981ba34c12fec11deca0379005@54.46.30.217:5701?allowInsecure=1&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://230012981ba34c12fec11deca0379005@54.46.30.217:5701?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
@@ -100,6 +101,7 @@ trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d1.catcat321.com:48045?sni=d.usj1.
 trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d1.catcat321.com:56686?sni=d.usj1.cat.bilibili.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC6
 trojan://7x42LetRa0@106.180.225.69:1443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-106.180.225.69-5677
 trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34470?allowInsecure=1&sni=gj1.sonofthewinds.com#%E6%97%A5%E6%9C%AC%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com%5Cr
+trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34470?sni=gj1.sonofthewinds.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
 trojan://8d105878309ac3ef@c68b799.ga.gladns.com:3382?security=tls&sni=n2.gladns.com#%F0%9F%87%AF%F0%9F%87%B5JP-52.196.144.61-0241
 trojan://8d105878309ac3ef@c68b799.pa.gladns.com:3389?security=tls&sni=n2.gladns.com#%F0%9F%87%AF%F0%9F%87%B5JP-52.196.144.61-0245
 trojan://8d105878309ac3ef@c68b799.pc.gladns.com:3389?security=tls&sni=n2.gladns.com#%F0%9F%87%AF%F0%9F%87%B5JP-52.196.144.61-0246
@@ -126,6 +128,7 @@ trojan://BxceQaOe@18.183.83.131:18021?allowInsecure=1&sni=t.me%252Fripaojiedian#
 trojan://BxceQaOe@18.183.83.131:18021?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://BxceQaOe@18.183.83.131:18021?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.83.131-2137
 trojan://BxceQaOe@18.183.83.131:18021?sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
+trojan://BxceQaOe@18.183.83.131:18021?sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC4
 trojan://BxceQaOe@52.196.252.9:47656?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-52.196.252.9-0582
 trojan://BxceQaOe@52.69.79.73:29440?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-52.69.79.73-0704
 trojan://BxceQaOe@54.250.183.37:10624?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-54.250.183.37-0669
