@@ -6,7 +6,6 @@ ss://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&sec
 ss://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&type=tcp#LV🇱🇻
 ss://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&type=tcp&headerType=none#LV🇱🇻
 ss://4af298c3-5c2d-4cf1-af68-5261e482c4e7@90.156.254.168:443?mode=auto&security=reality&encryption=none&pbk=Rc9FSieeagbHHDJIbBFVjj4Ams8_ijWxNh3jbAt2mlM&fp=firefox&type=xhttp&sni=online.1c.ru&sid=cbe4d3770c#REALITY|LV🇱🇻
-ss://60300afa-3366-4ae3-959a-7b50438acebb@lv.wequ.host:443?&security=reality&flow=xtls-rprx-vision&pbk=wTItGAW6C-W57JpVR4lVm3bpHTIECjfvI3uq5Svykyk&sid=e7de299e&fp=chrome&sni=lv.wequ.host&type=tcp&headerType=none&host=lv.wequ.host&path=%2F#LV-Riga-5284710-wrja
 ss://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114/?type=raw&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&sid=772e#-%3ELV%2B%28%40DeamNet_Proxy%29%20%281%29
 ss://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114?encryption=none&fp=&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&security=reality&sid=772e&sni=yahoo.com&type=tcp#REALITY|LV🇱🇻
 ss://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.129:443?encryption=none&type=tcp&security=reality&headerType=none&sni=enterprisekitten.com&fp=firefox&insecure=1&allowInsecure=1&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#REALITY|LV🇱🇻
@@ -39,7 +38,6 @@ vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&
 vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&type=tcp#LV🇱🇻
 vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&type=tcp&headerType=none#LV🇱🇻
 vless://4af298c3-5c2d-4cf1-af68-5261e482c4e7@90.156.254.168:443?mode=auto&security=reality&encryption=none&pbk=Rc9FSieeagbHHDJIbBFVjj4Ams8_ijWxNh3jbAt2mlM&fp=firefox&type=xhttp&sni=online.1c.ru&sid=cbe4d3770c#REALITY|LV🇱🇻
-vless://60300afa-3366-4ae3-959a-7b50438acebb@lv.wequ.host:443?&security=reality&flow=xtls-rprx-vision&pbk=wTItGAW6C-W57JpVR4lVm3bpHTIECjfvI3uq5Svykyk&sid=e7de299e&fp=chrome&sni=lv.wequ.host&type=tcp&headerType=none&host=lv.wequ.host&path=%2F#LV-Riga-5284710-wrja
 vless://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114/?type=raw&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&sid=772e#-%3ELV%2B%28%40DeamNet_Proxy%29%20%281%29
 vless://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114?encryption=none&fp=&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&security=reality&sid=772e&sni=yahoo.com&type=tcp#REALITY|LV🇱🇻
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.129:443?encryption=none&type=tcp&security=reality&headerType=none&sni=enterprisekitten.com&fp=firefox&insecure=1&allowInsecure=1&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#REALITY|LV🇱🇻
