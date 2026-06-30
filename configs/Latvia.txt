@@ -5,7 +5,6 @@ ss://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?type=tcp&encryption
 ss://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ALV
 ss://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&type=tcp&headerType=none#LV🇱🇻
 ss://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?security=&encryption=none&headerType=none&type=tcp#LV🇱🇻
-ss://4550993c-2191-493a-a612-aaba4a4ec083@g5.steptofsvo.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=g5.steptofsvo.com&fp=randomized&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&type=tcp&headerType=none#LV%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9114
 ss://4af298c3-5c2d-4cf1-af68-5261e482c4e7@90.156.254.168:443?mode=auto&security=reality&encryption=none&pbk=Rc9FSieeagbHHDJIbBFVjj4Ams8_ijWxNh3jbAt2mlM&fp=firefox&type=xhttp&sni=online.1c.ru&sid=cbe4d3770c#REALITY|LV🇱🇻
 ss://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114/?type=raw&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&sid=772e#-%3ELV%2B%28%40DeamNet_Proxy%29%20%281%29
 ss://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114?encryption=none&fp=&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&security=reality&sid=772e&sni=yahoo.com&type=tcp#REALITY|LV🇱🇻
@@ -41,7 +40,6 @@ vless://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?type=tcp&encrypt
 vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ALV
 vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&type=tcp&headerType=none#LV🇱🇻
 vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?security=&encryption=none&headerType=none&type=tcp#LV🇱🇻
-vless://4550993c-2191-493a-a612-aaba4a4ec083@g5.steptofsvo.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=g5.steptofsvo.com&fp=randomized&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&type=tcp&headerType=none#LV%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9114
 vless://4af298c3-5c2d-4cf1-af68-5261e482c4e7@90.156.254.168:443?mode=auto&security=reality&encryption=none&pbk=Rc9FSieeagbHHDJIbBFVjj4Ams8_ijWxNh3jbAt2mlM&fp=firefox&type=xhttp&sni=online.1c.ru&sid=cbe4d3770c#REALITY|LV🇱🇻
 vless://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114/?type=raw&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&sid=772e#-%3ELV%2B%28%40DeamNet_Proxy%29%20%281%29
 vless://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114?encryption=none&fp=&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&security=reality&sid=772e&sni=yahoo.com&type=tcp#REALITY|LV🇱🇻
