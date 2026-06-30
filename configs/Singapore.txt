@@ -1,7 +1,5 @@
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#新加坡1
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000/?insecure=1&sni=bing.com#SG
-hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055?insecure=1&sni=xjp1.mangshe.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A11
-hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#SG
 ss://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@167.71.199.136:443?&security=tls&fp=chrome&sni=vpn47.cc.cd&type=ws&headerType=none&host=vpn47.cc.cd&path=%2F#SG-Singapore-09bac555fd25d73c52-rqoq
 ss://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 ss://2864749a-b45d-52c3-0f36-e64224f5480f@128.199.142.119:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.maybank2u.com.sg&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%283%29
@@ -86,16 +84,13 @@ trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni
 trojan://6f0a9d0fa39d65fa@5.44.249.43:3389?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-5.44.249.43-6874
 trojan://71086710-33eb-11ed-adce-1239d0255272@sg1-trojan.bonds.id:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-103.253.24.212-6753
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@168.138.189.17:28443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-168.138.189.17-3987
-trojan://82c038b55e40ca2613b76bb98c7f6d1f@35.77.44.189:48738?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://82c038b55e40ca2613b76bb98c7f6d1f@35.77.44.189:48738?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
-trojan://82c038b55e40ca2613b76bb98c7f6d1f@35.77.44.189:48738?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
-trojan://82c038b55e40ca2613b76bb98c7f6d1f@43.199.41.146:6357?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
+trojan://82c038b55e40ca2613b76bb98c7f6d1f@35.77.44.189:48738?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://82c038b55e40ca2613b76bb98c7f6d1f@43.199.41.146:6357?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
-trojan://82c038b55e40ca2613b76bb98c7f6d1f@43.199.41.146:6357?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A14
+trojan://82c038b55e40ca2613b76bb98c7f6d1f@43.199.41.146:6357?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
 trojan://973ef350-f6a5-11ec-9274-1239d0255272@trojan2.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-128.199.185.211-6750
-trojan://BxceQaOe@43.198.17.28:9149?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://BxceQaOe@43.198.17.28:9149?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
-trojan://BxceQaOe@43.198.17.28:9149?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://BxceQaOe@43.198.17.28:9149?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
 trojan://FLpONjB2Lb@139.162.45.139:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-139.162.45.139-4539
 trojan://IL37892054@engaged-ram.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-54.169.245.181-6227
 trojan://affae2e0-e84b-11ec-b09f-1239d0255272@trojan1.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.51.247-6748
