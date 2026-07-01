@@ -139,7 +139,9 @@ trojan://Mitivpn@151.101.110.219:443?allowInsecure=0&sni=ssl.fastly.com&ws=1&wsp
 trojan://Mitivpn@151.101.110.219:443?allowInsecure=1&sni=global.fastly.com&ws=1&wspath=%2Fde%3Dmitivpn#%F0%9F%87%AF%F0%9F%87%B5%20JP%E6%97%A5%E6%9C%AC%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://Mitivpn@151.101.110.219:443?allowInsecure=1&sni=ssl.fastly.com&ws=1&wspath=%2F#%F0%9F%87%AF%F0%9F%87%B5%20JP%E6%97%A5%E6%9C%AC%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443#JP🇯🇵
+trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443?allowInsecure=0#JP-103.125.216.18-0148
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-103.125.216.18-0159
+trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443?allowInsecure=0#JP-103.125.216.68-0147
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-103.125.216.68-0161
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443?type=tcp&security=tls#JP🇯🇵
 trojan://a844e75e40134ee742e80ced8509b310@13.158.46.252:3743?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-13.158.46.252-0763
