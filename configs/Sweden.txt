@@ -1,4 +1,4 @@
-ss://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.22.228.57:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=9l18ryEYpf9E-qaQD2HkPfi1n5qfMRDkncpYLcZrdQc&security=reality&sid=b378&sni=stockholmresilience.org&type=tcp#👉🆔@v2ray_configs_pool📡🇸🇪®️Sweden©️Stockholm🅿️ping:0.99ms
+ss://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@213.21.240.223:2053?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#👉🆔@v2ray_configs_pool📡🇸🇪®️Sweden©️Stockholm🅿️ping:49.52ms
 ss://2cfb47db-5b73-43cf-be67-6e28d73df7d4@se.moktana.app:443?mode=gun&security=reality&encryption=none&pbk=C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4&fp=chrome&type=grpc&serviceName=moktana.net.v1.StreamService&sni=se.moktana.app&sid=9e2a6f4c3b7d1e8a#REALITY|SE🇸🇪
 ss://3c61ea53a55042528211956f9f7dc2d0Og==@62.60.151.41:57865#SE%F0%9F%87%B8%F0%9F%87%AA+%7C+62.60.151.41-57865+%7C+187.69ms
 ss://8046e3a1-83a7-4155-86e4-374153fe66f3@194.238.57.104:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&security=reality&pbk=56RJlIcxwncUs5m9QSfd3waHxm6vJFBKso5IkMSsyCA&sid=5d#-%3ESE%2B%28%40DeamNet_Proxy%29
@@ -13,7 +13,6 @@ ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.212:443#%F0%9F%87%B8%F0%9F%8
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.213:443#%F0%9F%87%B8%F0%9F%87%AASE-37.19.222.213-9287
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.214:443#%F0%9F%87%B8%F0%9F%87%AASE-37.19.222.214-9286
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-9868
-ss://cf30deec-917f-4b1a-bb01-c48527cbc83a@77.221.143.28:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=GmtqiNIkjg_TAy3_kOHSt2XbPV4w85ckf5l9kcIoI2A&security=reality&sid=44&sni=swe.fast-cone.com&type=tcp#👉🆔@v2ray_configs_pool📡🇸🇪®️Sweden©️Stockholm🅿️ping:0.77ms
 ss://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=none&type=tcp&packetEncoding=xudp&encryption=none#SE🇸🇪
 ss://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&encryption=none&flow=#SE🇸🇪
 ss://f7a656e5-e37d-442b-9693-29d293dba6bb@blog.matcloud.ir:22186?security=reality&encryption=none&pbk=a9j2B879xBNVXjzvGqsPb_aikYqo5VbTtsIJ8jss5Ug&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=39aa597373aa1e5a#REALITY|SE🇸🇪
@@ -32,13 +31,12 @@ trojan://telegram-id-privatevpns@13.50.16.231:22222?security=tls&sni=trj.rolling
 trojan://telegram-id-privatevpns@16.171.58.121:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-16.171.58.121-9686
 trojan://telegram-id-privatevpns@16.171.58.121:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-16.171.58.121-9688
 tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443?congestion_control=bbr&%3Budp_relay_mode=native&%3Balpn=h3%2Cspdy/3.1&%3Ballow_insecure=1#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20TUIC%20%7C%20%40vipv2rey%20%231
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.22.228.57:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=9l18ryEYpf9E-qaQD2HkPfi1n5qfMRDkncpYLcZrdQc&security=reality&sid=b378&sni=stockholmresilience.org&type=tcp#👉🆔@v2ray_configs_pool📡🇸🇪®️Sweden©️Stockholm🅿️ping:0.99ms
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@213.21.240.223:2053?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#👉🆔@v2ray_configs_pool📡🇸🇪®️Sweden©️Stockholm🅿️ping:49.52ms
 vless://2cfb47db-5b73-43cf-be67-6e28d73df7d4@se.moktana.app:443?mode=gun&security=reality&encryption=none&pbk=C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4&fp=chrome&type=grpc&serviceName=moktana.net.v1.StreamService&sni=se.moktana.app&sid=9e2a6f4c3b7d1e8a#REALITY|SE🇸🇪
 vless://8046e3a1-83a7-4155-86e4-374153fe66f3@194.238.57.104:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&security=reality&pbk=56RJlIcxwncUs5m9QSfd3waHxm6vJFBKso5IkMSsyCA&sid=5d#-%3ESE%2B%28%40DeamNet_Proxy%29
 vless://891300bc-11b2-4b24-8056-b329b098888b@62.182.192.20:443?security=reality&encryption=none&pbk=8Bz3fNBZ5es7DVPlw8FRzufcncR6auyV_FJFFAKT-WE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=readthedocs.org&sid=a1590469acbe31#REALITY|SE🇸🇪
 vless://980231fb-4372-5c81-b696-20aa34d33af0@swe-8t.freeonline.pro:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.microsoft.com&fp=chrome&security=reality&pbk=978-Yxgtd3AWTVfiXEQqCstdwrT1qgsgleGPIRGQDl8&sid=bdac121c7debdaba#-%3ESE%2B%28%40DeamNet_Proxy%29%20%284%29
 vless://9b2558ad-f869-1bc9-283e-978ba192712d@homa.letsconnectu.com:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=ios&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#REALITY|SE🇸🇪
-vless://cf30deec-917f-4b1a-bb01-c48527cbc83a@77.221.143.28:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=GmtqiNIkjg_TAy3_kOHSt2XbPV4w85ckf5l9kcIoI2A&security=reality&sid=44&sni=swe.fast-cone.com&type=tcp#👉🆔@v2ray_configs_pool📡🇸🇪®️Sweden©️Stockholm🅿️ping:0.77ms
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=none&type=tcp&packetEncoding=xudp&encryption=none#SE🇸🇪
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&encryption=none&flow=#SE🇸🇪
 vless://f7a656e5-e37d-442b-9693-29d293dba6bb@blog.matcloud.ir:22186?security=reality&encryption=none&pbk=a9j2B879xBNVXjzvGqsPb_aikYqo5VbTtsIJ8jss5Ug&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=39aa597373aa1e5a#REALITY|SE🇸🇪
