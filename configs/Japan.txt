@@ -7,6 +7,7 @@ ss://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.75.118.144:2053?&security=tls&fp=r
 ss://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@151.242.165.136:59124?security=tls&type=ws&path=/danfeng&host=snippet.fgfw.indevs.in&alpn=http/1.1&sni=snippet.fgfw.indevs.in&fp=random#JP🇯🇵
 ss://9794d18f-9280-3553-a7a5-a23da75aca76@s5975.okgg.top:443?encryption=none&type=tcp&headerType=&fp=firefox&host=ee859f33s5969.wagahaha.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u691611uee859f33s5969.wagahaha.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACChoopa%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@54.250.165.160:2377#%F0%9F%87%AF%F0%9F%87%B5JP-54.250.165.160-2533
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dkA1NC4yNTAuMTY1LjE2MDoyMzc3Pw==#%E6%97%A5%E6%9C%AC%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com%5Cr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:800#%F0%9F%87%AF%F0%9F%87%B5JP-185.172.113.182-9496
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:804#%F0%9F%87%AF%F0%9F%87%B5JP-185.172.113.182-9497
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:811#%F0%9F%87%AF%F0%9F%87%B5JP-185.172.113.182-9495
@@ -84,6 +85,7 @@ trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d1.catcat321.com:50888?security=tl
 trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d1.catcat321.com:56168?security=tls&sni=d.usj1.cat.bilibili.com#%F0%9F%87%AF%F0%9F%87%B5JP-216.23.108.102-0709
 trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d1.catcat321.com:58542?security=tls&sni=d.usj1.cat.bilibili.com#%F0%9F%87%AF%F0%9F%87%B5JP-216.23.108.102-0710
 trojan://7x42LetRa0@106.180.225.69:1443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-106.180.225.69-5728
+trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34470?allowInsecure=1&sni=gj1.sonofthewinds.com#%E6%97%A5%E6%9C%AC%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com%5Cr
 trojan://82c038b55e40ca2613b76bb98c7f6d1f@35.77.44.189:17005?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-35.77.44.189-0670
 trojan://82c038b55e40ca2613b76bb98c7f6d1f@35.77.44.189:48738?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-35.77.44.189-0667
 trojan://82c038b55e40ca2613b76bb98c7f6d1f@52.195.226.156:49277?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-52.195.226.156-0671
@@ -230,4 +232,4 @@ vmess://ewogICAgImFkZCI6ICJzaC1jbi0xLmRuc3Byby5pY3UiLAogICAgImFpZCI6IDAsCiAgICAi
 vmess://ewogICAgImFkZCI6ICJzdXpoaWhhbi5ldS5vcmciLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJzdXpoaWhhbi5ldS5vcmciLAogICAgImlkIjogIjBiODczY2ZmLTExYWItNDcxNi1jNDFhLTA0Zjg4NjEzNTA5MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9yb2V3ZXN1IiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6/wn4e1SlAtMTY4LjEzOC4yMDMuMjMyLTAzNjQiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJzdXpoaWhhbi5ldS5vcmciCn0=
 vmess://eyJ2IjoiMiIsInBzIjoiSlAtMTQwLjgzLjUxLjE2MS0xMzQ4IiwiYWRkIjoiMTQwLjgzLjUxLjE2MSIsInBvcnQiOiIyNTY4NiIsInR5cGUiOiJub25lIiwiaWQiOiI2NzMzYzM1Ny1iYTExLTRlOWYtZjAwZi03ZDg3ZjI3NzZmZjkiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwiaG9zdCI6ImpwMDIuYTBhLnh5eiIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSlAtMTY4LjEzOC40My43NS0yMTI0IiwiYWRkIjoiMTY4LjEzOC40My43NSIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwiaG9zdCI6ImpwMDEuYTBhLnh5eiIsInRscyI6IiJ9
-vmess://eyJhZGQiOiIxNzIuMTA0LjgwLjY2IiwiYWlkIjoiMSIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmV0IjoidGNwIiwicG9ydCI6IjIyMzI0IiwicHMiOiJKUCDwn4ev8J+HtSB8IEBSYXlkaWthbHggfCAyNTkyIiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxNzIuMTA0LjgwLjY2IiwiYWlkIjoiMSIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmV0IjoidGNwIiwicG9ydCI6IjIyMzI0IiwicHMiOiJKUCDwn4ev8J+HtSB8IEBSYXlkaWthbHggfCAyNjEzIiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
