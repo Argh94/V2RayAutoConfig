@@ -83,6 +83,7 @@ trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d1.catcat321.com:56168?security=tl
 trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d1.catcat321.com:58542?security=tls&sni=d.usj1.cat.bilibili.com#%F0%9F%87%AF%F0%9F%87%B5JP-216.23.108.102-0710
 trojan://7x42LetRa0@106.180.225.69:1443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-106.180.225.69-5728
 trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34470?allowInsecure=1&sni=gj1.sonofthewinds.com#%E6%97%A5%E6%9C%AC%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com%5Cr
+trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34470?sni=gj1.sonofthewinds.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 trojan://82c038b55e40ca2613b76bb98c7f6d1f@35.77.44.189:17005?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-35.77.44.189-0670
 trojan://82c038b55e40ca2613b76bb98c7f6d1f@35.77.44.189:48738?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-35.77.44.189-0667
 trojan://82c038b55e40ca2613b76bb98c7f6d1f@52.195.226.156:49277?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-52.195.226.156-0671
@@ -106,10 +107,10 @@ trojan://BxceQaOe@13.158.45.13:51976?security=tls&sni=t.me%252Fripaojiedian#%F0%
 trojan://BxceQaOe@18.179.204.16:45691?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-18.179.204.16-0752
 trojan://BxceQaOe@18.183.54.150:10624?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.54.150-0764
 trojan://BxceQaOe@18.183.83.131:18021?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.83.131-2179
-trojan://BxceQaOe@52.195.161.184:10624?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+trojan://BxceQaOe@52.194.214.115:10624?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://BxceQaOe@52.195.161.184:10624?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://BxceQaOe@52.195.161.184:10624?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-52.195.161.184-0552
-trojan://BxceQaOe@52.195.161.184:10624?sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+trojan://BxceQaOe@52.195.161.184:10624?sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC4
 trojan://BxceQaOe@52.196.252.9:47656?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-52.196.252.9-0682
 trojan://BxceQaOe@52.197.219.28:27826?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-52.197.219.28-0664
 trojan://BxceQaOe@52.69.79.73:29440?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-52.69.79.73-0748
@@ -118,6 +119,7 @@ trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@k
 trojan://IL37892054@engaging-toucan.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-3.113.25.200-6205
 trojan://IL37892054@upright-rhino.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-52.195.12.80-6190
 trojan://PI36027154@large-baboon.rooster465.autos:443?allowInsecure=0#🇯🇵JP-🚀@VPNine1
+trojan://PI36027154@large-baboon.rooster465.autos:443?allowInsecure=0#🇯🇵[openproxylist.com]trojan-JP
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-103.125.216.18-0111
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-103.125.216.68-0144
 trojan://a844e75e40134ee742e80ced8509b310@13.158.46.252:3743?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-13.158.46.252-0727
@@ -128,7 +130,7 @@ trojan://b8494776252056a1b62e77c4ff6a6d61@16.163.138.198:3743?allowInsecure=1&sn
 trojan://b8494776252056a1b62e77c4ff6a6d61@16.163.138.198:3743?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
 trojan://b8494776252056a1b62e77c4ff6a6d61@18.162.58.236:5701?allowInsecure=1&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://b8494776252056a1b62e77c4ff6a6d61@18.162.58.236:5701?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
-trojan://b8494776252056a1b62e77c4ff6a6d61@18.162.58.236:5701?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
+trojan://b8494776252056a1b62e77c4ff6a6d61@18.162.58.236:5701?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
 trojan://c09eb137-bf68-4658-84e0-102d94b74168@150.230.217.213:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-150.230.217.213-0178
 trojan://c19d1432-8b3e-4818-8837-3d160cf65908@138.2.45.243:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-138.2.45.243-3933
 trojan://c51d3975-a40c-4a5b-929b-c8595ed87850@15.168.28.231:443?security=tls&sni=wel-usgt.optage.moe#%F0%9F%87%AF%F0%9F%87%B5JP-15.168.28.231-5771
@@ -226,4 +228,4 @@ vmess://ewogICAgImFkZCI6ICJzaC1jbi0xLmRuc3Byby5pY3UiLAogICAgImFpZCI6IDAsCiAgICAi
 vmess://ewogICAgImFkZCI6ICJzdXpoaWhhbi5ldS5vcmciLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJzdXpoaWhhbi5ldS5vcmciLAogICAgImlkIjogIjBiODczY2ZmLTExYWItNDcxNi1jNDFhLTA0Zjg4NjEzNTA5MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9yb2V3ZXN1IiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6/wn4e1SlAtMTY4LjEzOC4yMDMuMjMyLTAzNjQiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJzdXpoaWhhbi5ldS5vcmciCn0=
 vmess://eyJ2IjoiMiIsInBzIjoiSlAtMTQwLjgzLjUxLjE2MS0xMzQ0IiwiYWRkIjoiMTQwLjgzLjUxLjE2MSIsInBvcnQiOiIyNTY4NiIsInR5cGUiOiJub25lIiwiaWQiOiI2NzMzYzM1Ny1iYTExLTRlOWYtZjAwZi03ZDg3ZjI3NzZmZjkiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwiaG9zdCI6ImpwMDIuYTBhLnh5eiIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSlAtMTY4LjEzOC40My43NS0yMTIwIiwiYWRkIjoiMTY4LjEzOC40My43NSIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwiaG9zdCI6ImpwMDEuYTBhLnh5eiIsInRscyI6IiJ9
-vmess://eyJhZGQiOiIxNzIuMTA0LjgwLjY2IiwiYWlkIjoiMSIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmV0IjoidGNwIiwicG9ydCI6IjIyMzI0IiwicHMiOiJKUCDwn4ev8J+HtSB8IEBSYXlkaWthbHggfCAyNjE1Iiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxNzIuMTA0LjgwLjY2IiwiYWlkIjoiMSIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmV0IjoidGNwIiwicG9ydCI6IjIyMzI0IiwicHMiOiJKUCDwn4ev8J+HtSB8IEBSYXlkaWthbHggfCAyNjcyIiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
