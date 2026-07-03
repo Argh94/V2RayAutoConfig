@@ -110,7 +110,7 @@ trojan://BxceQaOe@18.183.83.131:18021?security=tls&sni=t.me%252Fripaojiedian#%F0
 trojan://BxceQaOe@52.194.214.115:10624?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://BxceQaOe@52.194.214.115:10624?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://BxceQaOe@52.194.214.115:10624?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-52.194.214.115-0554
-trojan://BxceQaOe@52.194.214.115:10624?sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
+trojan://BxceQaOe@52.194.214.115:10624?sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
 trojan://BxceQaOe@52.196.252.9:47656?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-52.196.252.9-0691
 trojan://BxceQaOe@52.197.219.28:27826?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-52.197.219.28-0673
 trojan://BxceQaOe@52.69.79.73:29440?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-52.69.79.73-0753
@@ -118,7 +118,6 @@ trojan://BxceQaOe@54.250.183.37:10624?security=tls&sni=t.me%252Fripaojiedian#%F0
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#Japan%20Klayer%20LLC
 trojan://IL37892054@engaging-toucan.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-3.113.25.200-6105
 trojan://IL37892054@upright-rhino.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-52.195.12.80-6091
-trojan://PI36027154@large-baboon.rooster465.autos:443?#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC%202.7MB%2Fs
 trojan://PI36027154@large-baboon.rooster465.autos:443?allowInsecure=0#JP%E6%97%A5%E6%9C%AC%202.7MB%2Fs
 trojan://PI36027154@large-baboon.rooster465.autos:443?allowInsecure=0#JP-13.230.134.89-0426
 trojan://PI36027154@large-baboon.rooster465.autos:443?allowInsecure=1#JP-13.230.134.89-25
@@ -131,10 +130,10 @@ trojan://a844e75e40134ee742e80ced8509b310@13.158.46.252:37973?security=tls&sni=w
 trojan://b57f94c6-7385-47f7-9c8a-55de6098bd2b@zzjp01.fuqiangren.com:20220?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-157.254.193.251-3263
 trojan://b8494776252056a1b62e77c4ff6a6d61@16.163.138.198:3743?allowInsecure=1&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://b8494776252056a1b62e77c4ff6a6d61@16.163.138.198:3743?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
-trojan://b8494776252056a1b62e77c4ff6a6d61@16.163.138.198:3743?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC4
+trojan://b8494776252056a1b62e77c4ff6a6d61@16.163.138.198:3743?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
 trojan://b8494776252056a1b62e77c4ff6a6d61@18.162.58.236:5701?allowInsecure=1&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://b8494776252056a1b62e77c4ff6a6d61@18.162.58.236:5701?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
-trojan://b8494776252056a1b62e77c4ff6a6d61@18.162.58.236:5701?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
+trojan://b8494776252056a1b62e77c4ff6a6d61@18.162.58.236:5701?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 trojan://c09eb137-bf68-4658-84e0-102d94b74168@150.230.217.213:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-150.230.217.213-0206
 trojan://c19d1432-8b3e-4818-8837-3d160cf65908@138.2.45.243:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-138.2.45.243-3834
 trojan://c51d3975-a40c-4a5b-929b-c8595ed87850@15.168.28.231:443?security=tls&sni=wel-usgt.optage.moe#%F0%9F%87%AF%F0%9F%87%B5JP-15.168.28.231-5672
@@ -241,4 +240,6 @@ vmess://ewogICAgImFkZCI6ICJzdXpoaWhhbi5ldS5vcmciLAogICAgImFpZCI6IDAsCiAgICAiaG9z
 vmess://eyJ2IjoiMiIsInBzIjoiSlAtMTQwLjgzLjUxLjE2MS0xMzUxIiwiYWRkIjoiMTQwLjgzLjUxLjE2MSIsInBvcnQiOiIyNTY4NiIsInR5cGUiOiJub25lIiwiaWQiOiI2NzMzYzM1Ny1iYTExLTRlOWYtZjAwZi03ZDg3ZjI3NzZmZjkiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwiaG9zdCI6ImpwMDIuYTBhLnh5eiIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSlAtMTY4LjEzOC40My43NS0yMTI3IiwiYWRkIjoiMTY4LjEzOC40My43NSIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwiaG9zdCI6ImpwMDEuYTBhLnh5eiIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSlAtMTcyLjExMS4xNDYuNjQtNjI0NCIsImFkZCI6IjE3Mi4xMTEuMTQ2LjY0IiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjA1YjhjNzgzLTdmNTktNDdmOS05OTIzLTA2YTQ2NTY3OWY2YSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwiaG9zdCI6IiIsInRscyI6IiJ9
-vmess://eyJhZGQiOiIxNzIuMTA0LjgwLjY2IiwiYWlkIjoiMSIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmV0IjoidGNwIiwicG9ydCI6IjIyMzI0IiwicHMiOiJKUCDwn4ev8J+HtSB8IEBSYXlkaWthbHggfCAyNjA4Iiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxNzIuMTA0LjgwLjY2IiwiYWlkIjoiMSIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmV0IjoidGNwIiwicG9ydCI6IjIyMzI0IiwicHMiOiJKUCDwn4ev8J+HtSB8IEBSYXlkaWthbHggfCAyNjI5Iiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJ0LmNubWpjbi5jeW91IiwiYWlkIjoiMCIsImhvc3QiOiIyYTA3MDA4MmNiYTg5M2I3OGVjNmM3Yzc0ZjhhOTYwMy5tb2Jnc2xiLnRiY2FjaGUuY29tIiwiaWQiOiJlYmU1M2ExYi03YTJiLTQyZDktYjMyMy00MjMxMDRhZDAyNmUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjE2NjE3IiwicHMiOiJKUCDwn4ev8J+HtSB8IEBSYXlkaWthbHggfCAyOTgzIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJ5ZzEueWdra2suZHBkbnMub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJibG9nZ2luZy1yZXNwb25zaWJpbGl0eS1yZWNydWl0aW5nLW1vc3QudHJ5Y2xvdWRmbGFyZS5jb20iLCJpZCI6IjUzN2EwMzZmLWE0YWQtNDA1MS04MGM0LTAxMWE0NmM2MmJiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii81MzdhMDM2Zi1hNGFkLTQwNTEtODBjNC0wMTFhNDZjNjJiYjAtdm0iLCJwb3J0IjoiNDQzIiwicHMiOiJKUCDwn4ev8J+HtSB8IEBSYXlkaWthbHggfCAyOTk0Iiwic2N5IjoiYXV0byIsInNuaSI6ImJsb2dnaW5nLXJlc3BvbnNpYmlsaXR5LXJlY3J1aXRpbmctbW9zdC50cnljbG91ZGZsYXJlLmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
