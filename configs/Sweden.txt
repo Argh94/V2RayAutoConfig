@@ -1,4 +1,5 @@
 ss://002accb526534fcab24a72b0ea1cff59@176.125.240.166:443?security=reality&sni=apple.com&alpn=h2&fp=random&pbk=GgiY38LjRI1hS1LKhdqvtJ5SDDO436GvihG-TzEI2XE&sid=aabbccdd&type=tcp&flow=xtls-rprx-vision&encryption=none#REALITY|SE🇸🇪
+ss://19f6900b-e716-4efc-55bb-c43b3cb4acfc@direct.ircybersec.org:1000?encryption=none&security=reality&sni=knox.cdn-apple.com&fp=ios&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a&type=tcp&headerType=none#🇸🇪SE-🚀@VPNine1
 ss://3d6e324c-664a-ca9b-869d-945d0b194c9e@d.ircybersec.org:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=chrome&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#REALITY|SE🇸🇪
 ss://3d6e324c-664a-ca9b-869d-945d0b194c9e@d.ircybersec.org:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=ios&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#REALITY|SE🇸🇪
 ss://8046e3a1-83a7-4155-86e4-374153fe66f3@194.238.57.104:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&security=reality&pbk=56RJlIcxwncUs5m9QSfd3waHxm6vJFBKso5IkMSsyCA&sid=5d#-%3ESE%2B%28%40DeamNet_Proxy%29
@@ -13,6 +14,8 @@ ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.212:443#%F0%9F%87%B8%F0%9F%8
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.213:443#%F0%9F%87%B8%F0%9F%87%AASE-37.19.222.213-9287
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.214:443#%F0%9F%87%B8%F0%9F%87%AASE-37.19.222.214-9286
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-9868
+ss://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#👉🆔@v2ray_configs_pool📡🇸🇪®️Sweden©️Stockholm🅿️ping:44.04ms
+ss://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#👉🆔@v2ray_configs_pool📡🇸🇪®️Sweden©️Stockholm🅿️ping:47ms
 ss://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?encryption=none&security=none&type=tcp#SE🇸🇪
 ss://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&encryption=none&flow=#SE🇸🇪
 ssr://ejAxMTcuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkh1UENmaDZwVFJTMHhNeTQyTVM0eE5ESXVNVEk0TFRJNE5EUSUzRCZwcm90b3BhcmFtPQ==
@@ -30,11 +33,14 @@ trojan://telegram-id-privatevpns@16.171.58.121:22222?security=tls&sni=trj.rollin
 trojan://telegram-id-privatevpns@16.171.58.121:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-16.171.58.121-9688
 tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443?congestion_control=bbr&%3Budp_relay_mode=native&%3Balpn=h3%2Cspdy/3.1&%3Ballow_insecure=1#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20TUIC%20%7C%20%40vipv2rey%20%231
 vless://002accb526534fcab24a72b0ea1cff59@176.125.240.166:443?security=reality&sni=apple.com&alpn=h2&fp=random&pbk=GgiY38LjRI1hS1LKhdqvtJ5SDDO436GvihG-TzEI2XE&sid=aabbccdd&type=tcp&flow=xtls-rprx-vision&encryption=none#REALITY|SE🇸🇪
+vless://19f6900b-e716-4efc-55bb-c43b3cb4acfc@direct.ircybersec.org:1000?encryption=none&security=reality&sni=knox.cdn-apple.com&fp=ios&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a&type=tcp&headerType=none#🇸🇪SE-🚀@VPNine1
 vless://3d6e324c-664a-ca9b-869d-945d0b194c9e@d.ircybersec.org:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=chrome&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#REALITY|SE🇸🇪
 vless://3d6e324c-664a-ca9b-869d-945d0b194c9e@d.ircybersec.org:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=ios&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#REALITY|SE🇸🇪
 vless://8046e3a1-83a7-4155-86e4-374153fe66f3@194.238.57.104:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&security=reality&pbk=56RJlIcxwncUs5m9QSfd3waHxm6vJFBKso5IkMSsyCA&sid=5d#-%3ESE%2B%28%40DeamNet_Proxy%29
 vless://891300bc-11b2-4b24-8056-b329b098888b@62.182.192.20:443?security=reality&encryption=none&pbk=8Bz3fNBZ5es7DVPlw8FRzufcncR6auyV_FJFFAKT-WE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=readthedocs.org&sid=a1590469acbe31#REALITY|SE🇸🇪
 vless://980231fb-4372-5c81-b696-20aa34d33af0@swe-8t.freeonline.pro:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.microsoft.com&fp=chrome&security=reality&pbk=978-Yxgtd3AWTVfiXEQqCstdwrT1qgsgleGPIRGQDl8&sid=bdac121c7debdaba#-%3ESE%2B%28%40DeamNet_Proxy%29%20%284%29
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#👉🆔@v2ray_configs_pool📡🇸🇪®️Sweden©️Stockholm🅿️ping:44.04ms
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#👉🆔@v2ray_configs_pool📡🇸🇪®️Sweden©️Stockholm🅿️ping:47ms
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?encryption=none&security=none&type=tcp#SE🇸🇪
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&encryption=none&flow=#SE🇸🇪
 vmess://ewogICAgImFkZCI6ICIxMy41MC4xNTMuMjMwIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJmZTJiZDc3ZC0zMTJlLTRhYzAtZGVmZS1hZmRiMjc5NTI4YTAiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjUyODksCiAgICAicHMiOiAi8J+HuPCfh6pTRS0xMy41MC4xNTMuMjMwLTQxMjciLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
