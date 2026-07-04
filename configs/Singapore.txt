@@ -78,7 +78,6 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.229.69:9090#%F0%9F%91%89%F0%9F%
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@139.99.68.21:6379#%F0%9F%87%B8%F0%9F%87%ACSG-139.99.68.21-6619
 ss://c7d5062b-604e-42b0-85d0-0ba354cee311@149.28.136.177:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=KpSo5m7AfnERJz2zbqi_Gqek65yGKzqvMYWiy9cMxCI&sid=4f3d16240bb853f8#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AC%C2%AE%EF%B8%8FSingapore%C2%A9%EF%B8%8FSingapore%20%28Pioneer%29%F0%9F%85%BF%EF%B8%8Fping%3A179.42ms
 ss://c7d5062b-604e-42b0-85d0-0ba354cee311@149.28.136.177:443?security=reality&encryption=none&pbk=KpSo5m7AfnERJz2zbqi_Gqek65yGKzqvMYWiy9cMxCI&host=www.apple.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=4f3d16240bb853f8#%F0%9F%87%B8%F0%9F%87%ACSG-%F0%9F%9A%80%40V2Ray_Hub1200
-ss://e06b6255-1c90-4db0-bd8c-7704df82b27c@www.gov.ua:8880?&security=false&fp=chrome&type=ws&headerType=none&host=silent-cherry-7112.257.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#SG-Singapore-41381912-rptb
 ss://e85ce618-50cd-42e0-a8ba-5052e6be9498@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 trojan://08964210-e7b8-11ec-95aa-1239d0255272@w12.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.177.105-6630
 trojan://0c6a3341e8d5ab17@103.172.116.196:3389?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.196-3671
@@ -95,7 +94,7 @@ trojan://BxceQaOe@43.199.77.197:45744?allowInsecure=1&sni=t.me%252Fripaojiedian#
 trojan://BxceQaOe@43.199.77.197:45744?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
 trojan://FLpONjB2Lb@139.162.45.139:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-139.162.45.139-4427
 trojan://IL37892054@engaged-ram.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-54.169.245.181-6116
-trojan://PI36027154@rich-mule.rooster465.autos:443?allowInsecure=0#SG-13.212.105.193-0076
+trojan://PI36027154@rich-mule.rooster465.autos:443?allowInsecure=0#SG-13.212.105.193-0088
 trojan://PI36027154@rich-mule.rooster465.autos:443?allowInsecure=1#SG🇸🇬
 trojan://PI36027154@rich-mule.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.212.105.193-0076
 trojan://affae2e0-e84b-11ec-b09f-1239d0255272@trojan1.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.51.247-6623
@@ -126,7 +125,6 @@ vless://6994e71a-fe44-4cf5-8694-caa5ef0abb60@global.cloud-play.ir:80?encryption=
 vless://779d227c-f7be-4b9d-a4a9-1197c734b4e7@18.141.49.252:35308/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.tesla.com&fp=firefox&security=reality&pbk=4g1kpdmdbN6aNxeBYMj9WherunH9JSXsI_nKZTDiewE&sid=fef8dcb8cafe30#-%3ESG%2B%28%40DeamNet_Proxy%29%20%2838%29
 vless://c7d5062b-604e-42b0-85d0-0ba354cee311@149.28.136.177:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=KpSo5m7AfnERJz2zbqi_Gqek65yGKzqvMYWiy9cMxCI&sid=4f3d16240bb853f8#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AC%C2%AE%EF%B8%8FSingapore%C2%A9%EF%B8%8FSingapore%20%28Pioneer%29%F0%9F%85%BF%EF%B8%8Fping%3A179.42ms
 vless://c7d5062b-604e-42b0-85d0-0ba354cee311@149.28.136.177:443?security=reality&encryption=none&pbk=KpSo5m7AfnERJz2zbqi_Gqek65yGKzqvMYWiy9cMxCI&host=www.apple.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=4f3d16240bb853f8#%F0%9F%87%B8%F0%9F%87%ACSG-%F0%9F%9A%80%40V2Ray_Hub1200
-vless://e06b6255-1c90-4db0-bd8c-7704df82b27c@www.gov.ua:8880?&security=false&fp=chrome&type=ws&headerType=none&host=silent-cherry-7112.257.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#SG-Singapore-41381912-rptb
 vless://e85ce618-50cd-42e0-a8ba-5052e6be9498@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vmess://ewogICAgImFkZCI6ICI0NS43Ni4xODEuMjQ2IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI1MjI2MzkwMS1iM2NmLTRkN2QtYjRmZC1hMTJmZTE3OGVmMmEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMTIzNDUsCiAgICAicHMiOiAi8J+HuPCfh6xTRy00NS43Ni4xODEuMjQ2LTgxNzQiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vmess://ewogICAgImFkZCI6ICI0Ny44NC42Mi4xIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJkMmEwYmNkNy1lMzJkLTRiNzEtOTFhOS01ZmQ3MDQzYjcwMjUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjAwODYsCiAgICAicHMiOiAi8J+HuPCfh6xTRy00Ny44NC42Mi4xLTg0MTQiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
