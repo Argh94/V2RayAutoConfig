@@ -24,7 +24,6 @@ ss://cf30deec-917f-4b1a-bb01-c48527cbc83a@77.221.143.28:443?type=tcp&encryption=
 ss://cf30deec-917f-4b1a-bb01-c48527cbc83a@swe.fast-cone.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=GmtqiNIkjg_TAy3_kOHSt2XbPV4w85ckf5l9kcIoI2A&security=reality&sid=44&sni=swe.fast-cone.com&type=tcp#REALITY|SE🇸🇪
 ss://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=&encryption=none&headerType=none&type=tcp#SE🇸🇪
 ss://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&encryption=none&flow=#SE🇸🇪
-ss://f0be198c-db8c-4622-8803-ba3c8c8db515@89.19.223.139:8443?#🇸🇪[openproxylist.com]vless-SE
 ssr://ejAxMTcuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkh1UENmaDZwVFJTMHhNeTQyTVM0eE5ESXVNVEk0TFRJNE1qWSUzRCZwcm90b3BhcmFtPQ==
 trojan://telegram-id-directvpn@13.48.105.114:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.48.105.114-9853
 trojan://telegram-id-directvpn@13.48.105.114:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.48.105.114-9855
@@ -54,6 +53,5 @@ vless://cf30deec-917f-4b1a-bb01-c48527cbc83a@77.221.143.28:443?type=tcp&encrypti
 vless://cf30deec-917f-4b1a-bb01-c48527cbc83a@swe.fast-cone.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=GmtqiNIkjg_TAy3_kOHSt2XbPV4w85ckf5l9kcIoI2A&security=reality&sid=44&sni=swe.fast-cone.com&type=tcp#REALITY|SE🇸🇪
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=&encryption=none&headerType=none&type=tcp#SE🇸🇪
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&encryption=none&flow=#SE🇸🇪
-vless://f0be198c-db8c-4622-8803-ba3c8c8db515@89.19.223.139:8443?#🇸🇪[openproxylist.com]vless-SE
 vmess://ewogICAgImFkZCI6ICIxMy41MC4xNTMuMjMwIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJmZTJiZDc3ZC0zMTJlLTRhYzAtZGVmZS1hZmRiMjc5NTI4YTAiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjUyODksCiAgICAicHMiOiAi8J+HuPCfh6pTRS0xMy41MC4xNTMuMjMwLTQxMTciLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vmess://ewogICAgImFkZCI6ICIzNy4xMjAuMjA5LjEyNiIsCiAgICAiYWlkIjogNjQsCiAgICAiaG9zdCI6ICJ3d3cuNjg1NDc0NzYueHl6IiwKICAgICJpZCI6ICJkYzBjZjIyZC1lMzVjLTRiNzctODkyNC05NzdmNjg0NDkwOWIiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvcGF0aC8xOTEwMTkwNzI5MjciLAogICAgInBvcnQiOiAzMTAwMiwKICAgICJwcyI6ICLwn4e48J+HqlNFLTM3LjEyMC4yMDkuMTI2LTEzNjkiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
