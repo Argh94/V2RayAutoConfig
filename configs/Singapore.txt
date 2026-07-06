@@ -10,7 +10,7 @@ ss://2864749a-b45d-52c3-0f36-e64224f5480f@159.223.87.244:443/?type=tcp&encryptio
 ss://2864749a-b45d-52c3-0f36-e64224f5480f@159.89.198.1:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=unpkg.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%2849%29
 ss://2864749a-b45d-52c3-0f36-e64224f5480f@174.138.21.249:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.adobe.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29
 ss://2864749a-b45d-52c3-0f36-e64224f5480f@188.166.176.63:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.alibaba.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%289%29
-ss://4d10c997-4781-4cd9-82c3-15453523e12c@47.99.108.15:443?&security=tls&fp=chrome&sni=support.zoom.us.yxls.eu.cc&type=ws&headerType=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi#SG-Singapore-h-1928115-ujog
+ss://35b94b2c-1b46-4209-a04b-32ecf159b632@104.17.170.132:8880?&security=false&fp=chrome&type=ws&headerType=none&host=fragrant-tooth-2180.97-cbb.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#SG-Singapore-415620217-irtr
 ss://55d61055-1a7f-4bc5-aca2-4ee78c738b60@sahanwickramasinghevip.shop:443?sni=sahanwickramasinghevip.shop&fp=chrome&security=tls#SG🇸🇬
 ss://55d61055-1a7f-4bc5-aca2-4ee78c738b60@sahanwickramasinghevip.shop:443?sni=sahanwickramasinghevip.shop&fp=chrome&security=tls#🇸🇬[openproxylist.com]vless-SG
 ss://6253100c-3ff4-42d9-b183-7fe46e5a9039@local.cloud-play.ir:80?encryption=none&type=xhttp&host=xenoengineer.com#SG🇸🇬
@@ -94,7 +94,7 @@ trojan://BxceQaOe@16.163.150.200:41421?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9
 trojan://FLpONjB2Lb@139.162.45.139:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-139.162.45.139-4475
 trojan://IL37892054@engaged-ram.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-54.169.245.181-6164
 trojan://OccIqeORGQwiNkwS@jpbgp.netvigor.cc:19128?sni=yazhou10.dynu.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
-trojan://PI36027154@rich-mule.rooster465.autos:443?allowInsecure=0#SG-13.212.105.193-0099
+trojan://PI36027154@rich-mule.rooster465.autos:443?allowInsecure=0#SG-13.212.105.193-0110
 trojan://PI36027154@rich-mule.rooster465.autos:443?allowInsecure=1#SG🇸🇬
 trojan://PI36027154@rich-mule.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.212.105.193-0099
 trojan://affae2e0-e84b-11ec-b09f-1239d0255272@trojan1.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.51.247-6684
@@ -119,7 +119,7 @@ vless://2864749a-b45d-52c3-0f36-e64224f5480f@159.223.87.244:443/?type=tcp&encryp
 vless://2864749a-b45d-52c3-0f36-e64224f5480f@159.89.198.1:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=unpkg.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%2849%29
 vless://2864749a-b45d-52c3-0f36-e64224f5480f@174.138.21.249:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.adobe.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29
 vless://2864749a-b45d-52c3-0f36-e64224f5480f@188.166.176.63:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.alibaba.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%289%29
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@47.99.108.15:443?&security=tls&fp=chrome&sni=support.zoom.us.yxls.eu.cc&type=ws&headerType=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi#SG-Singapore-h-1928115-ujog
+vless://35b94b2c-1b46-4209-a04b-32ecf159b632@104.17.170.132:8880?&security=false&fp=chrome&type=ws&headerType=none&host=fragrant-tooth-2180.97-cbb.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#SG-Singapore-415620217-irtr
 vless://55d61055-1a7f-4bc5-aca2-4ee78c738b60@sahanwickramasinghevip.shop:443?sni=sahanwickramasinghevip.shop&fp=chrome&security=tls#SG🇸🇬
 vless://55d61055-1a7f-4bc5-aca2-4ee78c738b60@sahanwickramasinghevip.shop:443?sni=sahanwickramasinghevip.shop&fp=chrome&security=tls#🇸🇬[openproxylist.com]vless-SG
 vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@local.cloud-play.ir:80?encryption=none&type=xhttp&host=xenoengineer.com#SG🇸🇬
