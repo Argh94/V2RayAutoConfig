@@ -5,6 +5,7 @@ ss://136119d13dfa4fb39ce9b6fe1f09fa54@88.214.24.226:8443?encryption=none&type=xh
 ss://15cbab96-197e-46a5-9042-073b3980c798@fsdns.ectunnelvpn.me:80?encryption=none&host=fsdns.ectunnelvpn.me&path=/vless&security=none&type=ws#FR🇫🇷
 ss://21c25bef-eb3b-44a8-9b26-fa7f674e5bfc@51.195.116.82:443?security=reality&encryption=none&pbk=RWE5ORdQ2SzuFWX8DlaRP415wbhee9ynJkqC7yFPgQw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=d13ddfca12760d03#REALITY|FR🇫🇷
 ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@ov-france2.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20OVH
+ss://356ccb34-22cc-4446-a137-072bc60d65ca@bypass.fr-gt-01.com:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f34818a561dfd1fe#🆔soskeynet%20🔒%20VL-TCP-%20🇫🇷%20FR%20389ms
 ss://36644091-0cec-47fe-9955-97c3f424baf7@162.19.156.170:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&allowinsecure=1&type=tcp&headerType=none#REALITY|FR🇫🇷
 ss://36644091-0cec-47fe-9955-97c3f424baf7@all105.allenshop66245.ir:443?encryption=none&fp=&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&security=reality&sid=98fa0b00d09419f7&sni=play.google.com&type=tcp#REALITY|FR🇫🇷
 ss://36644091-0cec-47fe-9955-97c3f424baf7@all105.allenshop66245.ir:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#REALITY|FR🇫🇷
@@ -132,7 +133,6 @@ trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@62.210.254.72:28443?security=tls#%
 trojan://79770a32-9607-4919-9483-0f1794559390@95.179.217.221:443?security=tls&sni=nika2.hdfy2.foriran.trade&type=grpc&serviceName=M9hnxw1wCQSfVHaiznU#%F0%9F%87%AB%F0%9F%87%B7FR-95.179.217.221-9207
 trojan://9498f3a0-2992-11ee-a4c7-1239d0255272@fr.test3.net:443?security=tls&sni=zula.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.159.59.186-9132
 trojan://973ed2e0-c4d8-4737-a093-71629148086d@51.77.213.197:443?security=tls&sni=frt2.sshocean.net#%F0%9F%87%AB%F0%9F%87%B7FR-51.77.213.197-5595
-trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-38.60.168.129-0177
 trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-38.60.168.129-0213
 trojan://XG59623478@new-antelope.rooster465.autos:443?allowInsecure=1#FR🇫🇷
 trojan://XG59623478@open-octopus.rooster465.autos:443?allowInsecure=1#FR🇫🇷
@@ -142,7 +142,6 @@ trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=as
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=namayesh.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-9253
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=softsaaz.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-9259
 trojan://hCunaKqdEJDBO+3jCrJUSMevXOw9Q_r4Ey@38.60.136.156:443/?type=tcp&security=tls#Marseille%20%28France%29
-trojan://hCunaKqdEJDBO+3jCrJUSMevXOw9Q_r4Ey@38.60.136.156:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-38.60.136.156-0176
 trojan://hCunaKqdEJDBO+3jCrJUSMevXOw9Q_r4Ey@38.60.136.156:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-38.60.136.156-0200
 trojan://humanity@104.16.174.101:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28104%29
 trojan://humanity@104.16.174.109:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28142%29
@@ -216,10 +215,7 @@ trojan://humanity@www.calmlunch.com:443/?type=ws&path=%2Fassignment&security=tls
 trojan://humanity@www.gossipglove.com:443/?type=ws&path=%2Fassignment&security=tls#-%3EFR%2B%28%40DeamNet_Proxy%29
 trojan://humanity@www.ignitelimit.com:443/?type=ws&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&fp=chrome#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2818%29
 trojan://origin@176.31.83.90:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-176.31.83.90-2417
-trojan://telegram-id-directvpn@13.37.210.132:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR-🚀@VPNine1
 trojan://telegram-id-directvpn@13.39.112.204:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-13.39.112.204-9952
-trojan://telegram-id-directvpn@13.39.153.213:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR-🚀@VPNine1
-trojan://telegram-id-privatevpns@13.39.153.213:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR-🚀@VPNine1
 trojan://telegram-id-privatevpns@15.236.122.160:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-15.236.122.160-9857
 trojan://telegram-id-privatevpns@15.236.122.160:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-15.236.122.160-9859
 trojan://telegram-id-privatevpns@15.237.50.200:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-15.237.50.200-9851
@@ -236,6 +232,7 @@ vless://136119d13dfa4fb39ce9b6fe1f09fa54@88.214.24.226:8443?encryption=none&type
 vless://15cbab96-197e-46a5-9042-073b3980c798@fsdns.ectunnelvpn.me:80?encryption=none&host=fsdns.ectunnelvpn.me&path=/vless&security=none&type=ws#FR🇫🇷
 vless://21c25bef-eb3b-44a8-9b26-fa7f674e5bfc@51.195.116.82:443?security=reality&encryption=none&pbk=RWE5ORdQ2SzuFWX8DlaRP415wbhee9ynJkqC7yFPgQw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=d13ddfca12760d03#REALITY|FR🇫🇷
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@ov-france2.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20OVH
+vless://356ccb34-22cc-4446-a137-072bc60d65ca@bypass.fr-gt-01.com:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f34818a561dfd1fe#🆔soskeynet%20🔒%20VL-TCP-%20🇫🇷%20FR%20389ms
 vless://36644091-0cec-47fe-9955-97c3f424baf7@162.19.156.170:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&allowinsecure=1&type=tcp&headerType=none#REALITY|FR🇫🇷
 vless://36644091-0cec-47fe-9955-97c3f424baf7@all105.allenshop66245.ir:443?encryption=none&fp=&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&security=reality&sid=98fa0b00d09419f7&sni=play.google.com&type=tcp#REALITY|FR🇫🇷
 vless://36644091-0cec-47fe-9955-97c3f424baf7@all105.allenshop66245.ir:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#REALITY|FR🇫🇷
