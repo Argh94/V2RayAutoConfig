@@ -136,6 +136,7 @@ ss://e32b0e12-f108-4b73-be2d-bf09c00ad888@199.232.78.159:443?path=%2F&security=t
 ss://e32b0e12-f108-4b73-be2d-bf09c00ad888@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%5B%F0%9F%8F%81%5Dt.me%2FConfigV2RayNG
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.233.14:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.88.158:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.191.198:22222?encryption=none&security=none&type=tcp#(S103)🇨🇵t.me/PrivateVPNs
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.111.185:22222?encryption=none&security=none&type=tcp#(S103)🇨🇵t.me/PrivateVPNs
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.242.140:22222?encryption=none&security=none&type=tcp#(S101)🇩🇪t.me/PrivateVPNs
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.181.118:22222?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA107878%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
@@ -337,6 +338,7 @@ vless://e32b0e12-f108-4b73-be2d-bf09c00ad888@199.232.78.159:443?path=%2F&securit
 vless://e32b0e12-f108-4b73-be2d-bf09c00ad888@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%5B%F0%9F%8F%81%5Dt.me%2FConfigV2RayNG
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.233.14:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.88.158:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.191.198:22222?encryption=none&security=none&type=tcp#(S103)🇨🇵t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.111.185:22222?encryption=none&security=none&type=tcp#(S103)🇨🇵t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.242.140:22222?encryption=none&security=none&type=tcp#(S101)🇩🇪t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.181.118:22222?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA107878%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
