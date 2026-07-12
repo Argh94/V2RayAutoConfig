@@ -127,6 +127,7 @@ ss://e32b0e12-f108-4b73-be2d-bf09c00ad888@151.101.110.219:443?path=%2F&security=
 ss://e32b0e12-f108-4b73-be2d-bf09c00ad888@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=albaniijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%5B%F0%9F%8F%81%5Dt.me%2FConfigV2RayNG
 ss://e32b0e12-f108-4b73-be2d-bf09c00ad888@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%5B%F0%9F%8F%81%5Dt.me%2FConfigV2RayNG
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.204.235:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.212.228:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.226.13:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.232.222:22222?encryption=none&security=none&type=tcp#(S103)🇨🇵t.me/PrivateVPNs
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.233.14:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
@@ -312,6 +313,7 @@ vless://e32b0e12-f108-4b73-be2d-bf09c00ad888@151.101.110.219:443?path=%2F&securi
 vless://e32b0e12-f108-4b73-be2d-bf09c00ad888@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=albaniijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%5B%F0%9F%8F%81%5Dt.me%2FConfigV2RayNG
 vless://e32b0e12-f108-4b73-be2d-bf09c00ad888@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%5B%F0%9F%8F%81%5Dt.me%2FConfigV2RayNG
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.204.235:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.212.228:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.226.13:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.232.222:22222?encryption=none&security=none&type=tcp#(S103)🇨🇵t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.233.14:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
