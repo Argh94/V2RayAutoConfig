@@ -26,7 +26,9 @@ ss://42f4be04-31d7-477d-9549-c1f79c6b9ee0@51.38.32.227:2096?encryption=none&secu
 ss://47d93c17-df36-4724-b81f-711c4fcf54e9@104.21.62.5:443?path=%2FZEUS_PANEL_BOT&security=tls&encryption=none&insecure=0&host=fr2.bimehu.ir&fp=chrome&type=ws&allowInsecure=0&sni=fr2.bimehu.ir#FR🇫🇷
 ss://53821f3c-5b03-456a-89f3-f8379f130752@57.128.81.193:443/?type=raw&encryption=none&sni=www.samsung.com&security=reality&pbk=fXdtB8vImCUJMQBLcCNK7p1v3rVzx6HllaDLk8Vc4EU&sid=239dcd11#-%3EFR%2B%28%40DeamNet_Proxy%29%20%285%29
 ss://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=nMlxwhP34_5wFPscbso_hOfRDmsj9DonMpDSXUrnJR8&sid=ead3d6f82a9d#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2863%29
+ss://54a54ea0-4409-4030-ad9b-44c45849c05a@152.89.253.239:7443?sni=ya.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#A%20-%20%F0%9F%87%AB%F0%9F%87%B7%20FR%2003%20TG%3A%20%40nodpai
 ss://619bb27d-d162-4d60-8779-61f4a51972b6@75.119.151.16:80?encryption=none&type=xhttp&path=%2F%3Fed%3D2048&host=de.samanehha.io&mode=stream-one&security=none#FR🇫🇷
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.119.30:8880?type=ws&host=vms.lifetime56.workers.dev#A%20-%20%F0%9F%87%AB%F0%9F%87%B7%20FR%2001%20TG%3A%20%40nodpai
 ss://70cde8b3-4e69-4a82-9188-0262924ae8c6@6f3c1645ff6f9603.mechanicir.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=firefox&type=grpc&sni=icloud.com&sid=d5e4b75249e38cbb#REALITY|FR🇫🇷
 ss://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.18.206.22:443/?type=ws&encryption=none&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AFR%20%2843%29
 ss://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.27.7.125:443/?type=ws&encryption=none&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AFR%20%2838%29
@@ -266,7 +268,9 @@ vless://42f4be04-31d7-477d-9549-c1f79c6b9ee0@51.38.32.227:2096?encryption=none&s
 vless://47d93c17-df36-4724-b81f-711c4fcf54e9@104.21.62.5:443?path=%2FZEUS_PANEL_BOT&security=tls&encryption=none&insecure=0&host=fr2.bimehu.ir&fp=chrome&type=ws&allowInsecure=0&sni=fr2.bimehu.ir#FR🇫🇷
 vless://53821f3c-5b03-456a-89f3-f8379f130752@57.128.81.193:443/?type=raw&encryption=none&sni=www.samsung.com&security=reality&pbk=fXdtB8vImCUJMQBLcCNK7p1v3rVzx6HllaDLk8Vc4EU&sid=239dcd11#-%3EFR%2B%28%40DeamNet_Proxy%29%20%285%29
 vless://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=nMlxwhP34_5wFPscbso_hOfRDmsj9DonMpDSXUrnJR8&sid=ead3d6f82a9d#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2863%29
+vless://54a54ea0-4409-4030-ad9b-44c45849c05a@152.89.253.239:7443?sni=ya.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#A%20-%20%F0%9F%87%AB%F0%9F%87%B7%20FR%2003%20TG%3A%20%40nodpai
 vless://619bb27d-d162-4d60-8779-61f4a51972b6@75.119.151.16:80?encryption=none&type=xhttp&path=%2F%3Fed%3D2048&host=de.samanehha.io&mode=stream-one&security=none#FR🇫🇷
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.119.30:8880?type=ws&host=vms.lifetime56.workers.dev#A%20-%20%F0%9F%87%AB%F0%9F%87%B7%20FR%2001%20TG%3A%20%40nodpai
 vless://70cde8b3-4e69-4a82-9188-0262924ae8c6@6f3c1645ff6f9603.mechanicir.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=firefox&type=grpc&sni=icloud.com&sid=d5e4b75249e38cbb#REALITY|FR🇫🇷
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.18.206.22:443/?type=ws&encryption=none&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AFR%20%2843%29
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.27.7.125:443/?type=ws&encryption=none&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AFR%20%2838%29
