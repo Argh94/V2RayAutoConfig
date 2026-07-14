@@ -65,9 +65,13 @@ trojan://CF68213490@eternal-horse.rooster465.autos:443?security=tls&sni=eternal-
 trojan://CF68213490@excited-squirrel.rooster465.autos:443?security=tls&sni=excited-squirrel.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.38.190.61-3052
 trojan://CF68213490@growing-ram.rooster465.autos:443?allowInsecure=0&sni=growing-ram.rooster465.autos#🇰🇷KR-🚀@VPNine1
 trojan://CF68213490@growing-ram.rooster465.autos:443?security=tls&sni=growing-ram.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.64.246-3053
+trojan://CF68213490@star-bluejay.rooster465.autos:443?allowInsecure=0&sni=star-bluejay.rooster465.autos#🇰🇷KR-🚀@VPNine1
 trojan://CF68213490@star-bluejay.rooster465.autos:443?security=tls&sni=star-bluejay.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.159.219-3058
+trojan://CF68213490@together-impala.rooster465.autos:443?allowInsecure=0&sni=together-impala.rooster465.autos#🇰🇷KR-🚀@VPNine1
 trojan://CF68213490@together-impala.rooster465.autos:443?security=tls&sni=together-impala.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-52.79.117.94-3060
+trojan://CF68213490@tolerant-stag.rooster465.autos:443?allowInsecure=0&sni=tolerant-stag.rooster465.autos#🇰🇷KR-🚀@VPNine1
 trojan://CF68213490@tolerant-stag.rooster465.autos:443?security=tls&sni=tolerant-stag.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.203.209.247-3061
+trojan://CF68213490@upward-yak.rooster465.autos:443?allowInsecure=0&sni=upward-yak.rooster465.autos#🇰🇷KR-🚀@VPNine1
 trojan://CF68213490@upward-yak.rooster465.autos:443?security=tls&sni=upward-yak.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.102.23-3062
 trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.178.83.161:26214/?type=tcp&security=tls&sni=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR-121.178.83.161-0760
 trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.36.131.117-5823
@@ -133,6 +137,6 @@ vmess://ewogICAgImFkZCI6ICJzZW91bDAxLnpnam9rLmNvbSIsCiAgICAiYWlkIjogMCwKICAgICJo
 vmess://ewogICAgImFkZCI6ICJzZW91bDAyLnpnam9rLmNvbSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInNlb3VsMDIuemdqb2suY29tIiwKICAgICJpZCI6ICIxYTFlNTE5Ni1lYWI0LTQ3NzItOTAxMi02NWMyN2YxOWE1MjQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh7Dwn4e3S1ItMTQ2LjU2LjEzNi4yMzctMTQwMSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://eyJ2IjoiMiIsInBzIjoiS1ItMTMyLjE0NS44MC4yMzAtMjM0NiIsImFkZCI6IjEzMi4xNDUuODAuMjMwIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjUxNTU4NjBlLWQwN2QtNDZjMy05MTI4LTNhZmJkODQ2MjZjNyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJob3N0Ijoia3IwMi5hMGEueHl6IiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiS1ItMjE3LjE0Mi4xMzguNjEtMDYyOSIsImFkZCI6IjIxNy4xNDIuMTM4LjYxIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImFjMWI5MzNkLWFmZmYtNDQ4Ny05M2VmLWY1NzEzMGE1NWRmZiIsImFpZCI6IjAiLCJuZXQiOiJodHRwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
-vmess://eyJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsImFpZCI6IjAiLCJob3N0Ijoia3IwMi5hMGEueHl6IiwiaWQiOiI1MTU1ODYwZS1kMDdkLTQ2YzMtOTEyOC0zYWZiZDg0NjI2YzciLCJuYXRpb24iOiIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwb3J0IjoiODAiLCJwcyI6IktSIPCfh7Dwn4e3IHwgQFJheWRpa2FseCB8IDMyNTkiLCJzY3kiOiJhdXRvIiwic2VydmVyUG9ydCI6MCwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsImFpZCI6IjAiLCJob3N0Ijoia3IwMi5hMGEueHl6IiwiaWQiOiI1MTU1ODYwZS1kMDdkLTQ2YzMtOTEyOC0zYWZiZDg0NjI2YzciLCJuYXRpb24iOiIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwb3J0IjoiODAiLCJwcyI6IktSIPCfh7Dwn4e3IHwgQFJheWRpa2FseCB8IDMyNDkiLCJzY3kiOiJhdXRvIiwic2VydmVyUG9ydCI6MCwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJLUlx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyB8IDE0MC4yMzguMi4yNTAtNDQzIHwgMTgwLjkybXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxNTIuNjcuMjE4LjM4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIxNTIuNjcuMjE4LjM4IiwiaWQiOiJiNWU5NDgwYS1iN2FhLTQwYTQtZjlhNy01Mjk5YjVlMzYzYjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HsPCfh7dLUi0xNTIuNjcuMjE4LjM4LTAxNDkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
