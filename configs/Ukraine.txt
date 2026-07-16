@@ -1,10 +1,12 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcXlpbWl2M1lOZ3U2ZEFwY3Rwdzd0@130.0.233.100:33610#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+130.0.233.100-33610+%7C+180.36ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphUk5GWUt0TE9uYVBFNUZDSEk5eWxy@130.0.233.100:33610#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+130.0.233.100-33610+%7C+179.94ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#%F0%9F%87%BA%F0%9F%87%A6UA-195.28.182.217-9146
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#%F0%9F%87%BA%F0%9F%87%A6UA-5.188.6.8-8882
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#%F0%9F%87%BA%F0%9F%87%A6UA-195.28.182.217-9273
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#%F0%9F%87%BA%F0%9F%87%A6UA-5.188.6.8-9009
 ss://YWVzLTI1Ni1nY206TXpSbFl6QTBaR1kwTmpjMlpqUTJZVFJpTVRnMllUa3pOak00T0dJMQ==@kyiv02.npvnot.com:443#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+kyiv02.npvnot.com-443+%7C+253.56ms
 ss://ccb8e0cd3b764e97bf6dd015830a5510@130.0.233.100:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=oJXngdG-SwLxHt2tJonmC-T_6PS4UEACLWj4sbfetno&sid=aabbccdd&fp=random#REALITY|UA🇺🇦
+ss://d407defe-cd4f-4d32-a3b1-47c2c813c50d@31.43.191.131:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&security=reality&sni=tehno.store&type=tcp#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
 ss://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-ua-hn.ray-balance.space:4443?encryption=none&security=none&type=grpc#UA🇺🇦
 vless://ccb8e0cd3b764e97bf6dd015830a5510@130.0.233.100:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=oJXngdG-SwLxHt2tJonmC-T_6PS4UEACLWj4sbfetno&sid=aabbccdd&fp=random#REALITY|UA🇺🇦
+vless://d407defe-cd4f-4d32-a3b1-47c2c813c50d@31.43.191.131:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&security=reality&sni=tehno.store&type=tcp#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-ua-hn.ray-balance.space:4443?encryption=none&security=none&type=grpc#UA🇺🇦
-vmess://ewogICAgImFkZCI6ICIxNDEuMTEuMjUyLjY0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJiN2IyMzJkMS03OWFlLTRmYjEtOGZkYi02ZjBiZGM4YTQxZWUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvYjdiMjMyZDEiLAogICAgInBvcnQiOiAyMDYzMCwKICAgICJwcyI6ICLwn4e68J+HplVBLTE0MS4xMS4yNTIuNjQtODE4NyIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+vmess://ewogICAgImFkZCI6ICIxNDEuMTEuMjUyLjY0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJiN2IyMzJkMS03OWFlLTRmYjEtOGZkYi02ZjBiZGM4YTQxZWUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvYjdiMjMyZDEiLAogICAgInBvcnQiOiAyMDYzMCwKICAgICJwcyI6ICLwn4e68J+HplVBLTE0MS4xMS4yNTIuNjQtODMxNCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
