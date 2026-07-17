@@ -1,4 +1,5 @@
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000/?insecure=1&sni=bing.com#TW
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@tw.9966690.xyz:40000?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NT6iNA==#A%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2001%20TG%3A%20%40nodpai
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#TW
 ss://04793d5b-1b79-49fc-b5f9-2e8ce0e3ebc6@hinet2.gzcloud.shop:20519/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=buylite.music.apple.com&fp=chrome&security=reality&pbk=fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI&sid=4b070735#🇨🇳TW
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.224.158.182:50099#TW%F0%9F%87%B9%F0%9F%87%BC+%7C+36.224.158.182-50099+%7C+173.39ms
@@ -40,8 +41,6 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.229-3981
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.209-3706
 trojan://YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT@2.58.242.43:443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-2.58.242.43-5339
-trojan://a5e355b9-11fc-449a-aa7b-eb707783f25a@104.19.174.68:443?sni=px8r9i1b4k.bpusfaster2.top#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE
-trojan://a5e355b9-11fc-449a-aa7b-eb707783f25a@tw3011h8r.cloudflare.182682.xyz:443?sni=kfb9frqf0v.bpis2026.top#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE2
 trojan://b09d2aaa443af97a@211.72.35.152:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.35.152-3883
 trojan://b09d2aaa443af97a@211.72.35.155:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.35.155-3510
 trojan://b84d16a244460e09@211.72.35.152:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.35.152-3558
@@ -80,3 +79,4 @@ vmess://ewogICAgImFkZCI6ICJ0dzMuNTk0ODg4Lnh5eiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0
 vmess://ewogICAgImFkZCI6ICJ0dzQuNTk0ODg4Lnh5eiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInR3NC41OTQ4ODgueHl6IiwKICAgICJpZCI6ICJkZDc2MzljZi02NmRkLTMwMzgtYWIwZS1jZWZlN2U5ZWY5ZmIiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvdjJyYXkiLAogICAgInBvcnQiOiAxMTQ2MywKICAgICJwcyI6ICLwn4e58J+HvFRXLTM2LjIyNC4xNTkuMTkyLTEyOTciLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vmess://eyJhZGQiOiI3Y2MwMmFiOS0zNDc4LTE3MzMtZWE5NC0yYjQ1ZDhlMTE1YTAuYnVndGlrLmx0ZCIsInYiOjIsInBzIjoi8J+HufCfh7wgVFcg5Y+w5rm+IDQiLCJwb3J0IjoiODAiLCJpZCI6IjQ2Y2ZjZmUxLWU0NTAtNDU5ZC1hM2FiLTk0MDYwMTFhYjNlYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6InRtcy5kaW5ndGFsay5jb20iLCJ0bHMiOiIiLCJwYXRoIjoiLyJ9
 vmess://eyJhZGQiOiIyMDdjMTNmYi04M2I2LTIwMjEtNzY2Yi02Yzk1ZTU2YTRhMzMuYnVndGlrLmx0ZCIsInYiOjIsInBzIjoi8J+HufCfh7wgVFcg5Y+w5rm+IDUiLCJwb3J0IjoiODAiLCJpZCI6IjQ2Y2ZjZmUxLWU0NTAtNDU5ZC1hM2FiLTk0MDYwMTFhYjNlYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6InRtcy5kaW5ndGFsay5jb20iLCJ0bHMiOiIiLCJwYXRoIjoiLyJ9
+vmess://eyJhZGQiOiJndG0xLmt0bXdhbi5uZXQiLCJhaWQiOiIwIiwiaG9zdCI6ImJhaWR1LmNvbSIsImlkIjoiNDk0MWFhOGQtMDdkMi00MDhjLWJlMmMtMTE3ZGViZWNiYTMwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIxMjg4OCIsInBzIjoiVFcg8J+HufCfh7wgfCBAUmF5ZGlrYWx4IHwgMzk4OCIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
