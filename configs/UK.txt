@@ -1,6 +1,5 @@
 ss://02db10db44e04d6aae77331b0694ac1b@91.231.186.24:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=nytimes.com&pbk=WhRQP6-muqar8s2OsjHGZZnSiG5LEGsp-CGv6wkhdDs&sid=aabbccdd&fp=random#REALITY|GB🇬🇧
 ss://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443?path=%2Fesoznjws&security=tls&encryption=none&type=ws&sni=m.vk.com#United%20Kingdom%20Digital%20Ocean
-ss://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?encryption=none&type=tcp&security=tls&headerType=none&sni=186.190.211.188&insecure=1&allowInsecure=1#🆔spotify_porteghali%20🔒%20VL-TCP-N/A%20🇬🇧%20GB%20194ms
 ss://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#GB🇬🇧
 ss://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=%2F%3F&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#GB🇬🇧
 ss://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#GB🇬🇧
@@ -32,6 +31,8 @@ ss://53821f3c-5b03-456a-89f3-f8379f130752@51.89.229.134:443/?type=raw&encryption
 ss://53821f3c-5b03-456a-89f3-f8379f130752@51.89.229.134:443?security=reality&encryption=none&pbk=4e4FI0siWxFtLCRCVDQurn1wLTuvKWhRY0zj1SaUcyw&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=a13a7cc5#REALITY|GB🇬🇧
 ss://5fbee2a0-7ca4-46a8-aac7-9f26a1f2cb3c@45.86.159.139:2085?encryption=none&security=none&serviceName=vless&type=grpc#GB🇬🇧
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.136.139:443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#GB🇬🇧
+ss://7b102311-43fd-4e8f-877e-8090623c101d@91.193.58.194:8443?&security=tls&fp=chrome&sni=vp33.cc.cd&type=ws&headerType=none&host=vp33.cc.cd&path=%2F#_%E8%8B%B1%E5%9B%BD_338
+ss://7b102311-43fd-4e8f-877e-8090623c101d@91.193.59.230:2087?&security=tls&fp=chrome&sni=vp14.cc.cd&type=ws&headerType=none&host=vp14.cc.cd&path=%2Ffp%3Dchrome#GB%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa9a.xyz%E3%80%913%202
 ss://7b102311-43fd-4e8f-877e-8090623c101d@91.193.59.230:2087?sni=vp14.cc.cd&type=ws&host=vp14.cc.cd&path=/fp=chrome&security=tls#GB%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%913
 ss://7b102311-43fd-4e8f-877e-8090623c101d@91.193.59.240:443?sni=vp13.cc.cd&type=ws&host=vp13.cc.cd&path=/fp=chrome&security=tls#GB%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9117
 ss://7bdb9235-68bd-418f-912e-4cc590f50c35@194.147.35.148:443?encryption=none&type=tcp&security=reality&headerType=none&fp=chrome&pbk=zdUruFsb8e_EEIqEMyykFbpNaOZCk_RDRaYInsgD9y0&sid=0a076a46#REALITY|GB🇬🇧
@@ -313,7 +314,6 @@ trojan://xxoo@138.124.183.222:443?security=tls&sni=138.124.183.222#%F0%9F%87%AC%
 trojan://xxoo@138.124.183.226:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-138.124.183.226-3630
 vless://02db10db44e04d6aae77331b0694ac1b@91.231.186.24:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=nytimes.com&pbk=WhRQP6-muqar8s2OsjHGZZnSiG5LEGsp-CGv6wkhdDs&sid=aabbccdd&fp=random#REALITY|GB🇬🇧
 vless://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443?path=%2Fesoznjws&security=tls&encryption=none&type=ws&sni=m.vk.com#United%20Kingdom%20Digital%20Ocean
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?encryption=none&type=tcp&security=tls&headerType=none&sni=186.190.211.188&insecure=1&allowInsecure=1#🆔spotify_porteghali%20🔒%20VL-TCP-N/A%20🇬🇧%20GB%20194ms
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#GB🇬🇧
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=%2F%3F&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#GB🇬🇧
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#GB🇬🇧
@@ -345,6 +345,8 @@ vless://53821f3c-5b03-456a-89f3-f8379f130752@51.89.229.134:443/?type=raw&encrypt
 vless://53821f3c-5b03-456a-89f3-f8379f130752@51.89.229.134:443?security=reality&encryption=none&pbk=4e4FI0siWxFtLCRCVDQurn1wLTuvKWhRY0zj1SaUcyw&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=a13a7cc5#REALITY|GB🇬🇧
 vless://5fbee2a0-7ca4-46a8-aac7-9f26a1f2cb3c@45.86.159.139:2085?encryption=none&security=none&serviceName=vless&type=grpc#GB🇬🇧
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.136.139:443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#GB🇬🇧
+vless://7b102311-43fd-4e8f-877e-8090623c101d@91.193.58.194:8443?&security=tls&fp=chrome&sni=vp33.cc.cd&type=ws&headerType=none&host=vp33.cc.cd&path=%2F#_%E8%8B%B1%E5%9B%BD_338
+vless://7b102311-43fd-4e8f-877e-8090623c101d@91.193.59.230:2087?&security=tls&fp=chrome&sni=vp14.cc.cd&type=ws&headerType=none&host=vp14.cc.cd&path=%2Ffp%3Dchrome#GB%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa9a.xyz%E3%80%913%202
 vless://7b102311-43fd-4e8f-877e-8090623c101d@91.193.59.230:2087?sni=vp14.cc.cd&type=ws&host=vp14.cc.cd&path=/fp=chrome&security=tls#GB%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%913
 vless://7b102311-43fd-4e8f-877e-8090623c101d@91.193.59.240:443?sni=vp13.cc.cd&type=ws&host=vp13.cc.cd&path=/fp=chrome&security=tls#GB%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9117
 vless://7bdb9235-68bd-418f-912e-4cc590f50c35@194.147.35.148:443?encryption=none&type=tcp&security=reality&headerType=none&fp=chrome&pbk=zdUruFsb8e_EEIqEMyykFbpNaOZCk_RDRaYInsgD9y0&sid=0a076a46#REALITY|GB🇬🇧
