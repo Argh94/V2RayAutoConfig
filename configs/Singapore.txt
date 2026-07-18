@@ -2,6 +2,7 @@ hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000/?insecure=1&sni=bing.com#SG
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055?insecure=1&sni=xjp1.mangshe.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A11
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#SG
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.220.11:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#Singapore%20%F0%9F%87%B8%F0%9F%87%AC
 ss://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 ss://2864749a-b45d-52c3-0f36-e64224f5480f@128.199.142.119:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.maybank2u.com.sg&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%283%29
 ss://2864749a-b45d-52c3-0f36-e64224f5480f@152.42.246.121:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.booking.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%286%29
@@ -171,7 +172,13 @@ trojan://CF68213490@vast-werewolf.rooster465.autos:443?allowInsecure=0&sni=vast-
 trojan://CF68213490@vast-werewolf.rooster465.autos:443?allowInsecure=0&sni=vast-werewolf.rooster465.autos#SG🇸🇬
 trojan://CF68213490@vast-werewolf.rooster465.autos:443?security=tls&sni=vast-werewolf.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-13.229.60.15-0209
 trojan://FLpONjB2Lb@139.162.45.139:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-139.162.45.139-4223
+trojan://HW85960347@major-cobra.rooster465.autos:443?allowInsecure=0&sni=major-cobra.rooster465.autos#🇸🇬SG-🚀@VPNine1
+trojan://HW85960347@major-cobra.rooster465.autos:443?allowInsecure=0&sni=major-cobra.rooster465.autos#🇸🇬[openproxylist.com]trojan-SG
+trojan://HW85960347@quality-sheepdog.rooster465.autos:443?allowInsecure=0&sni=quality-sheepdog.rooster465.autos#🇸🇬SG-🚀@VPNine1
+trojan://HW85960347@quality-sheepdog.rooster465.autos:443?allowInsecure=0&sni=quality-sheepdog.rooster465.autos#🇸🇬[openproxylist.com]trojan-SG
 trojan://IL37892054@engaging-toucan.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.212.114.143-6002
+trojan://JA96378052@modest-coral.rooster465.autos:443?allowInsecure=0&sni=modest-coral.rooster465.autos#🇸🇬SG-🚀@VPNine1
+trojan://JA96378052@modest-coral.rooster465.autos:443?allowInsecure=0&sni=modest-coral.rooster465.autos#🇸🇬[openproxylist.com]trojan-SG
 trojan://NQ26071394@alert-titmouse.rooster465.autos:443?allowInsecure=1&sni=alert-titmouse.rooster465.autos#%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%206
 trojan://NQ26071394@allowed-moose.rooster465.autos:443?allowInsecure=0#SG-54.169.16.108-6005
 trojan://NQ26071394@allowed-moose.rooster465.autos:443?allowInsecure=0&sni=allowed-moose.rooster465.autos#SG🇸🇬
@@ -336,6 +343,4 @@ vmess://ewogICAgImFkZCI6ICJzdGVhbS5kbnNwcm8uaWN1IiwKICAgICJhaWQiOiAwLAogICAgImhv
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6zmlrDliqDlnaEyIHwg4qyH77iPIDEuN01CL3MiLCJhZGQiOiJhLjg4Njk2OC54eXoiLCJwb3J0IjoyMTM2OSwiaWQiOiIxNTExODdiMS1jOGYzLTRjMzItYWM3Mi0zNjc5ZTI2NGE3YTMiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInNuaSI6ImEuODg2OTY4Lnh5eiIsInBhdGgiOiIvd2ZkZWYiLCJob3N0IjoiYS44ODY5NjgueHl6In0=
 vmess://eyJhZGQiOiIxMjguMTk5LjI0My4xNTciLCJ2IjoyLCJwcyI6IvCfh7jwn4esX1NHX+aWsOWKoOWdoV83IiwicG9ydCI6IjgwODAiLCJpZCI6ImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwicGF0aCI6Ii8ifQ==
 vmess://eyJhZGQiOiIxMjkuMjI2LjE1Ny4yMjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDk4NjVkNjMtZDk1Yy00NTRiLWJhMDctOGU4OGI4MzhhODAxIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNTkxMjEiLCJwcyI6IkBOZXQycmF5IFNH8J+HuPCfh6wiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxMjkuMjI2LjE1Ny4yMjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDk4NjVkNjMtZDk1Yy00NTRiLWJhMDctOGU4OGI4MzhhODAxIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNTkxMjEiLCJwcyI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IDMxOTAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IDMxOTQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
-vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5hdGlvbiI6IiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IDMxOTUiLCJzY3kiOiJhdXRvIiwic2VydmVyUG9ydCI6MCwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vmess://eyJhZGQiOiIxMjkuMjI2LjE1Ny4yMjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDk4NjVkNjMtZDk1Yy00NTRiLWJhMDctOGU4OGI4MzhhODAxIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNTkxMjEiLCJwcyI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IDMxNzciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
