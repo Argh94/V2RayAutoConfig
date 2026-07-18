@@ -2,7 +2,6 @@ hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000/?insecure=1&sni=bing.com#SG
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055?insecure=1&sni=xjp1.mangshe.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A11
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#SG
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.220.11:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#Singapore%20%F0%9F%87%B8%F0%9F%87%AC
 ss://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 ss://2864749a-b45d-52c3-0f36-e64224f5480f@128.199.142.119:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.maybank2u.com.sg&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%283%29
 ss://2864749a-b45d-52c3-0f36-e64224f5480f@152.42.246.121:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.booking.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%286%29
@@ -175,13 +174,10 @@ trojan://FLpONjB2Lb@139.162.45.139:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-1
 trojan://HW85960347@aware-coyote.rooster465.autos:443?allowInsecure=0&sni=aware-coyote.rooster465.autos#🇸🇬SG-🚀@VPNine1
 trojan://HW85960347@excited-alien.rooster465.autos:443?allowInsecure=0&sni=excited-alien.rooster465.autos#🇸🇬SG-🚀@VPNine1
 trojan://HW85960347@feasible-guppy.rooster465.autos:443?allowInsecure=0&sni=feasible-guppy.rooster465.autos#🇸🇬SG-🚀@VPNine1
-trojan://HW85960347@major-cobra.rooster465.autos:443?allowInsecure=0&sni=major-cobra.rooster465.autos#🇸🇬[openproxylist.com]trojan-SG
 trojan://HW85960347@pro-mako.rooster465.autos:443?allowInsecure=0&sni=pro-mako.rooster465.autos#🇸🇬SG-🚀@VPNine1
-trojan://HW85960347@quality-sheepdog.rooster465.autos:443?allowInsecure=0&sni=quality-sheepdog.rooster465.autos#🇸🇬[openproxylist.com]trojan-SG
 trojan://IL37892054@engaging-toucan.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.212.114.143-5956
 trojan://JA96378052@epic-iguana.rooster465.autos:443?allowInsecure=0&sni=epic-iguana.rooster465.autos#🇸🇬SG-🚀@VPNine1
 trojan://JA96378052@inspired-goshawk.rooster465.autos:443?allowInsecure=0&sni=inspired-goshawk.rooster465.autos#🇸🇬SG-🚀@VPNine1
-trojan://JA96378052@modest-coral.rooster465.autos:443?allowInsecure=0&sni=modest-coral.rooster465.autos#🇸🇬[openproxylist.com]trojan-SG
 trojan://JA96378052@willing-eagle.rooster465.autos:443?allowInsecure=0&sni=willing-eagle.rooster465.autos#🇸🇬SG-🚀@VPNine1
 trojan://NQ26071394@alert-titmouse.rooster465.autos:443?allowInsecure=1&sni=alert-titmouse.rooster465.autos#%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%206
 trojan://NQ26071394@allowed-moose.rooster465.autos:443?allowInsecure=0#SG-54.169.16.108-6005
@@ -342,8 +338,7 @@ vmess://ewogICAgImFkZCI6ICJsb2wucHMiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJteXNh
 vmess://ewogICAgImFkZCI6ICJzZy1mdWxsLnByaXZhdGVpcC5uZXQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJzZy1mdWxsLnByaXZhdGVpcC5uZXQiLAogICAgImlkIjogImIyMjBkMGIwLTU3NWQtNDNkNC1iODhiLTg5NmRkZDE1MTUzMiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9SQUNFVlBOIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh7jwn4esU0ctMzEuMTkyLjIzNC4xOTktMDk3NiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICJzaC1jbi0xLmRuc3Byby5pY3UiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJzaC1jbi0xLmRuc3Byby5pY3UiLAogICAgImlkIjogIjEzZWY1ZjJjLWQwMDItMzZhMi05ZTk2LWExM2Q1ZTNhZTAzYiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9pc28iLAogICAgInBvcnQiOiAyMDAyNSwKICAgICJwcyI6ICLwn4e48J+HrFNHLTE4LjE0My43Ny4xOTYtMTI1NSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICJzdC0yLmRuc3Byby5pY3UiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJzdC0yLmRuc3Byby5pY3UiLAogICAgImlkIjogIjEzZWY1ZjJjLWQwMDItMzZhMi05ZTk2LWExM2Q1ZTNhZTAzYiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9pc28iLAogICAgInBvcnQiOiA1MTAwLAogICAgInBzIjogIvCfh7jwn4esU0ctMTguMTQzLjc3LjE5Ni0xMjUzIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-vmess://eyJ2IjoiMiIsImFkZCI6IjE0OS44OC4yMy4yMDIiLCJwb3J0IjoiMTgwMDAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoicmF3IiwidHlwZSI6IiIsInRscyI6IiIsInBzIjoiU0cg8J+HuPCfh6wgfCBAUmF5ZGlrYWx4IHwgNDAzMSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6zmlrDliqDlnaEyIHwg4qyH77iPIDEuN01CL3MiLCJhZGQiOiJhLjg4Njk2OC54eXoiLCJwb3J0IjoyMTM2OSwiaWQiOiIxNTExODdiMS1jOGYzLTRjMzItYWM3Mi0zNjc5ZTI2NGE3YTMiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInNuaSI6ImEuODg2OTY4Lnh5eiIsInBhdGgiOiIvd2ZkZWYiLCJob3N0IjoiYS44ODY5NjgueHl6In0=
 vmess://eyJhZGQiOiIxMjguMTk5LjI0My4xNTciLCJ2IjoyLCJwcyI6IvCfh7jwn4esX1NHX+aWsOWKoOWdoV83IiwicG9ydCI6IjgwODAiLCJpZCI6ImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwicGF0aCI6Ii8ifQ==
 vmess://eyJhZGQiOiIxMjkuMjI2LjE1Ny4yMjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDk4NjVkNjMtZDk1Yy00NTRiLWJhMDctOGU4OGI4MzhhODAxIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNTkxMjEiLCJwcyI6IkBOZXQycmF5IFNH8J+HuPCfh6wiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxMjkuMjI2LjE1Ny4yMjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDk4NjVkNjMtZDk1Yy00NTRiLWJhMDctOGU4OGI4MzhhODAxIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNTkxMjEiLCJwcyI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IDM2NjEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxMjkuMjI2LjE1Ny4yMjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDk4NjVkNjMtZDk1Yy00NTRiLWJhMDctOGU4OGI4MzhhODAxIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNTkxMjEiLCJwcyI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IDM2NjUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
