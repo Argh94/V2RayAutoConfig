@@ -7,11 +7,12 @@ ss://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@72.5.42.70:40443?security=reality&encr
 ss://c0d445a7-4f33-446f-a113-2180ef25ed2d@64.7.199.242:14342/?type=ws&encryption=none&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3ARO%20%281%29
 ss://ecfb4271-790e-4011-9364-6e168ed8a82a@76.164.202.210:448?encryption=none&fp=&pbk=i34zHKfyydOveuaYnjEU4ocu662Wagkf7fIbj9qiQRA&security=reality&sid=9e96f30390d6be81&sni=www.samsung.com&type=tcp#REALITY|RO🇷🇴
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.128:443?security=tls&headerType=none&type=tcp#%F0%9F%87%B7%F0%9F%87%B4RO%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A3%202.1MB%2Fs
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls&sni=185.137.157.140#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.135:443?allowInsecure=0&sni=185.137.157.135#%F0%9F%87%B7%F0%9F%87%B4%20%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%20V2CROSS.COM
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.135:443?fp=chrome&security=tls&sni=185.137.157.135&type=tcp#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?allowInsecure=0#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%20V2CROSS.COM
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?allowInsecure=0#%F0%9F%87%B7%F0%9F%87%B4%20%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%20V2CROSS.COM
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?allowInsecure=0&sni=185.137.157.149#%F0%9F%87%B7%F0%9F%87%B4%20%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%20V2CROSS.COM
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?security=tls&headerType=none&type=tcp#%F0%9F%87%B7%F0%9F%87%B4RO%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%202.1MB%2Fs
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?allowInsecure=0&sni=185.137.157.151#%F0%9F%87%B7%F0%9F%87%B4%20%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%20V2CROSS.COM
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?security=tls&sni=185.137.157.149#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?sni=185.137.157.151#%F0%9F%87%B7%F0%9F%87%B4RO%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A2%201.8MB%2Fs
 vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#REALITY|RO🇷🇴
 vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=web.max.ru&fp=chrome&security=reality&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&sid=247fd6dab1a34a48&packetEncoding=xudp#REALITY|RO🇷🇴
