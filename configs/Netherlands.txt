@@ -68,7 +68,9 @@ ss://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&encry
 ss://6f87d6c8-6a9c-4ce9-940a-2a91d86b58e8@185.121.234.47:3701?security=reality&encryption=none&pbk=g2sGRzHjnyC06HbpTkPdikRrYYP-09aZ4UT-WKVODTo&headerType=none&fp=chrome&spx=/y1gWdaecnKIKUd2&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=7b1a#🇳🇱[openproxylist.com]vless-NL
 ss://6f8923d9-f812-4ca6-b93a-8f9227bf2eab@195.93.253.49:33094?security=reality&encryption=none&pbk=35JazACyPS6LcDwpGibneEeMzkzGYWf4KTG_Oqp0oBE&headerType=none&type=tcp&sni=yahoo.com&sid=29489194da0d5d#%F0%9F%87%B3%F0%9F%87%B1%20Ultra%20NL
 ss://6fa9f6ae-877b-4858-b128-a8377fd9038b@nl.themesh.site:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-GF4mweoZmsIF2Kl0j-3u_NBlT8iGSBr12a7xZVtYTo&security=reality&sid=4f16d2b6e32c09f2&sni=nl.themesh.site&type=tcp#REALITY|NL🇳🇱
+ss://7b102311-43fd-4e8f-877e-8090623c101d@188.164.248.143:2087?&security=tls&fp=chrome&sni=vp24.cc.cd&type=ws&headerType=none&host=vp24.cc.cd&path=%2F#%E8%8D%B7%E5%85%B0%20V2CROSS.COM%203
 ss://7b102311-43fd-4e8f-877e-8090623c101d@188.164.248.143:2087?encryption=none&fp=chrome&host=vp24.cc.cd&path=/&security=tls&sni=vp24.cc.cd&type=ws#%E8%8D%B7%E5%85%B0+V2CROSS.COM
+ss://7b102311-43fd-4e8f-877e-8090623c101d@188.164.248.178:2096?security=tls&type=ws&path=/&host=vp12.cc.cd&packetEncoding=none&sni=vp12.cc.cd&fp=chrome#%E8%8D%B7%E5%85%B0+V2CROSS.COM
 ss://7bdb9235-68bd-418f-912e-4cc590f50c35@95.85.248.182:443?encryption=none&fp=&pbk=zdUruFsb8e_EEIqEMyykFbpNaOZCk_RDRaYInsgD9y0&security=reality&sid=0a076a46&type=tcp#REALITY|NL🇳🇱
 ss://861fd825-3828-4bc6-a48e-8295f357b6c7@rezerv24.yunus.guru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=OIpR2PehcH7DEsIeI1COw_XYihv7tG6cseNeGZIe220&security=reality&sid=6cde62dda3f46929&sni=rezerv24.yunus.guru&type=tcp#REALITY|NL🇳🇱
 ss://861fd825-3828-4bc6-a48e-8295f357b6c7@rezerv9.yunus.guru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=6QIHdF1dvSK8mDPOeWXvGIqJmZ2ySq5fyc7N15h1WFE&security=reality&sid=34256b39b4ebb864&sni=rezerv9.yunus.guru&type=tcp#REALITY|NL🇳🇱
@@ -235,12 +237,9 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@152.53.200.89:8443?security=tls&sni=Koma-YT.PA
 trojan://8r%3C%5B9%27l6hAO%238ZQi@91.221.190.80:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B3%F0%9F%87%B1NL-91.221.190.80-2243
 trojan://KV63147582@89.39.70.233:443?sni=game-firefly.rooster465.autos#NL🇳🇱
 trojan://KV63147582@game-firefly.rooster465.autos:443#NL🇳🇱
-trojan://KV63147582@game-firefly.rooster465.autos:443#🇳🇱NL-🚀@VPNine1
 trojan://KV63147582@game-firefly.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.233-6005
 trojan://M08tvzYWtUEJNtbpHp@194.124.216.192:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.192-6080
 trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.187-6079
-trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?allowInsecure=0&sni=grateful-bedbug.rooster465.autos#%E8%8D%B7%E5%85%B0%20-%20%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E4%B8%B9%20-%202
-trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?allowInsecure=0&sni=grateful-bedbug.rooster465.autos#NL-89.39.70.85-0252
 trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?allowInsecure=1#NL🇳🇱
 trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?allowInsecure=1&sni=grateful-bedbug.rooster465.autos#NL🇳🇱
 trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?security=tls&sni=grateful-bedbug.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.85-0252
@@ -249,11 +248,11 @@ trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?allowInsecure=1&sni=ren
 trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?fp=chrome#NL🇳🇱
 trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?security=tls&sni=renewed-phoenix.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1NL-79.133.126.190-2298
 trojan://NQ26071394@thorough-falcon.rooster465.autos:443?allowInsecure=1#NL🇳🇱
+trojan://PD07395842@enough-basilisk.rooster465.autos:443?fp=chrome#🇳🇱NL-🚀@VPNine1
 trojan://TestingServer@@@94.102.53.19:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-94.102.53.19-2049
-trojan://XG59623478@renewed-chigger.rooster465.autos:443?allowInsecure=0#NL-193.169.239.76-0228
-trojan://XG59623478@renewed-chigger.rooster465.autos:443?allowInsecure=1#🇳🇱NL-🚀@VPNine1
 trojan://XG59623478@renewed-chigger.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-193.169.239.76-0228
 trojan://XG59623478@upward-hedgehog.rooster465.autos:443?allowInsecure=1#NL🇳🇱
+trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?host=space.byu.id.yxls.eu.cc&path=/in-pdr&sni=space.byu.id.yxls.eu.cc&type=ws#🇳🇱NL-🚀@VPNine1
 trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443?security=tls&sni=Speedtest.net#%F0%9F%87%B3%F0%9F%87%B1NL-51.158.146.183-9058
 trojan://humanity@104.17.131.88:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://humanity@104.18.10.110:443/?type=ws&host=www.multiplydose.com&path=%2F%2Fassignment&security=tls&sni=www.multiplydose.com#-%3ENL%2B%28%40DeamNet_Proxy%29%20%2842%29
@@ -330,7 +329,9 @@ vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&en
 vless://6f87d6c8-6a9c-4ce9-940a-2a91d86b58e8@185.121.234.47:3701?security=reality&encryption=none&pbk=g2sGRzHjnyC06HbpTkPdikRrYYP-09aZ4UT-WKVODTo&headerType=none&fp=chrome&spx=/y1gWdaecnKIKUd2&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=7b1a#🇳🇱[openproxylist.com]vless-NL
 vless://6f8923d9-f812-4ca6-b93a-8f9227bf2eab@195.93.253.49:33094?security=reality&encryption=none&pbk=35JazACyPS6LcDwpGibneEeMzkzGYWf4KTG_Oqp0oBE&headerType=none&type=tcp&sni=yahoo.com&sid=29489194da0d5d#%F0%9F%87%B3%F0%9F%87%B1%20Ultra%20NL
 vless://6fa9f6ae-877b-4858-b128-a8377fd9038b@nl.themesh.site:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-GF4mweoZmsIF2Kl0j-3u_NBlT8iGSBr12a7xZVtYTo&security=reality&sid=4f16d2b6e32c09f2&sni=nl.themesh.site&type=tcp#REALITY|NL🇳🇱
+vless://7b102311-43fd-4e8f-877e-8090623c101d@188.164.248.143:2087?&security=tls&fp=chrome&sni=vp24.cc.cd&type=ws&headerType=none&host=vp24.cc.cd&path=%2F#%E8%8D%B7%E5%85%B0%20V2CROSS.COM%203
 vless://7b102311-43fd-4e8f-877e-8090623c101d@188.164.248.143:2087?encryption=none&fp=chrome&host=vp24.cc.cd&path=/&security=tls&sni=vp24.cc.cd&type=ws#%E8%8D%B7%E5%85%B0+V2CROSS.COM
+vless://7b102311-43fd-4e8f-877e-8090623c101d@188.164.248.178:2096?security=tls&type=ws&path=/&host=vp12.cc.cd&packetEncoding=none&sni=vp12.cc.cd&fp=chrome#%E8%8D%B7%E5%85%B0+V2CROSS.COM
 vless://7bdb9235-68bd-418f-912e-4cc590f50c35@95.85.248.182:443?encryption=none&fp=&pbk=zdUruFsb8e_EEIqEMyykFbpNaOZCk_RDRaYInsgD9y0&security=reality&sid=0a076a46&type=tcp#REALITY|NL🇳🇱
 vless://861fd825-3828-4bc6-a48e-8295f357b6c7@rezerv24.yunus.guru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=OIpR2PehcH7DEsIeI1COw_XYihv7tG6cseNeGZIe220&security=reality&sid=6cde62dda3f46929&sni=rezerv24.yunus.guru&type=tcp#REALITY|NL🇳🇱
 vless://861fd825-3828-4bc6-a48e-8295f357b6c7@rezerv9.yunus.guru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=6QIHdF1dvSK8mDPOeWXvGIqJmZ2ySq5fyc7N15h1WFE&security=reality&sid=34256b39b4ebb864&sni=rezerv9.yunus.guru&type=tcp#REALITY|NL🇳🇱
@@ -408,4 +409,3 @@ vmess://ewogICAgImFkZCI6ICJldS0yLmhpaHUubmV0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3Qi
 vmess://ewogICAgImFkZCI6ICJteXZwc2hvc3RpbmcubmFtZS5uZyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIm15dnBzaG9zdGluZy5uYW1lLm5nIiwKICAgICJpZCI6ICI5NjQwOGY5YS1kZjAzLTQ0OGItYjdlNC1lYzhlMmMyMTY2ODIiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+Hs/Cfh7FOTC0xNDguMTM1LjIwNy4xNDItMDgxMCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICJubDItZnVsbC5wcml2YXRlaXAubmV0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAibmwyLWZ1bGwucHJpdmF0ZWlwLm5ldCIsCiAgICAiaWQiOiAiYjdhMGNmMzktOTlmYS00N2E0LThkOWYtNTI2MzgwNmU4Y2NlIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL1JBQ0VWUE4iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+Hs/Cfh7FOTC0xMzQuMjA5LjE5Ni4xMTUtMDgzOCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICJwYW5lbC5yaXppcm8uaXIiLAogICAgImFpZCI6IDY0LAogICAgImhvc3QiOiAiZ2VyMS5yaXppcm8uaXIiLAogICAgImlkIjogIjMyMjhiMGVhLTU0MjEtNDE5OS1hMDk5LWYwNmI0OTYwMjA1MiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi92bGVzc3dlYnMxNTQ2ODc3IiwKICAgICJwb3J0IjogNDA0NDQsCiAgICAicHMiOiAi8J+Hs/Cfh7FOTC0xNDMuMTk4LjI1MS4xMTUtMTg4NCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-vmess://eyJ2IjoiMiIsInBzIjoi6I235YWwIC0g6Zi/5aeG5pav54m55Li5IC0gMSIsImFkZCI6ImZhbWlseS5idWNrZXQueDkua2ZjLTUyMC5jb20iLCJwb3J0IjoiMTAwNDkiLCJ0eXBlIjoibm9uZSIsImlkIjoiMWRjNzM1MjktZjAzMC0zYWM1LWFkNjQtZjc2NjZiOWE1MWJjIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6ImZhbWlseS5idWNrZXQueDkua2ZjLTUyMC5jb20iLCJ0bHMiOiIifQ==
