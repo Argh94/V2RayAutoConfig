@@ -14,7 +14,6 @@ ss://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443/?type=tcp&encryption
 ss://09c9f597-0c54-40e4-810a-474e1ef4bd6b@195.63.144.164:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=UGKx4Kydrtu6oCJJPXOtR57bzIUIPK9meIy5ubEDHQM&security=reality&sid=94&sni=www.sony.com&type=tcp#REALITY|NL🇳🇱
 ss://1281ef13-f1cd-493b-903e-4c2f4ffe1eba@82.41.131.21:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ao6HM6jT7l8F-c54woAti7flDZW0GU0thRNKYzu9kQ0&security=reality&sid=57cc65bfd5ef7465&sni=pypi.org&type=tcp#REALITY|NL🇳🇱
 ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.139:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#%3E%3E%40outline_vpn%3A%3ANL
-ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.50:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=vangoghhh.info#%3E%3E%40v2ray1_ng%3A%3ANL
 ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?encryption=none&security=tls&sni=vangoghhh.info&type=ws&host=vangoghhh.info&path=%2Frdfgtws#%3E%3E%40ISVvpn%3A%3ANL
 ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?encryption=none&security=tls&sni=vangoghhh.info&type=ws&host=vangoghhh.info&path=%2Frdfgtws#%3E%3E%40ISVvpn%3A%3ANL
 ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@91.193.58.201:443?encryption=none&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=vangoghhh.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
@@ -29,7 +28,6 @@ ss://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?path=%2F&
 ss://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?encryption=none&type=xhttp&security=tls&path=%2Fkavir%2F%3F%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&host=dey.lnmarketplace.net&mode=stream-one&sni=dey.lnmarketplace.net&alpn=h2&fp=chrome&insecure=0&allowInsecure=0#NL🇳🇱
 ss://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=%2Fkavir%2F%3F%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#NL🇳🇱
 ss://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#NL🇳🇱
-ss://367ff772-a8f4-4895-8e99-3702a868f0c6@osnl4.ghast.sbs:443?encryption=none&security=tls&serviceName=grpc-api&sni=osnl4.ghast.sbs&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3ANL
 ss://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.201:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#NL🇳🇱
 ss://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.130:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#NL🇳🇱
 ss://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.183:8443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#NL🇳🇱
@@ -253,10 +251,8 @@ ssr://OTQuMTAyLjU3LjE2MzoxMTcwODpvcmlnaW46YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbGU6YzBWel
 trojan://62b78c9b-16cb-4ee6-824b-a4f856cf18f3@transfer01.kaochangonline.online:443#NL🇳🇱
 trojan://IQ68037294@casual-bullfrog.rooster465.autos:443?allowInsecure=0&sni=casual-bullfrog.rooster465.autos#NL-89.39.70.222-3160
 trojan://IQ68037294@casual-bullfrog.rooster465.autos:443?security=tls&sni=casual-bullfrog.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.222-0167
-trojan://IQ68037294@casual-bullfrog.rooster465.autos:443?security=tls&sni=casual-bullfrog.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.222-3160
 trojan://IQ68037294@whole-woodcock.rooster465.autos:443?allowInsecure=0#NL-89.39.70.205-3148
 trojan://IQ68037294@whole-woodcock.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.205-0176
-trojan://IQ68037294@whole-woodcock.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.205-3148
 trojan://KV63147582@89.39.70.233:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=game-firefly.rooster465.autos#NL🇳🇱
 trojan://KV63147582@89.39.70.233:443?security=tls&sni=game-firefly.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.233-0510
 trojan://KV63147582@89.39.70.233:443?security=tls&sni=game-firefly.rooster465.autos&type=tcp&headerType=none#NL🇳🇱
@@ -265,7 +261,6 @@ trojan://KV63147582@89.39.70.233:443?sni=game-firefly.rooster465.autos#NL🇳�
 trojan://KV63147582@game-firefly.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://KV63147582@game-firefly.rooster465.autos:443#NL🇳🇱
 trojan://KV63147582@game-firefly.rooster465.autos:443?allowInsecure=0#NL-89.39.70.233-0161
-trojan://KV63147582@game-firefly.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.233-0161
 trojan://KV63147582@game-firefly.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.233-0169
 trojan://M08tvzYWtUEJNtbpHp@194.124.216.192:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.192-5969
 trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.187-5970
@@ -276,7 +271,6 @@ trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?allowInsecure=0&sni=gra
 trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?allowInsecure=1#NL🇳🇱
 trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?security=tls&sni=grateful-bedbug.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.85-0173
-trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?security=tls&sni=grateful-bedbug.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.85-0175
 trojan://NQ26071394@powerful-squid.rooster465.autos:443?fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://NQ26071394@powerful-squid.rooster465.autos:443?fp=chrome#NL🇳🇱
 trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ANL
@@ -287,17 +281,13 @@ trojan://PD07395842@enough-basilisk.rooster465.autos:443?fp=chrome#NL🇳🇱
 trojan://PD07395842@present-warthog.rooster465.autos:443?fp=chrome#NL🇳🇱
 trojan://PD07395842@pro-crane.rooster465.autos:443?allowInsecure=0#NL-85.234.65.26-0150
 trojan://PD07395842@pro-crane.rooster465.autos:443?fp=chrome#NL🇳🇱
-trojan://PD07395842@pro-crane.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-85.234.65.26-0150
 trojan://PD07395842@pro-crane.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-85.234.65.26-0156
 trojan://TestingServer@@@94.102.53.19:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-94.102.53.19-2084
 trojan://XG59623478@renewed-chigger.rooster465.autos:443?allowInsecure=0#NL-193.169.239.76-0155
-trojan://XG59623478@renewed-chigger.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-193.169.239.76-0155
 trojan://XG59623478@renewed-chigger.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-193.169.239.76-0166
 trojan://XG59623478@upward-hedgehog.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://XG59623478@upward-hedgehog.rooster465.autos:443?allowInsecure=1#NL🇳🇱
 trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?allowInsecure=0&sni=space.byu.id.yxls.eu.cc&ws=1&wspath=%2Fin-pdr#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20V2CROSS.COM
-trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?allowInsecure=0&sni=space.byu.id.yxls.eu.cc&ws=1&wspath=%2Fin-pdr#%F0%9F%87%B3%F0%9F%87%B1%20NL%E8%8D%B7%E5%85%B0%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?security=tls&sni=space.byu.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=space.byu.id.yxls.eu.cc&path=%2Fin-pdr#%E8%8D%B7%E5%85%B0+V2CROSS.COM
 trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?sni=space.byu.id.yxls.eu.cc#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B0
 trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443?security=tls&sni=Speedtest.net#%F0%9F%87%B3%F0%9F%87%B1NL-51.158.146.183-8911
 trojan://humanity@104.17.131.88:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ANL
@@ -325,7 +315,6 @@ vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443/?type=tcp&encrypt
 vless://09c9f597-0c54-40e4-810a-474e1ef4bd6b@195.63.144.164:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=UGKx4Kydrtu6oCJJPXOtR57bzIUIPK9meIy5ubEDHQM&security=reality&sid=94&sni=www.sony.com&type=tcp#REALITY|NL🇳🇱
 vless://1281ef13-f1cd-493b-903e-4c2f4ffe1eba@82.41.131.21:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ao6HM6jT7l8F-c54woAti7flDZW0GU0thRNKYzu9kQ0&security=reality&sid=57cc65bfd5ef7465&sni=pypi.org&type=tcp#REALITY|NL🇳🇱
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.139:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#%3E%3E%40outline_vpn%3A%3ANL
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.50:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=vangoghhh.info#%3E%3E%40v2ray1_ng%3A%3ANL
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?encryption=none&security=tls&sni=vangoghhh.info&type=ws&host=vangoghhh.info&path=%2Frdfgtws#%3E%3E%40ISVvpn%3A%3ANL
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?encryption=none&security=tls&sni=vangoghhh.info&type=ws&host=vangoghhh.info&path=%2Frdfgtws#%3E%3E%40ISVvpn%3A%3ANL
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@91.193.58.201:443?encryption=none&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=vangoghhh.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
@@ -340,7 +329,6 @@ vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?path=%
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?encryption=none&type=xhttp&security=tls&path=%2Fkavir%2F%3F%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&host=dey.lnmarketplace.net&mode=stream-one&sni=dey.lnmarketplace.net&alpn=h2&fp=chrome&insecure=0&allowInsecure=0#NL🇳🇱
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=%2Fkavir%2F%3F%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#NL🇳🇱
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#NL🇳🇱
-vless://367ff772-a8f4-4895-8e99-3702a868f0c6@osnl4.ghast.sbs:443?encryption=none&security=tls&serviceName=grpc-api&sni=osnl4.ghast.sbs&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3ANL
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.201:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#NL🇳🇱
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.130:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#NL🇳🇱
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.183:8443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#NL🇳🇱
@@ -475,4 +463,4 @@ vmess://ewogICAgImFkZCI6ICJldS0yLmhpaHUubmV0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3Qi
 vmess://ewogICAgImFkZCI6ICJteXZwc2hvc3RpbmcubmFtZS5uZyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIm15dnBzaG9zdGluZy5uYW1lLm5nIiwKICAgICJpZCI6ICI5NjQwOGY5YS1kZjAzLTQ0OGItYjdlNC1lYzhlMmMyMTY2ODIiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+Hs/Cfh7FOTC0xNDguMTM1LjIwNy4xNDItMDg0NiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICJwYW5lbC5yaXppcm8uaXIiLAogICAgImFpZCI6IDY0LAogICAgImhvc3QiOiAiZ2VyMS5yaXppcm8uaXIiLAogICAgImlkIjogIjMyMjhiMGVhLTU0MjEtNDE5OS1hMDk5LWYwNmI0OTYwMjA1MiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi92bGVzc3dlYnMxNTQ2ODc3IiwKICAgICJwb3J0IjogNDA0NDQsCiAgICAicHMiOiAi8J+Hs/Cfh7FOTC0xNDMuMTk4LjI1MS4xMTUtMTkxMyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://eyJhZGQiOiIyLjI2LjIzMS4xMjMiLCJpZCI6IjdjMmMyZWRlLTlhMmYtNDQwMS05MThmLWE2M2E5MGU3OWNhMSIsIm5ldCI6InRjcCIsInBvcnQiOjExMCwicHMiOiJOTFx1ZDgzY1x1ZGRmM1x1ZDgzY1x1ZGRmMSB8IDIuMjYuMjMxLjEyMy0xMTAgfCAxMjYuNzNtcyIsInNjeSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiJraXJpMS5kbHdlYi5pbmZvIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2YXJ6ZXNoMy5jb20iLCJpZCI6IjE3NDgzZmE0LWY1MTgtNDg4Ni1iODVlLWE1YWJkNzZmNzMxNCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIzNzkzIiwicHMiOiJOTCDwn4ez8J+HsSB8IEBSYXlkaWthbHggfCAzMjk5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJraXJpMS5kbHdlYi5pbmZvIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2YXJ6ZXNoMy5jb20iLCJpZCI6IjE3NDgzZmE0LWY1MTgtNDg4Ni1iODVlLWE1YWJkNzZmNzMxNCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIzNzkzIiwicHMiOiJOTCDwn4ez8J+HsSB8IEBSYXlkaWthbHggfCAzMjUwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
