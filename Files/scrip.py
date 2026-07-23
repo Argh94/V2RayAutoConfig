@@ -3,7 +3,7 @@ import aiohttp
 import json
 import re
 import logging
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup  # حفظ ایمپورت برای سازگاری، هرچند برای سرعت بالاتر کنار گذاشته شده است
 import os
 import shutil
 from datetime import datetime
@@ -12,13 +12,14 @@ import base64
 from urllib.parse import parse_qs, unquote
 import jdatetime  
 import ssl
+import html as html_lib
 
 URLS_FILE = 'Files/urls.txt'
 KEYWORDS_FILE = 'Files/key.json'
 OUTPUT_DIR = 'configs'
 README_FILE = 'README.md'
-REQUEST_TIMEOUT = 15
-CONCURRENT_REQUESTS = 10
+REQUEST_TIMEOUT = 10
+CONCURRENT_REQUESTS = 30  # افزایش همزمانی دانلود صفحات جهت تسریع کار
 CONCURRENT_TESTS = 120   # تعیین تعداد تست‌های همزمان شبکه برای تسریع کار
 TEST_TIMEOUT = 1.8       # تایم‌اوت بهینه برای رد کردن سریع سرورهای آفلاین
 MAX_CONFIG_LENGTH = 1500
@@ -37,7 +38,7 @@ RE_VMESS = re.compile(r'^vmess://', re.IGNORECASE)
 RE_SSR = re.compile(r'^ssr://', re.IGNORECASE)
 RE_STANDARD_PROTO = re.compile(r'^(vless|trojan|hysteria2|tuic|ss)://([^@\s]+)@([^:\s/?#]+):([0-9]+)([^#\s]*)(?:#([^\s]*))?', re.IGNORECASE)
 
-# کش حافظه موقت برای ذخیره کشور مربوط به هر آی‌پی (جهت جلوگیری از نرخ درخواست مکرر)
+# کش حافظه موقت برای ذخیره کشور مربوط به هر آی‌پی
 IP_LOCATION_CACHE = {}
 
 def is_persian_like(text):
@@ -179,7 +180,7 @@ def parse_config_details(config):
 
 # ==================== بخش متدهای تست زنده بودن کانفیگ ====================
 async def test_tcp_connection(host, port):
-    """روش اول تست: بررسی اتصال لایه انتقال TCP"""
+    """بررسی سریع اتصال لایه انتقال TCP"""
     try:
         reader, writer = await asyncio.wait_for(
             asyncio.open_connection(host, port),
@@ -192,7 +193,7 @@ async def test_tcp_connection(host, port):
         return False
 
 async def test_tls_handshake(host, port, sni=None):
-    """روش دوم تست: شبیه‌سازی هندشیک لایه امنیتی TLS"""
+    """شبیه‌سازی هندشیک لایه امنیتی TLS"""
     try:
         context = ssl.create_default_context()
         context.check_hostname = False
@@ -228,36 +229,64 @@ async def validate_config(config_details):
             
     return True
 
-# ==================== بخش مکان‌یابی جغرافیایی ۳ سطحی ====================
-async def resolve_dns(host):
-    try:
-        loop = asyncio.get_running_loop()
-        info = await loop.getaddrinfo(host, None)
-        if info:
-            return info[0][4][0]
-    except Exception:
-        pass
-    return None
-
-async def get_ip_country_code(session, ip):
-    if ip in IP_LOCATION_CACHE:
-        return IP_LOCATION_CACHE[ip]
+# ==================== بخش موازی‌سازی رزولوشن DNS و موقعیت جغرافیایی گروهی ====================
+async def resolve_dns_parallel(hosts):
+    """برطرف‌سازی موازی دامنه‌ها به آی‌پی برای افزایش چشمگیر سرعت"""
+    resolved = {}
+    sem = asyncio.Semaphore(50)
     
-    url = f"http://ip-api.com/json/{ip}?fields=status,countryCode"
-    try:
-        async with session.get(url, timeout=3.0) as resp:
-            if resp.status == 200:
-                data = await resp.json()
-                if data.get("status") == "success":
-                    cc = data.get("countryCode")
-                    if cc:
-                        IP_LOCATION_CACHE[ip] = cc.upper()
-                        return cc.upper()
-    except Exception:
-        pass
-    return None
+    # رجکس تشخیص اینکه هاست از پیش آی‌پی است یا دامنه
+    ip_pattern = re.compile(r'^(?:(?:\d{1,3}\.){3}\d{1,3})|(?:[0-9a-fA-F]{1,4}:){7}[0-9a-fA-F]{1,4}$')
+    
+    async def worker(host):
+        if not host:
+            return
+        if ip_pattern.match(host):
+            resolved[host] = host
+            return
+        async with sem:
+            try:
+                loop = asyncio.get_running_loop()
+                info = await loop.getaddrinfo(host, None)
+                if info:
+                    resolved[host] = info[0][4][0]
+            except Exception:
+                pass
+                
+    tasks = [worker(h) for h in hosts]
+    await asyncio.gather(*tasks)
+    return resolved
 
-async def detect_country(session, host, name, country_keywords_for_naming):
+async def batch_geolocate_ips(session, ips):
+    """ارسال گروهی آی‌پی‌ها به وب‌سرویس در دسته‌های ۱۰۰تایی برای جلوگیری از لیمیت شدن و ارتقای سرعت"""
+    ips_to_query = list({ip for ip in ips if ip and ip not in IP_LOCATION_CACHE})
+    if not ips_to_query:
+        return
+        
+    chunk_size = 100
+    chunks = [ips_to_query[i:i + chunk_size] for i in range(0, len(ips_to_query), chunk_size)]
+    
+    async def fetch_chunk(chunk):
+        body = [{"query": ip, "fields": "status,countryCode"} for ip in chunk]
+        url = "http://ip-api.com/batch"
+        try:
+            async with session.post(url, json=body, timeout=5.0) as resp:
+                if resp.status == 200:
+                    results = await resp.json()
+                    for item in results:
+                        ip_val = item.get("query")
+                        if item.get("status") == "success" and ip_val:
+                            IP_LOCATION_CACHE[ip_val] = item.get("countryCode", "").upper()
+                elif resp.status == 429:
+                    logging.warning("Hit IP-API 429 rate limit. Throttling applied.")
+        except Exception as e:
+            logging.error(f"Error in batch geolocation chunk: {e}")
+
+    tasks = [fetch_chunk(c) for c in chunks]
+    await asyncio.gather(*tasks)
+
+def detect_country_sync(resolved_ips_map, host, name, country_keywords_for_naming):
+    """مکان‌یابی فوق سریع و غیرشبکه‌ای (Synchronous) بر اساس داده‌های کش و آماده‌شده پیشین"""
     # سطح اول: بررسی پسوند انتهای دامنه (TLD)
     if host and '.' in host:
         tld = host.split('.')[-1].lower()
@@ -284,10 +313,10 @@ async def detect_country(session, host, name, country_keywords_for_naming):
                             if kw.lower() in name_str.lower():
                                 return country_key
 
-    # سطح سوم: کوئری آسنکرون شبکه با سیستم کش آی‌پی
-    resolved_ip = await resolve_dns(host)
+    # سطح سوم: تطابق با دیتای لوکیشن‌های کش‌شده گروهی
+    resolved_ip = resolved_ips_map.get(host)
     if resolved_ip:
-        cc = await get_ip_country_code(session, resolved_ip)
+        cc = IP_LOCATION_CACHE.get(resolved_ip)
         if cc:
             for country_key, keywords in country_keywords_for_naming.items():
                 if isinstance(keywords, list):
@@ -298,23 +327,20 @@ async def detect_country(session, host, name, country_keywords_for_naming):
 
 # ==================== بخش واکشی صفحات ====================
 async def fetch_url(session, url):
+    """دانلود محتوای خام صفحه و رمزگشایی کدهای متنی با سرعت بسیار بالا بدون پردازش سنگین DOM"""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
     }
     try:
         async with session.get(url, timeout=REQUEST_TIMEOUT, headers=headers) as response:
             response.raise_for_status()
-            html = await response.text()
-            soup = BeautifulSoup(html, 'html.parser')
-            text_content = ""
-            for element in soup.find_all(['pre', 'code', 'p', 'div', 'li', 'span', 'td']):
-                text_content += element.get_text(separator='\n', strip=True) + "\n"
-            if not text_content or len(text_content.strip()) < 50:
-                text_content = html
+            html_text = await response.text()
+            # رمزگشایی انتیتی‌های HTML با سرعت بسیار زیاد
+            unescaped_content = html_lib.unescape(html_text)
             logging.info(f"Successfully fetched: {url}")
-            return text_content
+            return unescaped_content
     except Exception as e:
-        logging.warning(f"Failed to fetch or process {url}: {e}")
+        logging.warning(f"Failed to fetch {url}: {e}")
         return None
 
 def find_matches(text, compiled_patterns):
@@ -491,7 +517,7 @@ async def main():
 
     logging.info(f"Loaded {len(urls)} URLs and compiled patterns.")
 
-    # ۱. واکشی محتوای آدرس‌های وب به صورت همزمان
+    # ۱. واکشی محتوای آدرس‌های وب به صورت همزمان (CONCURRENT_REQUESTS = 30)
     sem_fetch = asyncio.Semaphore(CONCURRENT_REQUESTS)
     async def fetch_with_sem(session, u):
         async with sem_fetch:
@@ -533,24 +559,36 @@ async def main():
 
     logging.info(f"Validation finished. Healthy configs: {len(valid_configs)}/{len(all_extracted_configs)}")
 
-    # ۴. دسته‌بندی پروتکل و شناسایی جغرافیایی کانفیگ‌های زنده
+    # ۴. برطرف‌سازی موازی DNS و دریافت گروهی موقعیت جغرافیایی IPها (Batch Lookup)
+    unique_hosts = {details["host"] for _, details in valid_configs if details.get("host")}
+    
+    # اجرای موازی و فوق‌العاده سریع حل آدرس‌های دی‌ان‌اس
+    logging.info(f"Resolving DNS for {len(unique_hosts)} unique hosts in parallel...")
+    resolved_ips_map = await resolve_dns_parallel(unique_hosts)
+    
+    # اجرای تجمیعی کوئری‌های موقعیت جغرافیایی
+    unique_ips = set(resolved_ips_map.values())
+    logging.info(f"Querying location for {len(unique_ips)} resolved IPs in batch mode...")
+    async with aiohttp.ClientSession() as session:
+        await batch_geolocate_ips(session, unique_ips)
+
+    # ۵. دسته‌بندی کانفیگ‌های زنده بدون تأخیر شبکه (Instant classification)
     final_all_protocols = {cat: set() for cat in PROTOCOL_CATEGORIES}
     final_configs_by_country = {cat: set() for cat in country_keywords_for_naming.keys()}
 
-    async with aiohttp.ClientSession() as session:
-        for config, details in valid_configs:
-            # ذخیره بر اساس پروتکل
-            for proto in PROTOCOL_CATEGORIES:
-                if config.lower().startswith(proto.lower() + "://"):
-                    final_all_protocols[proto].add(config)
-                    break
-            
-            # مکان‌یابی هوشمند ۳ سطحی
-            detected_ctr = await detect_country(session, details["host"], details["name"], country_keywords_for_naming)
-            if detected_ctr:
-                final_configs_by_country[detected_ctr].add(config)
+    for config, details in valid_configs:
+        # ذخیره بر اساس پروتکل
+        for proto in PROTOCOL_CATEGORIES:
+            if config.lower().startswith(proto.lower() + "://"):
+                final_all_protocols[proto].add(config)
+                break
+        
+        # مکان‌یابی هوشمند ۳ سطحی کاملاً همزمان (بدون نیاز به await شبکه)
+        detected_ctr = detect_country_sync(resolved_ips_map, details["host"], details["name"], country_keywords_for_naming)
+        if detected_ctr:
+            final_configs_by_country[detected_ctr].add(config)
 
-    # ۵. ساختاردهی و نوشتن فایل‌های خروجی
+    # ۶. ساختاردهی و نوشتن فایل‌های خروجی
     if os.path.exists(OUTPUT_DIR):
         shutil.rmtree(OUTPUT_DIR)
     os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -571,7 +609,7 @@ async def main():
                           github_repo_path="Argh94/V2RayAutoConfig",
                           github_branch="main")
 
-    logging.info("--- Script Finished ---")
+    logging.info("--- Script Finished Successfully ---")
 
 if __name__ == "__main__":
     asyncio.run(main())
