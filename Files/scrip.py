@@ -3,7 +3,7 @@ import aiohttp
 import json
 import re
 import logging
-from bs4 import BeautifulSoup  # حفظ ایمپورت برای سازگاری، هرچند برای سرعت بالاتر کنار گذاشته شده است
+from bs4 import BeautifulSoup  # حفظ برای سازگاری
 import os
 import shutil
 from datetime import datetime
@@ -13,15 +13,18 @@ from urllib.parse import parse_qs, unquote
 import jdatetime  
 import ssl
 import html as html_lib
+import concurrent.futures
+import random
 
 URLS_FILE = 'Files/urls.txt'
 KEYWORDS_FILE = 'Files/key.json'
 OUTPUT_DIR = 'configs'
 README_FILE = 'README.md'
 REQUEST_TIMEOUT = 10
-CONCURRENT_REQUESTS = 30  # افزایش همزمانی دانلود صفحات جهت تسریع کار
-CONCURRENT_TESTS = 120   # تعیین تعداد تست‌های همزمان شبکه برای تسریع کار
-TEST_TIMEOUT = 1.8       # تایم‌اوت بهینه برای رد کردن سریع سرورهای آفلاین
+CONCURRENT_REQUESTS = 30  # تعداد دانلودهای همزمان صفحات وب
+CONCURRENT_TESTS = 400    # افزایش تعداد تست‌های همزمان شبکه به ۴۰۰ برای سرعت مافوق صوت
+TEST_TIMEOUT = 1.0       # کاهش تایم‌اوت به ۱ ثانیه (برای گیت‌هاب اکشنز بسیار عالی و کافی است)
+MAX_CONFIGS_TO_TEST = 5000 # سقف تعداد تست‌ها برای تضمین پایداری زمان اجرا در گیت‌هاب
 MAX_CONFIG_LENGTH = 1500
 MIN_PERCENT25_COUNT = 15
 
@@ -178,12 +181,12 @@ def parse_config_details(config):
         logging.debug(f"Parser error for: {config[:30]} - {e}")
     return None
 
-# ==================== بخش متدهای تست زنده بودن کانفیگ ====================
-async def test_tcp_connection(host, port):
-    """بررسی سریع اتصال لایه انتقال TCP"""
+# ==================== بخش متدهای تست زنده بودن کانفیگ با IP مستقیم ====================
+async def test_tcp_connection(ip, port):
+    """بررسی سریع اتصال لایه انتقال TCP با IP مستقیم بدون نیاز به ریزالو مجدد"""
     try:
         reader, writer = await asyncio.wait_for(
-            asyncio.open_connection(host, port),
+            asyncio.open_connection(ip, port),
             timeout=TEST_TIMEOUT
         )
         writer.close()
@@ -192,15 +195,15 @@ async def test_tcp_connection(host, port):
     except Exception:
         return False
 
-async def test_tls_handshake(host, port, sni=None):
-    """شبیه‌سازی هندشیک لایه امنیتی TLS"""
+async def test_tls_handshake(ip, port, sni=None, host=None):
+    """شبیه‌سازی هندشیک لایه امنیتی TLS با آدرس‌دهی مستقیم IP و ارسال فرستنده فرضی SNI"""
     try:
         context = ssl.create_default_context()
         context.check_hostname = False
         context.verify_mode = ssl.CERT_NONE
         
         reader, writer = await asyncio.wait_for(
-            asyncio.open_connection(host, port, ssl=context, server_hostname=sni or host),
+            asyncio.open_connection(ip, port, ssl=context, server_hostname=sni or host or ip),
             timeout=TEST_TIMEOUT
         )
         writer.close()
@@ -209,21 +212,20 @@ async def test_tls_handshake(host, port, sni=None):
     except Exception:
         return False
 
-async def validate_config(config_details):
-    if not config_details or not config_details.get("host") or not config_details.get("port"):
+async def validate_config(details, ip):
+    if not details or not ip or not details.get("port"):
         return False
     
-    host = config_details["host"]
-    port = config_details["port"]
+    port = details["port"]
     
     # اجرای تست نوع اول (TCP)
-    tcp_alive = await test_tcp_connection(host, port)
+    tcp_alive = await test_tcp_connection(ip, port)
     if not tcp_alive:
         return False
     
     # اجرای تست نوع دوم (TLS) در صورت نیاز کانفیگ
-    if config_details.get("is_tls"):
-        tls_alive = await test_tls_handshake(host, port, config_details.get("sni"))
+    if details.get("is_tls"):
+        tls_alive = await test_tls_handshake(ip, port, details.get("sni"), details.get("host"))
         if not tls_alive:
             return False
             
@@ -231,11 +233,11 @@ async def validate_config(config_details):
 
 # ==================== بخش موازی‌سازی رزولوشن DNS و موقعیت جغرافیایی گروهی ====================
 async def resolve_dns_parallel(hosts):
-    """برطرف‌سازی موازی دامنه‌ها به آی‌پی برای افزایش چشمگیر سرعت"""
+    """برطرف‌سازی بسیار سریع دامنه‌ها به آی‌پى با ترد‌پول افزایش‌یافته"""
     resolved = {}
-    sem = asyncio.Semaphore(50)
+    sem = asyncio.Semaphore(100) # کنترل همزمان درخواست‌های شبکه به وب‌سرور دی‌ان‌اس
     
-    # رجکس تشخیص اینکه هاست از پیش آی‌پی است یا دامنه
+    # رجکس تشخیص آی‌پی برای جلوگیری از ریزالو بیهوده
     ip_pattern = re.compile(r'^(?:(?:\d{1,3}\.){3}\d{1,3})|(?:[0-9a-fA-F]{1,4}:){7}[0-9a-fA-F]{1,4}$')
     
     async def worker(host):
@@ -247,18 +249,23 @@ async def resolve_dns_parallel(hosts):
         async with sem:
             try:
                 loop = asyncio.get_running_loop()
+                # اجرای getaddrinfo با ترد‌پول سفارشی
                 info = await loop.getaddrinfo(host, None)
                 if info:
                     resolved[host] = info[0][4][0]
             except Exception:
                 pass
                 
+    # افزایش اندازه ترد‌پول پیش‌فرض سیستم برای جلوگیری از قفل شدن لوپ DNS در پایتون
+    loop = asyncio.get_running_loop()
+    loop.set_default_executor(concurrent.futures.ThreadPoolExecutor(max_workers=150))
+    
     tasks = [worker(h) for h in hosts]
     await asyncio.gather(*tasks)
     return resolved
 
 async def batch_geolocate_ips(session, ips):
-    """ارسال گروهی آی‌پی‌ها به وب‌سرویس در دسته‌های ۱۰۰تایی برای جلوگیری از لیمیت شدن و ارتقای سرعت"""
+    """ارسال گروهی آی‌پی‌ها به وب‌سرویس در دسته‌های ۱۰۰تایی برای افزایش چشمگیر سرعت"""
     ips_to_query = list({ip for ip in ips if ip and ip not in IP_LOCATION_CACHE})
     if not ips_to_query:
         return
@@ -278,7 +285,7 @@ async def batch_geolocate_ips(session, ips):
                         if item.get("status") == "success" and ip_val:
                             IP_LOCATION_CACHE[ip_val] = item.get("countryCode", "").upper()
                 elif resp.status == 429:
-                    logging.warning("Hit IP-API 429 rate limit. Throttling applied.")
+                    logging.warning("Hit IP-API 429 rate limit.")
         except Exception as e:
             logging.error(f"Error in batch geolocation chunk: {e}")
 
@@ -286,8 +293,7 @@ async def batch_geolocate_ips(session, ips):
     await asyncio.gather(*tasks)
 
 def detect_country_sync(resolved_ips_map, host, name, country_keywords_for_naming):
-    """مکان‌یابی فوق سریع و غیرشبکه‌ای (Synchronous) بر اساس داده‌های کش و آماده‌شده پیشین"""
-    # سطح اول: بررسی پسوند انتهای دامنه (TLD)
+    """مکان‌یابی فوق سریع و غیرشبکه‌ای بر اساس داده‌های کش و آماده‌شده پیشین"""
     if host and '.' in host:
         tld = host.split('.')[-1].lower()
         tld_mapping = {
@@ -298,7 +304,6 @@ def detect_country_sync(resolved_ips_map, host, name, country_keywords_for_namin
         if tld in tld_mapping:
             return tld_mapping[tld]
 
-    # سطح دوم: انطباق کلمات کلیدی اسم کانفیگ
     name_str = name if isinstance(name, str) else ""
     if name_str:
         for country_key, keywords in country_keywords_for_naming.items():
@@ -313,7 +318,6 @@ def detect_country_sync(resolved_ips_map, host, name, country_keywords_for_namin
                             if kw.lower() in name_str.lower():
                                 return country_key
 
-    # سطح سوم: تطابق با دیتای لوکیشن‌های کش‌شده گروهی
     resolved_ip = resolved_ips_map.get(host)
     if resolved_ip:
         cc = IP_LOCATION_CACHE.get(resolved_ip)
@@ -327,7 +331,7 @@ def detect_country_sync(resolved_ips_map, host, name, country_keywords_for_namin
 
 # ==================== بخش واکشی صفحات ====================
 async def fetch_url(session, url):
-    """دانلود محتوای خام صفحه و رمزگشایی کدهای متنی با سرعت بسیار بالا بدون پردازش سنگین DOM"""
+    """دانلود خام صفحات بدون رندر DOM برای حذف سربار CPU"""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
     }
@@ -335,7 +339,6 @@ async def fetch_url(session, url):
         async with session.get(url, timeout=REQUEST_TIMEOUT, headers=headers) as response:
             response.raise_for_status()
             html_text = await response.text()
-            # رمزگشایی انتیتی‌های HTML با سرعت بسیار زیاد
             unescaped_content = html_lib.unescape(html_text)
             logging.info(f"Successfully fetched: {url}")
             return unescaped_content
@@ -537,42 +540,64 @@ async def main():
                 if not should_filter_config(cfg):
                     all_extracted_configs.add(cfg)
 
-    logging.info(f"Total Unique configs found for validation: {len(all_extracted_configs)}")
+    logging.info(f"Total Unique configs found before parsing: {len(all_extracted_configs)}")
 
     # ۳. تست آسنکرون و سریع کانفیگ‌های یکتا به منظور حذف مرده‌ها
+    # ابتدا آماده‌سازی جفت‌های (کانفیگ، دیتایلز)
+    candidate_configs = []
+    unique_hosts = set()
+    for cfg in all_extracted_configs:
+        details = parse_config_details(cfg)
+        if details and details.get("host"):
+            candidate_configs.append((cfg, details))
+            unique_hosts.add(details["host"])
+
+    # اعمال سقف و فیلتر محافظ زمان اجرا در گیت‌هاب اکشنز (در صورت انفجار تعداد کانفیگ‌ها)
+    if len(candidate_configs) > MAX_CONFIGS_TO_TEST:
+        logging.info(f"Sampling {MAX_CONFIGS_TO_TEST} configs out of {len(candidate_configs)} to guarantee GitHub Action speed.")
+        candidate_configs = random.sample(candidate_configs, MAX_CONFIGS_TO_TEST)
+        unique_hosts = {details["host"] for _, details in candidate_configs}
+
+    logging.info(f"Total candidate configs to validate: {len(candidate_configs)}")
+
+    # حل موازی دامنه‌ها به آی‌پی (DNS Resolution) پیش از تست شبکه
+    logging.info(f"Resolving DNS for {len(unique_hosts)} unique hosts in parallel...")
+    resolved_ips_map = await resolve_dns_parallel(unique_hosts)
+
     sem_test = asyncio.Semaphore(CONCURRENT_TESTS)
     valid_configs = []
 
-    async def test_and_parse_worker(config):
+    async def test_worker(config, details):
         async with sem_test:
-            details = parse_config_details(config)
-            if not details:
+            host = details["host"]
+            ip = resolved_ips_map.get(host)
+            if not ip:
+                # اگر آی‌پی حل نشود، از ابتدا به عنوان سرور آفلاین رد می‌شود و معطل تایم‌اوت شبکه نمی‌شویم
                 return None
-            is_alive = await validate_config(details)
+            is_alive = await validate_config(details, ip)
             if is_alive:
                 return (config, details)
             return None
 
-    test_tasks = [test_and_parse_worker(cfg) for cfg in all_extracted_configs]
+    test_tasks = [test_worker(cfg, det) for cfg, det in candidate_configs]
     test_results = await asyncio.gather(*test_tasks)
     valid_configs = [res for res in test_results if res is not None]
 
-    logging.info(f"Validation finished. Healthy configs: {len(valid_configs)}/{len(all_extracted_configs)}")
+    logging.info(f"Validation finished. Healthy configs: {len(valid_configs)}/{len(candidate_configs)}")
 
-    # ۴. برطرف‌سازی موازی DNS و دریافت گروهی موقعیت جغرافیایی IPها (Batch Lookup)
-    unique_hosts = {details["host"] for _, details in valid_configs if details.get("host")}
-    
-    # اجرای موازی و فوق‌العاده سریع حل آدرس‌های دی‌ان‌اس
-    logging.info(f"Resolving DNS for {len(unique_hosts)} unique hosts in parallel...")
-    resolved_ips_map = await resolve_dns_parallel(unique_hosts)
-    
-    # اجرای تجمیعی کوئری‌های موقعیت جغرافیایی
-    unique_ips = set(resolved_ips_map.values())
+    # ۴. دریافت گروهی موقعیت جغرافیایی IPهای سالم (Batch Lookup)
+    unique_ips = set()
+    for _, details in valid_configs:
+        host = details["host"]
+        ip = resolved_ips_map.get(host)
+        if ip:
+            unique_ips.add(ip)
+
     logging.info(f"Querying location for {len(unique_ips)} resolved IPs in batch mode...")
     async with aiohttp.ClientSession() as session:
         await batch_geolocate_ips(session, unique_ips)
 
-    # ۵. دسته‌بندی کانفیگ‌های زنده بدون تأخیر شبکه (Instant classification)
+    # ۵. دسته‌بندی پروتکل و شناسایی جغرافیایی بدون مکث شبکه
     final_all_protocols = {cat: set() for cat in PROTOCOL_CATEGORIES}
     final_configs_by_country = {cat: set() for cat in country_keywords_for_naming.keys()}
 
@@ -583,7 +608,7 @@ async def main():
                 final_all_protocols[proto].add(config)
                 break
         
-        # مکان‌یابی هوشمند ۳ سطحی کاملاً همزمان (بدون نیاز به await شبکه)
+        # مکان‌یابی هوشمند بدون مکث شبکه (Instant classification)
         detected_ctr = detect_country_sync(resolved_ips_map, details["host"], details["name"], country_keywords_for_naming)
         if detected_ctr:
             final_configs_by_country[detected_ctr].add(config)
