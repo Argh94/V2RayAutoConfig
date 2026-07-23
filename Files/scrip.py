@@ -11,6 +11,7 @@ import pytz
 import base64
 from urllib.parse import parse_qs, unquote
 import jdatetime  
+import ssl
 
 URLS_FILE = 'Files/urls.txt'
 KEYWORDS_FILE = 'Files/key.json'
@@ -18,6 +19,8 @@ OUTPUT_DIR = 'configs'
 README_FILE = 'README.md'
 REQUEST_TIMEOUT = 15
 CONCURRENT_REQUESTS = 10
+CONCURRENT_TESTS = 120   # تعیین تعداد تست‌های همزمان شبکه برای تسریع کار
+TEST_TIMEOUT = 1.8       # تایم‌اوت بهینه برای رد کردن سریع سرورهای آفلاین
 MAX_CONFIG_LENGTH = 1500
 MIN_PERCENT25_COUNT = 15
 
@@ -28,6 +31,14 @@ PROTOCOL_CATEGORIES = [
     "Vmess", "Vless", "Trojan", "ShadowSocks", "ShadowSocksR",
     "Tuic", "Hysteria2", "WireGuard"
 ]
+
+# کامپایل سراسری ریجکس‌های عمومی برای بهینه‌سازی سرعت پردازش CPU
+RE_VMESS = re.compile(r'^vmess://', re.IGNORECASE)
+RE_SSR = re.compile(r'^ssr://', re.IGNORECASE)
+RE_STANDARD_PROTO = re.compile(r'^(vless|trojan|hysteria2|tuic|ss)://([^@\s]+)@([^:\s/?#]+):([0-9]+)([^#\s]*)(?:#([^\s]*))?', re.IGNORECASE)
+
+# کش حافظه موقت برای ذخیره کشور مربوط به هر آی‌پی (جهت جلوگیری از نرخ درخواست مکرر)
+IP_LOCATION_CACHE = {}
 
 def is_persian_like(text):
     if not isinstance(text, str) or not text.strip():
@@ -43,46 +54,14 @@ def is_persian_like(text):
 
 def decode_base64(data):
     try:
-        data = data.replace('_', '/').replace('-', '+')
+        data = data.replace('_', '/').replace('-', '+').strip()
+        data = re.sub(r'[^A-Za-z0-9+/]', '', data)
         missing_padding = len(data) % 4
         if missing_padding:
             data += '=' * (4 - missing_padding)
-        return base64.b64decode(data).decode('utf-8')
+        return base64.b64decode(data).decode('utf-8', errors='ignore')
     except Exception:
         return None
-
-def get_vmess_name(vmess_link):
-    if not vmess_link.startswith("vmess://"):
-        return None
-    try:
-        b64_part = vmess_link[8:]
-        decoded_str = decode_base64(b64_part)
-        if decoded_str:
-            vmess_json = json.loads(decoded_str)
-            return vmess_json.get('ps')
-    except Exception as e:
-        logging.warning(f"Failed to parse Vmess name from {vmess_link[:30]}...: {e}")
-    return None
-
-def get_ssr_name(ssr_link):
-    if not ssr_link.startswith("ssr://"):
-        return None
-    try:
-        b64_part = ssr_link[6:]
-        decoded_str = decode_base64(b64_part)
-        if not decoded_str:
-            return None
-        parts = decoded_str.split('/?')
-        if len(parts) < 2:
-            return None
-        params_str = parts[1]
-        params = parse_qs(params_str)
-        if 'remarks' in params and params['remarks']:
-            remarks_b64 = params['remarks'][0]
-            return decode_base64(remarks_b64)
-    except Exception as e:
-        logging.warning(f"Failed to parse SSR name from {ssr_link[:30]}...: {e}")
-    return None
 
 def should_filter_config(config):
     if 'i_love_' in config.lower():
@@ -96,39 +75,259 @@ def should_filter_config(config):
         return True
     return False
 
-async def fetch_url(session, url):
+# ==================== بخش پارس کردن و استخراج متادیتا ====================
+def parse_config_details(config):
+    config = config.strip()
     try:
-        async with session.get(url, timeout=REQUEST_TIMEOUT) as response:
+        if RE_VMESS.match(config):
+            b64_part = config[8:]
+            decoded = decode_base64(b64_part)
+            if decoded:
+                data = json.loads(decoded)
+                port_val = data.get("port", 0)
+                try:
+                    port = int(port_val)
+                except ValueError:
+                    port = 0
+                return {
+                    "host": data.get("add"),
+                    "port": port,
+                    "is_tls": str(data.get("tls")).lower() == "tls",
+                    "sni": data.get("sni") or data.get("host"),
+                    "name": data.get("ps", "")
+                }
+        elif RE_SSR.match(config):
+            b64_part = config[6:]
+            decoded = decode_base64(b64_part)
+            if decoded:
+                parts = decoded.split('/?')
+                main_parts = parts[0].split(':')
+                if len(main_parts) >= 2:
+                    host = main_parts[0]
+                    try:
+                        port = int(main_parts[1])
+                    except ValueError:
+                        port = 0
+                    name = ""
+                    if len(parts) > 1:
+                        params = parse_qs(parts[1])
+                        if 'remarks' in params and params['remarks']:
+                            name = decode_base64(params['remarks'][0]) or ""
+                    return {
+                        "host": host,
+                        "port": port,
+                        "is_tls": False,
+                        "sni": None,
+                        "name": name
+                    }
+        else:
+            match = RE_STANDARD_PROTO.match(config)
+            if match:
+                proto, credentials, host, port_str, query, fragment = match.groups()
+                try:
+                    port = int(port_str)
+                except ValueError:
+                    port = 0
+                name = unquote(fragment) if fragment else ""
+                
+                is_tls = False
+                sni = None
+                if query:
+                    params = parse_qs(query.lstrip('?'))
+                    security = params.get('security', [''])[0].lower()
+                    if security in ['tls', 'xtls', 'reality']:
+                        is_tls = True
+                    sni = params.get('sni', [None])[0]
+                
+                if proto.lower() in ['trojan', 'hysteria2', 'tuic']:
+                    is_tls = True
+                    
+                return {
+                    "host": host,
+                    "port": port,
+                    "is_tls": is_tls,
+                    "sni": sni,
+                    "name": name
+                }
+            else:
+                # پشتیبانی ثانویه از فرمت قدیمی Shadowsocks
+                if config.lower().startswith("ss://"):
+                    main_part = config[5:]
+                    name = ""
+                    if "#" in main_part:
+                        main_part, name_b64 = main_part.split("#", 1)
+                        name = unquote(name_b64)
+                    decoded = decode_base64(main_part)
+                    if decoded and "@" in decoded:
+                        cred, host_port = decoded.rsplit("@", 1)
+                        if ":" in host_port:
+                            host, port_str = host_port.split(":", 1)
+                            try:
+                                port = int(port_str)
+                            except ValueError:
+                                port = 0
+                            return {
+                                "host": host,
+                                "port": port,
+                                "is_tls": False,
+                                "sni": None,
+                                "name": name
+                            }
+    except Exception as e:
+        logging.debug(f"Parser error for: {config[:30]} - {e}")
+    return None
+
+# ==================== بخش متدهای تست زنده بودن کانفیگ ====================
+async def test_tcp_connection(host, port):
+    """روش اول تست: بررسی اتصال لایه انتقال TCP"""
+    try:
+        reader, writer = await asyncio.wait_for(
+            asyncio.open_connection(host, port),
+            timeout=TEST_TIMEOUT
+        )
+        writer.close()
+        await writer.wait_closed()
+        return True
+    except Exception:
+        return False
+
+async def test_tls_handshake(host, port, sni=None):
+    """روش دوم تست: شبیه‌سازی هندشیک لایه امنیتی TLS"""
+    try:
+        context = ssl.create_default_context()
+        context.check_hostname = False
+        context.verify_mode = ssl.CERT_NONE
+        
+        reader, writer = await asyncio.wait_for(
+            asyncio.open_connection(host, port, ssl=context, server_hostname=sni or host),
+            timeout=TEST_TIMEOUT
+        )
+        writer.close()
+        await writer.wait_closed()
+        return True
+    except Exception:
+        return False
+
+async def validate_config(config_details):
+    if not config_details or not config_details.get("host") or not config_details.get("port"):
+        return False
+    
+    host = config_details["host"]
+    port = config_details["port"]
+    
+    # اجرای تست نوع اول (TCP)
+    tcp_alive = await test_tcp_connection(host, port)
+    if not tcp_alive:
+        return False
+    
+    # اجرای تست نوع دوم (TLS) در صورت نیاز کانفیگ
+    if config_details.get("is_tls"):
+        tls_alive = await test_tls_handshake(host, port, config_details.get("sni"))
+        if not tls_alive:
+            return False
+            
+    return True
+
+# ==================== بخش مکان‌یابی جغرافیایی ۳ سطحی ====================
+async def resolve_dns(host):
+    try:
+        loop = asyncio.get_running_loop()
+        info = await loop.getaddrinfo(host, None)
+        if info:
+            return info[0][4][0]
+    except Exception:
+        pass
+    return None
+
+async def get_ip_country_code(session, ip):
+    if ip in IP_LOCATION_CACHE:
+        return IP_LOCATION_CACHE[ip]
+    
+    url = f"http://ip-api.com/json/{ip}?fields=status,countryCode"
+    try:
+        async with session.get(url, timeout=3.0) as resp:
+            if resp.status == 200:
+                data = await resp.json()
+                if data.get("status") == "success":
+                    cc = data.get("countryCode")
+                    if cc:
+                        IP_LOCATION_CACHE[ip] = cc.upper()
+                        return cc.upper()
+    except Exception:
+        pass
+    return None
+
+async def detect_country(session, host, name, country_keywords_for_naming):
+    # سطح اول: بررسی پسوند انتهای دامنه (TLD)
+    if host and '.' in host:
+        tld = host.split('.')[-1].lower()
+        tld_mapping = {
+            "de": "Germany", "fr": "France", "fi": "Finland", "nl": "Netherlands", 
+            "ir": "Iran", "uk": "United Kingdom", "us": "United States", "sg": "Singapore",
+            "tr": "Turkey", "jp": "Japan", "hk": "Hong Kong", "ca": "Canada", "ru": "Russia"
+        }
+        if tld in tld_mapping:
+            return tld_mapping[tld]
+
+    # سطح دوم: انطباق کلمات کلیدی اسم کانفیگ
+    name_str = name if isinstance(name, str) else ""
+    if name_str:
+        for country_key, keywords in country_keywords_for_naming.items():
+            if isinstance(keywords, list):
+                for kw in keywords:
+                    if isinstance(kw, str) and not is_persian_like(kw):
+                        is_abbr = (len(kw) in [2, 3]) and kw.isupper()
+                        if is_abbr:
+                            if re.search(r'\b' + re.escape(kw) + r'\b', name_str, re.IGNORECASE):
+                                return country_key
+                        else:
+                            if kw.lower() in name_str.lower():
+                                return country_key
+
+    # سطح سوم: کوئری آسنکرون شبکه با سیستم کش آی‌پی
+    resolved_ip = await resolve_dns(host)
+    if resolved_ip:
+        cc = await get_ip_country_code(session, resolved_ip)
+        if cc:
+            for country_key, keywords in country_keywords_for_naming.items():
+                if isinstance(keywords, list):
+                    if cc in keywords:
+                        return country_key
+                        
+    return None
+
+# ==================== بخش واکشی صفحات ====================
+async def fetch_url(session, url):
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+    }
+    try:
+        async with session.get(url, timeout=REQUEST_TIMEOUT, headers=headers) as response:
             response.raise_for_status()
             html = await response.text()
             soup = BeautifulSoup(html, 'html.parser')
             text_content = ""
             for element in soup.find_all(['pre', 'code', 'p', 'div', 'li', 'span', 'td']):
                 text_content += element.get_text(separator='\n', strip=True) + "\n"
-            if not text_content:
-                text_content = soup.get_text(separator=' ', strip=True)
+            if not text_content or len(text_content.strip()) < 50:
+                text_content = html
             logging.info(f"Successfully fetched: {url}")
-            return url, text_content
+            return text_content
     except Exception as e:
         logging.warning(f"Failed to fetch or process {url}: {e}")
-        return url, None
+        return None
 
-def find_matches(text, categories_data):
-    matches = {category: set() for category in categories_data}
-    for category, patterns in categories_data.items():
-        for pattern_str in patterns:
-            if not isinstance(pattern_str, str):
-                continue
+def find_matches(text, compiled_patterns):
+    matches = {category: set() for category in compiled_patterns}
+    for category, patterns in compiled_patterns.items():
+        for pattern in patterns:
             try:
-                is_protocol_pattern = any(proto_prefix in pattern_str for proto_prefix in [p.lower() + "://" for p in PROTOCOL_CATEGORIES])
-                if category in PROTOCOL_CATEGORIES or is_protocol_pattern:
-                    pattern = re.compile(pattern_str, re.IGNORECASE | re.MULTILINE)
-                    found = pattern.findall(text)
-                    if found:
-                        cleaned_found = {item.strip() for item in found if item.strip()}
-                        matches[category].update(cleaned_found)
-            except re.error as e:
-                logging.error(f"Regex error for '{pattern_str}' in category '{category}': {e}")
+                found = pattern.findall(text)
+                if found:
+                    cleaned_found = {item.strip() for item in found if item.strip()}
+                    matches[category].update(cleaned_found)
+            except Exception as e:
+                logging.error(f"Error matching pattern in {category}: {e}")
     return {k: v for k, v in matches.items() if v}
 
 def save_to_file(directory, category_name, items_set):
@@ -146,6 +345,7 @@ def save_to_file(directory, category_name, items_set):
         logging.error(f"Failed to write file {file_path}: {e}")
         return False, 0
 
+# ==================== تولید فایل راهنما ====================
 def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, github_repo_path="Argh94/V2RayAutoConfig", github_branch="main"):
     tz = pytz.timezone('Asia/Tehran')
     now = datetime.now(tz)
@@ -155,7 +355,6 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, g
     timestamp = f"آخرین به‌روزرسانی: {time_str} {date_str}"
 
     raw_github_base_url = f"https://raw.githubusercontent.com/{github_repo_path}/refs/heads/{github_branch}/{OUTPUT_DIR}"
-
     total_configs = sum(protocol_counts.values())
 
     md_content = f"""# 🚀 V2Ray AutoConfig
@@ -178,14 +377,14 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, g
 ---
 
 ## 📖 درباره پروژه
-این پروژه به‌صورت خودکار کانفیگ‌های VPN (پروتکل‌های مختلف مانند V2Ray، Trojan و Shadowsocks) را از منابع مختلف جمع‌آوری و دسته‌بندی می‌کند. هدف ما ارائه کانفیگ‌های به‌روز و قابل اعتماد برای کاربران است.
+این پروژه به‌صورت خودکار کانفیگ‌های VPN را از منابع مختلف جمع‌آوری، تست و دسته‌بندی می‌کند.
 
 > **نکته:** کانفیگ‌هایی که بیش از حد طولانی یا حاوی کاراکترهای غیرضروری (مانند تعداد زیاد `%25`) باشند، برای اطمینان از کیفیت، فیلتر می‌شوند.
 
 ---
 
 ## 📁 کانفیگ‌های پروتکل‌ها
-{f'در حال حاضر {total_configs} کانفیگ در دسترس است.' if total_configs else 'هیچ کانفیگ پروتکلی یافت نشد.'}
+{f'در حال حاضر {total_configs} کانفیگ فعال در دسترس است.' if total_configs else 'هیچ کانفیگی یافت نشد.'}
 
 <div align="center">
 
@@ -200,7 +399,6 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, g
         md_content += "| - | - | - |\n"
 
     md_content += "</div>\n\n---\n\n"
-
     md_content += f"""
 ## 🌍 کانفیگ‌های کشورها
 {f'کانفیگ‌ها بر اساس نام کشورها دسته‌بندی شده‌اند.' if country_counts else 'هیچ کانفیگ مرتبط با کشوری یافت نشد.'}
@@ -252,34 +450,11 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, g
         md_content += "| - | - | - |\n"
 
     md_content += "</div>\n\n---\n\n"
-
     md_content += """
 ## 🛠️ نحوه استفاده
-1. **دانلود کانفیگ‌ها**: از جدول‌های بالا، فایل موردنظر خود (بر اساس پروتکل یا کشور) را دانلود کنید.
-2. **کلاینت‌های پیشنهادی**:
-   - **V2Ray**: [v2rayNG](https://github.com/2dust/v2rayNG) (اندروید)، [Hiddify](https://github.com/hiddify/hiddify-app/releases) (مک)، [V2RayN](https://github.com/2dust/v2rayN/releases) (ویندوز)
-   - **NekoRey_pro**: [NekoRey](https://github.com/Mahdi-zarei/nekoray/releases) (مک)، [Karing](https://github.com/KaringX/karing/releases)
-   - **sing-box**: [Sing-Box](https://github.com/SagerNet/sing-box/releases)
-3. فایل کانفیگ را در کلاینت خود وارد کنید و اتصال را تست کنید.
-
-> **توصیه**: برای بهترین عملکرد، کانفیگ‌ها را به‌صورت دوره‌ای بررسی و به‌روزرسانی کنید.
-
----
-
-## 🤝 مشارکت
-اگر مایل به مشارکت در پروژه هستید، می‌توانید:
-- منابع جدید برای جمع‌آوری کانفیگ‌ها پیشنهاد دهید (فایل `urls.txt`).
-- الگوهای جدید برای پروتکل‌ها یا کشورها اضافه کنید (فایل `key.json`).
-- با ارسال Pull Request یا Issue در [گیت‌هاب](https://github.com/Argh94/V2RayAutoConfig) به بهبود پروژه کمک کنید.
-
----
-
-## 📢 توجه
-- این پروژه صرفاً برای اهداف آموزشی و تحقیقاتی ارائه شده است.
-- لطفاً از کانفیگ‌ها به‌صورت مسئولانه و مطابق با قوانین کشور خود استفاده کنید.
-- برای گزارش مشکلات یا پیشنهادات، از بخش [Issues](https://github.com/Argh94/V2RayAutoConfig/issues) استفاده کنید.
+1. **دانلود کانفیگ‌ها**: از جدول‌های بالا، فایل موردنظر خود را دانلود کنید.
+2. فایل کانفیگ را در کلاینت خود وارد کنید و اتصال را تست کنید.
 """
-
     try:
         with open(README_FILE, 'w', encoding='utf-8') as f:
             f.write(md_content)
@@ -287,6 +462,7 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, g
     except Exception as e:
         logging.error(f"Failed to write {README_FILE}: {e}")
 
+# ==================== بدنه اصلی اجرا ====================
 async def main():
     if not os.path.exists(URLS_FILE) or not os.path.exists(KEYWORDS_FILE):
         logging.critical("Input files not found.")
@@ -297,100 +473,87 @@ async def main():
     with open(KEYWORDS_FILE, 'r', encoding='utf-8') as f:
         categories_data = json.load(f)
 
-    protocol_patterns_for_matching = {
-        cat: patterns for cat, patterns in categories_data.items() if cat in PROTOCOL_CATEGORIES
-    }
+    # کامپایل یک‌باره تمام ریجکس‌های پروتکل از کلیدواژه‌ها
+    compiled_patterns = {}
+    for cat, patterns in categories_data.items():
+        if cat in PROTOCOL_CATEGORIES:
+            compiled_patterns[cat] = []
+            for pat_str in patterns:
+                if isinstance(pat_str, str):
+                    try:
+                        compiled_patterns[cat].append(re.compile(pat_str, re.IGNORECASE | re.MULTILINE))
+                    except re.error as e:
+                        logging.error(f"Regex compiler error: {pat_str} in {cat}: {e}")
+
     country_keywords_for_naming = {
         cat: patterns for cat, patterns in categories_data.items() if cat not in PROTOCOL_CATEGORIES
     }
-    country_category_names = list(country_keywords_for_naming.keys())
 
-    logging.info(f"Loaded {len(urls)} URLs and "
-                 f"{len(categories_data)} total categories from key.json.")
+    logging.info(f"Loaded {len(urls)} URLs and compiled patterns.")
 
-    tasks = []
-    sem = asyncio.Semaphore(CONCURRENT_REQUESTS)
-    async def fetch_with_sem(session, url_to_fetch):
-        async with sem:
-            return await fetch_url(session, url_to_fetch)
+    # ۱. واکشی محتوای آدرس‌های وب به صورت همزمان
+    sem_fetch = asyncio.Semaphore(CONCURRENT_REQUESTS)
+    async def fetch_with_sem(session, u):
+        async with sem_fetch:
+            return await fetch_url(session, u)
+
     async with aiohttp.ClientSession() as session:
-        fetched_pages = await asyncio.gather(*[fetch_with_sem(session, u) for u in urls])
+        fetched_contents = await asyncio.gather(*[fetch_with_sem(session, u) for u in urls])
 
-    final_configs_by_country = {cat: set() for cat in country_category_names}
-    final_all_protocols = {cat: set() for cat in PROTOCOL_CATEGORIES}
-
-    logging.info("Processing pages for config name association...")
-    for url, text in fetched_pages:
+    # ۲. استخراج و فیلتر اولیه کانفیگ‌ها به صورت کاملاً یکتا (Deduplicated)
+    all_extracted_configs = set()
+    for text in fetched_contents:
         if not text:
             continue
+        page_matches = find_matches(text, compiled_patterns)
+        for protocol_cat, configs_found in page_matches.items():
+            for cfg in configs_found:
+                if not should_filter_config(cfg):
+                    all_extracted_configs.add(cfg)
 
-        page_protocol_matches = find_matches(text, protocol_patterns_for_matching)
-        all_page_configs_after_filter = set()
-        for protocol_cat_name, configs_found in page_protocol_matches.items():
-            if protocol_cat_name in PROTOCOL_CATEGORIES:
-                for config in configs_found:
-                    if should_filter_config(config):
-                        continue
-                    all_page_configs_after_filter.add(config)
-                    final_all_protocols[protocol_cat_name].add(config)
+    logging.info(f"Total Unique configs found for validation: {len(all_extracted_configs)}")
 
-        for config in all_page_configs_after_filter:
-            name_to_check = None
-            if '#' in config:
-                try:
-                    potential_name = config.split('#', 1)[1]
-                    name_to_check = unquote(potential_name).strip()
-                    if not name_to_check:
-                        name_to_check = None
-                except IndexError:
-                    pass
+    # ۳. تست آسنکرون و سریع کانفیگ‌های یکتا به منظور حذف مرده‌ها
+    sem_test = asyncio.Semaphore(CONCURRENT_TESTS)
+    valid_configs = []
 
-            if not name_to_check:
-                if config.startswith('ssr://'):
-                    name_to_check = get_ssr_name(config)
-                elif config.startswith('vmess://'):
-                    name_to_check = get_vmess_name(config)
+    async def test_and_parse_worker(config):
+        async with sem_test:
+            details = parse_config_details(config)
+            if not details:
+                return None
+            is_alive = await validate_config(details)
+            if is_alive:
+                return (config, details)
+            return None
 
-            if not name_to_check:
-                continue
+    test_tasks = [test_and_parse_worker(cfg) for cfg in all_extracted_configs]
+    test_results = await asyncio.gather(*test_tasks)
+    valid_configs = [res for res in test_results if res is not None]
 
-            current_name_to_check_str = name_to_check if isinstance(name_to_check, str) else ""
+    logging.info(f"Validation finished. Healthy configs: {len(valid_configs)}/{len(all_extracted_configs)}")
 
-            for country_name_key, keywords_for_country_list in country_keywords_for_naming.items():
-                text_keywords_for_country = []
-                if isinstance(keywords_for_country_list, list):
-                    for kw in keywords_for_country_list:
-                        if isinstance(kw, str):
-                            is_potential_emoji_or_short_code = (1 <= len(kw) <= 7)
-                            is_alphanumeric = kw.isalnum()
-                            if not (is_potential_emoji_or_short_code and not is_alphanumeric):
-                                if not is_persian_like(kw):
-                                    text_keywords_for_country.append(kw)
-                                elif kw.lower() == country_name_key.lower():
-                                    if kw not in text_keywords_for_country:
-                                        text_keywords_for_country.append(kw)
-                for keyword in text_keywords_for_country:
-                    match_found = False
-                    if not isinstance(keyword, str):
-                        continue
-                    is_abbr = (len(keyword) == 2 or len(keyword) == 3) and re.match(r'^[A-Z]+$', keyword)
-                    if is_abbr:
-                        pattern = r'\b' + re.escape(keyword) + r'\b'
-                        if re.search(pattern, current_name_to_check_str, re.IGNORECASE):
-                            match_found = True
-                    else:
-                        if keyword.lower() in current_name_to_check_str.lower():
-                            match_found = True
-                    if match_found:
-                        final_configs_by_country[country_name_key].add(config)
-                        break
-                if match_found:
+    # ۴. دسته‌بندی پروتکل و شناسایی جغرافیایی کانفیگ‌های زنده
+    final_all_protocols = {cat: set() for cat in PROTOCOL_CATEGORIES}
+    final_configs_by_country = {cat: set() for cat in country_keywords_for_naming.keys()}
+
+    async with aiohttp.ClientSession() as session:
+        for config, details in valid_configs:
+            # ذخیره بر اساس پروتکل
+            for proto in PROTOCOL_CATEGORIES:
+                if config.lower().startswith(proto.lower() + "://"):
+                    final_all_protocols[proto].add(config)
                     break
+            
+            # مکان‌یابی هوشمند ۳ سطحی
+            detected_ctr = await detect_country(session, details["host"], details["name"], country_keywords_for_naming)
+            if detected_ctr:
+                final_configs_by_country[detected_ctr].add(config)
 
+    # ۵. ساختاردهی و نوشتن فایل‌های خروجی
     if os.path.exists(OUTPUT_DIR):
         shutil.rmtree(OUTPUT_DIR)
     os.makedirs(OUTPUT_DIR, exist_ok=True)
-    logging.info(f"Saving files to directory: {OUTPUT_DIR}")
 
     protocol_counts = {}
     country_counts = {}
