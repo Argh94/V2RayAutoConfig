@@ -7,7 +7,6 @@ ss://71cada65-d23e-418c-88e4-a06188d14689@it-one.quiet-rogue.site:443?encryption
 ss://71cada65-d23e-418c-88e4-a06188d14689@it-one.quiet-rogue.site:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=T7cxFOGNMLKqZiEustm2sOfwOovHyHnLcGDWfSmaU1c&security=reality&sni=it-one.quiet-rogue.site&type=tcp#REALITY|IT🇮🇹
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.117:8880?mode=gun&security=none&encryption=none&type=grpc#IT🇮🇹
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?mode=gun&security=none&encryption=none&type=grpc#IT🇮🇹
-ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.69:8880?security=&encryption=none&type=grpc#🆔capoit%20🔓%20VL-GRPC-N/A%20🇮🇹%20IT%20119ms
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo13.fordnsdirect.shop:8880?encryption=none&type=grpc&mode=gun#IT🇮🇹
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo13.fordnsdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#IT🇮🇹
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo15.fordnsdirect.shop:8880?encryption=none&security=none&type=grpc&mode=gun&authority=&serviceName=#IT🇮🇹
@@ -55,7 +54,6 @@ vless://71cada65-d23e-418c-88e4-a06188d14689@it-one.quiet-rogue.site:443?encrypt
 vless://71cada65-d23e-418c-88e4-a06188d14689@it-one.quiet-rogue.site:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=T7cxFOGNMLKqZiEustm2sOfwOovHyHnLcGDWfSmaU1c&security=reality&sni=it-one.quiet-rogue.site&type=tcp#REALITY|IT🇮🇹
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.117:8880?mode=gun&security=none&encryption=none&type=grpc#IT🇮🇹
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?mode=gun&security=none&encryption=none&type=grpc#IT🇮🇹
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.69:8880?security=&encryption=none&type=grpc#🆔capoit%20🔓%20VL-GRPC-N/A%20🇮🇹%20IT%20119ms
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo13.fordnsdirect.shop:8880?encryption=none&type=grpc&mode=gun#IT🇮🇹
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo13.fordnsdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#IT🇮🇹
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo15.fordnsdirect.shop:8880?encryption=none&security=none&type=grpc&mode=gun&authority=&serviceName=#IT🇮🇹
