@@ -68,10 +68,12 @@ trojan://IQ68037294@select-marmoset.rooster465.autos:443?security=tls#%F0%9F%87%
 trojan://IQ68037294@whole-perch.rooster465.autos:443?allowInsecure=0&sni=whole-perch.rooster465.autos#KR-82.117.226.218-0176
 trojan://IQ68037294@whole-perch.rooster465.autos:443?security=tls&sni=whole-perch.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-82.117.226.218-0176
 trojan://JT80563429@fair-ram.rooster465.autos:443?allowInsecure=0&sni=fair-ram.rooster465.autos#KR-82.117.226.157-0472
+trojan://JT80563429@fair-ram.rooster465.autos:443?allowInsecure=0&sni=fair-ram.rooster465.autos#🇰🇷[openproxylist.com]trojan-KR
 trojan://JT80563429@fair-ram.rooster465.autos:443?security=tls&sni=fair-ram.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-82.117.226.157-0472
 trojan://JT80563429@touching-pigeon.rooster465.autos:443?#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD%20583.6KB%2Fs
 trojan://JT80563429@touching-pigeon.rooster465.autos:443?allowInsecure=0#KR%E9%9F%A9%E5%9B%BD%20596.5KB%2Fs
 trojan://JT80563429@touching-pigeon.rooster465.autos:443?allowInsecure=0#KR-82.117.226.76-0389
+trojan://JT80563429@touching-pigeon.rooster465.autos:443?allowInsecure=1#🇰🇷[openproxylist.com]trojan-KR
 trojan://JT80563429@touching-pigeon.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-82.117.226.76-0389
 trojan://KLF0qOU0ZZGw5Tnu@121.78.213.3:443?security=tls&sni=swift.protocolbuffer.com#%F0%9F%87%B0%F0%9F%87%B7KR-121.78.213.3-7650
 trojan://WF42809561@outgoing-cockatoo.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-109.61.127.72-5915
@@ -143,5 +145,6 @@ vmess://ewogICAgImFkZCI6ICJzZW91bDAyLnpnam9rLmNvbSIsCiAgICAiYWlkIjogMCwKICAgICJo
 vmess://eyJ2IjoiMiIsInBzIjoiS1ItMTMyLjE0NS44MC4yMzAtMDU4NSIsImFkZCI6IjEzMi4xNDUuODAuMjMwIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjUxNTU4NjBlLWQwN2QtNDZjMy05MTI4LTNhZmJkODQ2MjZjNyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJob3N0Ijoia3IwMi5hMGEueHl6IiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiS1ItMTUyLjY3LjIxOC4zOC0wMjE1IiwiYWRkIjoiMTUyLjY3LjIxOC4zOCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiYjVlOTQ4MGEtYjdhYS00MGE0LWY5YTctNTI5OWI1ZTM2M2I0IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiS1ItMjE3LjE0Mi4xMzguNjEtMDQ2NSIsImFkZCI6IjIxNy4xNDIuMTM4LjYxIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImFjMWI5MzNkLWFmZmYtNDQ4Ny05M2VmLWY1NzEzMGE1NWRmZiIsImFpZCI6IjAiLCJuZXQiOiJodHRwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
+vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJLUiDwn4ew8J+HtyB8IEBSYXlkaWthbHggfCAzNjk5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJLUlx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyB8IDE0MC4yMzguMi4yNTAtNDQzIHwgMTMwLjExbXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxNTIuNjcuMjE4LjM4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIxNTIuNjcuMjE4LjM4IiwiaWQiOiJiNWU5NDgwYS1iN2FhLTQwYTQtZjlhNy01Mjk5YjVlMzYzYjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HsPCfh7dLUi0xNTIuNjcuMjE4LjM4LTAxNDkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
