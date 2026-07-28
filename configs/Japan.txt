@@ -143,13 +143,12 @@ trojan://b490740312aedb5f9f6b84c7aebd08c0@95.40.51.248:38937?sni=www.nintendogam
 trojan://b57f94c6-7385-47f7-9c8a-55de6098bd2b@zzjp01.fuqiangren.com:20220?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-157.254.193.251-3190
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20129?sni=hk.catxstar.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC4%207.0MB%2Fs
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?sni=hk.catxstar.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3%20812.6KB%2Fs
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@rr2.tube-cat.com:9450?allowInsecure=1#🇯🇵JP-🚀@VPNine1
 trojan://c09eb137-bf68-4658-84e0-102d94b74168@150.230.217.213:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-150.230.217.213-3988
 trojan://c19d1432-8b3e-4818-8837-3d160cf65908@138.2.45.243:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-138.2.45.243-3766
 trojan://c51d3975-a40c-4a5b-929b-c8595ed87850@15.168.28.231:443?security=tls&sni=wel-usgt.optage.moe#%F0%9F%87%AF%F0%9F%87%B5JP-15.168.28.231-5604
 trojan://d06a3f01-1ff0-4792-9b8e-a5a604bc74a2@168.138.43.89:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-168.138.43.89-3835
-trojan://d1960ba9f0f6353353994fa844cf817b@16.162.91.50:38937?allowInsecure=1&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC%E4%B8%A8yoyapai.com%5Cr
 trojan://d1960ba9f0f6353353994fa844cf817b@16.162.91.50:38937?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC10
-trojan://d1960ba9f0f6353353994fa844cf817b@16.163.57.145:40138?allowInsecure=1&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC%E4%B8%A8yoyapai.com%5Cr
 trojan://d1960ba9f0f6353353994fa844cf817b@16.163.57.145:40138?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
 trojan://d1960ba9f0f6353353994fa844cf817b@18.162.62.144:38937?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://d1960ba9f0f6353353994fa844cf817b@18.162.62.144:38937?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
@@ -253,5 +252,4 @@ vmess://ewogICAgImFkZCI6ICJzdGVhbS5kbnNwcm8uaWN1IiwKICAgICJhaWQiOiAwLAogICAgImhv
 vmess://ewogICAgImFkZCI6ICJzdXpoaWhhbi5ldS5vcmciLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJzdXpoaWhhbi5ldS5vcmciLAogICAgImlkIjogIjBiODczY2ZmLTExYWItNDcxNi1jNDFhLTA0Zjg4NjEzNTA5MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9yb2V3ZXN1IiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6/wn4e1SlAtMTY4LjEzOC4yMDMuMjMyLTA0MjIiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJzdXpoaWhhbi5ldS5vcmciCn0=
 vmess://eyJ2IjoiMiIsInBzIjoiSlAtMTQwLjgzLjUxLjE2MS0wNTc0IiwiYWRkIjoiMTQwLjgzLjUxLjE2MSIsInBvcnQiOiIyNTY4NiIsInR5cGUiOiJub25lIiwiaWQiOiI2NzMzYzM1Ny1iYTExLTRlOWYtZjAwZi03ZDg3ZjI3NzZmZjkiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwiaG9zdCI6ImpwMDIuYTBhLnh5eiIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSlAtNDUuNzYuMjAyLjQ1LTYxMjAiLCJhZGQiOiI0NS43Ni4yMDIuNDUiLCJwb3J0IjoiNDAxMCIsInR5cGUiOiJub25lIiwiaWQiOiIwNzFhOGE3MS1jNjU2LTRmYjYtYTkwOC00ZTQyZWI3MjI0M2QiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpa3N1emNwIiwiaG9zdCI6IiIsInRscyI6IiJ9
-vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJqcDAxLmEwYS54eXoiLCJpZCI6IjExYzM2MjdmLTMxZTgtNDY5NS1kZmJkLTM0MDc2ZTJmMWY1ZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInBvcnQiOiI4MCIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgMzQ5NCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
-vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiYWlkIjowLCJob3N0Ijoibm9uZSIsImlkIjoiMTFjMzYyN2YtMzFlOC00Njk1LWRmYmQtMzQwNzZlMmYxZjVkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwicG9ydCI6IjgwIiwicHMiOiJKUCDwn4ev8J+HtSB8IEBSYXlkaWthbHggfCAzNDg5Iiwic25pIjoibm9uZSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJqcDAxLmEwYS54eXoiLCJpZCI6IjExYzM2MjdmLTMxZTgtNDY5NS1kZmJkLTM0MDc2ZTJmMWY1ZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInBvcnQiOiI4MCIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgMzQ2MiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
