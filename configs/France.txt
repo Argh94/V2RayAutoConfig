@@ -141,6 +141,7 @@ trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@62.210.254.72:28443?security=tls#%
 trojan://79770a32-9607-4919-9483-0f1794559390@95.179.217.221:443?security=tls&sni=nika2.hdfy2.foriran.trade&type=grpc&serviceName=M9hnxw1wCQSfVHaiznU#%F0%9F%87%AB%F0%9F%87%B7FR-95.179.217.221-8080
 trojan://9498f3a0-2992-11ee-a4c7-1239d0255272@fr.test3.net:443?security=tls&sni=zula.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.159.59.186-8005
 trojan://973ed2e0-c4d8-4737-a093-71629148086d@51.77.213.197:443?security=tls&sni=frt2.sshocean.net#%F0%9F%87%AB%F0%9F%87%B7FR-51.77.213.197-5339
+trojan://BtbprBhwOU@77.110.106.130:24622?security=reality&sni=www.tesla.com&fp=chrome&pbk=2dQJDcmjDDemzSnPyHEgNAmxPdFvzJgYB49UH6IMeGI&sid=3d0764e927&spx=/&type=tcp&headerType=none#🇫🇷FR-🚀@VPNine1
 trojan://FC60532879@pretty-quail.rooster465.autos:443?security=tls&sni=pretty-quail.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-13.37.127.48-0507
 trojan://IQ68037294@13.37.222.178:443?sni=correct-pony.rooster465.autos#FR🇫🇷
 trojan://IQ68037294@13.39.161.149:443?fp=chrome&sni=humane-bird.rooster465.autos#FR🇫🇷
@@ -174,6 +175,7 @@ trojan://PD07395842@13.39.127.43:443?security=tls&sni=united-bedbug.rooster465.a
 trojan://PD07395842@tough-pigeon.rooster465.autos:443?security=tls&sni=tough-pigeon.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-13.39.195.215-0478
 trojan://PD07395842@united-bedbug.rooster465.autos:443?fp=chrome#FR🇫🇷
 trojan://PD07395842@united-bedbug.rooster465.autos:443?security=tls&sni=united-bedbug.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-13.39.127.43-0481
+trojan://PO2I1SaNKk@77.110.106.130:52821?security=reality&sni=www.icloud.com&fp=chrome&pbk=Zt2OI7TQEzyRnuQ18CHFzjnSyDpLPXQi-z_PuzMBnhM&sid=5b55a6c7&spx=/&type=tcp&headerType=none#🇫🇷FR-🚀@VPNine1
 trojan://UZ15382649@15.188.75.92:443?sni=moral-dolphin.rooster465.autos#FR🇫🇷
 trojan://UZ15382649@moral-dolphin.rooster465.autos:443?allowInsecure=0&sni=moral-dolphin.rooster465.autos#FR🇫🇷
 trojan://UZ15382649@moral-dolphin.rooster465.autos:443?allowInsecure=1#FR🇫🇷
@@ -182,6 +184,7 @@ trojan://WG39087154@great-krill.rooster465.autos:443?fp=chrome#FR🇫🇷
 trojan://WG39087154@nearby-cod.rooster465.autos:443#FR🇫🇷
 trojan://WG39087154@nearby-cod.rooster465.autos:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-35.181.168.168-0221
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.38.99.96-2736
+trojan://cZes88Q5y7@77.110.106.130:38636?security=reality&sni=www.sony.com&fp=chrome&pbk=54un9Md-TcOy5ygjSbWRZK-DgxNXCU8QjsrqfIb3hHw&sid=ec2f&spx=/&type=tcp&headerType=none#🇫🇷FR-🚀@VPNine1
 trojan://db19fc68-c027-4641-a8eb-eed3e1065c8a@146.70.158.111:443?security=tls&sni=amin.karkas1.ir&type=grpc&serviceName=6vuNVgOFnqUEvj0rcXIcStL#%F0%9F%87%AB%F0%9F%87%B7FR-146.70.158.111-8744
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=asriran.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-8128
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=namayesh.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-8126
@@ -252,11 +255,14 @@ trojan://humanity@45.130.125.69:443/?type=ws&host=www.calmloud.com&path=%2Fassig
 trojan://humanity@45.130.125.76:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&alpn=http%2F1.1#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2830%29
 trojan://humanity@45.85.118.176:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1#-%3EFR%2B%28%40DeamNet_Proxy%29%20%284%29
 trojan://humanity@66.81.247.155:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28120%29
+trojan://humanity@81.255.155.10:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#%E6%B3%95%E5%9B%BD+V2CROSS.COM
+trojan://humanity@81.255.155.10:443?security=tls&type=ws&sni=www.creationlong.org&path=/assignment&host=www.creationlong.org#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD
 trojan://humanity@sourceforge.net:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2888%29
 trojan://humanity@www.calmlunch.com:443/?type=ws&path=%2Fassignment&security=tls#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2864%29
 trojan://humanity@www.gossipglove.com:443/?type=ws&path=%2Fassignment&security=tls#-%3EFR%2B%28%40DeamNet_Proxy%29
 trojan://humanity@www.ignitelimit.com:443/?type=ws&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&fp=chrome#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2818%29
 trojan://origin@176.31.83.90:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-176.31.83.90-2137
+trojan://reyp4rjFsd@77.110.106.130:12109?security=reality&sni=www.intel.com&fp=chrome&pbk=jQzz-3qE1T7K4SVT54VtPIbWbW_FUb2LYDLXOHj1Mg4&sid=c3c89c0083186240&spx=/&type=tcp&headerType=none#🇫🇷FR-🚀@VPNine1
 trojan://telegram-id-directvpn@13.39.112.204:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-13.39.112.204-8825
 trojan://telegram-id-privatevpns@15.236.122.160:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-15.236.122.160-8730
 trojan://telegram-id-privatevpns@15.236.122.160:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-15.236.122.160-8732
@@ -269,6 +275,7 @@ trojan://telegram-id-privatevpns@35.180.36.215:22222?security=tls&sni=trj.rollin
 trojan://xxoo@146.19.230.241:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-146.19.230.241-3835
 trojan://xxoo@146.19.230.241:443?security=tls&sni=bmi.ir#%F0%9F%87%AB%F0%9F%87%B7FR-146.19.230.241-8753
 trojan://xxoo@146.19.230.241:443?security=tls&sni=loader.tapsell.ir#%F0%9F%87%AB%F0%9F%87%B7FR-146.19.230.241-8749
+trojan://zyPhCCrkGq@77.110.106.130:18612?security=reality&sni=aws.amazon.com&fp=chrome&pbk=sM7Bx2YcqQejTTgf4tDSnQcpwy2F8CoPyXR1WXqAhSU&sid=4797b6fe70&spx=/&type=tcp&headerType=none#🇫🇷FR-🚀@VPNine1
 vless://00a84cc6-073c-454b-9487-f0b7238e715f@83.243.86.45:443?security=reality&encryption=none&pbk=XSerkZgTPWKCzSgKTbfx3xgTp3asGddifSFtvp0bJyw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=download.amd.com&sid=89b8ef1537c69f72#REALITY|FR🇫🇷
 vless://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?mode=auto&path=%2F&security=none&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#France%200VH
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@31.56.176.196:443/?type=ws&encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&fp=chrome#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FParis%F0%9F%85%BF%EF%B8%8Fping%3A39ms
