@@ -5,6 +5,10 @@ on:
   schedule:
     - cron: "0,45 * * * *"
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
@@ -14,12 +18,12 @@ jobs:
 
     steps:
       - name: 📥 Check out repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # دریافت کل تاریخچه مخزن
+          fetch-depth: 0  
 
       - name: 🐍 Set up Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
           cache: 'pip'
@@ -36,9 +40,15 @@ jobs:
           echo "Checking key.json:"
           cat Files/key.json || echo "key.json not found"
 
+      - name: 🛠️ Create configs if not exists
+        run: |
+          mkdir -p configs
+          touch configs/.gitkeep
+          echo "Created configs/.gitkeep"
+
       - name: 🕸️ Run scraping script
         run: |
-          python Files/scrip.py || { echo "Scraper failed, check logs"; exit 1; }  # استفاده از scrip.py
+          python Files/scrip.py || { echo "Scraper failed, check logs"; exit 1; }
 
       - name: 📂 Check directory contents
         run: |
@@ -48,12 +58,6 @@ jobs:
           ls -la configs/ || echo "configs does not exist or is empty"
           echo "Checking for README.md:"
           ls -la README.md || echo "README.md does not exist"
-
-      - name: 🛠️ Create configs if not exists
-        run: |
-          mkdir -p configs
-          touch configs/.gitkeep
-          echo "Created configs/.gitkeep"
 
       - name: 🔧 Configure Git
         run: |
@@ -70,7 +74,9 @@ jobs:
             git commit -m "docs: Update README and config files 🤖 [skip ci]"
             echo "Pulling remote changes with rebase..."
             git fetch origin
-            git pull --rebase origin main || { echo "Rebase failed, aborting..."; git rebase --abort; exit 1; }
+            
+            git pull --rebase -X theirs origin main || { echo "Rebase failed, aborting..."; git rebase --abort; exit 1; }
+            
             echo "Pushing changes..."
             git push origin main || { echo "Push failed"; exit 1; }
           fi
