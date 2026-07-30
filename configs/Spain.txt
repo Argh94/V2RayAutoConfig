@@ -18,7 +18,6 @@ ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@5.188.181.201:9040#%F0%9F%87%AA%F0
 ss://a2415a12-3f92-4636-9823-9828d3ceb818@206.251.49.44:443/?type=tcp&encryption=none&sni=www.intel.com&fp=chrome&security=reality&pbk=rqtY-HQaeREXyphzsfaFjavFmn-IA66s01KZxDLdwiE&sid=a097e0#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AA%F0%9F%87%B8%C2%AE%EF%B8%8FSpain%C2%A9%EF%B8%8FMadrid%F0%9F%85%BF%EF%B8%8Fping%3A51.42ms
 ss://deb9c015-1ffe-4e41-9d21-310eb0422a4c@5.180.173.248:25198?encryption=none&host=5.180.173.248&path=%2Fxray&security=none&type=ws#ES🇪🇸
 ss://deb9c015-1ffe-4e41-9d21-310eb0422a4c@5.180.173.248:25198?path=%2Fxray&security=none&encryption=none&type=ws#ES🇪🇸
-trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
 trojan://rYuChHcwQZskq9E0zdoR@103.45.245.208:2053/?type=tcp&security=tls&sni=vpn5.rnmcnm.com#%F0%9F%87%AA%F0%9F%87%B8ES-103.45.245.208-0772
 vless://1f29762d-3f23-4207-9e39-f774de5d49ba@fat-sp.arpozan.cloud:8443?alpn=h2&encryption=none&fp=chrome&security=tls&serviceName=grpc&sni=fat-sp.arpozan.cloud&type=grpc#ES🇪🇸
 vless://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:443?encryption=none&type=xhttp&security=reality&path=%2F&mode=auto&sni=download.nvidia.com&fp=chrome&insecure=1&allowInsecure=1&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs#REALITY|ES🇪🇸
