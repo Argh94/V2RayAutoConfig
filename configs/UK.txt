@@ -293,6 +293,7 @@ ss://c7e9c591-2764-423a-afca-efbd010fd396@51.89.22.80:2053?&security=tls&fp=chro
 ss://cde6db10-61db-418f-9ea1-52f7c13404a9@87.120.219.225:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gb-2.quillrook.com&fp=firefox&pbk=hjdnuzysFQh3YtJ2yWjh-gduVE3A2yHWqJ1QXvrZyHM&sid=81b5b012&type=tcp&headerType=none#REALITY|GB🇬🇧
 ss://chacha20ietfpoly1305Og==@82.38.31.185:8080#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+82.38.31.185-8080+%7C+196.67ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-6026
+ss://d8b42cd5-a149-4356-9e61-000000000000@195.21.129.117:2553?encryption=none&type=tcp#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
 ss://e2510a9d-4980-4fd8-aed5-0f4d55663317@ipx4.reallyclody.ir:2026?security=reality&encryption=none&pbk=Vx3rusy36I-sHQzZo45TztNmj4EoQCWGSmx5IWU6QU4&headerType=none&fp=ios&type=tcp&sni=www.icloud.com&sid=b7c285513e6ef482#REALITY|GB🇬🇧
 ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=M84tG1gGw0.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=M84tG1gGw0.SoLeNtRaA.iNfO#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
 trojan://02e653c9-7c93-46a9-999d-11834bd0c577@132.145.51.172:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-132.145.51.172-3902
@@ -368,6 +369,7 @@ vless://be20f85a-bc04-45f8-b6cf-b8abc5f746ce@51.195.235.8:55025/?type=tcp&encryp
 vless://c7e9c591-2764-423a-afca-efbd010fd396@51.89.22.118:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#_%E8%8B%B1%E5%9B%BD_201
 vless://c7e9c591-2764-423a-afca-efbd010fd396@51.89.22.80:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#_%E8%8B%B1%E5%9B%BD_129
 vless://cde6db10-61db-418f-9ea1-52f7c13404a9@87.120.219.225:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gb-2.quillrook.com&fp=firefox&pbk=hjdnuzysFQh3YtJ2yWjh-gduVE3A2yHWqJ1QXvrZyHM&sid=81b5b012&type=tcp&headerType=none#REALITY|GB🇬🇧
+vless://d8b42cd5-a149-4356-9e61-000000000000@195.21.129.117:2553?encryption=none&type=tcp#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
 vless://e2510a9d-4980-4fd8-aed5-0f4d55663317@ipx4.reallyclody.ir:2026?security=reality&encryption=none&pbk=Vx3rusy36I-sHQzZo45TztNmj4EoQCWGSmx5IWU6QU4&headerType=none&fp=ios&type=tcp&sni=www.icloud.com&sid=b7c285513e6ef482#REALITY|GB🇬🇧
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=M84tG1gGw0.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=M84tG1gGw0.SoLeNtRaA.iNfO#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
 vmess://ewogICAgImFkZCI6ICI0NS44Ni44LjExNyIsCiAgICAiYWlkIjogNjQsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9wYXRoLzE2ODk3Njc4MDU5MjkiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HrPCfh6dHQi00NS44Ni44LjExNy04MTI3IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
