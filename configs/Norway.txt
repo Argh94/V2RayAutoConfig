@@ -1,10 +1,10 @@
 ss://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?&security=false&fp=chrome&type=ws&headerType=none&path=%2F#%5B%F0%9F%87%B3%F0%9F%87%B1%5D%20%5Bvl-no-ws%5D%20%5B260729-232928.173%5D
 ss://11e5e68c-355a-415c-8024-3bf12637e220@45.207.34.239:10086?&security=false&fp=chrome&type=ws&headerType=none&path=%2Fvless#%5B%F0%9F%87%B2%F0%9F%87%B4%5D%20%5Bvl-no-ws%5D%20%5B260729-233002.048%5D
+ss://1f29762d-3f23-4207-9e39-f774de5d49ba@89.185.81.252:8443?encryption=none&security=none&serviceName=grpc&type=grpc#NO🇳🇴
 ss://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?&security=false&fp=chrome&type=ws&headerType=none&path=%2F#%5B%F0%9F%87%B5%F0%9F%87%B1%5D%20%5Bvl-no-ws%5D%20%5B260729-233155.165%5D
 ss://3f1b8434-e322-4f10-b852-b89db394d7de@167.82.0.4:80?&security=false&fp=chrome&type=ws&headerType=none&host=BankMelat.glObal.ssl.faStly.nEt.&path=%2F#%5B%F0%9F%87%AB%F0%9F%87%AE%5D%20%5Bvl-no-ws%5D%20%5B260729-233217.438%5D
-ss://412d7fbe-7474-4f1d-86c6-7eebdc628f72@mci.pictureiran.ir:2087?encryption=none&security=tls&sni=norway.alfather.ir&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=norway.alfather.ir&path=%2F&mode=auto#NO🇳🇴
+ss://412d7fbe-7474-4f1d-86c6-7eebdc628f72@mci.pictureiran.ir:2087?encryption=none&type=xhttp&security=tls&path=%2F&host=norway.alfather.ir&mode=auto&sni=norway.alfather.ir&fp=chrome&insecure=0&allowInsecure=0#NO🇳🇴
 ss://412d7fbe-7474-4f1d-86c6-7eebdc628f72@mci.pictureiran.ir:2087?mode=auto&path=%2F&security=tls&encryption=none&host=norway.alfather.ir&fp=chrome&type=xhttp&sni=norway.alfather.ir#NO🇳🇴
-ss://412d7fbe-7474-4f1d-86c6-7eebdc628f72@mci.pictureiran.ir:2087?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=norway.alfather.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=norway.alfather.ir#NO🇳🇴
 ss://4a805850-a2c4-42b3-898a-798f0c19c609@104.17.188.61:8880?&security=false&fp=chrome&type=ws&headerType=none&host=rhna7tu4.xn--nxa.nyc.mn&path=%2Fsub#%5B%F0%9F%87%BA%F0%9F%87%B8%5D%20%5Bvl-no-ws%5D%20%5B260729-233256.092%5D
 ss://564150f0-c0ad-46d1-8cf1-71e1900322e8@170.114.46.6:8080?&security=false&fp=chrome&type=ws&headerType=none&host=pphfree3.mvpnpvpn.de5.net&path=%2Fmvpnpph2026#%5B%F0%9F%87%B9%F0%9F%87%AD%5D%20%5Bvl-no-ws%5D%20%5B260729-233340.010%5D
 ss://63f96e98-f83f-48d0-9cd0-f31e8071f67f@64.188.77.22:2053?&security=false&fp=chrome&type=ws&headerType=none&path=%2Fapi#%5B%F0%9F%87%B3%F0%9F%87%B1%5D%20%5Bvl-no-ws%5D%20%5B260729-233424.517%5D
@@ -13,7 +13,8 @@ ss://83744063-3ddc-4ed9-b6e5-d207ce6ed48e@www.baipiao.eu.org:8880?&security=fals
 ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?&security=false&fp=chrome&type=ws&headerType=none&host=download.pusytroller.gq&path=%2F#%5B%F0%9F%87%BA%F0%9F%87%B8%5D%20%5Bvl-no-ws%5D%20%5B260729-233610.357%5D
 ss://993aa8b6-7160-4202-970b-b3139cbc72a6@167.82.0.17:80?&security=false&fp=chrome&type=ws&headerType=none&host=BankMelat.glObal.ssl.faStly.nEt.&path=%2F#%5B%F0%9F%87%AB%F0%9F%87%AE%5D%20%5Bvl-no-ws%5D%20%5B260729-233707.072%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#%F0%9F%87%B3%F0%9F%87%B4NO-185.213.23.63-5962
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#NO%F0%9F%87%B3%F0%9F%87%B4+%7C+185.213.23.63-990+%7C+101.01ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#NO%F0%9F%87%B3%F0%9F%87%B4+%7C+185.213.23.63-990+%7C+129.93ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.253.97.206:1080#NO%F0%9F%87%B3%F0%9F%87%B4+%7C+185.253.97.206-1080+%7C+135.67ms
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.90.61.153:989#%F0%9F%87%B3%F0%9F%87%B4NO-185.90.61.153-8370
 ss://bbae962a-b6e9-46e6-990c-6abf13e6b075@no.cache-4d8a.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=7wLv5M4GZGhqMAGVj9zdHyW-RrSRdrYAu1Aaqa8N1nY&security=reality&sid=9d84de9d9f7b85e9&sni=no.cache-4d8a.com&type=tcp#REALITY|NO🇳🇴
 ss://bbae962a-b6e9-46e6-990c-6abf13e6b075@no.cache-4d8a.com:443?security=reality&encryption=none&pbk=7wLv5M4GZGhqMAGVj9zdHyW-RrSRdrYAu1Aaqa8N1nY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=no.cache-4d8a.com&sid=9d84de9d9f7b85e9#REALITY|NO🇳🇴
@@ -26,11 +27,11 @@ ss://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?&security=false&fp=ch
 ss://ff485c50-b364-4b4f-90be-ea576b949dd3@www.true.th:80?&security=false&fp=chrome&type=ws&headerType=none&host=d3gxy6d0a9fs18.cloudfront.net&path=%2Ffnetvpn2026#%5B%F0%9F%87%B9%F0%9F%87%AD%5D%20%5Bvl-no-ws%5D%20%5B260729-234216.407%5D
 vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?&security=false&fp=chrome&type=ws&headerType=none&path=%2F#%5B%F0%9F%87%B3%F0%9F%87%B1%5D%20%5Bvl-no-ws%5D%20%5B260729-232928.173%5D
 vless://11e5e68c-355a-415c-8024-3bf12637e220@45.207.34.239:10086?&security=false&fp=chrome&type=ws&headerType=none&path=%2Fvless#%5B%F0%9F%87%B2%F0%9F%87%B4%5D%20%5Bvl-no-ws%5D%20%5B260729-233002.048%5D
+vless://1f29762d-3f23-4207-9e39-f774de5d49ba@89.185.81.252:8443?encryption=none&security=none&serviceName=grpc&type=grpc#NO🇳🇴
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?&security=false&fp=chrome&type=ws&headerType=none&path=%2F#%5B%F0%9F%87%B5%F0%9F%87%B1%5D%20%5Bvl-no-ws%5D%20%5B260729-233155.165%5D
 vless://3f1b8434-e322-4f10-b852-b89db394d7de@167.82.0.4:80?&security=false&fp=chrome&type=ws&headerType=none&host=BankMelat.glObal.ssl.faStly.nEt.&path=%2F#%5B%F0%9F%87%AB%F0%9F%87%AE%5D%20%5Bvl-no-ws%5D%20%5B260729-233217.438%5D
-vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@mci.pictureiran.ir:2087?encryption=none&security=tls&sni=norway.alfather.ir&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=norway.alfather.ir&path=%2F&mode=auto#NO🇳🇴
+vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@mci.pictureiran.ir:2087?encryption=none&type=xhttp&security=tls&path=%2F&host=norway.alfather.ir&mode=auto&sni=norway.alfather.ir&fp=chrome&insecure=0&allowInsecure=0#NO🇳🇴
 vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@mci.pictureiran.ir:2087?mode=auto&path=%2F&security=tls&encryption=none&host=norway.alfather.ir&fp=chrome&type=xhttp&sni=norway.alfather.ir#NO🇳🇴
-vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@mci.pictureiran.ir:2087?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=norway.alfather.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=norway.alfather.ir#NO🇳🇴
 vless://4a805850-a2c4-42b3-898a-798f0c19c609@104.17.188.61:8880?&security=false&fp=chrome&type=ws&headerType=none&host=rhna7tu4.xn--nxa.nyc.mn&path=%2Fsub#%5B%F0%9F%87%BA%F0%9F%87%B8%5D%20%5Bvl-no-ws%5D%20%5B260729-233256.092%5D
 vless://564150f0-c0ad-46d1-8cf1-71e1900322e8@170.114.46.6:8080?&security=false&fp=chrome&type=ws&headerType=none&host=pphfree3.mvpnpvpn.de5.net&path=%2Fmvpnpph2026#%5B%F0%9F%87%B9%F0%9F%87%AD%5D%20%5Bvl-no-ws%5D%20%5B260729-233340.010%5D
 vless://63f96e98-f83f-48d0-9cd0-f31e8071f67f@64.188.77.22:2053?&security=false&fp=chrome&type=ws&headerType=none&path=%2Fapi#%5B%F0%9F%87%B3%F0%9F%87%B1%5D%20%5Bvl-no-ws%5D%20%5B260729-233424.517%5D
