@@ -1,4 +1,6 @@
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443?insecure=1&sni=vpn-fr-002.fastervpn.world#8%7CFrance
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443?insecure=1&sni=vpn-fr-002.fastervpn.world#France%20%F0%9F%87%AB%F0%9F%87%B7
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443?insecure=1&sni=vpn-fr-002.fastervpn.world#France%20%F0%9F%87%AB%F0%9F%87%B7%202
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443?security=tls&insecure=1&sni=vpn-fr-002.fastervpn.world#France
 ss://00a84cc6-073c-454b-9487-f0b7238e715f@83.243.86.45:443?security=reality&encryption=none&pbk=XSerkZgTPWKCzSgKTbfx3xgTp3asGddifSFtvp0bJyw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=download.amd.com&sid=89b8ef1537c69f72#REALITY|FR🇫🇷
 ss://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?mode=auto&path=%2F&security=none&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#France%200VH
@@ -96,6 +98,7 @@ ss://b320eba7-5380-4bd1-b5e6-32daab16066f@fr-d.duckray.co.uk:3443/?type=grpc&enc
 ss://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=%2Fvws%2F&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#FR🇫🇷
 ss://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=%2Fvws%2F&security=tls&encryption=none&insecure=1&host=bab-6.site&fp=chrome&type=ws&allowInsecure=1&sni=bab-6.site#FR🇫🇷
 ss://c7e9c591-2764-423a-afca-efbd010fd396@135.125.133.217:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#_%E6%B3%95%E5%9B%BD_232
+ss://c7e9c591-2764-423a-afca-efbd010fd396@135.125.191.89:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#_%E6%B3%95%E5%9B%BD_172
 ss://c7e9c591-2764-423a-afca-efbd010fd396@135.125.191.89:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#_%E6%B3%95%E5%9B%BD_245
 ss://c7e9c591-2764-423a-afca-efbd010fd396@135.125.234.148:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#_%E6%B3%95%E5%9B%BD_234
 ss://c7e9c591-2764-423a-afca-efbd010fd396@146.59.156.154:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#_%E6%B3%95%E5%9B%BD_182
@@ -127,6 +130,7 @@ ss://c7e9c591-2764-423a-afca-efbd010fd396@51.91.102.36:2053?&security=tls&fp=chr
 ss://c7e9c591-2764-423a-afca-efbd010fd396@51.91.102.36:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#_%E6%B3%95%E5%9B%BD_217
 ss://c7e9c591-2764-423a-afca-efbd010fd396@54.36.98.76:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#_%E6%B3%95%E5%9B%BD_174
 ss://c7e9c591-2764-423a-afca-efbd010fd396@54.36.98.76:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#_%E6%B3%95%E5%9B%BD_240
+ss://c7e9c591-2764-423a-afca-efbd010fd396@77.221.153.168:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#_%E6%B3%95%E5%9B%BD_272
 ss://c7e9c591-2764-423a-afca-efbd010fd396@77.221.153.168:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#_%E6%B3%95%E5%9B%BD_292
 ss://c9f0224c-c509-427e-b314-cef6cab20646@52.47.86.31:12453/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&security=reality&pbk=7Bp5RgrAqaiXOsiKaWnu6uliLDG8Eey2gA0coU9oay0&sid=52f510cea0a0a5ef#-%3EFR%2B%28%40DeamNet_Proxy%29%20%287%29
 ss://cc3e6e36-b329-435b-bb71-192fb5c718ae@check02.allenshop66244.ir:8443/?type=tcp&encryption=none&sni=play.google.com&fp=firefox&security=reality&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FRoubaix%F0%9F%85%BF%EF%B8%8Fping%3A94ms
@@ -327,6 +331,7 @@ vless://b320eba7-5380-4bd1-b5e6-32daab16066f@fr-d.duckray.co.uk:3443/?type=grpc&
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=%2Fvws%2F&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#FR🇫🇷
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=%2Fvws%2F&security=tls&encryption=none&insecure=1&host=bab-6.site&fp=chrome&type=ws&allowInsecure=1&sni=bab-6.site#FR🇫🇷
 vless://c7e9c591-2764-423a-afca-efbd010fd396@135.125.133.217:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#_%E6%B3%95%E5%9B%BD_232
+vless://c7e9c591-2764-423a-afca-efbd010fd396@135.125.191.89:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#_%E6%B3%95%E5%9B%BD_172
 vless://c7e9c591-2764-423a-afca-efbd010fd396@135.125.191.89:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#_%E6%B3%95%E5%9B%BD_245
 vless://c7e9c591-2764-423a-afca-efbd010fd396@135.125.234.148:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#_%E6%B3%95%E5%9B%BD_234
 vless://c7e9c591-2764-423a-afca-efbd010fd396@146.59.156.154:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#_%E6%B3%95%E5%9B%BD_182
@@ -358,6 +363,7 @@ vless://c7e9c591-2764-423a-afca-efbd010fd396@51.91.102.36:2053?&security=tls&fp=
 vless://c7e9c591-2764-423a-afca-efbd010fd396@51.91.102.36:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#_%E6%B3%95%E5%9B%BD_217
 vless://c7e9c591-2764-423a-afca-efbd010fd396@54.36.98.76:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#_%E6%B3%95%E5%9B%BD_174
 vless://c7e9c591-2764-423a-afca-efbd010fd396@54.36.98.76:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#_%E6%B3%95%E5%9B%BD_240
+vless://c7e9c591-2764-423a-afca-efbd010fd396@77.221.153.168:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#_%E6%B3%95%E5%9B%BD_272
 vless://c7e9c591-2764-423a-afca-efbd010fd396@77.221.153.168:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#_%E6%B3%95%E5%9B%BD_292
 vless://c9f0224c-c509-427e-b314-cef6cab20646@52.47.86.31:12453/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&security=reality&pbk=7Bp5RgrAqaiXOsiKaWnu6uliLDG8Eey2gA0coU9oay0&sid=52f510cea0a0a5ef#-%3EFR%2B%28%40DeamNet_Proxy%29%20%287%29
 vless://cc3e6e36-b329-435b-bb71-192fb5c718ae@check02.allenshop66244.ir:8443/?type=tcp&encryption=none&sni=play.google.com&fp=firefox&security=reality&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FRoubaix%F0%9F%85%BF%EF%B8%8Fping%3A94ms
