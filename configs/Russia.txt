@@ -2,7 +2,6 @@ ss://0108c657-a9bd-4c99-9179-74050cf78889@193.233.255.5:443?encryption=none&flow
 ss://0108c657-a9bd-4c99-9179-74050cf78889@193.233.255.5:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#REALITY|RU🇷🇺
 ss://0938079e-4a59-45cd-8a37-3471879b18d7@194.55.239.225:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=cs3rjd3sEWQgm3remEcWXqyxANbJAAWjEHfGNOU-KwE&security=reality&sid=fb7bcadf992e2411&sni=ads.x5.ru&spx=%2F&type=raw#REALITY|RU🇷🇺
 ss://0dd2d418-8616-455f-892c-f8c405e5f6bf@176.124.200.40:443?security=none&encryption=none&headerType=none&type=tcp#RU🇷🇺
-ss://0e192bd1-8f19-4184-9fff-6d67e4f738bd@77.105.163.46:443?security=tls&type=ws&path=/&host=ov186.ochmaybrooooo.online&packetEncoding=xudp&alpn=http/1.1&sni=ov186.ochmaybrooooo.online&fp=chrome#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 ss://152e80f4173b42668ab6a918ffcbaded@212.192.14.227:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=GooqN94J-NNbWxkVsDb7NIQW4xXhkMGByk58ihKwX1Q&sid=aabbccdd&fp=random#REALITY|RU🇷🇺
 ss://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.204:4100?encryption=none&path=%2Fv1&security=none&type=ws#RU🇷🇺
 ss://155e8dd4-a559-407a-9ea8-13a5e829f066@77.222.35.36:4100?encryption=none&security=none&type=ws&path=%2Fv1#RU🇷🇺
@@ -104,7 +103,6 @@ vless://0108c657-a9bd-4c99-9179-74050cf78889@193.233.255.5:443?encryption=none&f
 vless://0108c657-a9bd-4c99-9179-74050cf78889@193.233.255.5:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#REALITY|RU🇷🇺
 vless://0938079e-4a59-45cd-8a37-3471879b18d7@194.55.239.225:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=cs3rjd3sEWQgm3remEcWXqyxANbJAAWjEHfGNOU-KwE&security=reality&sid=fb7bcadf992e2411&sni=ads.x5.ru&spx=%2F&type=raw#REALITY|RU🇷🇺
 vless://0dd2d418-8616-455f-892c-f8c405e5f6bf@176.124.200.40:443?security=none&encryption=none&headerType=none&type=tcp#RU🇷🇺
-vless://0e192bd1-8f19-4184-9fff-6d67e4f738bd@77.105.163.46:443?security=tls&type=ws&path=/&host=ov186.ochmaybrooooo.online&packetEncoding=xudp&alpn=http/1.1&sni=ov186.ochmaybrooooo.online&fp=chrome#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 vless://152e80f4173b42668ab6a918ffcbaded@212.192.14.227:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=GooqN94J-NNbWxkVsDb7NIQW4xXhkMGByk58ihKwX1Q&sid=aabbccdd&fp=random#REALITY|RU🇷🇺
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.204:4100?encryption=none&path=%2Fv1&security=none&type=ws#RU🇷🇺
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@77.222.35.36:4100?encryption=none&security=none&type=ws&path=%2Fv1#RU🇷🇺
