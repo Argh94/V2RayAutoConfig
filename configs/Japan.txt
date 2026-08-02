@@ -1,4 +1,3 @@
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-jp-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-jp-002.fastervpn.world#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 ss://071a8a71c6564fb6a9084e42eb72243dOg==@45.76.202.45:4010#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+45.76.202.45-4010+%7C+113.32ms
 ss://15b84012-d261-4b4c-807a-061bb4a901fd@116.80.58.239:39975/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=cloudcircus.jp&fp=chrome&security=reality&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&sid=#-%3EJP%2B%28%40DeamNet_Proxy%29%20%287%29
 ss://1610f8dc06614032ac6aa7250603f608Og==@161.33.139.138:58905#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+161.33.139.138-58905+%7C+109.15ms
@@ -51,6 +50,7 @@ ss://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&al
 ss://eeb6823c-b926-4ea2-866a-5542edd26e59@108.160.132.178:443/?type=ws&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2Ffp%3Dchrome&security=tls&sni=t1s1.rittbo.kdns.fr#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AF%F0%9F%87%B5%C2%AE%EF%B8%8FJapan%C2%A9%EF%B8%8FShinagawa%F0%9F%85%BF%EF%B8%8Fping%3A274.24ms
 ss://eeb6823c-b926-4ea2-866a-5542edd26e59@158.101.131.94:2083/?type=ws&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AF%F0%9F%87%B5%C2%AE%EF%B8%8FJapan%C2%A9%EF%B8%8FInzai%20%28Otsuka%29%F0%9F%85%BF%EF%B8%8Fping%3A297.28ms
 ss://eeb6823c-b926-4ea2-866a-5542edd26e59@207.148.108.85:443/?type=ws&encryption=none&host=t1s1.rittbo.kdns.fr&path=****%2Ffp****%3Dchrome&security=tls&sni=t1s1.rittbo.kdns.fr#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AF%F0%9F%87%B5%C2%AE%EF%B8%8FJapan%C2%A9%EF%B8%8FShinagawa%F0%9F%85%BF%EF%B8%8Fping%3A259.97ms
+ss://ef6c9625-62de-4b9d-b7e2-0d4a9f67a9b2@210.152.85.154:19364?sni=sni.ehb.cc.cd&type=ws&host=sni.ehb.cc.cd&path=/proxyip=ProxyIP.CMLiussss.net?uuid=ef6c9625-62de-4b9d-b7e2-0d4a9f67a9b2fp=chrome&security=tls#%E6%97%A5%E6%9C%AC+IDC+Frontier%E8%A5%BF%E6%97%A5%E6%9C%AC%E8%BD%AF%E9%93%B6%28SoftBank%29%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 ss://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@45.151.152.28:443?&security=reality&flow=xtls-rprx-vision&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077&fp=qq&alpn=http%2F1.1&sni=asia.cendora.ru&type=tcp&headerType=none&host=asia.cendora.ru&path=%2F#JP%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9138
 ssr://bGl2ZS5iaWxpYmlsaWNsb3VkMDEuY29tOjU0MTEyOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpUWFkwWlRCUlNGZFFkMlJpUzJsRFJnPT0vP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkhyJTJGQ2ZoN1ZLVUMwek5TNDNPQzQyTmk0eU16UXROakE1T1ElM0QlM0QmcHJvdG9wYXJhbT0=
 ssr://bGl2ZS5iaWxpYmlsaWNsb3VkMDEuY29tOjU0MTEzOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpUWFkwWlRCUlNGZFFkMlJpUzJsRFJnPT0vP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkhyJTJGQ2ZoN1ZLVUMwMU5DNHlOVEF1TWpRM0xqSTBOUzAyTVRBMyZwcm90b3BhcmFtPQ==
@@ -97,9 +97,9 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kyiv.ua:2
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odesa.ua:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.125.55.109-3692
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.125.55.109-4083
 trojan://BxceQaOe@16.163.123.222:7630?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+trojan://BxceQaOe@16.163.123.222:7630?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://BxceQaOe@35.76.126.253:29443?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-35.76.126.253-0473
 trojan://BxceQaOe@35.76.126.253:29443?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-35.76.126.253-2316
-trojan://BxceQaOe@35.76.126.253:9408?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://BxceQaOe@35.76.126.253:9408?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-35.76.126.253-0474
 trojan://CF68213490@accurate-frog.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.237.30-5995
 trojan://CF68213490@adapting-giraffe.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-13.114.84.244-5984
@@ -163,15 +163,15 @@ trojan://c51d3975-a40c-4a5b-929b-c8595ed87850@15.168.28.231:443?security=tls&sni
 trojan://d050aca3-9df2-4461-90ec-92373c1d7636@v2jp.k1.ssnss.live:44184?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-18.179.203.229-0203
 trojan://d050aca3-9df2-4461-90ec-92373c1d7636@v2jp.k1.ssnss.live:44184?security=tls#JP🇯🇵
 trojan://d06a3f01-1ff0-4792-9b8e-a5a604bc74a2@168.138.43.89:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-168.138.43.89-3743
-trojan://d1960ba9f0f6353353994fa844cf817b@18.163.100.58:44229?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://d1960ba9f0f6353353994fa844cf817b@18.163.100.58:44229?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
 trojan://d1960ba9f0f6353353994fa844cf817b@18.166.178.12:14625?allowInsecure=1&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
-trojan://d1960ba9f0f6353353994fa844cf817b@18.166.178.12:44229?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
+trojan://d1960ba9f0f6353353994fa844cf817b@18.166.178.12:14625?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://d1960ba9f0f6353353994fa844cf817b@18.166.178.12:44229?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC8
 trojan://d1960ba9f0f6353353994fa844cf817b@18.181.205.36:38937?allowInsecure=1&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC%E4%B8%A8yoyapai.com%5Cr
 trojan://d1960ba9f0f6353353994fa844cf817b@18.181.205.36:38937?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC6
 trojan://d1960ba9f0f6353353994fa844cf817b@43.199.32.78:40138?allowInsecure=1&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC%E4%B8%A8yoyapai.com%5Cr
 trojan://d1960ba9f0f6353353994fa844cf817b@43.199.32.78:40138?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
+trojan://d1960ba9f0f6353353994fa844cf817b@57.183.7.187:54876?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://d1960ba9f0f6353353994fa844cf817b@57.183.7.187:54876?allowInsecure=1&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://da777aae-defb-41d0-a183-2c27da2b4677@150.230.96.103:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-150.230.96.103-4027
 trojan://f42e1a2e-e650-44f4-8d17-bcb68663da18@150.230.201.192:443?security=tls&sni=www.seetheworldjp.ga#%F0%9F%87%AF%F0%9F%87%B5JP-150.230.201.192-5509
@@ -187,6 +187,7 @@ vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@108.160.132.178:443/?type=ws&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2Ffp%3Dchrome&security=tls&sni=t1s1.rittbo.kdns.fr#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AF%F0%9F%87%B5%C2%AE%EF%B8%8FJapan%C2%A9%EF%B8%8FShinagawa%F0%9F%85%BF%EF%B8%8Fping%3A274.24ms
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@158.101.131.94:2083/?type=ws&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AF%F0%9F%87%B5%C2%AE%EF%B8%8FJapan%C2%A9%EF%B8%8FInzai%20%28Otsuka%29%F0%9F%85%BF%EF%B8%8Fping%3A297.28ms
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@207.148.108.85:443/?type=ws&encryption=none&host=t1s1.rittbo.kdns.fr&path=****%2Ffp****%3Dchrome&security=tls&sni=t1s1.rittbo.kdns.fr#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AF%F0%9F%87%B5%C2%AE%EF%B8%8FJapan%C2%A9%EF%B8%8FShinagawa%F0%9F%85%BF%EF%B8%8Fping%3A259.97ms
+vless://ef6c9625-62de-4b9d-b7e2-0d4a9f67a9b2@210.152.85.154:19364?sni=sni.ehb.cc.cd&type=ws&host=sni.ehb.cc.cd&path=/proxyip=ProxyIP.CMLiussss.net?uuid=ef6c9625-62de-4b9d-b7e2-0d4a9f67a9b2fp=chrome&security=tls#%E6%97%A5%E6%9C%AC+IDC+Frontier%E8%A5%BF%E6%97%A5%E6%9C%AC%E8%BD%AF%E9%93%B6%28SoftBank%29%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@45.151.152.28:443?&security=reality&flow=xtls-rprx-vision&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077&fp=qq&alpn=http%2F1.1&sni=asia.cendora.ru&type=tcp&headerType=none&host=asia.cendora.ru&path=%2F#JP%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9138
 vmess://ewogICAgImFkZCI6ICI0LjIxNi4xNzMuMTU5IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiZG93bmxvYWQud2luZG93c3VwZGF0ZS5jb20iLAogICAgImlkIjogImVmYjc0OGVjLWM5MjEtNDJhMS1hYzllLTFkNTQ4NWQ2YzQ0NyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MDgwLAogICAgInBzIjogIvCfh6/wn4e1SlAtNC4yMTYuMTczLjE1OS0wNzAzIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICI0My4xMjguMjI1LjIyMCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMDNmYThlNTQtNDFiZS00ZTNiLWI3MGMtNTBiMzc1MGI1ZmRjIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh6/wn4e1SlAtNDMuMTI4LjIyNS4yMjAtMzAxMyIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
