@@ -99,7 +99,7 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kyiv.ua:2
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odesa.ua:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.125.55.109-3799
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.125.55.109-4190
 trojan://BxceQaOe@16.162.191.180:49811?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-trojan://BxceQaOe@16.163.123.222:7630?sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
+trojan://BxceQaOe@16.162.191.180:49811?sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
 trojan://CF68213490@accurate-frog.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.237.30-6124
 trojan://CF68213490@adapting-giraffe.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-13.114.84.244-6113
 trojan://CF68213490@alert-redfish.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-13.230.239.7-6150
@@ -178,9 +178,10 @@ trojan://d050aca3-9df2-4461-90ec-92373c1d7636@v2jp.k1.ssnss.live:44184?security=
 trojan://d06a3f01-1ff0-4792-9b8e-a5a604bc74a2@168.138.43.89:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-168.138.43.89-3850
 trojan://d1960ba9f0f6353353994fa844cf817b@18.163.100.58:54876?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://d1960ba9f0f6353353994fa844cf817b@18.163.100.58:54876?allowInsecure=1&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
-trojan://d1960ba9f0f6353353994fa844cf817b@18.166.178.12:14625?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+trojan://d1960ba9f0f6353353994fa844cf817b@18.163.100.58:54876?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
 trojan://d1960ba9f0f6353353994fa844cf817b@18.166.178.12:3415?allowInsecure=1&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://d1960ba9f0f6353353994fa844cf817b@18.166.178.12:3415?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+trojan://d1960ba9f0f6353353994fa844cf817b@18.166.178.12:3415?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 trojan://d1960ba9f0f6353353994fa844cf817b@18.181.205.36:38937?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-18.181.205.36-2419
 trojan://d1960ba9f0f6353353994fa844cf817b@18.181.205.36:49277?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-18.181.205.36-2421
 trojan://d1960ba9f0f6353353994fa844cf817b@57.183.7.187:54876?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-57.183.7.187-0483
