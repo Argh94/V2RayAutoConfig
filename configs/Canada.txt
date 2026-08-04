@@ -1,3 +1,4 @@
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.183.85.24:443/?insecure=1&sni=vpn-ca-002.fastervpn.world#Canada%20%F0%9F%87%A8%F0%9F%87%A6
 ss://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.236:443/?type=ws&encryption=none&host=us-1.ariyuz.org&path=%2F&security=tls&sni=us-1.ariyuz.org&alpn=http%2F1.1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A44ms
 ss://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#CA🇨🇦
 ss://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@104.19.50.29:443/?type=ws&encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&fp=chrome#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A45ms
@@ -29,6 +30,7 @@ ss://7f68d00f-5538-43ae-a662-7f2500bda17e@worker-008.zen51669.site:8443/?type=ws
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.145:80?path=Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#CA🇨🇦
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#CA🇨🇦
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca29.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#CA🇨🇦
+ss://90235096-9296-3d36-c77c-715577598fd5@104.24.165.148:2087?encryption=none&security=tls&sni=2.r.y.a.j.7.c.z.d.z.8.f.f.r.us.art-us.kdns.fr&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=2.r.y.a.j.7.c.z.d.z.8.f.f.r.us.art-us.kdns.fr&path=%2Fglasspanel%2F0038ba35_0_1bdabe931208%2F#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:6.33ms
 ss://97ea73b6-2043-4238-903c-a1e3d4a43c96@104.18.1.1:2087?encryption=none&security=tls&sni=Amphetamine.aDaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=Amphetamine.aDaspoloandco.com&path=%2Fdownload.php#CA🇨🇦
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dU1xa0dJeDZJYTA=@138.197.174.245:56443#%F0%9F%87%A8%F0%9F%87%A6CA-138.197.174.245-2174
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.143:805#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.143-6633
@@ -299,6 +301,7 @@ vless://7f68d00f-5538-43ae-a662-7f2500bda17e@worker-008.zen51669.site:8443/?type
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.145:80?path=Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#CA🇨🇦
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#CA🇨🇦
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca29.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#CA🇨🇦
+vless://90235096-9296-3d36-c77c-715577598fd5@104.24.165.148:2087?encryption=none&security=tls&sni=2.r.y.a.j.7.c.z.d.z.8.f.f.r.us.art-us.kdns.fr&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=2.r.y.a.j.7.c.z.d.z.8.f.f.r.us.art-us.kdns.fr&path=%2Fglasspanel%2F0038ba35_0_1bdabe931208%2F#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:6.33ms
 vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@104.18.1.1:2087?encryption=none&security=tls&sni=Amphetamine.aDaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=Amphetamine.aDaspoloandco.com&path=%2Fdownload.php#CA🇨🇦
 vless://b08f7f87-fda7-4674-8e40-82fdcc09672a@digitalocean.com:2086/?type=httpupgrade&encryption=none&host=arshia.lezzatArshia.ir&path=%2F#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A100.17ms
 vless://b6b2c827-4ac1-4e2c-af28-dfa7edbfeb81@35.182.252.92:51072/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.sony.com&fp=firefox&security=reality&pbk=5KJ1tLErCUEfqxc3IsnY_49p_gWe0mPB8eXJ3MLucgU&sid=0675732ab101#-%3ECA%2B%28%40DeamNet_Proxy%29

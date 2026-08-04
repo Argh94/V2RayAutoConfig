@@ -90,6 +90,7 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odesa.ua:
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.125.55.109-3911
 trojan://BxceQaOe@18.166.225.67:9408?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://BxceQaOe@18.166.225.67:9408?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+trojan://BxceQaOe@18.166.225.67:9408?sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
 trojan://CF68213490@accurate-frog.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.237.30-5835
 trojan://CF68213490@adapting-giraffe.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-13.114.84.244-5852
 trojan://CF68213490@alert-redfish.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-13.230.239.7-5860
@@ -117,8 +118,12 @@ trojan://IQ68037294@fair-reptile.rooster465.autos:443?security=tls#%F0%9F%87%AF%
 trojan://IQ68037294@fun-salmon.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-18.181.169.46-5921
 trojan://IQ68037294@square-anchovy.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-35.77.87.76-5890
 trojan://IQ68037294@still-mastodon.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-3.112.249.219-5889
+trojan://ND91608427@definite-sturgeon.rooster465.autos:443?allowInsecure=0&sni=definite-sturgeon.rooster465.autos#JP-54.199.202.238-0294
 trojan://ND91608427@definite-sturgeon.rooster465.autos:443?security=tls&sni=definite-sturgeon.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.199.202.238-0294
+trojan://ND91608427@relaxing-bluebird.rooster465.autos:443?allowInsecure=0&sni=relaxing-bluebird.rooster465.autos#JP-43.207.89.29-2944
 trojan://ND91608427@relaxing-bluebird.rooster465.autos:443?security=tls&sni=relaxing-bluebird.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.89.29-2944
+trojan://ND91608427@upright-impala.rooster465.autos:443?allowInsecure=0&sni=upright-impala.rooster465.autos#JP-18.181.164.216-2943
+trojan://ND91608427@upright-impala.rooster465.autos:443?allowInsecure=1&sni=upright-impala.rooster465.autos#%E6%97%A5%E6%9C%AC%20-%20%E4%B8%9C%E4%BA%AC%20-%201
 trojan://ND91608427@upright-impala.rooster465.autos:443?security=tls&sni=upright-impala.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.181.164.216-2943
 trojan://NQ26071394@accurate-cat.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-52.68.215.226-5875
 trojan://NQ26071394@arriving-koala.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-52.194.193.181-5829
@@ -168,7 +173,7 @@ trojan://d1960ba9f0f6353353994fa844cf817b@18.163.100.58:44229?allowInsecure=1&sn
 trojan://d1960ba9f0f6353353994fa844cf817b@18.163.100.58:44229?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://d1960ba9f0f6353353994fa844cf817b@18.163.100.58:54876?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://d1960ba9f0f6353353994fa844cf817b@18.163.100.58:54876?allowInsecure=1&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
-trojan://d1960ba9f0f6353353994fa844cf817b@18.163.100.58:54876?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+trojan://d1960ba9f0f6353353994fa844cf817b@18.163.100.58:54876?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
 trojan://d1960ba9f0f6353353994fa844cf817b@57.183.7.187:54876?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-57.183.7.187-0270
 trojan://da777aae-defb-41d0-a183-2c27da2b4677@150.230.96.103:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-150.230.96.103-3855
 trojan://f42e1a2e-e650-44f4-8d17-bcb68663da18@150.230.201.192:443?security=tls&sni=www.seetheworldjp.ga#%F0%9F%87%AF%F0%9F%87%B5JP-150.230.201.192-5337
@@ -272,6 +277,9 @@ vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgNjlDRjBEIiwiYWRk
 vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgNzRBNzE5IiwiYWRkIjoiMTY4LjEzOC40My43NSIsInBvcnQiOiI4MCIsImlkIjoiMTFjMzYyN2YtMzFlOC00Njk1LWRmYmQtMzQwNzZlMmYxZjVkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInRscyI6IiIsInNuaSI6IjE2OC4xMzguNDMuNzUiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgQTlGNUU4IiwiYWRkIjoiMTQwLjgzLjUxLjE2MSIsInBvcnQiOiIyNTY4NiIsImlkIjoiNjczM2MzNTctYmExMS00ZTlmLWYwMGYtN2Q4N2YyNzc2ZmY5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInRscyI6IiIsInNuaSI6ImpwMDIuYTBhLnh5eiIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImluc2VjdXJlIjoiMCJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgRjczNzNFIiwiYWRkIjoiY2luZHk1MC5jZW9paWkuY29tIiwicG9ydCI6IjM2ODAxIiwidHlwZSI6Im5vbmUiLCJpZCI6ImE2YWI2NTEzLTZlYzMtMzI3Zi1hMDY4LWI4OWZlNzI5NTRiOCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJob3N0IjoiYWpheC5taWNyb3NvZnQuY29tIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+vmess://eyJ2IjoiMiIsInBzIjoiSlAtMTQwLjgzLjUxLjE2MS0wMzE2IiwiYWRkIjoiMTQwLjgzLjUxLjE2MSIsInBvcnQiOiIyNTY4NiIsInR5cGUiOiJub25lIiwiaWQiOiI2NzMzYzM1Ny1iYTExLTRlOWYtZjAwZi03ZDg3ZjI3NzZmZjkiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwiaG9zdCI6ImpwMDIuYTBhLnh5eiIsInRscyI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiSlAtMTY4LjEzOC40My43NS0wNDU1IiwiYWRkIjoiMTY4LjEzOC40My43NSIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwiaG9zdCI6ImpwMDEuYTBhLnh5eiIsInRscyI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiSlAtNDUuNzYuMjAyLjQ1LTU5OTgiLCJhZGQiOiI0NS43Ni4yMDIuNDUiLCJwb3J0IjoiNDAxMCIsInR5cGUiOiJub25lIiwiaWQiOiIwNzFhOGE3MS1jNjU2LTRmYjYtYTkwOC00ZTQyZWI3MjI0M2QiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpa3N1emNwIiwiaG9zdCI6IiIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1KUCIsImFkZCI6ImNpbmR5NTAuY2VvaWlpLmNvbSIsInBvcnQiOiIzNjgwMSIsInR5cGUiOiJub25lIiwiaWQiOiJhNmFiNjUxMy02ZWMzLTMyN2YtYTA2OC1iODlmZTcyOTU0YjgiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9obHNcL2NjdHY1cGhkLm0zdTgiLCJob3N0IjoiYWpheC5taWNyb3NvZnQuY29tIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 vmess://eyJhZGQiOiIxNDAuMjM1LjM3LjEyOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwZTI4ODczMC0yMjAwLTQ1NzgtOGU3MC1iYzJiNTYyYmVmN2YiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjMyMjAzIiwicHMiOiJKUCDwn4ev8J+HtSB8IEBSYXlkaWthbHggfCAwMkUzNTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwidmNuIjoiIn0=
 vmess://eyJhZGQiOiIxNDAuODMuNTEuMTYxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJqcDAyLmEwYS54eXoiLCJpZCI6IjY3MzNjMzU3LWJhMTEtNGU5Zi1mMDBmLTdkODdmMjc3NmZmOSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInBvcnQiOiIyNTY4NiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgRDU5QzdGIiwic2N5IjoiYXV0byIsInNuaSI6ImpwMDIuYTBhLnh5eiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
