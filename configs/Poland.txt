@@ -9,7 +9,6 @@ ss://1fef5248-fdd2-40d6-b3b9-6c33d4e74724@144.31.0.34:7443?security=reality&encr
 ss://416560bf-9ebb-4a43-96b6-e353e3d3572a@45.140.204.121:443/?type=raw&encryption=none&sni=yahoo.com&security=reality&pbk=MYU0vSA5rfofPjIwynqoPsr60F_swjCHCDX0yJPKwT0&sid=08bf0000#-%3EPL%2B%28%40DeamNet_Proxy%29%20%285%29
 ss://43fb54a1-33cf-4cbd-85c9-a7d72b7b4879@yashar.mexokj.ir:443?encryption=none&security=reality&type=tcp&sni=login.yahoo.com&fp=firefox&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=%2F#REALITY|PL🇵🇱
 ss://47ec2037-4d21-453b-9c10-0c827ce998a8@64.176.73.210:15667/?type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B5%F0%9F%87%B1%C2%AE%EF%B8%8FPoland%C2%A9%EF%B8%8FWarsaw%F0%9F%85%BF%EF%B8%8Fping%3A36ms
-ss://4f375fb4-3c95-425f-bc7b-8085487a6f3c@31.76.251.127.cdn-one.org:443?fp=chrome&host=31.76.251.127.cdn-one.org&path=%2F10336%2F2GCOqG7bvA&security=tls&sni=31.76.251.127.cdn-one.org&type=ws#PL%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9110
 ss://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@201.3.225.13:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=EyzTSZxq5qlUT2xW0l7VP-DzIh2ucabMan9ekEv9Owo&security=reality&sid=143627f1&sni=uwu.spectrumproxy.shop&type=tcp#REALITY|PL🇵🇱
 ss://7b81d175-d180-4ec8-bbc5-dfe80e8d3b68@144.31.0.100:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=vaultivo-hgooe.ru&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=5e3ab3ab228625&type=tcp&headerType=none#REALITY|PL🇵🇱
 ss://7b81d175-d180-4ec8-bbc5-dfe80e8d3b68@144.31.0.100:443?headerType=none&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sni=vaultivo-hgooe.ru&type=tcp&encryption=none&security=reality&sid=5e3ab3ab228625&flow=xtls-rprx-vision#REALITY|PL🇵🇱
@@ -90,14 +89,12 @@ trojan://IQ68037294@pl.levikogjgfdd.ir:443?security=tls&headerType=none&fp=chrom
 trojan://KV63147582@89.39.70.233:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=game-firefly.rooster465.autos#PL🇵🇱
 trojan://KV63147582@89.39.70.233:443?security=tls&sni=game-firefly.rooster465.autos&type=tcp&headerType=none#PL🇵🇱
 trojan://KV63147582@game-firefly.rooster465.autos:443?security=tls#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.19-6093
-trojan://ND91608427@discrete-basilisk.rooster465.autos:443?allowInsecure=0&sni=discrete-basilisk.rooster465.autos#PL%E6%B3%A2%E5%85%B0%20704.1KB%2Fs
-trojan://ND91608427@discrete-basilisk.rooster465.autos:443?allowInsecure=0&sni=discrete-basilisk.rooster465.autos#PL-202.78.163.148-0430
+trojan://ND91608427@discrete-basilisk.rooster465.autos:443?allowInsecure=0&sni=discrete-basilisk.rooster465.autos#PL-202.78.163.148-2366
 trojan://ND91608427@discrete-basilisk.rooster465.autos:443?allowInsecure=1&sni=discrete-basilisk.rooster465.autos#%E6%B3%A2%E5%85%B0%20-%20%E5%8D%8E%E6%B2%99%20-%201
-trojan://ND91608427@discrete-basilisk.rooster465.autos:443?allowInsecure=1&sni=discrete-basilisk.rooster465.autos#PL-202.78.163.148-35
-trojan://ND91608427@discrete-basilisk.rooster465.autos:443?allowInsecure=1&sni=discrete-basilisk.rooster465.autos#_PL_%E6%B3%A2%E5%85%B0_1
+trojan://ND91608427@discrete-basilisk.rooster465.autos:443?allowInsecure=1&sni=discrete-basilisk.rooster465.autos#🇵🇱[openproxylist.com]trojan-PL
 trojan://ND91608427@discrete-basilisk.rooster465.autos:443?security=tls&sni=discrete-basilisk.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.148-0430
-trojan://ND91608427@relaxed-gull.rooster465.autos:443?allowInsecure=0&sni=relaxed-gull.rooster465.autos#PL-202.78.163.248-3172
 trojan://ND91608427@relaxed-gull.rooster465.autos:443?allowInsecure=0&sni=relaxed-gull.rooster465.autos#_%E6%B3%A2%E5%85%B0_47
+trojan://ND91608427@relaxed-gull.rooster465.autos:443?allowInsecure=1&sni=relaxed-gull.rooster465.autos#🇵🇱[openproxylist.com]trojan-PL
 trojan://ND91608427@relaxed-gull.rooster465.autos:443?security=tls&sni=relaxed-gull.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.248-3172
 trojan://WF42809561@top-goshawk.rooster465.autos:443?security=tls#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.173-6007
 trojan://humanity@104.16.62.25:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#-%3EPL%2B%28%40DeamNet_Proxy%29%20%2816%29
@@ -121,7 +118,6 @@ vless://1fef5248-fdd2-40d6-b3b9-6c33d4e74724@144.31.0.34:7443?security=reality&e
 vless://416560bf-9ebb-4a43-96b6-e353e3d3572a@45.140.204.121:443/?type=raw&encryption=none&sni=yahoo.com&security=reality&pbk=MYU0vSA5rfofPjIwynqoPsr60F_swjCHCDX0yJPKwT0&sid=08bf0000#-%3EPL%2B%28%40DeamNet_Proxy%29%20%285%29
 vless://43fb54a1-33cf-4cbd-85c9-a7d72b7b4879@yashar.mexokj.ir:443?encryption=none&security=reality&type=tcp&sni=login.yahoo.com&fp=firefox&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=%2F#REALITY|PL🇵🇱
 vless://47ec2037-4d21-453b-9c10-0c827ce998a8@64.176.73.210:15667/?type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B5%F0%9F%87%B1%C2%AE%EF%B8%8FPoland%C2%A9%EF%B8%8FWarsaw%F0%9F%85%BF%EF%B8%8Fping%3A36ms
-vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@31.76.251.127.cdn-one.org:443?fp=chrome&host=31.76.251.127.cdn-one.org&path=%2F10336%2F2GCOqG7bvA&security=tls&sni=31.76.251.127.cdn-one.org&type=ws#PL%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9110
 vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@201.3.225.13:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=EyzTSZxq5qlUT2xW0l7VP-DzIh2ucabMan9ekEv9Owo&security=reality&sid=143627f1&sni=uwu.spectrumproxy.shop&type=tcp#REALITY|PL🇵🇱
 vless://7b81d175-d180-4ec8-bbc5-dfe80e8d3b68@144.31.0.100:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=vaultivo-hgooe.ru&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=5e3ab3ab228625&type=tcp&headerType=none#REALITY|PL🇵🇱
 vless://7b81d175-d180-4ec8-bbc5-dfe80e8d3b68@144.31.0.100:443?headerType=none&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sni=vaultivo-hgooe.ru&type=tcp&encryption=none&security=reality&sid=5e3ab3ab228625&flow=xtls-rprx-vision#REALITY|PL🇵🇱

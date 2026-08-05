@@ -8,6 +8,9 @@ hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga9.api3-max.ru:443/?sni=taga9.api3
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@167.104.219.217:443?insecure=0&sni=taga5.api3-max.ru#T%C3%BCrkiye%20%F0%9F%87%B9%F0%9F%87%B7
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga1.api3-max.ru:443?sni=taga1.api3-max.ru#%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga10.api3-max.ru:443?#%E5%9C%9F%E8%80%B3%E5%85%B6
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga2.api3-max.ru:443?insecure=0&sni=taga2.api3-max.ru#%E5%9C%9F%E8%80%B3%E5%85%B6%20%231
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga2.api3-max.ru:443?insecure=0&sni=taga2.api3-max.ru#%E5%9C%9F%E8%80%B3%E5%85%B6%20%231%202
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga2.api3-max.ru:443?insecure=0&sni=taga2.api3-max.ru#7%7C%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga2.api3-max.ru:443?sni=taga2.api3-max.ru#%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6%20%231
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga3.api3-max.ru:443?sni=taga3.api3-max.ru#%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6%20%232
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga4.api3-max.ru:443?sni=taga4.api3-max.ru#%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6%20%233
@@ -56,6 +59,7 @@ ss://e1bc0b88-6fa2-4dd7-a936-d5fff3ebfe6c@64.49.15.67:8080?encryption=none&flow=
 ss://e58fab770ea343218b0fe8a84c176c64@83.217.9.140:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=apple.com&pbk=H5Gvl2XvCOOCRokfx_P9AwLGioo15QWaqvJptvlkhDg&sid=aabbccdd&fp=random#REALITY|TR🇹🇷
 ss://f0e57ffd-7896-4f18-8346-c6564bfb8f20@tery.aliyostd.com:9443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=play.google.com&fp=qq&pbk=F2YMP337wdfSQlkq8kbeqs0e19HEhV9JdxYf4Om_sS8&sid=14ac481b178e6dd8&spx=%2F&allowinsecure=0&type=tcp&headerType=none#REALITY|TR🇹🇷
 ss://ffc13868-bc71-490e-84db-5722873cf0f5@46.31.76.3:80?mode=auto&path=%2Fpwpw&security=reality&encryption=none&pbk=oTX6mQJYxkmmdF7Rq_stAKX_hYoOMXGaWmoblFl2zgo&host=bleep.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5942e2#REALITY|TR🇹🇷
+trojan://MITIVPN@104.16.239.120:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fusa---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=Ussa1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.S88R.iR#V2ray_Alpha%F0%9F%9B%A4%EF%B8%8F%203vless://c46e2605-be24-4555-b7db-0fc6773ad004@45.137.43.147:30160?mode=auto&security=reality&encryption=none&pbk=vqr3sFlSCpzBjw61NnufMWLDfevzkuT24qo1SaEhp1k&type=xhttp&sni=yandex.tr#V2ray_Alpha%F0%9F%9B%A4%EF%B8%8F%204
 vless://1a49012e-1dc4-45b7-a97c-3404bc915a66@tr-ist-3.blook.network:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tr-ist-3.blook.network&fp=firefox&security=reality&pbk=W58BNG-2mtSvQYg7Id1yuW2-XqtLj0zoutETNsQuWkA&sid=45f9dc94#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B9%F0%9F%87%B7%C2%AE%EF%B8%8FTurkey%C2%A9%EF%B8%8FIstanbul%F0%9F%85%BF%EF%B8%8Fping%3A93.58ms
 vless://1f29762d-3f23-4207-9e39-f774de5d49ba@185.39.204.155:8443?type=grpc&serviceName=grpc#TR🇹🇷
 vless://35a6946a-2003-448f-9c1b-911efaa8c9a7@nl-bl-nl.karmatel.ir:20828?encryption=none&host=nl-bl-nl.karmatel.ir&path=%2F&security=none&type=ws#TR🇹🇷
