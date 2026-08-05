@@ -1,4 +1,3 @@
-hysteria2://6c077487-06af-4fb1-9e46-d485d98f0a31@45.88.43.116:52454?insecure=1&security=tls&sni=www.bing.com#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACDigital+VM
 ss://071a8a71c6564fb6a9084e42eb72243dOg==@45.76.202.45:4010#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+45.76.202.45-4010+%7C+156.89ms
 ss://11c3627f31e84695dfbd34076e2f1f5dOg==@168.138.43.75:80#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+168.138.43.75-80+%7C+162.72ms
 ss://15b84012-d261-4b4c-807a-061bb4a901fd@116.80.58.239:39975/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=cloudcircus.jp&fp=chrome&security=reality&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&sid=#-%3EJP%2B%28%40DeamNet_Proxy%29%20%287%29
@@ -69,9 +68,7 @@ trojan://40c89b10235c40321e7a3cef82b53a03@trs17.bolab.net:22?security=tls#%F0%9F
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#Japan%20NTT%20Pc
 trojan://4f7dc540-d244-4e64-af21-4b5bb300add3@132.226.5.246:443?security=tls&sni=www.tokyo2023.ga#%F0%9F%87%AF%F0%9F%87%B5JP-132.226.5.246-5512
 trojan://55354c2b8ee339571bd657a9bb9858cc@speed-01.aliyun-web-tracker.cn:39221?security=tls&sni=speed-01.aliyun-web-tracker.cn#%F0%9F%87%AF%F0%9F%87%B5JP-103.175.98.242-3175
-trojan://6990ca1bdccb0de3d9a0c5640634e29c@trs03.bolab.net:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-140.227.12.89-0062
 trojan://6990ca1bdccb0de3d9a0c5640634e29c@trs03.bolab.net:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-140.227.12.89-0212
-trojan://6990ca1bdccb0de3d9a0c5640634e29c@trs07.bolab.net:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-140.227.31.247-0056
 trojan://6990ca1bdccb0de3d9a0c5640634e29c@trs07.bolab.net:443?security=tls&sni=trs07.bolab.net#%F0%9F%87%AF%F0%9F%87%B5JP-140.227.31.247-0003
 trojan://6d64570c-81d4-30fa-b2e2-dce73e1a2702@138.2.45.89:44301?security=tls&sni=osav101.jd0001.top#%F0%9F%87%AF%F0%9F%87%B5JP-138.2.45.89-2863
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@141.147.191.85:28443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-141.147.191.85-4233
@@ -88,7 +85,6 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@49.212.221.47:2053?security=tls#%F
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp01a.roc-taiwan.net.ua:65011?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.242.146.108-3890
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp02a.roc-taiwan.net.ua:65012?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.242.205.220-3940
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp03a.roc-taiwan.net.ua:65013?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.242.134.182-4220
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp04a.roc-taiwan.net.ua:65014?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.127.8.129-0186
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp04a.roc-taiwan.net.ua:65014?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.127.8.129-4026
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp05a.roc-taiwan.org.ua:65015?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.125.42.51-3990
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp06a.roc-taiwan.org.ua:65016?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.120.4.221-4151
@@ -154,7 +150,6 @@ trojan://ND91608427@clear-snail.rooster465.autos:443?security=tls&sni=clear-snai
 trojan://ND91608427@definite-sturgeon.rooster465.autos:443?allowInsecure=0&sni=definite-sturgeon.rooster465.autos#JP-54.199.202.238-0147
 trojan://ND91608427@definite-sturgeon.rooster465.autos:443?allowInsecure=1&sni=definite-sturgeon.rooster465.autos#JP🇯🇵
 trojan://ND91608427@definite-sturgeon.rooster465.autos:443?security=tls&sni=definite-sturgeon.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.199.202.238-0147
-trojan://ND91608427@definite-sturgeon.rooster465.autos:443?security=tls&sni=definite-sturgeon.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.199.202.238-0152
 trojan://ND91608427@devoted-heron.rooster465.autos:443?allowInsecure=1&sni=devoted-heron.rooster465.autos#JP🇯🇵
 trojan://ND91608427@happy-mutt.rooster465.autos:443?allowInsecure=0&sni=happy-mutt.rooster465.autos#JP-52.194.230.221-6205
 trojan://ND91608427@happy-mutt.rooster465.autos:443?allowInsecure=1&sni=happy-mutt.rooster465.autos#JP🇯🇵
@@ -181,7 +176,6 @@ trojan://ND91608427@prompt-duckling.rooster465.autos:443?allowInsecure=1&sni=pro
 trojan://ND91608427@real-werewolf.rooster465.autos:443?allowInsecure=0&sni=real-werewolf.rooster465.autos#JP-13.230.118.96-6204
 trojan://ND91608427@real-werewolf.rooster465.autos:443?allowInsecure=1&sni=real-werewolf.rooster465.autos#JP🇯🇵
 trojan://ND91608427@real-werewolf.rooster465.autos:443?security=tls&sni=real-werewolf.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.230.118.96-6204
-trojan://ND91608427@relaxing-bluebird.rooster465.autos:443?security=tls&sni=relaxing-bluebird.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.89.29-0151
 trojan://ND91608427@right-seahorse.rooster465.autos:443?allowInsecure=1&sni=right-seahorse.rooster465.autos#JP🇯🇵
 trojan://ND91608427@sensible-mongrel.rooster465.autos:443?allowInsecure=0&sni=sensible-mongrel.rooster465.autos#JP-43.207.139.153-6238
 trojan://ND91608427@sensible-mongrel.rooster465.autos:443?allowInsecure=1&sni=sensible-mongrel.rooster465.autos#JP🇯🇵
@@ -206,7 +200,6 @@ trojan://ND91608427@upright-impala.rooster465.autos:443?allowInsecure=0&sni=upri
 trojan://ND91608427@upright-impala.rooster465.autos:443?allowInsecure=1&sni=upright-impala.rooster465.autos#%E6%97%A5%E6%9C%AC%20-%20%E4%B8%9C%E4%BA%AC%20-%201
 trojan://ND91608427@upright-impala.rooster465.autos:443?allowInsecure=1&sni=upright-impala.rooster465.autos#JP🇯🇵
 trojan://ND91608427@upright-impala.rooster465.autos:443?security=tls&sni=upright-impala.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.181.164.216-0150
-trojan://ND91608427@upright-impala.rooster465.autos:443?security=tls&sni=upright-impala.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.181.164.216-0154
 trojan://ND91608427@wise-bengal.rooster465.autos:443?allowInsecure=1&sni=wise-bengal.rooster465.autos#JP🇯🇵
 trojan://NQ26071394@accurate-cat.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-52.68.215.226-6090
 trojan://NQ26071394@arriving-koala.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-52.194.193.181-6044
