@@ -17,7 +17,7 @@ ss://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.140:2096?type=ws&encryption=
 ss://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.27:2096?type=ws&encryption=none&flow=&host=free-server.techsonic.dev&path=%2Ffree-server.techsonic.dev&security=tls&sni=free-server.techsonic.dev&fp=firefox#SG🇸🇬
 ss://7552bb29-f54e-4b4d-ac51-998611cf7462@ly.gaaaa015.top:55820/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.bilibili.com&fp=chrome&security=reality&pbk=P99AZTuu2iMX7IcuYa_FPwJJnzKzf5lJkTxEx3TSp1Q&sid=e62dd33f#🇸🇬新加坡
 ss://779d227c-f7be-4b9d-a4a9-1197c734b4e7@18.141.49.252:35308/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.tesla.com&fp=firefox&security=reality&pbk=4g1kpdmdbN6aNxeBYMj9WherunH9JSXsI_nKZTDiewE&sid=fef8dcb8cafe30#-%3ESG%2B%28%40DeamNet_Proxy%29%20%2838%29
-ss://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443?fp=chrome&host=d1yxsk0zprgivr.cloudfront.net&path=%2F&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&type=ws#SG%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%919
+ss://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443?fp=chrome&host=d1yxsk0zprgivr.cloudfront.net&path=%2F&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&type=ws#SG%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%916
 ss://7fc4d547-9abb-4ec3-a374-859d7e4d6a2d@38.180.249.80:443/?type=ws&encryption=none&flow=&host=fd687hery.cainiaohub.xyz&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb529&security=tls&sni=fd687hery.cainiaohub.xyz&allowInsecure=1&fp=chrome&packetEncoding=xudp#新加坡
 ss://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:12972?encryption=none&flow=xtls-rprx-vision&fp=&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#REALITY|SG🇸🇬
 ss://90235096-9296-3d36-c77c-715577598fd5@8.222.185.236:443?encryption=none&security=tls&sni=l.m.j.u.w.9.y.i.m.y.s.8.p.y.us.art-us.kdns.fr&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=l.m.j.u.w.9.y.i.m.y.s.8.p.y.us.art-us.kdns.fr&path=%2Fglasspanel%2F0038ba35_0_1bdabe931208%2F#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:164.55ms
@@ -88,16 +88,15 @@ trojan://0c6a3341e8d5ab17@103.172.116.196:3389?security=tls#%F0%9F%87%B8%F0%9F%8
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=15.235.197.4#%F0%9F%87%B8%F0%9F%87%ACSG-15.235.197.4-8959
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=getandroid.com#%F0%9F%87%B8%F0%9F%87%ACSG-15.235.197.4-8961
 trojan://38f169d6-d202-4b1b-8db8-e6eb1648f5cf@43.160.197.160:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-43.160.197.160-5997
-trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20034?security=tls&sni=hk.catxstar.com#SG%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%918
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
 trojan://6f0a9d0fa39d65fa@5.44.249.43:3389?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-5.44.249.43-6855
 trojan://71086710-33eb-11ed-adce-1239d0255272@sg1-trojan.bonds.id:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-103.253.24.212-6734
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@168.138.189.17:28443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-168.138.189.17-3758
 trojan://973ef350-f6a5-11ec-9274-1239d0255272@trojan2.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-128.199.185.211-6731
 trojan://BxceQaOe@16.162.22.218:9149/?type=tcp&security=tls&allowInsecure=1#🇸🇬SG
+trojan://BxceQaOe@43.198.209.68:41421?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://BxceQaOe@43.198.209.68:41421?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://BxceQaOe@43.198.209.68:41421?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://BxceQaOe@95.40.205.94:26704?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://BxceQaOe@95.40.205.94:26704?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬[openproxylist.com]trojan-SG
 trojan://CF68213490@adapting-basilisk.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.212.187.243-6087
 trojan://CF68213490@careful-penguin.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.143.100.233-6005
@@ -127,7 +126,6 @@ trojan://CF68213490@vast-werewolf.rooster465.autos:443?security=tls#%F0%9F%87%B8
 trojan://CF68213490@welcome-monitor.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-47.129.183.20-6126
 trojan://FLpONjB2Lb@139.162.45.139:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-139.162.45.139-4310
 trojan://ND91608427@tidy-gelding.rooster465.autos:443?allowInsecure=0&sni=tidy-gelding.rooster465.autos#SG-54.255.35.23-0201
-trojan://ND91608427@tidy-gelding.rooster465.autos:443?security=tls&sni=tidy-gelding.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-54.255.35.23-0194
 trojan://ND91608427@tidy-gelding.rooster465.autos:443?security=tls&sni=tidy-gelding.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-54.255.35.23-0201
 trojan://NQ26071394@amazing-troll.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.212.238.60-0237
 trojan://NQ26071394@bold-eagle.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-47.128.15.18-6173
@@ -170,7 +168,7 @@ vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.140:2096?type=ws&encrypti
 vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.27:2096?type=ws&encryption=none&flow=&host=free-server.techsonic.dev&path=%2Ffree-server.techsonic.dev&security=tls&sni=free-server.techsonic.dev&fp=firefox#SG🇸🇬
 vless://7552bb29-f54e-4b4d-ac51-998611cf7462@ly.gaaaa015.top:55820/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.bilibili.com&fp=chrome&security=reality&pbk=P99AZTuu2iMX7IcuYa_FPwJJnzKzf5lJkTxEx3TSp1Q&sid=e62dd33f#🇸🇬新加坡
 vless://779d227c-f7be-4b9d-a4a9-1197c734b4e7@18.141.49.252:35308/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.tesla.com&fp=firefox&security=reality&pbk=4g1kpdmdbN6aNxeBYMj9WherunH9JSXsI_nKZTDiewE&sid=fef8dcb8cafe30#-%3ESG%2B%28%40DeamNet_Proxy%29%20%2838%29
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443?fp=chrome&host=d1yxsk0zprgivr.cloudfront.net&path=%2F&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&type=ws#SG%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%919
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443?fp=chrome&host=d1yxsk0zprgivr.cloudfront.net&path=%2F&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&type=ws#SG%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%916
 vless://7fc4d547-9abb-4ec3-a374-859d7e4d6a2d@38.180.249.80:443/?type=ws&encryption=none&flow=&host=fd687hery.cainiaohub.xyz&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb529&security=tls&sni=fd687hery.cainiaohub.xyz&allowInsecure=1&fp=chrome&packetEncoding=xudp#新加坡
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:12972?encryption=none&flow=xtls-rprx-vision&fp=&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#REALITY|SG🇸🇬
 vless://90235096-9296-3d36-c77c-715577598fd5@8.222.185.236:443?encryption=none&security=tls&sni=l.m.j.u.w.9.y.i.m.y.s.8.p.y.us.art-us.kdns.fr&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=l.m.j.u.w.9.y.i.m.y.s.8.p.y.us.art-us.kdns.fr&path=%2Fglasspanel%2F0038ba35_0_1bdabe931208%2F#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:164.55ms
