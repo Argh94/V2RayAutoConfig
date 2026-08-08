@@ -4,7 +4,9 @@ ss://63ae5b68-f6f8-432e-b440-d975053cfbc2@www.true.th:80/?type=ws&encryption=non
 ss://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443/?type=ws&encryption=none&flow=&host=d1yxsk0zprgivr.cloudfront.net&path=/&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&fp=chrome#泰国
 ss://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.1.23:666/?type=ws&encryption=none&flow=&host=43.164.1.23&path=/proxy&security=tls&sni=43.164.1.23&allowInsecure=1&packetEncoding=xudp#泰国
 ss://9abf5e0c-e98a-44a3-bd0b-1a6dd065eb0f@157.85.96.11:8443/?type=tcp&encryption=none&flow=#🇹🇭泰国
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsaHVVTFJ3TzRzbE02azI2MnBBQzRjYnE1QTFINno4ZWFPSFYyN3ZpN1l3PQ==@47.81.56.202:44617#TH%F0%9F%87%B9%F0%9F%87%AD+%7C+47.81.56.202-44617+%7C+207.13ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN3poMmxNclhOSDUrOCs4cEt6bHhpQ1U5Tk4wMjJpaCt1QXl4ajVkNHFvPQ==@102.129.229.85:31700#TH%F0%9F%87%B9%F0%9F%87%AD+%7C+102.129.229.85-31700+%7C+242.58ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsaHVVTFJ3TzRzbE02azI2MnBBQzRjYnE1QTFINno4ZWFPSFYyN3ZpN1l3PQ==@47.81.56.202:44617#TH%F0%9F%87%B9%F0%9F%87%AD+%7C+47.81.56.202-44617+%7C+204.67ms
+ss://b93efa30-e2c5-401c-9ec7-22e30266cc60@157.85.102.28:1083?security=&encryption=none&headerType=none&type=tcp#TH🇹🇭
 ss://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80/?type=ws&encryption=none&flow=&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=/#泰国
 ss://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80/?type=ws&encryption=none&flow=&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=/&packetEncoding=xudp#🇹🇭TH
 ss://ff0c1cde-6f94-4bf1-9774-ab25c6b4977d@157.85.97.238:80/?type=ws&encryption=none&flow=&host=d7iwyzy9wpvuu.cloudfront.net&path=/knl8#泰国
@@ -15,6 +17,7 @@ vless://63ae5b68-f6f8-432e-b440-d975053cfbc2@www.true.th:80/?type=ws&encryption=
 vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443/?type=ws&encryption=none&flow=&host=d1yxsk0zprgivr.cloudfront.net&path=/&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&fp=chrome#泰国
 vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.1.23:666/?type=ws&encryption=none&flow=&host=43.164.1.23&path=/proxy&security=tls&sni=43.164.1.23&allowInsecure=1&packetEncoding=xudp#泰国
 vless://9abf5e0c-e98a-44a3-bd0b-1a6dd065eb0f@157.85.96.11:8443/?type=tcp&encryption=none&flow=#🇹🇭泰国
+vless://b93efa30-e2c5-401c-9ec7-22e30266cc60@157.85.102.28:1083?security=&encryption=none&headerType=none&type=tcp#TH🇹🇭
 vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80/?type=ws&encryption=none&flow=&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=/#泰国
 vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80/?type=ws&encryption=none&flow=&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=/&packetEncoding=xudp#🇹🇭TH
 vless://ff0c1cde-6f94-4bf1-9774-ab25c6b4977d@157.85.97.238:80/?type=ws&encryption=none&flow=&host=d7iwyzy9wpvuu.cloudfront.net&path=/knl8#泰国

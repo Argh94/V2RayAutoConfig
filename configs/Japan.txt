@@ -6,8 +6,7 @@ ss://15b84012-d261-4b4c-807a-061bb4a901fd@116.80.58.239:39975/?type=raw&encrypti
 ss://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477/?type=raw&encryption=none#JP-%3EJP%2B%28%40DeamNet_Proxy%29
 ss://2e4101cd-40b4-4d1a-8df6-cc949c136e5a@pro-jp.emrata.top:443/?type=tcp&encryption=none&flow=&sni=pro-jp.emrata.top&fp=chrome&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sid=#日本
 ss://36477315-2e11-4478-b85c-549133624eef@178.253.245.144:21562/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.nazhumi.com&fp=chrome&security=reality&pbk=saEF9IjGEOga3eZG962AMJRTM93cnsVVziketYU6s1M&sid=#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AF%F0%9F%87%B5%C2%AE%EF%B8%8FJapan%C2%A9%EF%B8%8FShibuya%20City%F0%9F%85%BF%EF%B8%8Fping%3A234ms
-ss://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.144:10000#JP🇯🇵
-ss://6733c357ba114e9ff00f7d87f2776ff9Og==@140.83.51.161:25686#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+140.83.51.161-25686+%7C+132.6ms
+ss://6733c357ba114e9ff00f7d87f2776ff9Og==@140.83.51.161:25686#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+140.83.51.161-25686+%7C+129.87ms
 ss://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?encryption=none&flow=xtls-rprx-vision&fp=&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#REALITY|JP🇯🇵
 ss://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.75.118.144:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#JP🇯🇵
 ss://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@151.242.165.136:59124?security=tls&type=ws&path=/danfeng&host=snippet.fgfw.indevs.in&alpn=http/1.1&sni=snippet.fgfw.indevs.in&fp=random#JP🇯🇵
@@ -20,13 +19,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@193.38.139.204:809#%F0%9F%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYczlPUlQ0ajY1YjhIcmVacmcwcA==@185.160.26.91:1664#%F0%9F%87%AF%F0%9F%87%B5JP-185.160.26.91-4009
 ss://YWVzLTEyOC1nY206ZWViNjgyM2MtYjkyNi00ZWEyLTg2NmEtNTU0MmVkZDI2ZTU5@47.245.62.4:8443#%F0%9F%87%AF%F0%9F%87%B5JP-47.245.62.4-3234
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.204-0154
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+149.22.87.204-443+%7C+121.68ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+149.22.87.204-443+%7C+119.21ms
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.240-0156
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+149.22.87.240-443+%7C+121.91ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+149.22.87.240-443+%7C+121.9ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+149.22.87.240-443+%7C+119.46ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+149.22.87.240-443+%7C+119.79ms
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.241-0155
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+149.22.87.241-443+%7C+118.9ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+149.22.87.241-443+%7C+127.68ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+149.22.87.241-443+%7C+118.72ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+149.22.87.241-443+%7C+118.83ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.231.162.164:443#%F0%9F%87%AF%F0%9F%87%B5JP-13.231.162.164-0196
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.231.227.228:443#%F0%9F%87%AF%F0%9F%87%B5JP-13.231.227.228-0173
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@175.41.205.247:443#%F0%9F%87%AF%F0%9F%87%B5JP-175.41.205.247-3021
@@ -154,6 +153,7 @@ trojan://ND91608427@adjusted-labrador.rooster465.autos:443?allowInsecure=1&sni=a
 trojan://ND91608427@adjusted-labrador.rooster465.autos:443?security=tls&sni=adjusted-labrador.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-3.112.15.214-0174
 trojan://ND91608427@becoming-hare.rooster465.autos:443?security=tls&sni=becoming-hare.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.182.4.232-0267
 trojan://ND91608427@better-molly.rooster465.autos:443?allowInsecure=0#JP-13.231.232.184-0157
+trojan://ND91608427@better-molly.rooster465.autos:443?allowInsecure=1&sni=better-molly.rooster465.autos#JP🇯🇵
 trojan://ND91608427@better-molly.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-13.231.232.184-0195
 trojan://ND91608427@casual-bee.rooster465.autos:443?allowInsecure=0&sni=casual-bee.rooster465.autos#JP-35.72.13.34-0133
 trojan://ND91608427@casual-bee.rooster465.autos:443?allowInsecure=1&sni=casual-bee.rooster465.autos#JP🇯🇵
@@ -199,7 +199,6 @@ trojan://ND91608427@relaxing-bluebird.rooster465.autos:443?allowInsecure=0&sni=r
 trojan://ND91608427@relaxing-bluebird.rooster465.autos:443?security=tls&sni=relaxing-bluebird.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.89.29-0172
 trojan://ND91608427@right-seahorse.rooster465.autos:443?allowInsecure=1&sni=right-seahorse.rooster465.autos#JP🇯🇵
 trojan://ND91608427@sensible-mongrel.rooster465.autos:443?allowInsecure=0&sni=sensible-mongrel.rooster465.autos#JP-43.207.139.153-0155
-trojan://ND91608427@sensible-mongrel.rooster465.autos:443?allowInsecure=1&sni=sensible-mongrel.rooster465.autos#JP🇯🇵
 trojan://ND91608427@sensible-mongrel.rooster465.autos:443?security=tls&sni=sensible-mongrel.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.139.153-0188
 trojan://ND91608427@smart-pup.rooster465.autos:443?allowInsecure=0&sni=smart-pup.rooster465.autos#JP-43.207.155.134-0142
 trojan://ND91608427@smart-pup.rooster465.autos:443?allowInsecure=1&sni=smart-pup.rooster465.autos#JP🇯🇵
@@ -211,6 +210,7 @@ trojan://ND91608427@stunning-mite.rooster465.autos:443?allowInsecure=0&sni=stunn
 trojan://ND91608427@stunning-mite.rooster465.autos:443?allowInsecure=1&sni=stunning-mite.rooster465.autos#JP🇯🇵
 trojan://ND91608427@stunning-mite.rooster465.autos:443?security=tls&sni=stunning-mite.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-3.112.238.99-0166
 trojan://ND91608427@sure-humpback.rooster465.autos:443?allowInsecure=0&sni=sure-humpback.rooster465.autos#JP-18.181.175.120-0158
+trojan://ND91608427@sure-humpback.rooster465.autos:443?allowInsecure=1&sni=sure-humpback.rooster465.autos#JP🇯🇵
 trojan://ND91608427@sure-humpback.rooster465.autos:443?security=tls&sni=sure-humpback.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.181.175.120-0187
 trojan://ND91608427@thankful-mustang.rooster465.autos:443?allowInsecure=0&sni=thankful-mustang.rooster465.autos#JP-52.196.121.8-0152
 trojan://ND91608427@thankful-mustang.rooster465.autos:443?allowInsecure=1&sni=thankful-mustang.rooster465.autos#JP🇯🇵
@@ -266,7 +266,6 @@ vless://15b84012-d261-4b4c-807a-061bb4a901fd@116.80.58.239:39975/?type=raw&encry
 vless://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477/?type=raw&encryption=none#JP-%3EJP%2B%28%40DeamNet_Proxy%29
 vless://2e4101cd-40b4-4d1a-8df6-cc949c136e5a@pro-jp.emrata.top:443/?type=tcp&encryption=none&flow=&sni=pro-jp.emrata.top&fp=chrome&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sid=#日本
 vless://36477315-2e11-4478-b85c-549133624eef@178.253.245.144:21562/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.nazhumi.com&fp=chrome&security=reality&pbk=saEF9IjGEOga3eZG962AMJRTM93cnsVVziketYU6s1M&sid=#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AF%F0%9F%87%B5%C2%AE%EF%B8%8FJapan%C2%A9%EF%B8%8FShibuya%20City%F0%9F%85%BF%EF%B8%8Fping%3A234ms
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.144:10000#JP🇯🇵
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?encryption=none&flow=xtls-rprx-vision&fp=&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#REALITY|JP🇯🇵
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.75.118.144:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#JP🇯🇵
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@151.242.165.136:59124?security=tls&type=ws&path=/danfeng&host=snippet.fgfw.indevs.in&alpn=http/1.1&sni=snippet.fgfw.indevs.in&fp=random#JP🇯🇵
@@ -373,10 +372,9 @@ vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgNjlDRjBEIiwiYWRk
 vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgNzRBNzE5IiwiYWRkIjoiMTY4LjEzOC40My43NSIsInBvcnQiOiI4MCIsImlkIjoiMTFjMzYyN2YtMzFlOC00Njk1LWRmYmQtMzQwNzZlMmYxZjVkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInRscyI6IiIsInNuaSI6IjE2OC4xMzguNDMuNzUiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgQTlGNUU4IiwiYWRkIjoiMTQwLjgzLjUxLjE2MSIsInBvcnQiOiIyNTY4NiIsImlkIjoiNjczM2MzNTctYmExMS00ZTlmLWYwMGYtN2Q4N2YyNzc2ZmY5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInRscyI6IiIsInNuaSI6ImpwMDIuYTBhLnh5eiIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImluc2VjdXJlIjoiMCJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgRjczNzNFIiwiYWRkIjoiY2luZHk1MC5jZW9paWkuY29tIiwicG9ydCI6IjM2ODAxIiwidHlwZSI6Im5vbmUiLCJpZCI6ImE2YWI2NTEzLTZlYzMtMzI3Zi1hMDY4LWI4OWZlNzI5NTRiOCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJob3N0IjoiYWpheC5taWNyb3NvZnQuY29tIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1KUCIsImFkZCI6ImNpbmR5NTAuY2VvaWlpLmNvbSIsInBvcnQiOiIzNjgwMSIsInR5cGUiOiJub25lIiwiaWQiOiJhNmFiNjUxMy02ZWMzLTMyN2YtYTA2OC1iODlmZTcyOTU0YjgiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9obHNcL2NjdHY1cGhkLm0zdTgiLCJob3N0IjoiYWpheC5taWNyb3NvZnQuY29tIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 vmess://eyJhZGQiOiIxMzAuMzMuODkuMjAxIiwiYWlkIjoiMCIsImhvc3QiOiJhamF4Lm1pY3Jvc29mdC5jb20iLCJpZCI6ImE2YWI2NTEzLTZlYzMtMzI3Zi1hMDY4LWI4OWZlNzI5NTRiOCIsIm5ldCI6IndzIiwicGF0aCI6Ii9obHMvY2N0djVwaGQubTN1OCIsInBvcnQiOiIzNjgwMSIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgMTg1ODk1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxMzAuMzMuODkuMjAxIiwiYWlkIjoiMCIsImhvc3QiOiJhamF4Lm1pY3Jvc29mdC5jb20iLCJpZCI6ImE2YWI2NTEzLTZlYzMtMzI3Zi1hMDY4LWI4OWZlNzI5NTRiOCIsIm5ldCI6IndzIiwicGF0aCI6IlwvaGxzXC9jY3R2NXBoZC5tM3U4IiwicG9ydCI6IjM2ODAxIiwicHMiOiJcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjVbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLUpQIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vmess://eyJhZGQiOiIxNDAuMjM1LjM3LjEyOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwZTI4ODczMC0yMjAwLTQ1NzgtOGU3MC1iYzJiNTYyYmVmN2YiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjMyMjAzIiwicHMiOiJKUCDwn4ev8J+HtSB8IEBSYXlkaWthbHggfCAwMkUzNTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwidmNuIjoiIn0=
 vmess://eyJhZGQiOiIxNjEuMzMuMTM5LjEzOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIxNjEwZjhkYy0wNjYxLTQwMzItYWM2YS1hNzI1MDYwM2Y2MDgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvMTYxMGY4ZGMtMDY2MS00MDMyLWFjNmEtYTcyNTA2MDNmNjA4LXZtIiwicG9ydCI6IjU4OTA1IiwicHMiOiJKUCDwn4ev8J+HtSB8IEBSYXlkaWthbHggfCA5MEFGNEYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxNjEuMzMuMTM5LjEzOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiMTYxLjMzLjEzOS4xMzgiLCJpZCI6IjE2MTBmOGRjLTA2NjEtNDAzMi1hYzZhLWE3MjUwNjAzZjYwOCIsIm5ldCI6IndzIiwicGF0aCI6Ii8xNjEwZjhkYy0wNjYxLTQwMzItYWM2YS1hNzI1MDYwM2Y2MDgtdm0iLCJwb3J0IjoiNTg5MDUiLCJwcyI6IkpQIPCfh6/wn4e1IHwgQFJheWRpa2FseCB8IENEM0EzOSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiYWlkIjowLCJob3N0IjoiMTY4LjEzOC40My43NSIsImlkIjoiMTFjMzYyN2YtMzFlOC00Njk1LWRmYmQtMzQwNzZlMmYxZjVkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwicG9ydCI6IjgwIiwicHMiOiJKUCDwn4ev8J+HtSB8IEBSYXlkaWthbHggfCBBOTQwRDYiLCJzbmkiOiIxNjguMTM4LjQzLjc1IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJjaW5keTUwLmNlb2lpaS5jb20iLCJhaWQiOjAsImhvc3QiOiJhamF4Lm1pY3Jvc29mdC5jb20iLCJpZCI6ImE2YWI2NTEzLTZlYzMtMzI3Zi1hMDY4LWI4OWZlNzI5NTRiOCIsIm5ldCI6IndzIiwicGF0aCI6IlwvaGxzXC9jY3R2NXBoZC5tM3U4IiwicG9ydCI6MzY4MDEsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1KUCIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIn0=
