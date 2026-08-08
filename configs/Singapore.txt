@@ -4,6 +4,7 @@ hysteria2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@sg3.xiaoliyu.cyou:4466?insecure
 ss://0c97c970-41be-47dd-80d6-06c9a5c9c458@47.236.106.241:40480?security=none&encryption=none&headerType=none&type=tcp#SG🇸🇬
 ss://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 ss://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@zero.csmaster.ggff.net:443?&security=tls&fp=chrome&type=ws&headerType=none&host=zero.csmaster.ggff.net&path=%2F#_%E6%96%B0%E5%8A%A0%E5%9D%A1_225
+ss://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@zero.csmaster.ggff.net:443?&security=tls&fp=chrome&type=ws&headerType=none&host=zero.csmaster.ggff.net&path=%2F#_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1
 ss://2864749a-b45d-52c3-0f36-e64224f5480f@128.199.142.119:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.maybank2u.com.sg&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%283%29
 ss://2864749a-b45d-52c3-0f36-e64224f5480f@152.42.246.121:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.booking.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%286%29
 ss://2864749a-b45d-52c3-0f36-e64224f5480f@157.230.254.149:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.ocbc.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%282%29
@@ -127,6 +128,7 @@ trojan://iyinglong@18.141.8.87:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.14
 vless://0c97c970-41be-47dd-80d6-06c9a5c9c458@47.236.106.241:40480?security=none&encryption=none&headerType=none&type=tcp#SG🇸🇬
 vless://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vless://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@zero.csmaster.ggff.net:443?&security=tls&fp=chrome&type=ws&headerType=none&host=zero.csmaster.ggff.net&path=%2F#_%E6%96%B0%E5%8A%A0%E5%9D%A1_225
+vless://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@zero.csmaster.ggff.net:443?&security=tls&fp=chrome&type=ws&headerType=none&host=zero.csmaster.ggff.net&path=%2F#_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1
 vless://2864749a-b45d-52c3-0f36-e64224f5480f@128.199.142.119:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.maybank2u.com.sg&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%283%29
 vless://2864749a-b45d-52c3-0f36-e64224f5480f@152.42.246.121:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.booking.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%286%29
 vless://2864749a-b45d-52c3-0f36-e64224f5480f@157.230.254.149:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.ocbc.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%282%29
