@@ -1,5 +1,6 @@
 hy2://042a1881-44e4-4781-bd40-bf75164faf4f@nl1.noesissite.ru:443/?sni=nl1.noesissite.ru#荷兰
 hy2://16ab4d4a-fd81-4535-9b7b-346677226ce8@lin.cryptoofarm.com:443/?sni=lin.cryptoofarm.com#荷兰
+hy2://16ab4d4a-fd81-4535-9b7b-346677226ce8@lin.cryptoofarm.com:443/?sni=lin.cryptoofarm.com#荷兰#🌐سرور
 hy2://99800091-8337-4112-8756-8cc60eb1ffa8@nl2.unlockvpn.online:10808/?sni=nl2.unlockvpn.online#荷兰
 hy2://99800091-8337-4112-8756-8cc60eb1ffa8@nl9.unlockvpn.online:10808/?sni=nl9.unlockvpn.online#荷兰
 hy2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.66:8443/?insecure=1&sni=grape-zet-turbo-nl.yyuyy.com#荷兰
@@ -242,7 +243,6 @@ ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@172.99.188.71:443#%F0%9F%87%B3%F0%9F%8
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@172.99.188.99:4444#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.99-3043
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@172.99.188.71:6379#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-7172
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@172.99.188.99:6379#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.99-3574
-ss://a21b9103-1693-49c1-8dc9-e8e8098ee969@188.164.248.69:443?encryption=none&fp=chrome&host=free-7f1.pages.dev&path=%2F&security=tls&sni=free-7f1.pages.dev&type=ws#%E8%8D%B7%E5%85%B0+V2CROSS.COM
 ss://a4037b4c-6a9d-528c-9efb-7d801cce8adb@91.84.117.29:443?encryption=none&fp=&mode=auto&path=%2F&pbk=PyV8IrAs0LkE2d_DdjvdCtpWG7MZyUKsYkb52GUmuDM&security=reality&sid=67&sni=vk.com&type=xhttp#REALITY|NL🇳🇱
 ss://a5ea9247-79f3-4655-aece-3fb51e1e669e@146.103.122.110:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=APXp2igsjxFmGkpb3L98I__FTySIY6saN6skP2y0ank&security=reality&sid=c6d439fd92614ab0&sni=19.07-3.yunus.guru&type=tcp#REALITY|NL🇳🇱
 ss://a5ea9247-79f3-4655-aece-3fb51e1e669e@19.07-3.yunus.guru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=APXp2igsjxFmGkpb3L98I__FTySIY6saN6skP2y0ank&security=reality&sid=c6d439fd92614ab0&sni=19.07-3.yunus.guru&type=tcp#REALITY|NL🇳🇱
@@ -396,7 +396,6 @@ vless://906be882-7f16-47c3-8702-59db2ada9688@2.26.82.237:443?mode=gun&security=r
 vless://9150748b-fa2b-4ef1-a7f1-7c4a76e2dc0b@64.188.62.138:40443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=U1ABwLTij71fW63nwMukZBezSQKADiBRuKCATiNUxUw&security=reality&sid=27bb&sni=deepl.com&type=tcp#REALITY|NL🇳🇱
 vless://9150748b-fa2b-4ef1-a7f1-7c4a76e2dc0b@64.188.62.138:40443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=deepl.com&pbk=U1ABwLTij71fW63nwMukZBezSQKADiBRuKCATiNUxUw&sid=27bb&allowinsecure=0&type=tcp&headerType=none#REALITY|NL🇳🇱
 vless://9150748b-fa2b-4ef1-a7f1-7c4a76e2dc0b@64.188.62.138:40443?security=reality&encryption=none&pbk=U1ABwLTij71fW63nwMukZBezSQKADiBRuKCATiNUxUw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=27bb#REALITY|NL🇳🇱
-vless://a21b9103-1693-49c1-8dc9-e8e8098ee969@188.164.248.69:443?encryption=none&fp=chrome&host=free-7f1.pages.dev&path=%2F&security=tls&sni=free-7f1.pages.dev&type=ws#%E8%8D%B7%E5%85%B0+V2CROSS.COM
 vless://a4037b4c-6a9d-528c-9efb-7d801cce8adb@91.84.117.29:443?encryption=none&fp=&mode=auto&path=%2F&pbk=PyV8IrAs0LkE2d_DdjvdCtpWG7MZyUKsYkb52GUmuDM&security=reality&sid=67&sni=vk.com&type=xhttp#REALITY|NL🇳🇱
 vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@146.103.122.110:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=APXp2igsjxFmGkpb3L98I__FTySIY6saN6skP2y0ank&security=reality&sid=c6d439fd92614ab0&sni=19.07-3.yunus.guru&type=tcp#REALITY|NL🇳🇱
 vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@19.07-3.yunus.guru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=APXp2igsjxFmGkpb3L98I__FTySIY6saN6skP2y0ank&security=reality&sid=c6d439fd92614ab0&sni=19.07-3.yunus.guru&type=tcp#REALITY|NL🇳🇱
