@@ -1,13 +1,10 @@
-ss://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.154.129:13868?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=YxGdcVKnOjKUtaG-E68lzI_rd9DI5RvsbLY0qyMFX2w&sid=e852dc&sni=wp.pl#%E7%88%B1%E5%B0%94%E5%85%B0+V2CROSS.COM
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@84.247.48.78:1080#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+84.247.48.78-1080+%7C+116.82ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRENTd0ppS20xZ1l0N0F1@20.223.136.145:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+20.223.136.145-443+%7C+100.66ms
 ss://YWVzLTI1Ni1nY206V0N1ejd5cmZaU0NRUVhTTnJ0R1B6MkhU@146.70.48.53:50168#%F0%9F%87%AE%F0%9F%87%AAIE-146.70.48.53-2403
-ss://c04bf2df-2b7f-44da-a893-3792d3910fd8@ai.tunnelpoint.space:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ai.tunnelpoint.space&fp=chrome&security=reality&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584#🇮🇪爱尔兰
 trojan://ND91608427@54.170.212.206:443?fp=chrome&sni=skilled-lioness.rooster465.autos#IE🇮🇪
 trojan://ND91608427@54.170.212.206:443?type=tcp&security=tls&headerType=none&sni=skilled-lioness.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0#IE🇮🇪
 trojan://ND91608427@skilled-lioness.rooster465.autos:443#IE🇮🇪
 trojan://ND91608427@skilled-lioness.rooster465.autos:443?allowInsecure=1&sni=skilled-lioness.rooster465.autos#IE🇮🇪
-trojan://ND91608427@skilled-lioness.rooster465.autos:443?security=tls&sni=skilled-lioness.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-54.170.212.206-0135
 trojan://ND91608427@skilled-lioness.rooster465.autos:443?security=tls&sni=skilled-lioness.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-54.170.212.206-0220
 trojan://ND91608427@skilled-lioness.rooster465.autos:443?sni=skilled-lioness.rooster465.autos&type=tcp&fp=chrome#IE🇮🇪
 trojan://ND91608427@willing-beagle.rooster465.autos:443?allowInsecure=1#IE🇮🇪
@@ -16,7 +13,6 @@ trojan://UO36402987@54.216.124.178:443?fp=chrome&sni=warm-bass.rooster465.autos#
 trojan://UO36402987@definite-ladybird.rooster465.autos:443#IE🇮🇪
 trojan://UO36402987@definite-ladybird.rooster465.autos:443?allowInsecure=0&sni=definite-ladybird.rooster465.autos#IE-34.251.228.118-0114
 trojan://UO36402987@definite-ladybird.rooster465.autos:443?security=tls&sni=definite-ladybird.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-34.251.228.118-0114
-trojan://UO36402987@definite-ladybird.rooster465.autos:443?security=tls&sni=definite-ladybird.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-34.251.228.118-0134
 trojan://UO36402987@warm-bass.rooster465.autos:443#IE🇮🇪
 trojan://telegram-id-directvpn@34.253.231.7:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-34.253.231.7-8330
 trojan://telegram-id-directvpn@34.253.231.7:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-34.253.231.7-8332
@@ -25,8 +21,6 @@ trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=trj.rollingn
 trojan://telegram-id-privatevpns@3.252.69.131:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-3.252.69.131-8347
 trojan://telegram-id-privatevpns@3.253.67.209:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-3.253.67.209-2934
 trojan://telegram-id-privatevpns@54.78.157.126:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-54.78.157.126-2959
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.154.129:13868?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=YxGdcVKnOjKUtaG-E68lzI_rd9DI5RvsbLY0qyMFX2w&sid=e852dc&sni=wp.pl#%E7%88%B1%E5%B0%94%E5%85%B0+V2CROSS.COM
-vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@ai.tunnelpoint.space:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ai.tunnelpoint.space&fp=chrome&security=reality&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584#🇮🇪爱尔兰
 vmess://ewogICAgImFkZCI6ICI0NS4xMzEuMjQ4LjE0MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNTU3ZTUzMmUtZGU0YS00YjNlLTlmYjItNWQzNTVjY2I1ZGE5IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDUwMDY4LAogICAgInBzIjogIvCfh67wn4eqSUUtNDUuMTMxLjI0OC4xNDAtODI4MiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICI0NS4xMzEuMjQ4LjE0MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNTU3ZTUzMmUtZGU0YS00YjNlLTlmYjItNWQzNTVjY2I1ZGE5IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDUwMDY4LAogICAgInBzIjogIvCfh67wn4eqSUUtNDUuMTMxLjI0OC4xNDAtODI4NCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICI0NS4xMzEuMjQ4LjIyOCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiYWMwMjczNjItYzk4OC00NjcwLWY3OGYtMDIxYjViZTZmNGUzIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDU5MTAyLAogICAgInBzIjogIvCfh67wn4eqSUUtNDUuMTMxLjI0OC4yMjgtODI3OSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
