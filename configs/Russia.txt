@@ -1,7 +1,5 @@
 hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga3.api3-max.ru:443/?sni=taga3.api3-max.ru#🇷🇺俄罗斯
-hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga4.api3-max.ru:443/?sni=taga4.api3-max.ru#🇷🇺俄罗斯
 hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa5.api3-max.ru:443/?sni=wopa5.api3-max.ru#🇷🇺俄罗斯
-hy2://71cada65-d23e-418c-88e4-a06188d14689@82.117.87.248:8443/?insecure=1&sni=de-two.quiet-rogue.site#🇷🇺俄罗斯
 hy2://71cada65-d23e-418c-88e4-a06188d14689@82.117.87.248:8443/?sni=de-two.quiet-rogue.site#🇷🇺俄罗斯
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&sni=127.0.0.1#%F0%9F%A7%8542%40oneclickvpnkeystrojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261/?type=tcp&security=tls&sni=speedtest.tinkoff.ru&allowInsecure=1&fp=chrome#%F0%9F%A7%8543%40oneclickvpnkeys
 hy2://gf1:gfhysteria2024@5.129.235.85:443/?insecure=1&sni=www.linux.com#俄罗斯
@@ -21,7 +19,6 @@ ss://1ee6dbe4-b7bd-47bd-b6e5-23deb076f95b@45.131.212.22:443?security=reality&enc
 ss://2001e98b-e06e-4244-910f-7ff640746eda@104.171.132.102:2200?encryption=none&security=none&type=ws&path=%2Fv1#RU🇷🇺
 ss://218fd696-e3a2-4c33-b397-a5f13a82969e@157.22.241.152:7443/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=icloud.com&fp=chrome&security=reality&pbk=P5eqN_q-Vq7M8YgrTIS_yZBgWLskGKQ9hAHhW__R6js&sid=89136b6e&packetEncoding=xudp#🇷🇺RU
 ss://218fd696-e3a2-4c33-b397-a5f13a82969e@193.233.74.57:7443?encryption=none&fp=&pbk=P5eqN_q-Vq7M8YgrTIS_yZBgWLskGKQ9hAHhW__R6js&security=reality&serviceName=grpc&sid=89136b6e&sni=www.telekom.de&type=grpc#REALITY|RU🇷🇺
-ss://26beb784-a664-4c3e-becf-0f0c12568b62@91.193.58.207:80?security=none&type=ws&path=/pyip=Telegram-WangCai2🇨🇳&host=twilight-poetry-2bfe.218-699.workers.dev&packetEncoding=xudp&encryption=none#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 ss://28d0edc6-93c9-4465-bac9-720274d8b8c4@status.netraidly.ru:40443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=WRveYv8IuUyvai4jgnQ6nWCL971-wKboe8evES5arlg&security=reality&sid=69d4&sni=deepl.com&type=tcp#REALITY|RU🇷🇺
 ss://28d0edc6-93c9-4465-bac9-720274d8b8c4@status.netraidly.ru:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=qq&pbk=WRveYv8IuUyvai4jgnQ6nWCL971-wKboe8evES5arlg&sid=69d4&type=tcp&headerType=none#REALITY|RU🇷🇺
 ss://28d0edc6-93c9-4465-bac9-720274d8b8c4@status.netraidly.ru:40443?security=reality&encryption=none&pbk=WRveYv8IuUyvai4jgnQ6nWCL971-wKboe8evES5arlg&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=69d4#REALITY|RU🇷🇺
@@ -129,7 +126,6 @@ vless://1ee6dbe4-b7bd-47bd-b6e5-23deb076f95b@45.131.212.22:443?security=reality&
 vless://2001e98b-e06e-4244-910f-7ff640746eda@104.171.132.102:2200?encryption=none&security=none&type=ws&path=%2Fv1#RU🇷🇺
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@157.22.241.152:7443/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=icloud.com&fp=chrome&security=reality&pbk=P5eqN_q-Vq7M8YgrTIS_yZBgWLskGKQ9hAHhW__R6js&sid=89136b6e&packetEncoding=xudp#🇷🇺RU
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@193.233.74.57:7443?encryption=none&fp=&pbk=P5eqN_q-Vq7M8YgrTIS_yZBgWLskGKQ9hAHhW__R6js&security=reality&serviceName=grpc&sid=89136b6e&sni=www.telekom.de&type=grpc#REALITY|RU🇷🇺
-vless://26beb784-a664-4c3e-becf-0f0c12568b62@91.193.58.207:80?security=none&type=ws&path=/pyip=Telegram-WangCai2🇨🇳&host=twilight-poetry-2bfe.218-699.workers.dev&packetEncoding=xudp&encryption=none#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 vless://28d0edc6-93c9-4465-bac9-720274d8b8c4@status.netraidly.ru:40443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=WRveYv8IuUyvai4jgnQ6nWCL971-wKboe8evES5arlg&security=reality&sid=69d4&sni=deepl.com&type=tcp#REALITY|RU🇷🇺
 vless://28d0edc6-93c9-4465-bac9-720274d8b8c4@status.netraidly.ru:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=qq&pbk=WRveYv8IuUyvai4jgnQ6nWCL971-wKboe8evES5arlg&sid=69d4&type=tcp&headerType=none#REALITY|RU🇷🇺
 vless://28d0edc6-93c9-4465-bac9-720274d8b8c4@status.netraidly.ru:40443?security=reality&encryption=none&pbk=WRveYv8IuUyvai4jgnQ6nWCL971-wKboe8evES5arlg&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=69d4#REALITY|RU🇷🇺
