@@ -94,11 +94,10 @@ ss://564082ff-cf3c-48db-9e10-8ad2312847b4@node17.mxvpn.dev:443/?type=tcp&encrypt
 ss://5c183e56-0f02-421e-a334-2fae45555395@nl1.app-sync-data.space:443?mode=gun&security=reality&encryption=none&pbk=S5IX1oiVizdxEHw3A4bjP6_HOxFRIfroYOtq504wyiA&fp=qq&type=grpc&serviceName=auragrpc&sni=cloudflare.com&sid=9d3f7b2a5c0e8461#REALITY|NL🇳🇱
 ss://5dc56757-458e-4df2-9e71-2a14ce47e8af@31.56.185.19:443?encryption=none&fp=firefox&security=tls&sni=nl1-akn.astralweb.tech&type=tcp#NL🇳🇱
 ss://5dc56757-458e-4df2-9e71-2a14ce47e8af@84.32.101.222:443?&security=tls&fp=chrome&sni=ddc-chr.astralweb.tech&type=tcp&headerType=none&path=%2F#NL%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa9a.xyz%E3%80%9130
-ss://5dc56757-458e-4df2-9e71-2a14ce47e8af@84.32.101.222:443?&security=tls&fp=firefox&sni=ddc-chr.astralweb.tech&type=tcp&headerType=none&path=%2F#NL%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9122
+ss://5dc56757-458e-4df2-9e71-2a14ce47e8af@84.32.101.222:443?encryption=none&fp=chrome&security=tls&sni=ddc-chr.astralweb.tech&type=tcp#NL%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%917
 ss://5dc56757-458e-4df2-9e71-2a14ce47e8af@ddc-chr.astralweb.tech:443/?type=tcp&encryption=none&flow=&security=tls&sni=ddc-chr.astralweb.tech&allowInsecure=1&fp=chrome&packetEncoding=xudp#荷兰
 ss://5dc56757-458e-4df2-9e71-2a14ce47e8af@ddc-chr.astralweb.tech:443?&security=tls&fp=chrome&type=tcp&headerType=none&host=ddc-chr.astralweb.tech&path=%2F#_NL_%E8%8D%B7%E5%85%B0
-ss://5dc56757-458e-4df2-9e71-2a14ce47e8af@ddc-chr.astralweb.tech:443?security=tls&type=tcp&packetEncoding=xudp&sni=ddc-chr.astralweb.tech&fp=chrome#NL%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%919
-ss://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Netherlands%20Clodo%20Cloud
+ss://5dc56757-458e-4df2-9e71-2a14ce47e8af@ddc-chr.astralweb.tech:443?encryption=none&security=tls#NL%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9111
 ss://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&encryption=none&headerType=none&type=tcp#Netherlands%20Clodo%20Cloud
 ss://631ee34f-4faf-4ad7-b49d-e6f50403cf0e@89.105.197.203:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&security=reality&sid=64c1fe36c7846400&sni=anyfile2file.com&type=tcp#REALITY|NL🇳🇱
 ss://631ee34f-4faf-4ad7-b49d-e6f50403cf0e@89.105.197.203:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#REALITY|NL🇳🇱
@@ -112,7 +111,7 @@ ss://69a74770-7152-4a27-bef0-2615ca16e1b1@nl4.levikogjgfdd.ir:40443?security=rea
 ss://6f8923d9-f812-4ca6-b93a-8f9227bf2eab@195.93.253.49:33094?security=reality&encryption=none&pbk=35JazACyPS6LcDwpGibneEeMzkzGYWf4KTG_Oqp0oBE&headerType=none&type=tcp&sni=yahoo.com&sid=29489194da0d5d#%F0%9F%87%B3%F0%9F%87%B1%20Ultra%20NL
 ss://7596b721-f311-4194-96e6-b7b407cd6083@89.23.103.121:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.debian.org&fp=chrome&security=reality&pbk=qY222OdlPFi9DvfoHZNgp0UHLubudtKLLF_KMuDy-Ho&sid=9795f83547c168d3#荷兰
 ss://7596b721-f311-4194-96e6-b7b407cd6083@89.23.103.121:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.debian.org&fp=chrome&security=reality&pbk=qY222OdlPFi9DvfoHZNgp0UHLubudtKLLF_KMuDy-Ho&sid=9795f83547c168d3&packetEncoding=xudp#荷兰
-ss://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.239.83.52:443?fp=chrome&path=%2F&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&type=ws#NL%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9136
+ss://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.239.83.52:443?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=d1yxsk0zprgivr.cloudfront.net#NL%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%918
 ss://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?encryption=none&security=none&type=grpc&mode=gun&authority=&serviceName=grpc#NL🇳🇱
 ss://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM%40TOOTFFARANGI_TOOTFFARANGI_TOOTFFARANGI&type=grpc&serviceName=grpc#NL🇳🇱
 ss://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#NL🇳🇱
@@ -387,11 +386,10 @@ vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node17.mxvpn.dev:443?encryption=non
 vless://5c183e56-0f02-421e-a334-2fae45555395@nl1.app-sync-data.space:443?mode=gun&security=reality&encryption=none&pbk=S5IX1oiVizdxEHw3A4bjP6_HOxFRIfroYOtq504wyiA&fp=qq&type=grpc&serviceName=auragrpc&sni=cloudflare.com&sid=9d3f7b2a5c0e8461#REALITY|NL🇳🇱
 vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@31.56.185.19:443?encryption=none&fp=firefox&security=tls&sni=nl1-akn.astralweb.tech&type=tcp#NL🇳🇱
 vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@84.32.101.222:443?&security=tls&fp=chrome&sni=ddc-chr.astralweb.tech&type=tcp&headerType=none&path=%2F#NL%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa9a.xyz%E3%80%9130
-vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@84.32.101.222:443?&security=tls&fp=firefox&sni=ddc-chr.astralweb.tech&type=tcp&headerType=none&path=%2F#NL%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9122
+vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@84.32.101.222:443?encryption=none&fp=chrome&security=tls&sni=ddc-chr.astralweb.tech&type=tcp#NL%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%917
 vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@ddc-chr.astralweb.tech:443/?type=tcp&encryption=none&flow=&security=tls&sni=ddc-chr.astralweb.tech&allowInsecure=1&fp=chrome&packetEncoding=xudp#荷兰
 vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@ddc-chr.astralweb.tech:443?&security=tls&fp=chrome&type=tcp&headerType=none&host=ddc-chr.astralweb.tech&path=%2F#_NL_%E8%8D%B7%E5%85%B0
-vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@ddc-chr.astralweb.tech:443?security=tls&type=tcp&packetEncoding=xudp&sni=ddc-chr.astralweb.tech&fp=chrome#NL%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%919
-vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Netherlands%20Clodo%20Cloud
+vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@ddc-chr.astralweb.tech:443?encryption=none&security=tls#NL%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9111
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&encryption=none&headerType=none&type=tcp#Netherlands%20Clodo%20Cloud
 vless://631ee34f-4faf-4ad7-b49d-e6f50403cf0e@89.105.197.203:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&security=reality&sid=64c1fe36c7846400&sni=anyfile2file.com&type=tcp#REALITY|NL🇳🇱
 vless://631ee34f-4faf-4ad7-b49d-e6f50403cf0e@89.105.197.203:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#REALITY|NL🇳🇱
@@ -405,7 +403,7 @@ vless://69a74770-7152-4a27-bef0-2615ca16e1b1@nl4.levikogjgfdd.ir:40443?security=
 vless://6f8923d9-f812-4ca6-b93a-8f9227bf2eab@195.93.253.49:33094?security=reality&encryption=none&pbk=35JazACyPS6LcDwpGibneEeMzkzGYWf4KTG_Oqp0oBE&headerType=none&type=tcp&sni=yahoo.com&sid=29489194da0d5d#%F0%9F%87%B3%F0%9F%87%B1%20Ultra%20NL
 vless://7596b721-f311-4194-96e6-b7b407cd6083@89.23.103.121:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.debian.org&fp=chrome&security=reality&pbk=qY222OdlPFi9DvfoHZNgp0UHLubudtKLLF_KMuDy-Ho&sid=9795f83547c168d3#荷兰
 vless://7596b721-f311-4194-96e6-b7b407cd6083@89.23.103.121:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.debian.org&fp=chrome&security=reality&pbk=qY222OdlPFi9DvfoHZNgp0UHLubudtKLLF_KMuDy-Ho&sid=9795f83547c168d3&packetEncoding=xudp#荷兰
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.239.83.52:443?fp=chrome&path=%2F&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&type=ws#NL%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9136
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.239.83.52:443?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=d1yxsk0zprgivr.cloudfront.net#NL%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%918
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?encryption=none&security=none&type=grpc&mode=gun&authority=&serviceName=grpc#NL🇳🇱
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM%40TOOTFFARANGI_TOOTFFARANGI_TOOTFFARANGI&type=grpc&serviceName=grpc#NL🇳🇱
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#NL🇳🇱

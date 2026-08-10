@@ -14,7 +14,7 @@ ss://2864749a-b45d-52c3-0f36-e64224f5480f@174.138.21.249:443/?type=raw&encryptio
 ss://2864749a-b45d-52c3-0f36-e64224f5480f@188.166.176.63:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.alibaba.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%289%29
 ss://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#SG🇸🇬
 ss://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&security=reality&sid=d1742269&sni=www.cloudflare.com&type=tcp#REALITY|SG🇸🇬
-ss://63ae5b68-f6f8-432e-b440-d975053cfbc2@www.true.th:80?host=d16l6nb4do0zu4.cloudfront.net&path=%2Fthan&type=ws#SG%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9131
+ss://63ae5b68-f6f8-432e-b440-d975053cfbc2@www.true.th:80?host=d16l6nb4do0zu4.cloudfront.net&path=%2Fthan&type=ws#SG%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9120
 ss://6aa028bc-08a9-41d1-a397-d60ce65df081@support.zoom.us:80?security=none&type=ws&path=/shalana&host=shalana.xyz&encryption=none#🇸🇬[openproxylist.com]vless-SG
 ss://7651FEC2-07B1-4904-8985-8EAAA1B781F3@13.250.26.252:10038/?type=grpc&encryption=none&flow=&serviceName=update&sni=d1.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#🇸🇬SG
 ss://7651FEC2-07B1-4904-8985-8EAAA1B781F3@sg1-r.link-t7.com:10036/?type=grpc&encryption=none&flow=&serviceName=update&sni=s0.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#🇸🇬SG
@@ -112,7 +112,6 @@ trojan://ND91608427@54.255.35.23:443?fp=chrome&sni=tidy-gelding.rooster465.autos
 trojan://ND91608427@tidy-gelding.rooster465.autos:443?security=tls&sni=tidy-gelding.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-54.255.35.23-0280
 trojan://NQ26071394@elegant-marten.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-47.131.229.80-6103
 trojan://affae2e0-e84b-11ec-b09f-1239d0255272@trojan1.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.51.247-6628
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com#SG%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9114
 trojan://cd39f62aed7b90f6@5.44.249.43:3389?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-5.44.249.43-6752
 trojan://d30ab83dbde4480082048fb315bedebd@5.180.78.22:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-5.180.78.22-6150
 trojan://fNeTGTI4KN@172.237.90.117:35287?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.237.90.117-5888
@@ -131,7 +130,7 @@ vless://2864749a-b45d-52c3-0f36-e64224f5480f@174.138.21.249:443/?type=raw&encryp
 vless://2864749a-b45d-52c3-0f36-e64224f5480f@188.166.176.63:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.alibaba.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%289%29
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#SG🇸🇬
 vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&security=reality&sid=d1742269&sni=www.cloudflare.com&type=tcp#REALITY|SG🇸🇬
-vless://63ae5b68-f6f8-432e-b440-d975053cfbc2@www.true.th:80?host=d16l6nb4do0zu4.cloudfront.net&path=%2Fthan&type=ws#SG%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9131
+vless://63ae5b68-f6f8-432e-b440-d975053cfbc2@www.true.th:80?host=d16l6nb4do0zu4.cloudfront.net&path=%2Fthan&type=ws#SG%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9120
 vless://6aa028bc-08a9-41d1-a397-d60ce65df081@support.zoom.us:80?security=none&type=ws&path=/shalana&host=shalana.xyz&encryption=none#🇸🇬[openproxylist.com]vless-SG
 vless://7651FEC2-07B1-4904-8985-8EAAA1B781F3@13.250.26.252:10038/?type=grpc&encryption=none&flow=&serviceName=update&sni=d1.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#🇸🇬SG
 vless://7651FEC2-07B1-4904-8985-8EAAA1B781F3@sg1-r.link-t7.com:10036/?type=grpc&encryption=none&flow=&serviceName=update&sni=s0.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#🇸🇬SG
