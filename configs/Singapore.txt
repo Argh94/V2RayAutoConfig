@@ -2,6 +2,7 @@ hy2://9d3356a0-c07e-43cc-b30e-450bd50521b8@xjp1.mangshe.xyz:2055/?insecure=1&sni
 hy2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@sg3.xiaoliyu.cyou:4466/?insecure=1&sni=sg3.xiaoliyu.cyou#新加坡
 hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@xjp1.mangshe.xyz:2055?insecure=1&sni=xjp1.mangshe.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A1
 hysteria2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@sg3.xiaoliyu.cyou:4466?insecure=1&sni=sg3.xiaoliyu.cyou#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%231
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.220.11:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#Singapore%20%F0%9F%87%B8%F0%9F%87%AC
 ss://0c97c970-41be-47dd-80d6-06c9a5c9c458@47.236.106.241:40480?security=none&encryption=none&headerType=none&type=tcp#SG🇸🇬
 ss://0c97c970-41be-47dd-80d6-06c9a5c9c458@47.236.106.241:40480?security=none&encryption=none&headerType=none&type=tcp#🇸🇬[openproxylist.com]vless-SG
 ss://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
@@ -14,13 +15,12 @@ ss://2864749a-b45d-52c3-0f36-e64224f5480f@174.138.21.249:443/?type=raw&encryptio
 ss://2864749a-b45d-52c3-0f36-e64224f5480f@188.166.176.63:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.alibaba.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%289%29
 ss://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#SG🇸🇬
 ss://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&security=reality&sid=d1742269&sni=www.cloudflare.com&type=tcp#REALITY|SG🇸🇬
-ss://63ae5b68-f6f8-432e-b440-d975053cfbc2@www.true.th:80?host=d16l6nb4do0zu4.cloudfront.net&path=%2Fthan&type=ws#SG%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9131
+ss://63ae5b68-f6f8-432e-b440-d975053cfbc2@www.true.th:80?host=d16l6nb4do0zu4.cloudfront.net&path=%2Fthan&type=ws#SG%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9120
 ss://6aa028bc-08a9-41d1-a397-d60ce65df081@support.zoom.us:80?security=none&type=ws&path=/shalana&host=shalana.xyz&encryption=none#🇸🇬[openproxylist.com]vless-SG
 ss://7651FEC2-07B1-4904-8985-8EAAA1B781F3@13.250.26.252:10038/?type=grpc&encryption=none&flow=&serviceName=update&sni=d1.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#🇸🇬SG
 ss://7651FEC2-07B1-4904-8985-8EAAA1B781F3@sg1-r.link-t7.com:10036/?type=grpc&encryption=none&flow=&serviceName=update&sni=s0.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#🇸🇬SG
 ss://779d227c-f7be-4b9d-a4a9-1197c734b4e7@18.141.49.252:35308/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.tesla.com&fp=firefox&security=reality&pbk=4g1kpdmdbN6aNxeBYMj9WherunH9JSXsI_nKZTDiewE&sid=fef8dcb8cafe30#-%3ESG%2B%28%40DeamNet_Proxy%29%20%2838%29
 ss://7fc4d547-9abb-4ec3-a374-859d7e4d6a2d@38.180.249.80:443/?type=ws&encryption=none&flow=&host=fd687hery.cainiaohub.xyz&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb529&security=tls&sni=fd687hery.cainiaohub.xyz&allowInsecure=1&fp=chrome&packetEncoding=xudp#新加坡
-ss://90235096-9296-3d36-c77c-715577598fd5@8.222.185.236:443?encryption=none&security=tls&sni=l.m.j.u.w.9.y.i.m.y.s.8.p.y.us.art-us.kdns.fr&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=l.m.j.u.w.9.y.i.m.y.s.8.p.y.us.art-us.kdns.fr&path=%2Fglasspanel%2F0038ba35_0_1bdabe931208%2F#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:164.55ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0SHViMmY5SnloRUN5QXEyT3BtME5T@51.79.161.232:443#%F0%9F%87%B8%F0%9F%87%ACSG-51.79.161.232-8265
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.160.117:801#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.160.117-0005
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.160.117:810#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.160.117-0008
@@ -112,7 +112,6 @@ trojan://ND91608427@54.255.35.23:443?fp=chrome&sni=tidy-gelding.rooster465.autos
 trojan://ND91608427@tidy-gelding.rooster465.autos:443?security=tls&sni=tidy-gelding.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-54.255.35.23-0280
 trojan://NQ26071394@elegant-marten.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-47.131.229.80-6103
 trojan://affae2e0-e84b-11ec-b09f-1239d0255272@trojan1.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.51.247-6628
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com#SG%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9114
 trojan://cd39f62aed7b90f6@5.44.249.43:3389?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-5.44.249.43-6752
 trojan://d30ab83dbde4480082048fb315bedebd@5.180.78.22:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-5.180.78.22-6150
 trojan://fNeTGTI4KN@172.237.90.117:35287?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.237.90.117-5888
@@ -131,13 +130,12 @@ vless://2864749a-b45d-52c3-0f36-e64224f5480f@174.138.21.249:443/?type=raw&encryp
 vless://2864749a-b45d-52c3-0f36-e64224f5480f@188.166.176.63:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.alibaba.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%289%29
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#SG🇸🇬
 vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&security=reality&sid=d1742269&sni=www.cloudflare.com&type=tcp#REALITY|SG🇸🇬
-vless://63ae5b68-f6f8-432e-b440-d975053cfbc2@www.true.th:80?host=d16l6nb4do0zu4.cloudfront.net&path=%2Fthan&type=ws#SG%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9131
+vless://63ae5b68-f6f8-432e-b440-d975053cfbc2@www.true.th:80?host=d16l6nb4do0zu4.cloudfront.net&path=%2Fthan&type=ws#SG%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9120
 vless://6aa028bc-08a9-41d1-a397-d60ce65df081@support.zoom.us:80?security=none&type=ws&path=/shalana&host=shalana.xyz&encryption=none#🇸🇬[openproxylist.com]vless-SG
 vless://7651FEC2-07B1-4904-8985-8EAAA1B781F3@13.250.26.252:10038/?type=grpc&encryption=none&flow=&serviceName=update&sni=d1.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#🇸🇬SG
 vless://7651FEC2-07B1-4904-8985-8EAAA1B781F3@sg1-r.link-t7.com:10036/?type=grpc&encryption=none&flow=&serviceName=update&sni=s0.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#🇸🇬SG
 vless://779d227c-f7be-4b9d-a4a9-1197c734b4e7@18.141.49.252:35308/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.tesla.com&fp=firefox&security=reality&pbk=4g1kpdmdbN6aNxeBYMj9WherunH9JSXsI_nKZTDiewE&sid=fef8dcb8cafe30#-%3ESG%2B%28%40DeamNet_Proxy%29%20%2838%29
 vless://7fc4d547-9abb-4ec3-a374-859d7e4d6a2d@38.180.249.80:443/?type=ws&encryption=none&flow=&host=fd687hery.cainiaohub.xyz&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb529&security=tls&sni=fd687hery.cainiaohub.xyz&allowInsecure=1&fp=chrome&packetEncoding=xudp#新加坡
-vless://90235096-9296-3d36-c77c-715577598fd5@8.222.185.236:443?encryption=none&security=tls&sni=l.m.j.u.w.9.y.i.m.y.s.8.p.y.us.art-us.kdns.fr&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=l.m.j.u.w.9.y.i.m.y.s.8.p.y.us.art-us.kdns.fr&path=%2Fglasspanel%2F0038ba35_0_1bdabe931208%2F#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:164.55ms
 vless://af6904c1-4349-4448-8e99-0024824a0c33@140.245.50.174:10000?encryption=none&flow=xtls-rprx-vision&fp=&pbk=xELgry1aUBwZLDAAvyiBkLTXsIi1M-mKhuqvwiP6FxU&security=reality&sid=3b0b73e5&sni=gateway.icloud.com&type=tcp#REALITY|SG🇸🇬
 vless://afbe9207-eb8f-4e39-898a-d78fb3eddd0a@news.zoom.us:2096/?type=ws&encryption=none&flow=&host=primelinelk.me&path=/xprolk-primeline&security=tls&sni=primelinelk.me&fp=chrome#新加坡
 vless://bd37d63b-c75d-3e48-acbf-1d5954fe9cdc@v1.cdn.wj0zugpsmub2.jjxdns.net:31877/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.cloudflare.com&fp=chrome&security=reality&pbk=JrWOojSFwFA93YjsiQkDydTItQzNAsXsHU24HuWGWjA&sid=bc8e3658db7d1323&packetEncoding=xudp#🇸🇬SG
