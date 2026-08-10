@@ -72,6 +72,7 @@ ss://ad356e93-cc14-417d-9f4e-32376d03f5b7@netherland.instasup.ir:1006/?type=tcp&
 ss://af325624-e28d-44fd-a8a7-058a439d128f@194.26.229.218:2200?type=ws&encryption=none&flow=&path=%2Fv1#RU🇷🇺
 ss://b668547d-d997-4f59-957b-5da1d9a5de15@178.248.236.155:18443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&security=reality&sid=000443436f&sni=rutube.ru&type=tcp#REALITY|RU🇷🇺
 ss://b6cdcef0-b61b-424d-81f8-41e40e762dde@de04.abvpn.ru:443?path=/websocket#/Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net/?ed=2560&security=tls&encryption=none&fp=chrome&type=ws&sni=de04.abvpn.ru#EPODONIOS
+ss://bdba330b-dfc6-001f-93e4-b10f906bf4fb@89.208.198.151:9443?security=reality&encryption=none&pbk=0J8o7RTIGJzUV6gOjCtpPvgzCZz7Yowfla_I0a01GRY&headerType=none&fp=edge&type=tcp&sni=api-maps.yandex.ru&sid=ddd6#🏞️🇷🇺RU
 ss://c099de6a-0805-4052-b959-fd4ab4fc209e@178.248.236.155:18443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&security=reality&sid=000443436f&sni=rutube.ru&type=tcp#REALITY|RU🇷🇺
 ss://c124a209-d949-4951-8234-e2d918b3e6c0@188.225.33.206:8443?security=reality&encryption=none&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=max.ru#REALITY|RU🇷🇺
 ss://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@45.143.201.8:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&host=%2F%3F&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=hasty-dolphin.cdn.cachefleet.com#REALITY|RU🇷🇺
@@ -159,6 +160,7 @@ vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@netherland.instasup.ir:1006/?type=t
 vless://af325624-e28d-44fd-a8a7-058a439d128f@194.26.229.218:2200?type=ws&encryption=none&flow=&path=%2Fv1#RU🇷🇺
 vless://b668547d-d997-4f59-957b-5da1d9a5de15@178.248.236.155:18443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&security=reality&sid=000443436f&sni=rutube.ru&type=tcp#REALITY|RU🇷🇺
 vless://b6cdcef0-b61b-424d-81f8-41e40e762dde@de04.abvpn.ru:443?path=/websocket#/Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net/?ed=2560&security=tls&encryption=none&fp=chrome&type=ws&sni=de04.abvpn.ru#EPODONIOS
+vless://bdba330b-dfc6-001f-93e4-b10f906bf4fb@89.208.198.151:9443?security=reality&encryption=none&pbk=0J8o7RTIGJzUV6gOjCtpPvgzCZz7Yowfla_I0a01GRY&headerType=none&fp=edge&type=tcp&sni=api-maps.yandex.ru&sid=ddd6#🏞️🇷🇺RU
 vless://c099de6a-0805-4052-b959-fd4ab4fc209e@178.248.236.155:18443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&security=reality&sid=000443436f&sni=rutube.ru&type=tcp#REALITY|RU🇷🇺
 vless://c124a209-d949-4951-8234-e2d918b3e6c0@188.225.33.206:8443?security=reality&encryption=none&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=max.ru#REALITY|RU🇷🇺
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@45.143.201.8:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&host=%2F%3F&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=hasty-dolphin.cdn.cachefleet.com#REALITY|RU🇷🇺
