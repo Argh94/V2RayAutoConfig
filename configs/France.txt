@@ -6,6 +6,9 @@ hysteria2://5bc8aea0-04a6-4fcf-9a04-1a51518396a8@129.151.250.154:35000?insecure=
 hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@iq5ny.pleiades.codes:8443?sni=iq5ny.pleiades.codes#%E6%B3%95%E5%9B%BD%20%231
 hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@mg2.mangshe.xyz:2056/?insecure=1&sni=mg2.mangshe.xyz#%E2%9C%A883@oneclickvpnkeyshttps://5dc6fa05-a601-aba6-7761-ecde22d2b0fc:5dc6fa05-a601-aba6-7761-ecde22d2b0fc@eac88fe8-t9zts0-tonrmx-8n27.fr.oshuawei.com:443?sni=eac88fe8-t9zts0-tonrmx-8n27.fr.oshuawei.com#%E2%9C%A884@oneclickvpnkeyshttps://103.82.101.43:443?sni=76d1d3ecadca44efa2339867d7dfc9a1-8e928736d0f8dbdc.apache-iv.com#%E2%9C%A885@oneclickvpnkeysvless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@193.233.255.10:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=de.sellflow.org&type=tcp#%E2%9C%A886@oneclickvpnkeys
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#France%20%F0%9F%87%AB%F0%9F%87%B7
+hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443?insecure=0&sni=host-vds2-fr.kvncococ.org#%E6%B3%95%E5%9B%BD%20%232
+hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443?insecure=0&sni=host-vds2-fr.kvncococ.org#%E6%B3%95%E5%9B%BD%20%232%202
+hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443?insecure=0&sni=host-vds2-fr.kvncococ.org#8%7C%E6%B3%95%E5%9B%BD%20%231
 hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443?sni=host-vds2-fr.kvncococ.org#%E6%B3%95%E5%9B%BD%20%232
 hysteria2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@fr2.xiaoliyu.cyou:10086?insecure=1&sni=fr2.xiaoliyu.cyou&obfs=salamander&obfs-password=T@T*FP7uq=!t#%E6%B3%95%E5%9B%BD%20%233
 ss://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?mode=auto&path=%2F&security=none&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#France%200VH
@@ -132,10 +135,10 @@ trojan://973ed2e0-c4d8-4737-a093-71629148086d@51.77.213.197:443?security=tls&sni
 trojan://CF68213490@smiling-fowl.rooster465.autos:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-15.237.112.48-6117
 trojan://CF68213490@star-moray.rooster465.autos:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-15.237.100.62-6088
 trojan://Ex0qFvkrq8@193.233.133.152:29618?security=reality&sni=www.apple.com&fp=chrome&pbk=217rKU60kLbTtlrMHtySzJaR2skVh3vvON7Qp3LYYwc&sid=6923f7&spx=/&type=tcp&headerType=none#🇫🇷FR-🚀@VPNine1
-trojan://ND91608427@13.36.175.151:443?allowInsecure=0&sni=classic-gator.rooster465.autos#FR-13.36.175.151-0197
+trojan://ND91608427@13.36.175.151:443?allowInsecure=0&sni=classic-gator.rooster465.autos#FR-13.36.175.151-0206
 trojan://ND91608427@13.36.175.151:443?fp=chrome&sni=classic-gator.rooster465.autos#FR🇫🇷
 trojan://ND91608427@13.36.175.151:443?security=tls&sni=classic-gator.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-13.36.175.151-0197
-trojan://ND91608427@15.237.137.197:443?allowInsecure=0&sni=fancy-skink.rooster465.autos#FR-15.237.137.197-0198
+trojan://ND91608427@15.237.137.197:443?allowInsecure=0&sni=fancy-skink.rooster465.autos#FR-15.237.137.197-0124
 trojan://ND91608427@15.237.137.197:443?fp=chrome&sni=fancy-skink.rooster465.autos#FR🇫🇷
 trojan://ND91608427@15.237.137.197:443?security=tls&sni=fancy-skink.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-15.237.137.197-0198
 trojan://ND91608427@15.237.219.234:443?fp=chrome&sni=careful-tadpole.rooster465.autos#FR🇫🇷
@@ -146,11 +149,11 @@ trojan://ND91608427@15.237.49.244:443?sni=star-kiwi.rooster465.autos#FR🇫🇷
 trojan://ND91608427@careful-tadpole.rooster465.autos:443#FR🇫🇷
 trojan://ND91608427@careful-tadpole.rooster465.autos:443?allowInsecure=1#FR🇫🇷
 trojan://ND91608427@classic-gator.rooster465.autos:443#FR🇫🇷
-trojan://ND91608427@classic-gator.rooster465.autos:443?allowInsecure=0&sni=classic-gator.rooster465.autos#FR-13.36.175.151-0203
+trojan://ND91608427@classic-gator.rooster465.autos:443?allowInsecure=0&sni=classic-gator.rooster465.autos#FR-13.36.175.151-0205
 trojan://ND91608427@classic-gator.rooster465.autos:443?allowInsecure=1&sni=classic-gator.rooster465.autos#FR🇫🇷
 trojan://ND91608427@classic-gator.rooster465.autos:443?security=tls&sni=classic-gator.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-13.36.175.151-0203
 trojan://ND91608427@fancy-skink.rooster465.autos:443#FR🇫🇷
-trojan://ND91608427@fancy-skink.rooster465.autos:443?allowInsecure=0&sni=fancy-skink.rooster465.autos#FR-15.237.137.197-0201
+trojan://ND91608427@fancy-skink.rooster465.autos:443?allowInsecure=0&sni=fancy-skink.rooster465.autos#FR-15.237.137.197-0125
 trojan://ND91608427@fancy-skink.rooster465.autos:443?security=tls&sni=fancy-skink.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-15.237.137.197-0201
 trojan://ND91608427@star-kiwi.rooster465.autos:443#FR🇫🇷
 trojan://ND91608427@star-kiwi.rooster465.autos:443?security=tls&path=%2F#FR🇫🇷
@@ -161,6 +164,7 @@ trojan://ON38567014@13.38.35.46:443?security=tls&insecure=0&headerType=none&type
 trojan://QV31589740@51.44.160.58:443?fp=chrome&sni=great-krill.rooster465.autos#FR🇫🇷
 trojan://QV31589740@great-krill.rooster465.autos:443#FR🇫🇷
 trojan://QV31589740@great-krill.rooster465.autos:443?allowInsecure=0#FR🇫🇷
+trojan://QV31589740@great-krill.rooster465.autos:443?allowInsecure=0&sni=great-krill.rooster465.autos#FR-51.44.160.58-0225
 trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&sni=great-krill.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-51.44.160.58-0101
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.38.99.96-2730
 trojan://db19fc68-c027-4641-a8eb-eed3e1065c8a@146.70.158.111:443?security=tls&sni=amin.karkas1.ir&type=grpc&serviceName=6vuNVgOFnqUEvj0rcXIcStL#%F0%9F%87%AB%F0%9F%87%B7FR-146.70.158.111-8903
@@ -228,6 +232,7 @@ trojan://humanity@104.18.8.83:443/?type=ws&host=www.calmlunch.com&path=%2Fassign
 trojan://humanity@104.20.42.250:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=ios#%3E%3E%40configV2rayNG%3A%3AFR
 trojan://humanity@104.26.14.137:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#%3E%3E%40oneclickvpnkeys%3A%3AFR%20%2813%29
 trojan://humanity@141.101.90.101:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&allowInsecure=1&fp=ios#%3E%3E%40configV2rayNG%3A%3AFR%20%281%29
+trojan://humanity@141.101.90.101:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E6%B3%95%E5%9B%BD%E5%B7%B4%E9%BB%8E+CloudFlare%E8%8A%82%E7%82%B9
 trojan://humanity@141.193.213.11:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1#-%3EFR%2B%28%40DeamNet_Proxy%29%20%282%29
 trojan://humanity@141.193.213.21:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28116%29
 trojan://humanity@162.159.193.22:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28100%29
@@ -416,6 +421,11 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7fms5Xlm70xIHwg4qyH77iPIDIuM01CL3MiLCJhZGQi
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7fms5Xlm70yIHwg4qyH77iPIDQuMU1CL3MiLCJhZGQiOiIxMDQuMTkuMzIuMCIsInBvcnQiOjQ0MywiaWQiOiI5M2VhNDg2YS1iYWRhLTQyYTQtYWMzOC1kMDg4YjMyMGZhMWUiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInNuaSI6InhtaXZpZGVvLmNmZCIsInBhdGgiOiIvbGlua3dzIiwiaG9zdCI6InhtaXZpZGVvLmNmZCJ9
 vmess://eyJ2IjoiMiIsInBzIjoiRlIg8J+Hq/Cfh7cgfCBAUmF5ZGlrYWx4IHwgMjlBNEE4IiwiYWRkIjoiNDYuMjI2LjE2Ni4yMDUiLCJwb3J0IjoiMjczNDMiLCJpZCI6ImYzY2IxY2Q0LTRlNTYtNDQ0ZC04ZDZiLTQ3NTlmYTY5ZGFlMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiRlJcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZjciLCJhZGQiOiI5NC4yMzIuMjQ3LjE2NCIsInBvcnQiOiI0NDAzMCIsInR5cGUiOiJub25lIiwiaWQiOiIyMmMzOTZhMy05NWRhLTRiZTgtYmVlZi04MzRkMTdkNzU3ODQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwiaG9zdCI6IiIsInRscyI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiX+azleWbvV80NzIiLCJhZGQiOiJwbGFuYi5tb2pjbi5jb20ubGludXhsaC54aW4iLCJwb3J0IjoiMTY2MjIiLCJ0eXBlIjoibm9uZSIsImlkIjoiYjAyNTUyZTEtNTI0Yy00ZDRlLWFjOGEtY2ViYThlMzFjYjhlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiODQ4NzljYWI2NThkNDlkOWE5ODVhYTg1YzlmMWEzNjIubW9iZ3NsYi50YmNhY2hlLmNvbSIsInRscyI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiX+azleWbvV80NzMiLCJhZGQiOiJwbGFuYi5tb2pjbi5jb20ubGludXhsaC54aW4iLCJwb3J0IjoiMTY2MzIiLCJ0eXBlIjoibm9uZSIsImlkIjoiYjAyNTUyZTEtNTI0Yy00ZDRlLWFjOGEtY2ViYThlMzFjYjhlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiODQ4NzljYWI2NThkNDlkOWE5ODVhYTg1YzlmMWEzNjIubW9iZ3NsYi50YmNhY2hlLmNvbSIsInRscyI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiX+azleWbvV80NzQiLCJhZGQiOiJwbGFuYi5tb2pjbi5jb20ubGludXhsaC54aW4iLCJwb3J0IjoiMTY2MTciLCJ0eXBlIjoibm9uZSIsImlkIjoiYjAyNTUyZTEtNTI0Yy00ZDRlLWFjOGEtY2ViYThlMzFjYjhlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiODQ4NzljYWI2NThkNDlkOWE5ODVhYTg1YzlmMWEzNjIubW9iZ3NsYi50YmNhY2hlLmNvbSIsInRscyI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiX+azleWbvV80NzUiLCJhZGQiOiJwbGFuYi5tb2pjbi5jb20ubGludXhsaC54aW4iLCJwb3J0IjoiMTY2MTYiLCJ0eXBlIjoibm9uZSIsImlkIjoiYjAyNTUyZTEtNTI0Yy00ZDRlLWFjOGEtY2ViYThlMzFjYjhlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiODQ4NzljYWI2NThkNDlkOWE5ODVhYTg1YzlmMWEzNjIubW9iZ3NsYi50YmNhY2hlLmNvbSIsInRscyI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiX+azleWbvV80NzYiLCJhZGQiOiJwbGFuYi5tb2pjbi5jb20ubGludXhsaC54aW4iLCJwb3J0IjoiMTY2MjYiLCJ0eXBlIjoibm9uZSIsImlkIjoiYjAyNTUyZTEtNTI0Yy00ZDRlLWFjOGEtY2ViYThlMzFjYjhlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiODQ4NzljYWI2NThkNDlkOWE5ODVhYTg1YzlmMWEzNjIubW9iZ3NsYi50YmNhY2hlLmNvbSIsInRscyI6IiJ9
 vmess://eyJhZGQiOiI1MS44My41Mi4xNzIiLCJhaWQiOiIwIiwiaG9zdCI6ImZhc3QuY29tIiwiaWQiOiIyYzcyYzY2Ny0wOTNjLTQ3YTUtYTEwOC00OTNjOTMyODJiNTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDg1IiwicHMiOiJGUiDwn4er8J+HtyB8IEBSYXlkaWthbHggfCBDQ0ZBQzYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxNDAuMjMzLjE3Ny4yOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyYjNlOTA3YS04OGI4LTQ5N2ItOGZmNy1lNzNkODg5YzVjMTkiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjMzNTA2IiwicHMiOiJGUiDwn4er8J+HtyB8IEBSYXlkaWthbHggfCAxNzZFQzMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
 vmess://eyJhZGQiOiIxNTYuMjQ5LjE4LjEwNyIsInYiOjIsInBzIjoi8J+Hq/Cfh7dfRlJf5rOV5Zu9XzQiLCJwb3J0IjoiNDEwMDAiLCJpZCI6ImY5ZmEzYTljLWY3ZDUtNDE0Zi04OGU2LTY5NzA1ODVkOTk0OSIsImFpZCI6IjY0Iiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6InRscyIsInBhdGgiOiIvcGF0aC8zNDIxMjEyMzA4MTgifQ==
