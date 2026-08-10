@@ -6,7 +6,7 @@ ss://9abf5e0c-e98a-44a3-bd0b-1a6dd065eb0f@157.85.96.11:8443?type=tcp&encryption=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsaHVVTFJ3TzRzbE02azI2MnBBQzRjYnE1QTFINno4ZWFPSFYyN3ZpN1l3PQ==@47.81.56.202:44617#TH%F0%9F%87%B9%F0%9F%87%AD+%7C+47.81.56.202-44617+%7C+245.43ms
 ss://b93efa30-e2c5-401c-9ec7-22e30266cc60@157.85.102.28:1083?security=none&encryption=none&headerType=none&type=tcp#🌐🇹🇭TH
 ss://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80/?type=ws&encryption=none&flow=&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=/#泰国
-ss://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&path=%2F&type=ws#TH%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9122
+ss://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&path=%2F&type=ws#TH%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9138
 ss://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80/?type=ws&encryption=none&flow=&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=/&packetEncoding=xudp#🇹🇭TH
 ss://ff0c1cde-6f94-4bf1-9774-ab25c6b4977d@157.85.97.238:80/?type=ws&encryption=none&flow=&host=d7iwyzy9wpvuu.cloudfront.net&path=/knl8#泰国
 ss://ff0c1cde-6f94-4bf1-9774-ab25c6b4977d@www.true.th:80/?type=ws&encryption=none&flow=&host=d7iwyzy9wpvuu.cloudfront.net&path=/knl8&packetEncoding=xudp#🇹🇭TH
@@ -17,9 +17,9 @@ vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.1.23:666/?type=ws&encryption
 vless://9abf5e0c-e98a-44a3-bd0b-1a6dd065eb0f@157.85.96.11:8443?type=tcp&encryption=none&flow=#TH🇹🇭
 vless://b93efa30-e2c5-401c-9ec7-22e30266cc60@157.85.102.28:1083?security=none&encryption=none&headerType=none&type=tcp#🌐🇹🇭TH
 vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80/?type=ws&encryption=none&flow=&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=/#泰国
-vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&path=%2F&type=ws#TH%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9122
+vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&path=%2F&type=ws#TH%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9138
 vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80/?type=ws&encryption=none&flow=&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=/&packetEncoding=xudp#🇹🇭TH
 vless://ff0c1cde-6f94-4bf1-9774-ab25c6b4977d@157.85.97.238:80/?type=ws&encryption=none&flow=&host=d7iwyzy9wpvuu.cloudfront.net&path=/knl8#泰国
 vless://ff0c1cde-6f94-4bf1-9774-ab25c6b4977d@www.true.th:80/?type=ws&encryption=none&flow=&host=d7iwyzy9wpvuu.cloudfront.net&path=/knl8&packetEncoding=xudp#🇹🇭TH
-vmess://ewogICAgImFkZCI6ICIxMTkuNTkuOTguMzkiLAogICAgImFpZCI6IDY0LAogICAgImhvc3QiOiAid3d3Ljk4NjY2NTk4Lnh5eiIsCiAgICAiaWQiOiAiNGQyNGZiZGUtY2IwZS00MDI1LTk4ZWMtMjIyOTMzODQ3ZDNkIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3BhdGgvMTkxMDE5MDcyOTI3IiwKICAgICJwb3J0IjogMzAwMDEsCiAgICAicHMiOiAi8J+HufCfh61USC0xMTkuNTkuOTguMzktMTIyNiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+vmess://ewogICAgImFkZCI6ICIxMTkuNTkuOTguMzkiLAogICAgImFpZCI6IDY0LAogICAgImhvc3QiOiAid3d3Ljk4NjY2NTk4Lnh5eiIsCiAgICAiaWQiOiAiNGQyNGZiZGUtY2IwZS00MDI1LTk4ZWMtMjIyOTMzODQ3ZDNkIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3BhdGgvMTkxMDE5MDcyOTI3IiwKICAgICJwb3J0IjogMzAwMDEsCiAgICAicHMiOiAi8J+HufCfh61USC0xMTkuNTkuOTguMzktMTE3MyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://eyJ2IjoiMiIsInBzIjoiVEgg8J+HufCfh60gfCBAUmF5ZGlrYWx4IHwgNjBCOUExIiwiYWRkIjoiMTczLjgyLjIyNi4yNyIsInBvcnQiOiIyMzY2MiIsInR5cGUiOiJub25lIiwiaWQiOiJlZmEyYWI3Ni01MzlkLTRiNmEtOTU3Mi0yNGJhNzA5ZmI4MWIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
