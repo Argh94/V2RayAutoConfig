@@ -13,6 +13,7 @@ ss://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:8443/?type=grpc&encryptio
 ss://6dd2896b-641a-46d0-8bd4-585073694c59@tun.anony-org.xyz:22222?authority=&encryption=none&security=none&serviceName=&type=grpc#TR🇹🇷
 ss://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443/?type=grpc&encryption=none&flow=&serviceName=grpc#土耳其
 ss://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#TR🇹🇷
+ss://7fa91a52-54d0-442f-b550-cf83d916918c@edge-tr-ist.cdn.sx:2083/?type=tcp&encryption=none&flow=&security=tls&sni=edge-tr-ist.cdn.sx&fp=chrome&packetEncoding=xudp#土耳其
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZXhOaU4xd0E3ZlZDT1Y4WWRPdkJO@77.83.245.116:9753#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+77.83.245.116-9753+%7C+184.93ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowR0FLMmI5Z2txQmF0dXhpMmNzd21I@83.217.9.17:25232#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+83.217.9.17-25232+%7C+181.94ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozUTdVMTZ5R1kwSngxeUdRZTlYdHpw@185.39.204.161:33563#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+185.39.204.161-33563+%7C+181.25ms
@@ -32,7 +33,6 @@ ss://ZoRoVPN@203.202.232.11:36068/?type=ws&encryption=none&host=Play.google.com&
 ss://c6f220ed-41f2-21ba-438c-80f05ebbf92a@170.168.97.5:8443/?type=grpc&encryption=none&flow=&serviceName=TunService&sni=download.nvidia.com&allowInsecure=1&fp=chrome&security=reality&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&sid=&packetEncoding=xudp#土耳其
 ss://chacha20ietfpoly1305Og==@62.133.63.222:48981#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+62.133.63.222-48981+%7C+185.41ms
 ss://d4043d34-b418-4bee-9578-d9214011b2f5@3x-ui-multi-production-5f14.up.railway.app:443?fp=chrome&host=3x-ui-multi-production-5f14.up.railway.app&path=/in2&security=tls&sni=3x-ui-multi-production-5f14.up.railway.app&type=ws#Turkey-tr-client
-ss://e6acf17c-b19c-45ee-afda-373ba72795ce@rubr5.cheburnetnastalgia1998.com:50055/?type=grpc&encryption=none&flow=&sni=rubr5.cheburnetnastalgia1998.com&fp=chrome&security=reality&pbk=6sVT86DwUajJVKQOcUs6XKoYbZ-G7T_a93KgX-GMin4&sid=3c894ab5c82b7f1d#土耳其
 ss://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@170.168.97.3:993/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=download.nvidia.com&fp=chrome&security=reality&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&sid=#土耳其
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@62.133.63.202:13868?encryption=none&type=tcp&security=reality&headerType=none&sni=amd.com&fp=firefox&insecure=1&allowInsecure=1&pbk=FaX6hUpswBFFN-GaXFmFK8bVWYcPlrB4KP26n_INgko&sid=e852dc&flow=xtls-rprx-vision#REALITY|TR🇹🇷
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@62.133.63.202:13868?security=reality&encryption=none&pbk=FaX6hUpswBFFN-GaXFmFK8bVWYcPlrB4KP26n_INgko&host=%2F%3F&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=e852dc#REALITY|TR🇹🇷
@@ -47,10 +47,10 @@ vless://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:8443/?type=grpc&encryp
 vless://6dd2896b-641a-46d0-8bd4-585073694c59@tun.anony-org.xyz:22222?authority=&encryption=none&security=none&serviceName=&type=grpc#TR🇹🇷
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443/?type=grpc&encryption=none&flow=&serviceName=grpc#土耳其
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#TR🇹🇷
+vless://7fa91a52-54d0-442f-b550-cf83d916918c@edge-tr-ist.cdn.sx:2083/?type=tcp&encryption=none&flow=&security=tls&sni=edge-tr-ist.cdn.sx&fp=chrome&packetEncoding=xudp#土耳其
 vless://ZoRoVPN@203.202.232.11:36068/?type=ws&encryption=none&host=Play.google.com&path=%2FZoRoVpn#%F0%9F%87%B9%F0%9F%87%B7TR-%F0%9F%9A%80%40VPNine1%20%282%29
 vless://c6f220ed-41f2-21ba-438c-80f05ebbf92a@170.168.97.5:8443/?type=grpc&encryption=none&flow=&serviceName=TunService&sni=download.nvidia.com&allowInsecure=1&fp=chrome&security=reality&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&sid=&packetEncoding=xudp#土耳其
 vless://d4043d34-b418-4bee-9578-d9214011b2f5@3x-ui-multi-production-5f14.up.railway.app:443?fp=chrome&host=3x-ui-multi-production-5f14.up.railway.app&path=/in2&security=tls&sni=3x-ui-multi-production-5f14.up.railway.app&type=ws#Turkey-tr-client
-vless://e6acf17c-b19c-45ee-afda-373ba72795ce@rubr5.cheburnetnastalgia1998.com:50055/?type=grpc&encryption=none&flow=&sni=rubr5.cheburnetnastalgia1998.com&fp=chrome&security=reality&pbk=6sVT86DwUajJVKQOcUs6XKoYbZ-G7T_a93KgX-GMin4&sid=3c894ab5c82b7f1d#土耳其
 vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@170.168.97.3:993/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=download.nvidia.com&fp=chrome&security=reality&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&sid=#土耳其
 vmess://ewogICAgImFkZCI6ICI0NS45NC4xNjkuMTQyIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI4MjRjNThiMS02NWJhLTQ2ODAtYTYwOS02NjNhMDAwZGJiOTIiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvd3NzMTM4ODkiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HufCfh7dUUi00NS45NC4xNjkuMTQyLTg0MzAiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vmess://ewogICAgImFkZCI6ICIxMDMuMjE1LjIxOC4yMjIiLAogICAgImFpZCI6IDEsCiAgICAiaG9zdCI6ICIxMDMuMjE1LjIxOC4yMjIiLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogImxpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HufCfh7dUUi0xMDMuMjE1LjIxOC4yMjItMTgxNSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9

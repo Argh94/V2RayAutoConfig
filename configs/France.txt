@@ -1,5 +1,6 @@
 hy2://5bc8aea0-04a6-4fcf-9a04-1a51518396a8@129.151.250.154:35000/?insecure=1&sni=www.lamer.com.hk#法国
 hy2://95e8532b-cc69-42d4-9553-e3c23292b15b@iq5ny.pleiades.codes:8443/?sni=iq5ny.pleiades.codes#法国
+hy2://95e8532b-cc69-42d4-9553-e3c23292b15b@iq5ny.pleiades.codes:8443/?sni=iq5ny.pleiades.codes#法国#🌐سرور
 hy2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443/?sni=host-vds2-fr.kvncococ.org#法国
 hy2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@fr2.xiaoliyu.cyou:10086/?insecure=1&sni=fr2.xiaoliyu.cyou&obfs=salamander&obfs-password=T@T*FP7uq=!t#法国
 hysteria2://5bc8aea0-04a6-4fcf-9a04-1a51518396a8@129.151.250.154:35000?insecure=1&sni=www.lamer.com.hk#%E6%B3%95%E5%9B%BD
@@ -18,7 +19,6 @@ ss://1a6d2f60-6c75-470b-891a-457b13d70a8e@britain.relvuno.ir:6500?security=reali
 ss://1e3c6e25-0c65-4927-91cb-79982fd6dafc@35.181.171.182:40133?encryption=none&flow=xtls-rprx-vision&fp=&pbk=FDnQBm11AA6TUNmcyQAo0wJnl2mt1oozbOG-FSVi6DU&security=reality&sid=87806cfd2dcfcd&sni=yahoo.com&type=tcp#REALITY|FR🇫🇷
 ss://1fe3eba8-86ef-4bce-9fb4-c7517954b2e2@15.237.122.88:42287?encryption=none&flow=xtls-rprx-vision&fp=&pbk=TeQRou69R4O0YCR0b28I3PF97W9zc3Qf-zUvlOZA43M&security=reality&sid=946e4c05cc69e1&sni=yahoo.com&type=tcp#REALITY|FR🇫🇷
 ss://28148be2-61a7-4f36-8adb-030cc9f82bd0@62.210.24.143:32202?encryption=none&fp=&mode=auto&path=%2FG3EEoH63&pbk=bGe_-nAtOq6_w_2mv6pcmD8RzJP65Tti-vyMP2hAwDc&security=reality&sid=f57d8f26&sni=www.amazon.com&type=xhttp#REALITY|FR🇫🇷
-ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&host=t.me%2Fv2line&type=ws#France%200VHcloud
 ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@ov-france2.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20OVH
 ss://391ff971-a901-415e-b0f1-e0c0047e7a24@194.33.34.167:443/?type=raw&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=enBIOTqlP6CHTvic3CLgpUd_AcJAAbAQIa-oFIk4dVU&sid=302e#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28139%29
 ss://3a3de813-bfaa-4355-bc47-05c7245431d2@89.116.250.135:8880?encryption=none&type=httpupgrade&path=%2F%3Fed%3D2082&host=FFar.9.postshup.ir#FR🇫🇷
@@ -283,7 +283,6 @@ vless://1a6d2f60-6c75-470b-891a-457b13d70a8e@britain.relvuno.ir:6500?security=re
 vless://1e3c6e25-0c65-4927-91cb-79982fd6dafc@35.181.171.182:40133?encryption=none&flow=xtls-rprx-vision&fp=&pbk=FDnQBm11AA6TUNmcyQAo0wJnl2mt1oozbOG-FSVi6DU&security=reality&sid=87806cfd2dcfcd&sni=yahoo.com&type=tcp#REALITY|FR🇫🇷
 vless://1fe3eba8-86ef-4bce-9fb4-c7517954b2e2@15.237.122.88:42287?encryption=none&flow=xtls-rprx-vision&fp=&pbk=TeQRou69R4O0YCR0b28I3PF97W9zc3Qf-zUvlOZA43M&security=reality&sid=946e4c05cc69e1&sni=yahoo.com&type=tcp#REALITY|FR🇫🇷
 vless://28148be2-61a7-4f36-8adb-030cc9f82bd0@62.210.24.143:32202?encryption=none&fp=&mode=auto&path=%2FG3EEoH63&pbk=bGe_-nAtOq6_w_2mv6pcmD8RzJP65Tti-vyMP2hAwDc&security=reality&sid=f57d8f26&sni=www.amazon.com&type=xhttp#REALITY|FR🇫🇷
-vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&host=t.me%2Fv2line&type=ws#France%200VHcloud
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@ov-france2.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20OVH
 vless://391ff971-a901-415e-b0f1-e0c0047e7a24@194.33.34.167:443/?type=raw&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=enBIOTqlP6CHTvic3CLgpUd_AcJAAbAQIa-oFIk4dVU&sid=302e#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28139%29
 vless://3a3de813-bfaa-4355-bc47-05c7245431d2@89.116.250.135:8880?encryption=none&type=httpupgrade&path=%2F%3Fed%3D2082&host=FFar.9.postshup.ir#FR🇫🇷
