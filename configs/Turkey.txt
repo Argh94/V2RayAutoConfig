@@ -9,7 +9,6 @@ ss://2c36419e-fe1d-4a35-988b-fe20f693ecdc@tr.koomeh.net:80?mode=stream-one&path=
 ss://2e4101cd-40b4-4d1a-8df6-cc949c136e5a@pro-tr.emrata.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pro-tr.emrata.top&fp=chrome&security=reality&pbk=da5UVhoC5QOCDm84AxB-RRxf0z2nySZ3lOemgqizLS4&sid=#土耳其
 ss://444f3779-cc79-4289-b22b-f75bc84be25e@soskeynets.ssdhdd.org:443/?type=tcp&encryption=none&flow=&sni=tasnimnews.ir&fp=chrome&security=reality&pbk=pvY1bX3eh_RHA2foDr82nB-0UgXu1uO7xjtYKRSFuCs&sid=3b225391611b29e5&packetEncoding=xudp#🇹🇷TR
 ss://46cc53925b294a97a0f433a9762138b9@185.39.204.161:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=m.vk.com&pbk=Ksb1EWjBUmOIBrZxMZyC9-jqENAWj_aCncBXb6f_X2Y&sid=aabbccdd&fp=random#REALITY|TR🇹🇷
-ss://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:8443/?type=grpc&encryption=none&flow=&serviceName=TunService&sni=download.nvidia.com&fp=chrome&security=reality&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&sid=&packetEncoding=xudp#🇹🇷Turkey
 ss://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443/?type=grpc&encryption=none&flow=&serviceName=grpc#土耳其
 ss://7fa91a52-54d0-442f-b550-cf83d916918c@edge-tr-ist.cdn.sx:2083/?type=tcp&encryption=none&flow=&security=tls&sni=edge-tr-ist.cdn.sx&fp=chrome&packetEncoding=xudp#土耳其
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZXhOaU4xd0E3ZlZDT1Y4WWRPdkJO@77.83.245.116:9753#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+77.83.245.116-9753+%7C+187.55ms
@@ -40,6 +39,7 @@ ss://dd280dbb-75ec-4631-9979-d65237e27185@5.175.136.134:2053?encryption=none&typ
 ss://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&type=xhttp&sni=www.google.com&sid=44#REALITY|TR🇹🇷
 ss://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@170.168.97.3:993/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=download.nvidia.com&fp=chrome&security=reality&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&sid=#土耳其
 ss://e86c6e2a-382d-4f03-8f52-f52a5ab38a3f@titi.k44lawm.ir:2547?security=none&encryption=none&headerType=none&type=tcp#TR🇹🇷
+trojan://humanity@86.38.214.205:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#TR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9110
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@62.133.63.202:13868?encryption=none&type=tcp&security=reality&headerType=none&sni=amd.com&fp=firefox&insecure=1&allowInsecure=1&pbk=FaX6hUpswBFFN-GaXFmFK8bVWYcPlrB4KP26n_INgko&sid=e852dc&flow=xtls-rprx-vision#REALITY|TR🇹🇷
 vless://15c75de9a09149d0bf0393d855a98082@83.217.9.220:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=transfermarkt.com.tr&pbk=88smHXvz17v0my95NX0AfT9PmcMRNKY75ruZ3sRdaBU&sid=aabbccdd&fp=random#REALITY|TR🇹🇷
 vless://1a49012e-1dc4-45b7-a97c-3404bc915a66@tr-ist-3.blook.network:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tr-ist-3.blook.network&fp=firefox&security=reality&pbk=W58BNG-2mtSvQYg7Id1yuW2-XqtLj0zoutETNsQuWkA&sid=45f9dc94#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B9%F0%9F%87%B7%C2%AE%EF%B8%8FTurkey%C2%A9%EF%B8%8FIstanbul%F0%9F%85%BF%EF%B8%8Fping%3A93.58ms
@@ -49,7 +49,6 @@ vless://2c36419e-fe1d-4a35-988b-fe20f693ecdc@tr.koomeh.net:80?mode=stream-one&pa
 vless://2e4101cd-40b4-4d1a-8df6-cc949c136e5a@pro-tr.emrata.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pro-tr.emrata.top&fp=chrome&security=reality&pbk=da5UVhoC5QOCDm84AxB-RRxf0z2nySZ3lOemgqizLS4&sid=#土耳其
 vless://444f3779-cc79-4289-b22b-f75bc84be25e@soskeynets.ssdhdd.org:443/?type=tcp&encryption=none&flow=&sni=tasnimnews.ir&fp=chrome&security=reality&pbk=pvY1bX3eh_RHA2foDr82nB-0UgXu1uO7xjtYKRSFuCs&sid=3b225391611b29e5&packetEncoding=xudp#🇹🇷TR
 vless://46cc53925b294a97a0f433a9762138b9@185.39.204.161:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=m.vk.com&pbk=Ksb1EWjBUmOIBrZxMZyC9-jqENAWj_aCncBXb6f_X2Y&sid=aabbccdd&fp=random#REALITY|TR🇹🇷
-vless://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:8443/?type=grpc&encryption=none&flow=&serviceName=TunService&sni=download.nvidia.com&fp=chrome&security=reality&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&sid=&packetEncoding=xudp#🇹🇷Turkey
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443/?type=grpc&encryption=none&flow=&serviceName=grpc#土耳其
 vless://7fa91a52-54d0-442f-b550-cf83d916918c@edge-tr-ist.cdn.sx:2083/?type=tcp&encryption=none&flow=&security=tls&sni=edge-tr-ist.cdn.sx&fp=chrome&packetEncoding=xudp#土耳其
 vless://ZoRoVPN@203.202.232.11:36068/?type=ws&encryption=none&host=Play.google.com&path=%2FZoRoVpn#%F0%9F%87%B9%F0%9F%87%B7TR-%F0%9F%9A%80%40VPNine1%20%282%29
