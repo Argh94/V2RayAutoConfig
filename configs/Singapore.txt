@@ -94,7 +94,7 @@ trojan://6ec301428255a78a1d826988d86cc87e@16.162.100.124:32434?allowInsecure=1&s
 trojan://6ec301428255a78a1d826988d86cc87e@16.162.100.124:32434?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://6ec301428255a78a1d826988d86cc87e@16.162.192.182:45744?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://6ec301428255a78a1d826988d86cc87e@16.162.192.182:45744?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
-trojan://6ec301428255a78a1d826988d86cc87e@57.183.7.187:45747?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://6ec301428255a78a1d826988d86cc87e@16.162.192.182:45744?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://6f0a9d0fa39d65fa@5.44.249.43:3389?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-5.44.249.43-6860
 trojan://71086710-33eb-11ed-adce-1239d0255272@sg1-trojan.bonds.id:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-103.253.24.212-6739
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@168.138.189.17:28443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-168.138.189.17-3862
@@ -102,6 +102,7 @@ trojan://973ef350-f6a5-11ec-9274-1239d0255272@trojan2.udpgw.com:443?security=tls
 trojan://BxceQaOe@16.162.22.218:9149/?type=tcp&security=tls&allowInsecure=1#🇸🇬SG
 trojan://BxceQaOe@18.163.126.92:26704?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://BxceQaOe@18.163.126.92:26704?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
+trojan://BxceQaOe@18.163.126.92:26704?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
 trojan://FLpONjB2Lb@139.162.45.139:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-139.162.45.139-4414
 trojan://IQ68037294@45.135.228.169:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-45.135.228.169-6268
 trojan://ND91608427@54.255.35.23:443?fp=chrome&sni=tidy-gelding.rooster465.autos#SG🇸🇬
