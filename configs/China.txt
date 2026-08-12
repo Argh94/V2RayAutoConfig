@@ -140,10 +140,8 @@ trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.9:10822?security=tls#%F
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.9:10824?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.9-5953
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.9:10825?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.9-5954
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.9:10826?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.9-5972
-trojan://BxceQaOe@16.162.3.11:27161?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0_HK_%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF
 trojan://TNDSJfNv@36.151.195.48:4603?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.151.195.48-3412
 trojan://TNDSJfNv@36.151.195.48:4787?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.151.195.48-3435
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%AD%F0%9F%87%B0_HK_%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF-%3E%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
 trojan://ba4fedf8c217c146@120.236.197.205:3389?security=tls&sni=n2.gladns.com#%F0%9F%87%A8%F0%9F%87%B3CN-120.236.197.205-2526
 trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzdx.jcnode.top:16614?security=tls&sni=rctw02.ckcloud.info#%F0%9F%87%A8%F0%9F%87%B3CN-183.56.247.206-024
 trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzdx.jcnode.top:17217?security=tls&sni=jp03.ckcloud.info#%F0%9F%87%A8%F0%9F%87%B3CN-183.56.247.206-019
@@ -187,7 +185,7 @@ trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzyd.jcnode.top:56586?security=tls
 trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzyd.jcnode.top:64328?security=tls&sni=hk03.ckcloud.info#%F0%9F%87%A8%F0%9F%87%B3CN-125.88.210.67-012
 trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzyd02.jcnode.top:22122?security=tls&sni=de01.ckcloud.info#%F0%9F%87%A8%F0%9F%87%B3CN-58.247.254.191-041
 trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzyd02.jcnode.top:36403?security=tls&sni=uk01.ckcloud.info#%F0%9F%87%A8%F0%9F%87%B3CN-58.247.254.191-043
-trojan://t3re5bgbot4z4z3t@xiweini.dpdns.org:30101?alpn=h2%2Chttp%2F1.1&security=tls&sni=xiweini.dpdns.org#%E9%A6%99%E6%B8%AF+%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8%E5%9B%BD%E9%99%85%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+trojan://t3re5bgbot4z4z3t@xiweini.dpdns.org:30101?allowInsecure=1&sni=xiweini.dpdns.org#%F0%9F%87%AD%F0%9F%87%B0_HK_%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF
 vmess://ewogICAgImFkZCI6ICIxMDYuNTUuMTg3LjEzOSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNWE0NjQ3MDctMzE2Mi00YTA5LWU5ZTItZDcwYTZiODkyMjY3IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDg0NDgsCiAgICAicHMiOiAi8J+HqPCfh7NDTi0xMDYuNTUuMTg3LjEzOS0zMTk4IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICIxMTEuNDUuMjIuMTM2IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiMTExLjQ1LjIyLjEzNiIsCiAgICAiaWQiOiAiMDI1M2I1NzQtODAyMC0zMTg2LWE2NDctMDI2NzI5NWFjOWJiIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3JvY2tldCIsCiAgICAicG9ydCI6IDY1MDAxLAogICAgInBzIjogIvCfh6jwn4ezQ04tMTExLjQ1LjIyLjEzNi0yMTM0IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICIxMTEuNDUuMjIuMTM2IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiMTExLjQ1LjIyLjEzNiIsCiAgICAiaWQiOiAiMDI1M2I1NzQtODAyMC0zMTg2LWE2NDctMDI2NzI5NWFjOWJiIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3JvY2tldCIsCiAgICAicG9ydCI6IDY1MDIzLAogICAgInBzIjogIvCfh6jwn4ezQ04tMTExLjQ1LjIyLjEzNi0yMTIzIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
