@@ -148,6 +148,7 @@ trojan://973ed2e0-c4d8-4737-a093-71629148086d@51.77.213.197:443?security=tls&sni
 trojan://AE62539071@chief-cricket.rooster465.autos:443#🇫🇷FR-🚀@VPNine1
 trojan://AE62539071@chief-cricket.rooster465.autos:443?allowInsecure=0#_%E6%B3%95%E5%9B%BD_103
 trojan://AE62539071@distinct-quail.rooster465.autos:443?allowInsecure=0#_%E6%B3%95%E5%9B%BD_109
+trojan://AE62539071@distinct-quail.rooster465.autos:443?allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
 trojan://AE62539071@one-quail.rooster465.autos:443?allowInsecure=0#_%E6%B3%95%E5%9B%BD_97
 trojan://AE62539071@tough-hermit.rooster465.autos:443?allowInsecure=0#_%E6%B3%95%E5%9B%BD_102
 trojan://ND91608427@13.36.175.151:443?allowInsecure=0&sni=classic-gator.rooster465.autos#FR-13.36.175.151-0219
@@ -248,6 +249,7 @@ trojan://humanity@104.18.8.83:443/?type=ws&host=www.calmlunch.com&path=%2Fassign
 trojan://humanity@104.20.42.250:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=ios#%3E%3E%40configV2rayNG%3A%3AFR
 trojan://humanity@104.26.14.137:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#%3E%3E%40oneclickvpnkeys%3A%3AFR%20%2813%29
 trojan://humanity@141.101.90.101:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&allowInsecure=1&fp=ios#%3E%3E%40configV2rayNG%3A%3AFR%20%281%29
+trojan://humanity@141.101.90.101:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%E5%B7%B4%E9%BB%8E%20CloudFlare%E8%8A%82%E7%82%B9
 trojan://humanity@141.193.213.11:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1#-%3EFR%2B%28%40DeamNet_Proxy%29%20%282%29
 trojan://humanity@141.193.213.21:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28116%29
 trojan://humanity@162.159.193.22:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28100%29

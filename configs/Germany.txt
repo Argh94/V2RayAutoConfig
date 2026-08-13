@@ -74,7 +74,6 @@ ss://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443/?type=raw&encrypti
 ss://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.11.151:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=random&security=reality&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&sid=#-%3EDE%2B%28%40DeamNet_Proxy%29%20%284%29
 ss://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.135.249:80?path=%2FTelegram%2FXV2ray%3Fed&security=none&encryption=none&host=Csgo.XV2ray.xn--2b5b.127.0.0.1.Offline.Download.Down.Online.0.2.1.Tor.xn--g28h.dns-dynamic.net.&type=ws#DE🇩🇪
 ss://7c9b4360-6be9-47f2-ace9-b87297ea3d8f@157.90.165.181:11762?encryption=none&flow=xtls-rprx-vision&fp=&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&security=reality&sni=swdist.apple.com&type=tcp#REALITY|DE🇩🇪
-ss://7fc1ee8b-3abf-4b4e-ab73-007460d767bd@91.107.182.197:25520/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=CdbZitEgBioklscSAiU8eGR_sRvzLPrH3davu5DrNBc&sid=a8de8bc1e9f5ef&packetEncoding=xudp#德国
 ss://8033102198@144.31.168.91:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=de14.fast-connect-service.site#DE🇩🇪
 ss://803310219zo=@159.195.40.19:443#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+159.195.40.19-443+%7C+93.66ms
 ss://833f628c-1d6b-4dd1-89c9-40a8320f1a2c@144.31.159.84:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.nvidia.com&fp=firefox&security=reality&pbk=e3pn9C1M3g6zh0CMZS3L-GuDH71NNUcoy18quvlgfWw&sid=165b0fe73e74#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AA%C2%AE%EF%B8%8FGermany%C2%A9%EF%B8%8FD%C3%BCsseldorf%F0%9F%85%BF%EF%B8%8Fping%3A26.79ms
@@ -268,13 +267,13 @@ trojan://AE62539071@dashing-bedbug.rooster465.autos:443#🇩🇪DE-🚀@VPNine1
 trojan://AE62539071@dashing-bedbug.rooster465.autos:443?allowInsecure=0#_%E5%BE%B7%E5%9B%BD_95
 trojan://AE62539071@moved-bluegill.rooster465.autos:443#🇩🇪DE-🚀@VPNine1
 trojan://AE62539071@moved-bluegill.rooster465.autos:443?allowInsecure=0#_%E5%BE%B7%E5%9B%BD_85
-trojan://AE62539071@proper-marlin.rooster465.autos:443#🇩🇪DE-🚀@VPNine1
+trojan://AE62539071@moved-bluegill.rooster465.autos:443?allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 trojan://AE62539071@proper-marlin.rooster465.autos:443?allowInsecure=0#_%E5%BE%B7%E5%9B%BD_98
 trojan://AE62539071@sterling-macaw.rooster465.autos:443#🇩🇪DE-🚀@VPNine1
 trojan://AE62539071@sterling-macaw.rooster465.autos:443?allowInsecure=0#_%E5%BE%B7%E5%9B%BD_79
+trojan://AE62539071@sterling-macaw.rooster465.autos:443?allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 trojan://AE62539071@teaching-gnu.rooster465.autos:443#🇩🇪DE-🚀@VPNine1
 trojan://AE62539071@teaching-gnu.rooster465.autos:443?allowInsecure=0#_%E5%BE%B7%E5%9B%BD_81
-trojan://AE62539071@up-dinosaur.rooster465.autos:443#🇩🇪DE-🚀@VPNine1
 trojan://AE62539071@up-dinosaur.rooster465.autos:443?allowInsecure=0#_%E5%BE%B7%E5%9B%BD_80
 trojan://Cl150MQWlG@209.250.236.93:443?security=tls&sni=irancell-ir-4.mmdruby13.store&type=grpc#%F0%9F%87%A9%F0%9F%87%AADE-209.250.236.93-8575
 trojan://ED177480-E516-11EA-8B44-BBC4E882BA0B@js04.balala2016.xyz:20261?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-91.195.240.94-6589
@@ -385,7 +384,6 @@ vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443/?type=raw&encry
 vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.11.151:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=random&security=reality&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&sid=#-%3EDE%2B%28%40DeamNet_Proxy%29%20%284%29
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.135.249:80?path=%2FTelegram%2FXV2ray%3Fed&security=none&encryption=none&host=Csgo.XV2ray.xn--2b5b.127.0.0.1.Offline.Download.Down.Online.0.2.1.Tor.xn--g28h.dns-dynamic.net.&type=ws#DE🇩🇪
 vless://7c9b4360-6be9-47f2-ace9-b87297ea3d8f@157.90.165.181:11762?encryption=none&flow=xtls-rprx-vision&fp=&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&security=reality&sni=swdist.apple.com&type=tcp#REALITY|DE🇩🇪
-vless://7fc1ee8b-3abf-4b4e-ab73-007460d767bd@91.107.182.197:25520/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=CdbZitEgBioklscSAiU8eGR_sRvzLPrH3davu5DrNBc&sid=a8de8bc1e9f5ef&packetEncoding=xudp#德国
 vless://8033102198@144.31.168.91:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=de14.fast-connect-service.site#DE🇩🇪
 vless://833f628c-1d6b-4dd1-89c9-40a8320f1a2c@144.31.159.84:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.nvidia.com&fp=firefox&security=reality&pbk=e3pn9C1M3g6zh0CMZS3L-GuDH71NNUcoy18quvlgfWw&sid=165b0fe73e74#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AA%C2%AE%EF%B8%8FGermany%C2%A9%EF%B8%8FD%C3%BCsseldorf%F0%9F%85%BF%EF%B8%8Fping%3A26.79ms
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Mg3ZxHNUFbX96q1HpS3WReeM7rnhEsXXtlEzxALeTDc&security=reality&sid=d8d3dc6c3ca45dd4&sni=2.oncloudnineservicestreang.com&type=tcp#REALITY|DE🇩🇪

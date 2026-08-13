@@ -6,7 +6,6 @@ ss://2e4101cd-40b4-4d1a-8df6-cc949c136e5a@pro-tr.emrata.top:443/?type=tcp&encryp
 ss://470c7664-3262-afbb-2bef-f6f0f5e83815@yas.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.203#TR🇹🇷
 ss://75be9fdf-c9ec-4281-b363-aa29870b8872@tr3.hardvezoo.ir:2056?security=reality&encryption=none&pbk=nOzTTMD0a9cmoj0-zMO1atqgRuUXAX0rwZbTe1B-m28&host=www.speedtest.net&headerType=none&fp=chrome&type=tcp&sni=sub.hardvezoo.ir&sid=03a4141e0ea1ceb7#REALITY|TR🇹🇷
 ss://7d84c400-78a5-4dab-9ffb-198898d17770@vip.almavpn.shop:8080?encryption=none&security=reality&type=tcp&headerType=none&sni=dl.google.com&fp=chrome&pbk=3QAaX5dALyJBIOzOSIZvE6QIMhCNB9obwbSab7VNChw&sid=ad2487d2d9741e61#🆔soskeynet%20🔒%20VL-TCP-%20🇹🇷%20TR%20down
-ss://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443/?type=grpc&encryption=none&flow=&serviceName=grpc#土耳其
 ss://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?encryption=none&security=none&serviceName=grpc&type=grpc#TR🇹🇷
 ss://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#TR🇹🇷
 ss://7fa91a52-54d0-442f-b550-cf83d916918c@edge-tr-ist.cdn.sx:2083/?type=tcp&encryption=none&flow=&security=tls&sni=edge-tr-ist.cdn.sx&fp=chrome&packetEncoding=xudp#土耳其
@@ -52,7 +51,6 @@ vless://2e4101cd-40b4-4d1a-8df6-cc949c136e5a@pro-tr.emrata.top:443/?type=tcp&enc
 vless://470c7664-3262-afbb-2bef-f6f0f5e83815@yas.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.203#TR🇹🇷
 vless://75be9fdf-c9ec-4281-b363-aa29870b8872@tr3.hardvezoo.ir:2056?security=reality&encryption=none&pbk=nOzTTMD0a9cmoj0-zMO1atqgRuUXAX0rwZbTe1B-m28&host=www.speedtest.net&headerType=none&fp=chrome&type=tcp&sni=sub.hardvezoo.ir&sid=03a4141e0ea1ceb7#REALITY|TR🇹🇷
 vless://7d84c400-78a5-4dab-9ffb-198898d17770@vip.almavpn.shop:8080?encryption=none&security=reality&type=tcp&headerType=none&sni=dl.google.com&fp=chrome&pbk=3QAaX5dALyJBIOzOSIZvE6QIMhCNB9obwbSab7VNChw&sid=ad2487d2d9741e61#🆔soskeynet%20🔒%20VL-TCP-%20🇹🇷%20TR%20down
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443/?type=grpc&encryption=none&flow=&serviceName=grpc#土耳其
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?encryption=none&security=none&serviceName=grpc&type=grpc#TR🇹🇷
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#TR🇹🇷
 vless://7fa91a52-54d0-442f-b550-cf83d916918c@edge-tr-ist.cdn.sx:2083/?type=tcp&encryption=none&flow=&security=tls&sni=edge-tr-ist.cdn.sx&fp=chrome&packetEncoding=xudp#土耳其
