@@ -1,5 +1,4 @@
 ss://06d44c57-8e1a-41f4-b9c4-65d35869e078@62.133.63.202:13868?security=reality&encryption=none&pbk=FaX6hUpswBFFN-GaXFmFK8bVWYcPlrB4KP26n_INgko&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=e852dc#REALITY|TR🇹🇷
-ss://08fcff42-a045-4660-99b4-c9d20e5e3264@tra.montago-shop.ir:42538?encryption=none&type=tcp&headerType=http&path=/&host=play.googleapis.com#🇹🇷Turkey
 ss://1965899d6e8d455a833a212f9145555e@62.133.63.221:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=apple.com&pbk=79ZqTj0XqzblUu5jWvXdDywlQDZFeFmNlGS7Ivg2RHI&sid=aabbccdd&fp=random#REALITY|TR🇹🇷
 ss://1a49012e-1dc4-45b7-a97c-3404bc915a66@tr-ist-3.blook.network:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tr-ist-3.blook.network&fp=firefox&security=reality&pbk=W58BNG-2mtSvQYg7Id1yuW2-XqtLj0zoutETNsQuWkA&sid=45f9dc94#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B9%F0%9F%87%B7%C2%AE%EF%B8%8FTurkey%C2%A9%EF%B8%8FIstanbul%F0%9F%85%BF%EF%B8%8Fping%3A93.58ms
 ss://2e4101cd-40b4-4d1a-8df6-cc949c136e5a@pro-tr.emrata.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pro-tr.emrata.top&fp=chrome&security=reality&pbk=da5UVhoC5QOCDm84AxB-RRxf0z2nySZ3lOemgqizLS4&sid=#土耳其
@@ -42,7 +41,6 @@ trojan://humanity@86.38.214.205:443?allowInsecure=1&sni=www.ignitelimit.com#%E5%
 trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?allowInsecure=0#TR-193.124.46.134-6246
 trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#%F0%9F%87%B9%F0%9F%87%B7TR-193.124.46.134-6246
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@62.133.63.202:13868?security=reality&encryption=none&pbk=FaX6hUpswBFFN-GaXFmFK8bVWYcPlrB4KP26n_INgko&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=e852dc#REALITY|TR🇹🇷
-vless://08fcff42-a045-4660-99b4-c9d20e5e3264@tra.montago-shop.ir:42538?encryption=none&type=tcp&headerType=http&path=/&host=play.googleapis.com#🇹🇷Turkey
 vless://1965899d6e8d455a833a212f9145555e@62.133.63.221:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=apple.com&pbk=79ZqTj0XqzblUu5jWvXdDywlQDZFeFmNlGS7Ivg2RHI&sid=aabbccdd&fp=random#REALITY|TR🇹🇷
 vless://1a49012e-1dc4-45b7-a97c-3404bc915a66@tr-ist-3.blook.network:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tr-ist-3.blook.network&fp=firefox&security=reality&pbk=W58BNG-2mtSvQYg7Id1yuW2-XqtLj0zoutETNsQuWkA&sid=45f9dc94#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B9%F0%9F%87%B7%C2%AE%EF%B8%8FTurkey%C2%A9%EF%B8%8FIstanbul%F0%9F%85%BF%EF%B8%8Fping%3A93.58ms
 vless://2e4101cd-40b4-4d1a-8df6-cc949c136e5a@pro-tr.emrata.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pro-tr.emrata.top&fp=chrome&security=reality&pbk=da5UVhoC5QOCDm84AxB-RRxf0z2nySZ3lOemgqizLS4&sid=#土耳其
