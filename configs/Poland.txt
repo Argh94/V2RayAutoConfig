@@ -1,5 +1,4 @@
 hy2://16ab4d4a-fd81-4535-9b7b-346677226ce8@pol.cryptoofarm.com:443/?sni=pol.cryptoofarm.com#波兰
-hy2://16ab4d4a-fd81-4535-9b7b-346677226ce8@pol.cryptoofarm.com:443/?sni=pol.cryptoofarm.com#波兰#🌐سرور
 hy2://2b5f7fc3d38f4798a0f62d4ef8876528@pl6.lckdwn.ru:443/?insecure=1&sni=pl6.lckdwn.ru&obfs=salamander&obfs-password=1yvnm8sv41#波兰
 hy2://b11841e3-2acc-45ff-afe0-a9ed9a823aaa@rpc-2068.internet-booster.com:443/?sni=rpc-2068.internet-booster.com#波兰
 hy2://df489ab2-2242-4952-a774-1074a3a31f41@eh-spl1.craft-supply.org:8443/?sni=eh-spl1.craft-supply.org#波兰
@@ -85,6 +84,7 @@ ss://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&enc
 ss://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=mmad&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#REALITY|PL🇵🇱
 ss://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meow-warsaw.nethcloud.top:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&security=reality&sni=www.wikihow.com&type=tcp#REALITY|PL🇵🇱
 ss://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meow-warsaw.nethcloud.top:8443?encryption=none&fp=&mode=auto&path=%2F&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&security=reality&sni=wikihow.com&type=xhttp#REALITY|PL🇵🇱
+ss://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meow-warsaw.nethcloud.top:8443?mode=auto&path=/&security=reality&encryption=none&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&host=wikihow.com&type=xhttp&sni=wikihow.com#Poland
 ss://b2e8f455-3bd9-477c-b8f0-a3198f601565@school.fizikade.ir:443?encryption=none&security=reality&sni=play.google.com&fp=safari&pbk=LrDYMSt1pt2h6n-7YnHpcUAb_IG7QsQ0rfXz8RqkfCY&sid=9e0fac51cc19d2&spx=%2Fnaranv2ray&allowinsecure=1&type=tcp&headerType=http#REALITY|PL🇵🇱
 ss://c5c55441-6b1d-4a44-aa35-da5a015e7df9@193.247.82.92:443?encryption=none&fp=chrome&mode=auto&security=tls&sni=pla.tunnelguard.ru&type=xhttp#PL🇵🇱
 ss://dd9b5b35-c3bb-4e26-8b26-daedffcb3921@45.140.204.119:443/?type=raw&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=vl5WQd9UDA3DvLxPPS1yF9ivUipxkxoxhaBRHpnyLho&sid=67fb#-%3EPL%2B%28%40DeamNet_Proxy%29%20%281%29
@@ -149,6 +149,7 @@ vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=mmad&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#REALITY|PL🇵🇱
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meow-warsaw.nethcloud.top:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&security=reality&sni=www.wikihow.com&type=tcp#REALITY|PL🇵🇱
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meow-warsaw.nethcloud.top:8443?encryption=none&fp=&mode=auto&path=%2F&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&security=reality&sni=wikihow.com&type=xhttp#REALITY|PL🇵🇱
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meow-warsaw.nethcloud.top:8443?mode=auto&path=/&security=reality&encryption=none&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&host=wikihow.com&type=xhttp&sni=wikihow.com#Poland
 vless://b2e8f455-3bd9-477c-b8f0-a3198f601565@school.fizikade.ir:443?encryption=none&security=reality&sni=play.google.com&fp=safari&pbk=LrDYMSt1pt2h6n-7YnHpcUAb_IG7QsQ0rfXz8RqkfCY&sid=9e0fac51cc19d2&spx=%2Fnaranv2ray&allowinsecure=1&type=tcp&headerType=http#REALITY|PL🇵🇱
 vless://c5c55441-6b1d-4a44-aa35-da5a015e7df9@193.247.82.92:443?encryption=none&fp=chrome&mode=auto&security=tls&sni=pla.tunnelguard.ru&type=xhttp#PL🇵🇱
 vless://dd9b5b35-c3bb-4e26-8b26-daedffcb3921@45.140.204.119:443/?type=raw&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=vl5WQd9UDA3DvLxPPS1yF9ivUipxkxoxhaBRHpnyLho&sid=67fb#-%3EPL%2B%28%40DeamNet_Proxy%29%20%281%29
