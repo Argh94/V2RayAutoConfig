@@ -22,6 +22,7 @@ ss://42f4be04-31d7-477d-9549-c1f79c6b9ee0@51.38.32.227:2096?encryption=none&secu
 ss://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#REALITY|FR🇫🇷
 ss://53821f3c-5b03-456a-89f3-f8379f130752@57.128.81.193:443/?type=raw&encryption=none&sni=www.samsung.com&security=reality&pbk=fXdtB8vImCUJMQBLcCNK7p1v3rVzx6HllaDLk8Vc4EU&sid=239dcd11#-%3EFR%2B%28%40DeamNet_Proxy%29%20%285%29
 ss://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr15.mechvpn.online:443?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#FR🇫🇷
+ss://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr15.mechvpn.online:443?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision-udp443#France
 ss://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr76.mechvpn.online:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=fr76.mechvpn.online&fp=chrome#法国
 ss://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=nMlxwhP34_5wFPscbso_hOfRDmsj9DonMpDSXUrnJR8&sid=ead3d6f82a9d#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2863%29
 ss://67f20960-bfdf-43a9-a33b-bd456749cce2@3x-ui-multi-production-5f14.up.railway.app:443?fp=chrome&host=3x-ui-multi-production-5f14.up.railway.app&path=/in4&security=tls&sni=3x-ui-multi-production-5f14.up.railway.app&type=ws#France-fr-client
@@ -150,6 +151,7 @@ trojan://ND91608427@classic-gator.rooster465.autos:443?allowInsecure=1&sni=class
 trojan://ND91608427@classic-gator.rooster465.autos:443?security=tls&sni=classic-gator.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-13.36.175.151-0226
 trojan://ND91608427@fancy-skink.rooster465.autos:443#FR🇫🇷
 trojan://ND91608427@fancy-skink.rooster465.autos:443?allowInsecure=0&sni=fancy-skink.rooster465.autos#FR-15.237.137.197-0204
+trojan://ND91608427@fancy-skink.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#France
 trojan://ND91608427@fancy-skink.rooster465.autos:443?security=tls&sni=fancy-skink.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-15.237.137.197-0204
 trojan://ND91608427@fr1.levikogjgfdd.ir:443?security=tls&host=Telegram-Leviko_v2ray&headerType=none&fp=chrome&type=tcp&sni=classic-gator.rooster465.autos#FR🇫🇷
 trojan://ND91608427@fr1.levikogjgfdd.ir:443?security=tls&insecure=0&host=Telegram-Leviko_v2ray&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=classic-gator.rooster465.autos#FR🇫🇷
@@ -308,6 +310,7 @@ vless://42f4be04-31d7-477d-9549-c1f79c6b9ee0@51.38.32.227:2096?encryption=none&s
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#REALITY|FR🇫🇷
 vless://53821f3c-5b03-456a-89f3-f8379f130752@57.128.81.193:443/?type=raw&encryption=none&sni=www.samsung.com&security=reality&pbk=fXdtB8vImCUJMQBLcCNK7p1v3rVzx6HllaDLk8Vc4EU&sid=239dcd11#-%3EFR%2B%28%40DeamNet_Proxy%29%20%285%29
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr15.mechvpn.online:443?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#FR🇫🇷
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr15.mechvpn.online:443?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision-udp443#France
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr76.mechvpn.online:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=fr76.mechvpn.online&fp=chrome#法国
 vless://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=nMlxwhP34_5wFPscbso_hOfRDmsj9DonMpDSXUrnJR8&sid=ead3d6f82a9d#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2863%29
 vless://67f20960-bfdf-43a9-a33b-bd456749cce2@3x-ui-multi-production-5f14.up.railway.app:443?fp=chrome&host=3x-ui-multi-production-5f14.up.railway.app&path=/in4&security=tls&sni=3x-ui-multi-production-5f14.up.railway.app&type=ws#France-fr-client
