@@ -5,7 +5,6 @@ ss://15c75de9a09149d0bf0393d855a98082@83.217.9.220:8443?encryption=none&type=xht
 ss://1965899d6e8d455a833a212f9145555e@62.133.63.221:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=apple.com&pbk=79ZqTj0XqzblUu5jWvXdDywlQDZFeFmNlGS7Ivg2RHI&sid=aabbccdd&fp=random#REALITY|TR🇹🇷
 ss://1a49012e-1dc4-45b7-a97c-3404bc915a66@tr-ist-3.blook.network:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tr-ist-3.blook.network&fp=firefox&security=reality&pbk=W58BNG-2mtSvQYg7Id1yuW2-XqtLj0zoutETNsQuWkA&sid=45f9dc94#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B9%F0%9F%87%B7%C2%AE%EF%B8%8FTurkey%C2%A9%EF%B8%8FIstanbul%F0%9F%85%BF%EF%B8%8Fping%3A93.58ms
 ss://1ee46997-c514-4ab0-a6d3-ad0492adab15@tri.montago-shop.ir:42538?encryption=none&security=none&type=tcp&headerType=http&host=tra.montago-shop.ir&path=%2F#TR🇹🇷
-ss://2e4101cd-40b4-4d1a-8df6-cc949c136e5a@pro-tr.emrata.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pro-tr.emrata.top&fp=chrome&security=reality&pbk=da5UVhoC5QOCDm84AxB-RRxf0z2nySZ3lOemgqizLS4&sid=#土耳其
 ss://470c7664-3262-afbb-2bef-f6f0f5e83815@yas.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.203#TR🇹🇷
 ss://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?encryption=none&security=none&serviceName=grpc&type=grpc#TR🇹🇷
 ss://7fa91a52-54d0-442f-b550-cf83d916918c@edge-tr-ist.cdn.sx:2083/?type=tcp&encryption=none&flow=&security=tls&sni=edge-tr-ist.cdn.sx&fp=chrome&packetEncoding=xudp#土耳其
@@ -47,7 +46,6 @@ vless://15c75de9a09149d0bf0393d855a98082@83.217.9.220:8443?encryption=none&type=
 vless://1965899d6e8d455a833a212f9145555e@62.133.63.221:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=apple.com&pbk=79ZqTj0XqzblUu5jWvXdDywlQDZFeFmNlGS7Ivg2RHI&sid=aabbccdd&fp=random#REALITY|TR🇹🇷
 vless://1a49012e-1dc4-45b7-a97c-3404bc915a66@tr-ist-3.blook.network:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tr-ist-3.blook.network&fp=firefox&security=reality&pbk=W58BNG-2mtSvQYg7Id1yuW2-XqtLj0zoutETNsQuWkA&sid=45f9dc94#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B9%F0%9F%87%B7%C2%AE%EF%B8%8FTurkey%C2%A9%EF%B8%8FIstanbul%F0%9F%85%BF%EF%B8%8Fping%3A93.58ms
 vless://1ee46997-c514-4ab0-a6d3-ad0492adab15@tri.montago-shop.ir:42538?encryption=none&security=none&type=tcp&headerType=http&host=tra.montago-shop.ir&path=%2F#TR🇹🇷
-vless://2e4101cd-40b4-4d1a-8df6-cc949c136e5a@pro-tr.emrata.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pro-tr.emrata.top&fp=chrome&security=reality&pbk=da5UVhoC5QOCDm84AxB-RRxf0z2nySZ3lOemgqizLS4&sid=#土耳其
 vless://470c7664-3262-afbb-2bef-f6f0f5e83815@yas.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.203#TR🇹🇷
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?encryption=none&security=none&serviceName=grpc&type=grpc#TR🇹🇷
 vless://7fa91a52-54d0-442f-b550-cf83d916918c@edge-tr-ist.cdn.sx:2083/?type=tcp&encryption=none&flow=&security=tls&sni=edge-tr-ist.cdn.sx&fp=chrome&packetEncoding=xudp#土耳其
