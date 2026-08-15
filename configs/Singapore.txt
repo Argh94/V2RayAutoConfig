@@ -86,6 +86,7 @@ trojan://6ec301428255a78a1d826988d86cc87e@16.162.109.29:45744?allowInsecure=1&sn
 trojan://6ec301428255a78a1d826988d86cc87e@16.162.109.29:45744?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://6ec301428255a78a1d826988d86cc87e@16.162.109.29:51396?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://6ec301428255a78a1d826988d86cc87e@16.162.109.29:51396?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
+trojan://6ec301428255a78a1d826988d86cc87e@16.162.109.29:51396?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://6f0a9d0fa39d65fa@5.44.249.43:3389?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-5.44.249.43-5146
 trojan://71086710-33eb-11ed-adce-1239d0255272@sg1-trojan.bonds.id:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-103.253.24.212-5025
 trojan://7484d7c8-b010-373e-9c2a-2b9d20f8c963@cmi.doubledou.win:40025?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-45.88.42.65-0046
@@ -100,11 +101,11 @@ trojan://FH72359861@calm-honeybee.rooster465.autos:443?security=tls&sni=calm-hon
 trojan://FH72359861@charming-ox.rooster465.autos:443?allowInsecure=0#_%E6%96%B0%E5%8A%A0%E5%9D%A1_29
 trojan://FH72359861@charming-ox.rooster465.autos:443?allowInsecure=1&sni=charming-ox.rooster465.autos#🇸🇬[openproxylist.com]trojan-SG
 trojan://FH72359861@charming-ox.rooster465.autos:443?security=tls&headerType=&type=tcp&sni=charming-ox.rooster465.autos#🇸🇬|SG|@wxgqlfx|1
-trojan://FH72359861@fond-chipmunk.rooster465.autos:443?#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://FH72359861@fond-chipmunk.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.140.89.211-0397
 trojan://FH72359861@immune-grackle.rooster465.autos:443?allowInsecure=0#_%E6%96%B0%E5%8A%A0%E5%9D%A1_8
 trojan://FH72359861@loved-shark.rooster465.autos:443?security=tls&sni=loved-shark.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-47.129.144.5-0394
 trojan://FH72359861@master-possum.rooster465.autos:443?security=tls&sni=master-possum.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-47.129.161.121-0388
+trojan://FH72359861@worthy-perch.rooster465.autos:443?#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12%20528.9KB%2Fs
 trojan://FH72359861@worthy-perch.rooster465.autos:443?allowInsecure=0#_%E6%96%B0%E5%8A%A0%E5%9D%A1_10
 trojan://FH72359861@worthy-perch.rooster465.autos:443?allowInsecure=0&sni=worthy-perch.rooster465.autos#_%E6%96%B0%E5%8A%A0%E5%9D%A1_143
 trojan://FH72359861@worthy-perch.rooster465.autos:443?allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1
@@ -198,3 +199,4 @@ vmess://eyJhZGQiOiIxMjguMTk5LjI0My4xNTciLCJ2IjoyLCJwcyI6IvCfh7jwn4esX1NHX+aWsOWK
 vmess://eyJhZGQiOiIxMjkuMjI2LjE1Ny4yMjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDk4NjVkNjMtZDk1Yy00NTRiLWJhMDctOGU4OGI4MzhhODAxIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiNTkxMjEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiIsInZjbiI6IiIsInBzIjoiU0cg8J+HuPCfh6wgfCBAUmF5ZGlrYWx4IHwgQ0YwNzUwIn0=
 vmess://eyJhZGQiOiIxMjkuMjI2LjE1Ny4yMjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDk4NjVkNjMtZDk1Yy00NTRiLWJhMDctOGU4OGI4MzhhODAxIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNTkxMjEiLCJwcyI6IkBOZXQycmF5IFNH8J+HuPCfh6wiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxMzkuNTkuOTYuMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZWMyY2FmYWEtZmE2ZC00YTk3LWRkNmEtNGQ1YmJkZGU3MzFmIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI1MzYyNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IDVBRjFCMCJ9
+vmess://eyJhZGQiOiJzbGltZS1yaGluZXN0b25lLXNweS5nbGl0Y2gubWUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJlc3QtY2hhcm0tcGVkaWF0cmljaWFuLmdsaXRjaC5tZSIsImlkIjoiMWQ1ZmI0OTYtMTlmYi00OGZiLTk4ODAtYTE0NzMyNmRlZTYyIiwibmV0Ijoid3MiLCJwYXRoIjoiLzFkNWZiNDk2LTE5ZmItNDhmYi05ODgwLWExNDczMjZkZWU2Mi12bWVzcyIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IDgzNDFGQSJ9
