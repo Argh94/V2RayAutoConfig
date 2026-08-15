@@ -1,8 +1,8 @@
 hy2://16ab4d4a-fd81-4535-9b7b-346677226ce8@pol.cryptoofarm.com:443/?sni=pol.cryptoofarm.com#波兰
+hy2://16ab4d4a-fd81-4535-9b7b-346677226ce8@pol.cryptoofarm.com:443/?sni=pol.cryptoofarm.com#波兰#🌐سرور
 hy2://2b5f7fc3d38f4798a0f62d4ef8876528@pl6.lckdwn.ru:443/?insecure=1&sni=pl6.lckdwn.ru&obfs=salamander&obfs-password=1yvnm8sv41#波兰
 hy2://b11841e3-2acc-45ff-afe0-a9ed9a823aaa@rpc-2068.internet-booster.com:443/?sni=rpc-2068.internet-booster.com#波兰
 hy2://df489ab2-2242-4952-a774-1074a3a31f41@eh-spl1.craft-supply.org:8443/?sni=eh-spl1.craft-supply.org#波兰
-hy2://df489ab2-2242-4952-a774-1074a3a31f41@eh-spl1.craft-supply.org:8443/?sni=eh-spl1.craft-supply.org#波兰#🌐سرور
 hysteria2://16ab4d4a-fd81-4535-9b7b-346677226ce8@pol.cryptoofarm.com:443?sni=pol.cryptoofarm.com#%E6%B3%A2%E5%85%B0
 hysteria2://2b5f7fc3d38f4798a0f62d4ef8876528@pl6.lckdwn.ru:443?insecure=1&sni=pl6.lckdwn.ru&obfs=salamander&obfs-password=1yvnm8sv41#%E6%B3%A2%E5%85%B0%20%231
 hysteria2://b11841e3-2acc-45ff-afe0-a9ed9a823aaa@rpc-2068.internet-booster.com:443?sni=rpc-2068.internet-booster.com#%E6%B3%A2%E5%85%B0%20%232
@@ -13,7 +13,6 @@ ss://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@95.85.253.109:8443/?type=ws&encryption
 ss://14927bde-0fc8-447c-8c5f-e7fd1bfc6698@78.17.159.71:8443/?type=grpc&encryption=none&flow=&serviceName=tab.cf.v1&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=wjwbbmCr0pjMb6Qvvcf7KMrE-w92jsqJbrNQy8g5EDg&sid=617a11ec485b2d90#波兰
 ss://199436d3-2fa2-4e34-a1de-844419de5a4f@pl-allnet.onlinernet.ir:20000/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.yahoo.com&fp=chrome&security=reality&pbk=VpCHC5IwaHLMdVkwK5iFplUBNflB-b4Qghyme-8HBl0&sid=6ba85179e30d4fc4#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B5%F0%9F%87%B1%C2%AE%EF%B8%8FPoland%C2%A9%EF%B8%8FWarsaw%F0%9F%85%BF%EF%B8%8Fping%3A73.47ms
 ss://39ad12ba-914a-4aa1-a825-3ee4db7c0a52@89.167.12.115:22579?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%E6%B3%A2%E5%85%B0%20V2CROSS.COM%202
-ss://39ad12ba-914a-4aa1-a825-3ee4db7c0a52@89.167.12.115:22579?security=none&encryption=none&headerType=none&type=tcp#%E6%B3%A2%E5%85%B0+V2CROSS.COM
 ss://416560bf-9ebb-4a43-96b6-e353e3d3572a@45.140.204.121:443/?type=raw&encryption=none&sni=yahoo.com&security=reality&pbk=MYU0vSA5rfofPjIwynqoPsr60F_swjCHCDX0yJPKwT0&sid=08bf0000#-%3EPL%2B%28%40DeamNet_Proxy%29%20%285%29
 ss://41784775-8846-4579-9d9d-9ad6ea802e2e@188.119.123.112:49001/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=de-7.techprovide.icu&allowInsecure=1&fp=chrome&security=reality&pbk=_LbLyj6OynSREglFpkhdrxVmh_bf9p60uTEWfQbtUWo&sid=1a6b1f9d0e&packetEncoding=xudp#波兰
 ss://47ec2037-4d21-453b-9c10-0c827ce998a8@64.176.73.210:15667/?type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B5%F0%9F%87%B1%C2%AE%EF%B8%8FPoland%C2%A9%EF%B8%8FWarsaw%F0%9F%85%BF%EF%B8%8Fping%3A36ms
@@ -110,9 +109,11 @@ trojan://AE62539071@relative-locust.rooster465.autos:443?security=tls#%F0%9F%87%
 trojan://AE62539071@tolerant-mosquito.rooster465.autos:443?allowInsecure=0&sni=tolerant-mosquito.rooster465.autos#PL-202.78.163.89-0158
 trojan://AE62539071@tolerant-mosquito.rooster465.autos:443?security=tls&sni=tolerant-mosquito.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.89-0158
 trojan://FH72359861@magnetic-caiman.rooster465.autos:443?allowInsecure=0&sni=magnetic-caiman.rooster465.autos#PL-202.78.163.233-0396
+trojan://FH72359861@magnetic-caiman.rooster465.autos:443?allowInsecure=1&sni=magnetic-caiman.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1_PL_%E6%B3%A2%E5%85%B0
 trojan://FH72359861@magnetic-caiman.rooster465.autos:443?allowInsecure=1&sni=magnetic-caiman.rooster465.autos#_PL_%E6%B3%A2%E5%85%B0_1
 trojan://FH72359861@magnetic-caiman.rooster465.autos:443?security=tls&sni=magnetic-caiman.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.233-0396
 trojan://FH72359861@primary-leech.rooster465.autos:443?allowInsecure=0&sni=primary-leech.rooster465.autos#PL-202.78.163.156-0398
+trojan://FH72359861@primary-leech.rooster465.autos:443?allowInsecure=1&sni=primary-leech.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1_PL_%E6%B3%A2%E5%85%B0
 trojan://FH72359861@primary-leech.rooster465.autos:443?allowInsecure=1&sni=primary-leech.rooster465.autos#_PL_%E6%B3%A2%E5%85%B0_2
 trojan://FH72359861@primary-leech.rooster465.autos:443?security=tls&sni=primary-leech.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.156-0398
 trojan://IQ68037294@pl.levikogjgfdd.ir:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=optimal-urchin.rooster465.autos#PL🇵🇱
@@ -147,7 +148,6 @@ vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@95.85.253.109:8443/?type=ws&encrypt
 vless://14927bde-0fc8-447c-8c5f-e7fd1bfc6698@78.17.159.71:8443/?type=grpc&encryption=none&flow=&serviceName=tab.cf.v1&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=wjwbbmCr0pjMb6Qvvcf7KMrE-w92jsqJbrNQy8g5EDg&sid=617a11ec485b2d90#波兰
 vless://199436d3-2fa2-4e34-a1de-844419de5a4f@pl-allnet.onlinernet.ir:20000/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.yahoo.com&fp=chrome&security=reality&pbk=VpCHC5IwaHLMdVkwK5iFplUBNflB-b4Qghyme-8HBl0&sid=6ba85179e30d4fc4#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B5%F0%9F%87%B1%C2%AE%EF%B8%8FPoland%C2%A9%EF%B8%8FWarsaw%F0%9F%85%BF%EF%B8%8Fping%3A73.47ms
 vless://39ad12ba-914a-4aa1-a825-3ee4db7c0a52@89.167.12.115:22579?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%E6%B3%A2%E5%85%B0%20V2CROSS.COM%202
-vless://39ad12ba-914a-4aa1-a825-3ee4db7c0a52@89.167.12.115:22579?security=none&encryption=none&headerType=none&type=tcp#%E6%B3%A2%E5%85%B0+V2CROSS.COM
 vless://416560bf-9ebb-4a43-96b6-e353e3d3572a@45.140.204.121:443/?type=raw&encryption=none&sni=yahoo.com&security=reality&pbk=MYU0vSA5rfofPjIwynqoPsr60F_swjCHCDX0yJPKwT0&sid=08bf0000#-%3EPL%2B%28%40DeamNet_Proxy%29%20%285%29
 vless://41784775-8846-4579-9d9d-9ad6ea802e2e@188.119.123.112:49001/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=de-7.techprovide.icu&allowInsecure=1&fp=chrome&security=reality&pbk=_LbLyj6OynSREglFpkhdrxVmh_bf9p60uTEWfQbtUWo&sid=1a6b1f9d0e&packetEncoding=xudp#波兰
 vless://47ec2037-4d21-453b-9c10-0c827ce998a8@64.176.73.210:15667/?type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B5%F0%9F%87%B1%C2%AE%EF%B8%8FPoland%C2%A9%EF%B8%8FWarsaw%F0%9F%85%BF%EF%B8%8Fping%3A36ms
