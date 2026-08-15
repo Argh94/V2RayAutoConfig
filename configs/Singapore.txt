@@ -1,6 +1,4 @@
 hy2://4eee1b74-f71e-4c88-ac26-9eec362e40d1@hkt1.nekohub.xyz:20007/?insecure=1&sni=www.bing.com#🇸🇬SG
-hy2://9d3356a0-c07e-43cc-b30e-450bd50521b8@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#新加坡
-hy2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@sg3.xiaoliyu.cyou:4466/?insecure=1&sni=sg3.xiaoliyu.cyou#新加坡
 hysteria2://4eee1b74-f71e-4c88-ac26-9eec362e40d1@hkt1.nekohub.xyz:20007?insecure=1&sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%ACSG
 hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@xjp1.mangshe.xyz:2055?insecure=1&sni=xjp1.mangshe.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A1
 hysteria2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@sg3.xiaoliyu.cyou:4466?insecure=1&sni=sg3.xiaoliyu.cyou#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%231
@@ -16,8 +14,8 @@ ss://2864749a-b45d-52c3-0f36-e64224f5480f@188.166.176.63:443/?type=raw&encryptio
 ss://53b59cb5-c741-3399-9065-93dc34685f5b@188.253.123.164:39561/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.cloudflare.com&fp=chrome&security=reality&pbk=JrWOojSFwFA93YjsiQkDydTItQzNAsXsHU24HuWGWjA&sid=bc8e3658db7d1323#新加坡
 ss://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&security=reality&sid=d1742269&sni=www.cloudflare.com&type=tcp#REALITY|SG🇸🇬
 ss://779d227c-f7be-4b9d-a4a9-1197c734b4e7@18.141.49.252:35308/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.tesla.com&fp=firefox&security=reality&pbk=4g1kpdmdbN6aNxeBYMj9WherunH9JSXsI_nKZTDiewE&sid=fef8dcb8cafe30#-%3ESG%2B%28%40DeamNet_Proxy%29%20%2838%29
-ss://7fc4d547-9abb-4ec3-a374-859d7e4d6a2d@38.180.249.80:443/?type=ws&encryption=none&flow=&host=fd687hery.cainiaohub.xyz&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb529&security=tls&sni=fd687hery.cainiaohub.xyz&allowInsecure=1&fp=chrome&packetEncoding=xudp#新加坡
 ss://929c5ce8-222b-4d93-a80f-9ed580e2e8c1@cloudgp-sgp-b.outleft-hy.xyz:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=xijWLJNmsFrjlEfkVKSrjPnBAGyp5S2CJwNGP-oSzA8&sid=5ca436a6&packetEncoding=xudp#🇸🇬SG
+ss://F5363530-7194-486B-BF2C-9AF7E75F6543@sg4-r.link-t7.com:10039/?type=grpc&encryption=none&flow=&serviceName=update&sni=d1.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#新加坡
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0SHViMmY5SnloRUN5QXEyT3BtME5T@51.79.161.232:443#%F0%9F%87%B8%F0%9F%87%ACSG-51.79.161.232-6657
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.160.117:810#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.160.117-0050
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.136:801#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.136-6878
@@ -134,8 +132,8 @@ vless://2864749a-b45d-52c3-0f36-e64224f5480f@188.166.176.63:443/?type=raw&encryp
 vless://53b59cb5-c741-3399-9065-93dc34685f5b@188.253.123.164:39561/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.cloudflare.com&fp=chrome&security=reality&pbk=JrWOojSFwFA93YjsiQkDydTItQzNAsXsHU24HuWGWjA&sid=bc8e3658db7d1323#新加坡
 vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&security=reality&sid=d1742269&sni=www.cloudflare.com&type=tcp#REALITY|SG🇸🇬
 vless://779d227c-f7be-4b9d-a4a9-1197c734b4e7@18.141.49.252:35308/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.tesla.com&fp=firefox&security=reality&pbk=4g1kpdmdbN6aNxeBYMj9WherunH9JSXsI_nKZTDiewE&sid=fef8dcb8cafe30#-%3ESG%2B%28%40DeamNet_Proxy%29%20%2838%29
-vless://7fc4d547-9abb-4ec3-a374-859d7e4d6a2d@38.180.249.80:443/?type=ws&encryption=none&flow=&host=fd687hery.cainiaohub.xyz&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb529&security=tls&sni=fd687hery.cainiaohub.xyz&allowInsecure=1&fp=chrome&packetEncoding=xudp#新加坡
 vless://929c5ce8-222b-4d93-a80f-9ed580e2e8c1@cloudgp-sgp-b.outleft-hy.xyz:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=xijWLJNmsFrjlEfkVKSrjPnBAGyp5S2CJwNGP-oSzA8&sid=5ca436a6&packetEncoding=xudp#🇸🇬SG
+vless://F5363530-7194-486B-BF2C-9AF7E75F6543@sg4-r.link-t7.com:10039/?type=grpc&encryption=none&flow=&serviceName=update&sni=d1.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#新加坡
 vless://c7d5062b-604e-42b0-85d0-0ba354cee311@149.28.136.177:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=KpSo5m7AfnERJz2zbqi_Gqek65yGKzqvMYWiy9cMxCI&sid=4f3d16240bb853f8#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AC%C2%AE%EF%B8%8FSingapore%C2%A9%EF%B8%8FSingapore%20%28Pioneer%29%F0%9F%85%BF%EF%B8%8Fping%3A179.42ms
 vless://e85ce618-50cd-42e0-a8ba-5052e6be9498@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vless://efd11a89-7506-44ce-95b6-6654859f155b@178.128.52.52:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=zoom.us&alpn=h2&allowInsecure=1&fp=chrome&security=reality&pbk=EeLAX-BAjzSdRes-zpUFzVOYsBedmP8lUOHhXXJFXyI&sid=5a42dbd7e26a0415&packetEncoding=xudp#新加坡
