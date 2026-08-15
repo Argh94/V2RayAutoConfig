@@ -1,12 +1,12 @@
 hy2://95e8532b-cc69-42d4-9553-e3c23292b15b@176.124.222.180:8443/?sni=j47lq.pleiades.codes#俄罗斯
 hy2://gf1:gfhysteria2024@5.129.235.85:443/?insecure=1&sni=www.linux.com#俄罗斯
-hysteria2://553e3253-c454-431d-a7e6-42bc06ea5e14@srvhy1.ezcon24.online:8443?insecure=1&security=tls&sni=srvhy1.ezcon24.online#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@176.124.222.180:8443?sni=j47lq.pleiades.codes#%E4%BF%84%E7%BD%97%E6%96%AF
 hysteria2://gf1@5.129.235.85:443?insecure=1&sni=www.linux.com#%E4%BF%84%E7%BD%97%E6%96%AF%20%231
 ss://0108c657-a9bd-4c99-9179-74050cf78889@193.233.255.5:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#REALITY|RU🇷🇺
 ss://0108c657-a9bd-4c99-9179-74050cf78889@193.233.255.5:443?encryption=none&type=tcp&security=reality&headerType=none&sni=sellflow.org&fp=firefox&insecure=1&allowInsecure=1&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#REALITY|RU🇷🇺
 ss://0108c657-a9bd-4c99-9179-74050cf78889@193.233.255.5:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#REALITY|RU🇷🇺
 ss://02e2d68f-9982-4467-ad47-00cbeeae30e6@109.73.195.8:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ru7.cdn-global.pro&fp=chrome&security=reality&pbk=h18Rbgv9RV558p-9Pl4g_--jJjXlTZL0-jHqNK5M_n4&sid=2b8c3e90e14740d2#REALITY|RU🇷🇺
+ss://099c6e3f-e8d3-41d4-95f2-ef2eafb51cdc@87.228.122.100:2200?host=rzd.ru&path=%2Fv1&type=ws#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 ss://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.204:4100?path=%2Fv1&security=none&encryption=none&type=ws#RU🇷🇺
 ss://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.236:4100?path=%2Fv1&type=ws#RU%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%911
 ss://155e8dd4-a559-407a-9ea8-13a5e829f066@87.228.122.108:4100?path=%2Fv1&security=none&encryption=none&type=ws#RU🇷🇺
@@ -111,6 +111,7 @@ vless://0108c657-a9bd-4c99-9179-74050cf78889@193.233.255.5:443?encryption=none&f
 vless://0108c657-a9bd-4c99-9179-74050cf78889@193.233.255.5:443?encryption=none&type=tcp&security=reality&headerType=none&sni=sellflow.org&fp=firefox&insecure=1&allowInsecure=1&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#REALITY|RU🇷🇺
 vless://0108c657-a9bd-4c99-9179-74050cf78889@193.233.255.5:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#REALITY|RU🇷🇺
 vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@109.73.195.8:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ru7.cdn-global.pro&fp=chrome&security=reality&pbk=h18Rbgv9RV558p-9Pl4g_--jJjXlTZL0-jHqNK5M_n4&sid=2b8c3e90e14740d2#REALITY|RU🇷🇺
+vless://099c6e3f-e8d3-41d4-95f2-ef2eafb51cdc@87.228.122.100:2200?host=rzd.ru&path=%2Fv1&type=ws#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.204:4100?path=%2Fv1&security=none&encryption=none&type=ws#RU🇷🇺
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.236:4100?path=%2Fv1&type=ws#RU%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%911
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@87.228.122.108:4100?path=%2Fv1&security=none&encryption=none&type=ws#RU🇷🇺
