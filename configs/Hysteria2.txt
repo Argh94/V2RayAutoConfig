@@ -209,6 +209,7 @@ hysteria2://2c1611f83747dd3694e0e90cbf7d4e29@38.99.248.120:50160?insecure=1&sni=
 hysteria2://4e756809@92.4.68.18:12694?insecure=1&sni=www.bing.com#%E5%8D%B0%E5%BA%A6
 hysteria2://4e756809@92.4.68.18:12694?insecure=1&sni=www.bing.com#%E5%8D%B0%E5%BA%A6%202
 hysteria2://4e756809@92.4.68.18:12694?insecure=1&sni=www.bing.com#8%7C%E6%9C%AA%E5%91%BD%E5%90%8D%20%231
+hysteria2://4e756809@92.4.68.18:12694?sni=www.bing.com&insecure=1&allowInsecure=1#
 hysteria2://4eee1b74-f71e-4c88-ac26-9eec362e40d1@hkt1.nekohub.xyz:20007?insecure=1&sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%ACSG
 hysteria2://4ff4adfb8e7a4bae9c959c54fa5af52f@assets.gateway-stream.com:52000?insecure=0&alpn=h3&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=gu74jg3ym0e21zco#MTMVPN%207
 hysteria2://4ff4adfb8e7a4bae9c959c54fa5af52f@assets.gateway-stream.com:52000?security=tls&obfs=salamander&alpn=h3&obfs-password=gu74jg3ym0e21zco&insecure=0&sni=assets.gateway-stream.com#
@@ -453,6 +454,8 @@ hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443?ins
 hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443?sni=host-vds2-fr.kvncococ.org#%E6%B3%95%E5%9B%BD%20%232
 hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443?sni=host-vds2-fr.kvncococ.org#@OutlineReleasedKey
 hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443?sni=host-vds2-fr.kvncococ.org&path=%2f#
+hysteria2://d86efa900c2f4bb6bde662f1ef6413b8@assets.gateway-stream.com:52029?security=tls&obfs=salamander&alpn=h3&obfs-password=v8h63irhnay97090&insecure=0&sni=#
+hysteria2://d86efa900c2f4bb6bde662f1ef6413b8@assets.gateway-stream.com:52029?security=tls&obfs=salamander&alpn=h3&obfs-password=v8h63irhnay97090&insecure=0&sni=assets.gateway-stream.com#
 hysteria2://df489ab2-2242-4952-a774-1074a3a31f41@eh-spl1.craft-supply.org:8443?sni=eh-spl1.craft-supply.org#%E6%B3%A2%E5%85%B0%20%233
 hysteria2://df489ab2-2242-4952-a774-1074a3a31f41@eh-spl1.craft-supply.org:8443?sni=eh-spl1.craft-supply.org#🌐سرور
 hysteria2://dongtaiwang.com@142.249.37.90:44356/?sni=hy2.561891.xyz#
