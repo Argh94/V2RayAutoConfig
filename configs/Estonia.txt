@@ -9,7 +9,7 @@ ss://541cbb83-6c17-42b3-ba51-840c27962e02@5.175.178.104:443?encryption=none&flow
 ss://551955b3-46e9-5129-95c9-e7474c15ed6b@138.124.100.128:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ee4.fast-connect-service.site&type=tcp#EE🇪🇪
 ss://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#EE🇪🇪
 ss://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?security=none&serviceName=grpc&type=grpc&encryption=none#EE🇪🇪
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.252.5.234:989#%F0%9F%87%AA%F0%9F%87%AAEE-37.252.5.234-3791
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.252.5.234:989#%F0%9F%87%AA%F0%9F%87%AAEE-37.252.5.234-3800
 ss://f692629b-3557-488a-9c9b-60775331e423@89.125.13.53:443?encryption=none&fp=&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&security=reality&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru&type=grpc#REALITY|EE🇪🇪
 vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@estproxy2.lockdwn.com:443/?type=ws&encryption=none&flow=#爱沙尼亚
 vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@estproxy2.lockdwn.com:443?encryption=none&host=estproxy2.lockdwn.com&path=%2F&security=none&type=ws#EE🇪🇪
@@ -23,4 +23,4 @@ vless://551955b3-46e9-5129-95c9-e7474c15ed6b@138.124.100.128:443?encryption=none
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#EE🇪🇪
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?security=none&serviceName=grpc&type=grpc&encryption=none#EE🇪🇪
 vless://f692629b-3557-488a-9c9b-60775331e423@89.125.13.53:443?encryption=none&fp=&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&security=reality&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru&type=grpc#REALITY|EE🇪🇪
-vmess://ewogICAgImFkZCI6ICIxNzYuMTEyLjE0Ni4xOTAiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImY5MjQ3ZGY0LTAyZDUtNGIzMS1hY2M1LTQwMjI2NTJjNTk1MyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4eq8J+HqkVFLTE3Ni4xMTIuMTQ2LjE5MC0wNDE3IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+vmess://ewogICAgImFkZCI6ICIxNzYuMTEyLjE0Ni4xOTAiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImY5MjQ3ZGY0LTAyZDUtNGIzMS1hY2M1LTQwMjI2NTJjNTk1MyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4eq8J+HqkVFLTE3Ni4xMTIuMTQ2LjE5MC0wNDE5IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
