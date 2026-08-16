@@ -1,7 +1,6 @@
 hy2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.221:8443/?sni=grape-turbo-fr.roxa.org#英国
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.221:8443?sni=grape-turbo-fr.roxa.org#%E8%8B%B1%E5%9B%BD
 ss://02e2d68f-9982-4467-ad47-00cbeeae30e6@31.76.246.59:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=v.gb-cdn.ru&fp=chrome&security=reality&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&sid=7a3f9e2b1c8d4f6a#英国
-ss://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443?path=%2Fesoznjws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=m.vk.com#United%20Kingdom%20Digital%20Ocean
 ss://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443?path=%2Fesoznjws&security=tls&encryption=none&type=ws&sni=m.vk.com#United%20Kingdom%20Digital%20Ocean
 ss://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@144.126.239.205:8443/?type=ws&encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&fp=chrome#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AC%F0%9F%87%A7%C2%AE%EF%B8%8FUnited%20Kingdom%C2%A9%EF%B8%8FPuddletown%F0%9F%85%BF%EF%B8%8Fping%3A37.29ms
 ss://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@57.128.176.87:443/?type=ws&encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&fp=chrome#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AC%F0%9F%87%A7%C2%AE%EF%B8%8FUnited%20Kingdom%C2%A9%EF%B8%8FErith%F0%9F%85%BF%EF%B8%8Fping%3A44.48ms
@@ -329,7 +328,6 @@ trojan://xxoo@138.124.183.216:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-138.12
 trojan://xxoo@138.124.183.222:443?security=tls&sni=138.124.183.222#%F0%9F%87%AC%F0%9F%87%A7GB-138.124.183.222-2038
 trojan://xxoo@138.124.183.226:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-138.124.183.226-2524
 vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@31.76.246.59:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=v.gb-cdn.ru&fp=chrome&security=reality&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&sid=7a3f9e2b1c8d4f6a#英国
-vless://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443?path=%2Fesoznjws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=m.vk.com#United%20Kingdom%20Digital%20Ocean
 vless://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443?path=%2Fesoznjws&security=tls&encryption=none&type=ws&sni=m.vk.com#United%20Kingdom%20Digital%20Ocean
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@144.126.239.205:8443/?type=ws&encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&fp=chrome#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AC%F0%9F%87%A7%C2%AE%EF%B8%8FUnited%20Kingdom%C2%A9%EF%B8%8FPuddletown%F0%9F%85%BF%EF%B8%8Fping%3A37.29ms
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@57.128.176.87:443/?type=ws&encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&fp=chrome#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AC%F0%9F%87%A7%C2%AE%EF%B8%8FUnited%20Kingdom%C2%A9%EF%B8%8FErith%F0%9F%85%BF%EF%B8%8Fping%3A44.48ms
