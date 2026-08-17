@@ -1,3 +1,4 @@
+hy2://dfb54e674104158210fdfcac45e5679d@193.122.104.200:50160/?insecure=1&sni=193-122-104-200.liao.kdns.fr#🇰🇷KR
 hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=152-67-200-82.liao.kdns.fr#%F0%9F%87%B0%F0%9F%87%B7%7CKR%7C%40wxgqlfx%7C23
 hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=152-67-200-82.liao.kdns.fr#9%7C%7CKR%7C%40wxgqlfx%7C23
 hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?security=tls&insecure=1&sni=152-67-200-82.liao.kdns.fr#🇰🇷|KR|@wxgqlfx|23
@@ -20,7 +21,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@158.247.213.230:989#%F0%9F%87%B0%F
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.26.5:2003#%F0%9F%87%B0%F0%9F%87%B7KR-125.141.26.5-7936
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7KR-211.178.105.134-5120
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#%F0%9F%87%B0%F0%9F%87%B7KR-218.237.185.230-5199
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#KR%F0%9F%87%B0%F0%9F%87%B7+%7C+218.237.185.230-4652+%7C+135.88ms
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#%F0%9F%87%B0%F0%9F%87%B7KR-221.139.79.57-5201
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@27.255.82.134:2078#%F0%9F%87%B0%F0%9F%87%B7KR-27.255.82.134-5122
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p141.panda001.net:4652#%F0%9F%87%B0%F0%9F%87%B7KR-218.237.185.230-5121
@@ -50,16 +50,13 @@ trojan://AE62539071@firm-krill.rooster465.autos:443?security=tls&sni=firm-krill.
 trojan://AE62539071@sacred-hound.rooster465.autos:443?allowInsecure=0#KR-3.36.108.20-0241
 trojan://AE62539071@sacred-hound.rooster465.autos:443?allowInsecure=1#KR🇰🇷
 trojan://AE62539071@sacred-hound.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.36.108.20-0245
-trojan://AE62539071@uncommon-feline.rooster465.autos:443?allowInsecure=1#KR🇰🇷
 trojan://AE62539071@viable-serval.rooster465.autos:443?allowInsecure=0&sni=viable-serval.rooster465.autos#KR-13.125.144.78-0236
 trojan://AE62539071@viable-serval.rooster465.autos:443?security=tls&sni=viable-serval.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.144.78-0236
-trojan://AE62539071@viable-serval.rooster465.autos:443?security=tls&sni=viable-serval.rooster465.autos#🇰🇷KR-🚀@VPNine1
 trojan://FH72359861@43.202.61.210:443?allowInsecure=0&sni=loyal-molly.rooster465.autos#KR-43.202.61.210-0271
 trojan://FH72359861@43.202.61.210:443?allowInsecure=0&sni=loyal-molly.rooster465.autos#KR🇰🇷
 trojan://FH72359861@43.202.61.210:443?security=tls&sni=loyal-molly.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.202.61.210-0257
 trojan://FH72359861@54.180.158.231:443/?type=tcp&security=tls&sni=precise-locust.rooster465.autos&fp=chrome#韩国
 trojan://FH72359861@54.180.158.231:443?allowInsecure=0&sni=precise-locust.rooster465.autos#KR🇰🇷
-trojan://FH72359861@absolute-bobcat.rooster465.autos:443?allowInsecure=0#KR🇰🇷
 trojan://FH72359861@absolute-bobcat.rooster465.autos:443?allowInsecure=0&sni=absolute-bobcat.rooster465.autos#KR-13.124.39.113-0240
 trojan://FH72359861@absolute-bobcat.rooster465.autos:443?security=tls&sni=absolute-bobcat.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-13.124.39.113-5209
 trojan://FH72359861@apt-whippet.rooster465.autos:443?allowInsecure=0#KR-3.38.152.121-0278
@@ -68,6 +65,7 @@ trojan://FH72359861@aware-coyote.rooster465.autos:443?security=tls#%F0%9F%87%B0%
 trojan://FH72359861@aware-coyote.rooster465.autos:443?security=tls#🇰🇷KR-🚀@VPNine1
 trojan://FH72359861@balanced-stag.rooster465.autos:443?security=tls&headerType=&type=tcp&sni=balanced-stag.rooster465.autos#🇰🇷|KR|@wxgqlfx|2
 trojan://FH72359861@complete-narwhal.rooster465.autos:443?allowInsecure=0&sni=complete-narwhal.rooster465.autos#KR-3.34.132.141-0253
+trojan://FH72359861@complete-narwhal.rooster465.autos:443?allowInsecure=1&sni=complete-narwhal.rooster465.autos#KR🇰🇷
 trojan://FH72359861@complete-narwhal.rooster465.autos:443?security=tls&sni=complete-narwhal.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.132.141-0244
 trojan://FH72359861@good-hound.rooster465.autos:443?allowInsecure=0&sni=good-hound.rooster465.autos#KR-3.35.53.46-0239
 trojan://FH72359861@good-hound.rooster465.autos:443?security=tls&sni=good-hound.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.35.53.46-5205
@@ -81,9 +79,12 @@ trojan://FH72359861@massive-ocelot.rooster465.autos:443?allowInsecure=0#KR-43.20
 trojan://FH72359861@massive-ocelot.rooster465.autos:443?allowInsecure=0#KR🇰🇷
 trojan://FH72359861@massive-ocelot.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.203.206.201-0248
 trojan://FH72359861@one-dove.rooster465.autos:443?allowInsecure=0#KR-13.125.93.65-0248
+trojan://FH72359861@one-dove.rooster465.autos:443?allowInsecure=1#KR🇰🇷
 trojan://FH72359861@one-dove.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.93.65-0232
 trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.178.83.161:26214/?type=tcp&security=tls&sni=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR-121.178.83.161-0760
+trojan://HC04361579@enough-lamb.rooster465.autos:443?sni=enough-lamb.rooster465.autos#KR🇰🇷
 trojan://HC04361579@key-barnacle.rooster465.autos:443?security=tls&sni=key-barnacle.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.237.220-0256
+trojan://HC04361579@star-shrimp.rooster465.autos:443?allowInsecure=1&sni=star-shrimp.rooster465.autos#KR🇰🇷
 trojan://IL37892054@upright-rhino.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.35.220.182-5107
 trojan://KLF0qOU0ZZGw5Tnu@121.78.213.3:443?security=tls&sni=swift.protocolbuffer.com#%F0%9F%87%B0%F0%9F%87%B7KR-121.78.213.3-6892
 trojan://ND91608427@3.35.140.99:443?allowInsecure=0&sni=moved-meerkat.rooster465.autos#KR-3.35.140.99-0261
@@ -142,7 +143,10 @@ trojan://PQ05174892@15.164.227.68:443?allowInsecure=0&sni=united-grouse.rooster4
 trojan://PQ05174892@15.164.227.68:443?allowInsecure=0&sni=united-grouse.rooster465.autos#🇰🇷[openproxylist.com]trojan-KR
 trojan://PQ05174892@awake-redbird.rooster465.autos:443?allowInsecure=0#KR-Seoul-792485-dgkw
 trojan://PQ05174892@rare-lion.rooster465.autos:443?allowInsecure=0&sni=rare-lion.rooster465.autos#🇰🇷[openproxylist.com]trojan-KR
+trojan://PQ05174892@regular-raptor.rooster465.autos:443/?type=tcp&security=tls&allowInsecure=1#🇰🇷KR
+trojan://PQ05174892@regular-raptor.rooster465.autos:443/?type=tcp&security=tls&allowInsecure=1#🇰🇷KR-🚀@VPNine1
 trojan://ZDAAFTxBNu5j9pl3Re834a3xSXwOZYeIlE30Dp86qc7yYgKaDCaROCSSnz2FCy@121.78.213.3:443?security=tls&sni=csharp.protocolbuffer.com#%F0%9F%87%B0%F0%9F%87%B7KR-121.78.213.3-6913
+trojan://a196faa4-403e-4a8b-987a-d1789f379685@139.162.100.58:49755/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#🇰🇷KR
 trojan://b291d129-ee55-4801-a9b8-b5316e5c37b7@138.2.113.84:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-138.2.113.84-2850
 trojan://b5fc9fa9-796d-4185-a316-395ecac04a85@150.230.249.20:443?security=tls&sni=www.gomacau.gq#%F0%9F%87%B0%F0%9F%87%B7KR-150.230.249.20-4646
 trojan://cc05b267-2e17-4e73-92f0-2cf603aa5997@146.56.179.67:40005?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-146.56.179.67-4903
