@@ -7,7 +7,6 @@ hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@us63.mechvpn.online:443?insecur
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@us63.mechvpn.online:443?insecure=1&sni=us63.mechvpn.online#9%7C%F0%9F%87%AA%7CSE%7C%40wxgqlfx%7C238
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@us63.mechvpn.online:443?security=tls&insecure=1&sni=us63.mechvpn.online#🇸🇪|SE|@wxgqlfx|238
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@us65.mechvpn.online:443?insecure=1&sni=us65.mechvpn.online#%7CSE%7C%40wxgqlfx%7C213%202
-hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@us65.mechvpn.online:443?insecure=1&sni=us65.mechvpn.online#%F0%9F%87%B8%F0%9F%87%AA%7CSE%7C%40wxgqlfx%7C213
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@us65.mechvpn.online:443?security=tls&insecure=1&sni=us65.mechvpn.online#🇸🇪|SE|@wxgqlfx|213
 ss://02e2d68f-9982-4467-ad47-00cbeeae30e6@132.243.231.89:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=nF_kEdHan2dgl2tlQ_dtNaKZ4oORhuiFrXHbtEDcT2Q&security=reality&sid=2d6d073dc88f22a8&sni=se-cdn.ru&type=tcp#REALITY|SE🇸🇪
 ss://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@213.21.240.223:2053/?type=ws&encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&fp=chrome#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AA%C2%AE%EF%B8%8FSweden%C2%A9%EF%B8%8FStockholm%F0%9F%85%BF%EF%B8%8Fping%3A46.09ms
@@ -25,7 +24,6 @@ ss://6705ddbd-04cf-40f6-99b9-36846b08c2a9@213.21.240.183:8443?&security=tls&fp=c
 ss://6705ddbd-04cf-40f6-99b9-36846b08c2a9@31.58.77.150:443?&security=tls&fp=chrome&sni=kjgdksgghre466.pages.dev&type=ws&headerType=none&host=kjgdksgghre466.pages.dev&path=%2F#SE-Steninge-4281565-gdvg
 ss://6705ddbd-04cf-40f6-99b9-36846b08c2a9@41.216.182.98:443?&security=tls&fp=chrome&sni=kjgdksgghre466.pages.dev&type=ws&headerType=none&host=kjgdksgghre466.pages.dev&path=%2F#SE-Steninge-4281565-ghds
 ss://6705ddbd-04cf-40f6-99b9-36846b08c2a9@45.82.80.96:443?&security=tls&fp=chrome&sni=kjgdksgghre466.pages.dev&type=ws&headerType=none&host=kjgdksgghre466.pages.dev&path=%2F#SE-Steninge-42816416-ghdx
-ss://6705ddbd-04cf-40f6-99b9-36846b08c2a9@62.182.193.24:443?encryption=none&fp=chrome&host=kjgdksgghre466.pages.dev&path=%2F&security=tls&sni=kjgdksgghre466.pages.dev&type=ws#👉🆔@v2ray_configs_pool📡🇸🇪®️Sweden©️Spånga🅿️ping:23.1ms
 ss://8033102198@95.85.246.104:443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl7.fast-connect-service.site#SE🇸🇪
 ss://8033102198@95.85.246.138:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl9.fast-connect-service.site#SE🇸🇪
 ss://8046e3a1-83a7-4155-86e4-374153fe66f3@194.238.57.104:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&security=reality&pbk=56RJlIcxwncUs5m9QSfd3waHxm6vJFBKso5IkMSsyCA&sid=5d#-%3ESE%2B%28%40DeamNet_Proxy%29
@@ -78,7 +76,6 @@ vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@213.21.240.183:8443?&security=tls&f
 vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@31.58.77.150:443?&security=tls&fp=chrome&sni=kjgdksgghre466.pages.dev&type=ws&headerType=none&host=kjgdksgghre466.pages.dev&path=%2F#SE-Steninge-4281565-gdvg
 vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@41.216.182.98:443?&security=tls&fp=chrome&sni=kjgdksgghre466.pages.dev&type=ws&headerType=none&host=kjgdksgghre466.pages.dev&path=%2F#SE-Steninge-4281565-ghds
 vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@45.82.80.96:443?&security=tls&fp=chrome&sni=kjgdksgghre466.pages.dev&type=ws&headerType=none&host=kjgdksgghre466.pages.dev&path=%2F#SE-Steninge-42816416-ghdx
-vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@62.182.193.24:443?encryption=none&fp=chrome&host=kjgdksgghre466.pages.dev&path=%2F&security=tls&sni=kjgdksgghre466.pages.dev&type=ws#👉🆔@v2ray_configs_pool📡🇸🇪®️Sweden©️Spånga🅿️ping:23.1ms
 vless://8033102198@95.85.246.104:443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl7.fast-connect-service.site#SE🇸🇪
 vless://8033102198@95.85.246.138:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl9.fast-connect-service.site#SE🇸🇪
 vless://8046e3a1-83a7-4155-86e4-374153fe66f3@194.238.57.104:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&security=reality&pbk=56RJlIcxwncUs5m9QSfd3waHxm6vJFBKso5IkMSsyCA&sid=5d#-%3ESE%2B%28%40DeamNet_Proxy%29
