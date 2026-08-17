@@ -5,8 +5,6 @@ hysteria2://dfb54e674104158210fdfcac45e5679d@193.122.104.200:50160?insecure=1&sn
 hysteria2://dfb54e674104158210fdfcac45e5679d@193.122.104.200:50160?insecure=1&sni=193-122-104-200.liao.kdns.fr#%F0%9F%87%B0%F0%9F%87%B7%7CKR%7C%40wxgqlfx%7C24
 hysteria2://dfb54e674104158210fdfcac45e5679d@193.122.104.200:50160?insecure=1&sni=193-122-104-200.liao.kdns.fr#9%7C%F0%9F%87%B0%F0%9F%87%B7%7CKR%7C%40wxgqlfx%7C24
 hysteria2://dfb54e674104158210fdfcac45e5679d@193.122.104.200:50160?security=tls&insecure=1&sni=193-122-104-200.liao.kdns.fr#🇰🇷|KR|@wxgqlfx|24
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@108.162.196.30:8880?type=ws&host=vms.lifetime59.workers.dev#A%20-%20%F0%9F%87%B0%F0%9F%87%B7%20KR%2001%20TG%3A%20%40nodpai
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@72.167.230.30:8880?type=ws&host=vms.lifetime51.workers.dev#A%20-%20%F0%9F%87%B0%F0%9F%87%B7%20KR%2002%20TG%3A%20%40nodpai
 ss://YWVzLTEyOC1nY206M2EzMDhkNWYtNzJhMy00MmMwLTg4YTgtNTQ5ZjhlYmI1NzEz@129.154.222.205:32702#%F0%9F%87%B0%F0%9F%87%B7KR-129.154.222.205-2268
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.125.124.161:443#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.124.161-4159
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.36.118.190:443#%F0%9F%87%B0%F0%9F%87%B7KR-3.36.118.190-4991
@@ -67,6 +65,7 @@ trojan://FH72359861@absolute-bobcat.rooster465.autos:443?security=tls&sni=absolu
 trojan://FH72359861@apt-whippet.rooster465.autos:443?allowInsecure=0#KR-3.38.152.121-0278
 trojan://FH72359861@apt-whippet.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.38.152.121-0253
 trojan://FH72359861@aware-coyote.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.250.102-0247
+trojan://FH72359861@aware-coyote.rooster465.autos:443?security=tls#🇰🇷KR-🚀@VPNine1
 trojan://FH72359861@balanced-stag.rooster465.autos:443?security=tls&headerType=&type=tcp&sni=balanced-stag.rooster465.autos#🇰🇷|KR|@wxgqlfx|2
 trojan://FH72359861@complete-narwhal.rooster465.autos:443?allowInsecure=0&sni=complete-narwhal.rooster465.autos#KR-3.34.132.141-0253
 trojan://FH72359861@complete-narwhal.rooster465.autos:443?security=tls&sni=complete-narwhal.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.132.141-0244
@@ -134,14 +133,15 @@ trojan://ND91608427@pure-ram.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9
 trojan://ND91608427@saving-octopus.rooster465.autos:443?allowInsecure=0&sni=saving-octopus.rooster465.autos#KR-13.125.239.182-0269
 trojan://ND91608427@saving-octopus.rooster465.autos:443?security=tls&sni=saving-octopus.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.239.182-0249
 trojan://ND91608427@select-ferret.rooster465.autos:443?allowInsecure=0&sni=select-ferret.rooster465.autos#KR-3.36.59.34-0250
-trojan://ND91608427@select-ferret.rooster465.autos:443?allowInsecure=1&sni=select-ferret.rooster465.autos#🇰🇷KR-🚀@VPNine1
 trojan://ND91608427@select-ferret.rooster465.autos:443?security=tls&sni=select-ferret.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.36.59.34-0270
 trojan://ND91608427@striking-maggot.rooster465.autos:443?allowInsecure=0&sni=striking-maggot.rooster465.autos#KR-43.202.56.122-0247
 trojan://ND91608427@striking-maggot.rooster465.autos:443?security=tls&sni=striking-maggot.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.202.56.122-0265
 trojan://ND91608427@uncommon-feline.rooster465.autos:443?allowInsecure=0&sni=uncommon-feline.rooster465.autos#KR-43.203.119.20-0275
 trojan://ND91608427@uncommon-feline.rooster465.autos:443?security=tls&sni=uncommon-feline.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.203.119.20-0259
+trojan://PQ05174892@15.164.227.68:443?allowInsecure=0&sni=united-grouse.rooster465.autos#🇰🇷KR-🚀@VPNine1
+trojan://PQ05174892@15.164.227.68:443?allowInsecure=0&sni=united-grouse.rooster465.autos#🇰🇷[openproxylist.com]trojan-KR
 trojan://PQ05174892@awake-redbird.rooster465.autos:443?allowInsecure=0#KR-Seoul-792485-dgkw
-trojan://PQ05174892@rare-lion.rooster465.autos:443?allowInsecure=0&sni=rare-lion.rooster465.autos#🇰🇷KR-🚀@VPNine1
+trojan://PQ05174892@rare-lion.rooster465.autos:443?allowInsecure=0&sni=rare-lion.rooster465.autos#🇰🇷[openproxylist.com]trojan-KR
 trojan://ZDAAFTxBNu5j9pl3Re834a3xSXwOZYeIlE30Dp86qc7yYgKaDCaROCSSnz2FCy@121.78.213.3:443?security=tls&sni=csharp.protocolbuffer.com#%F0%9F%87%B0%F0%9F%87%B7KR-121.78.213.3-6913
 trojan://b291d129-ee55-4801-a9b8-b5316e5c37b7@138.2.113.84:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-138.2.113.84-2850
 trojan://b5fc9fa9-796d-4185-a316-395ecac04a85@150.230.249.20:443?security=tls&sni=www.gomacau.gq#%F0%9F%87%B0%F0%9F%87%B7KR-150.230.249.20-4646
@@ -154,8 +154,6 @@ trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@146.56.189.146:443?security=tls#%F
 trojan://rYuChHcwQZskq9E0zdoR@119.195.0.158:35342/?type=tcp&security=tls&sni=vpn5.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR-119.195.0.158-0458
 trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443/?type=tcp&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-38.60.220.65-0160
 trojan://xxoo@3.34.6.217:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.6.217-4127
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@108.162.196.30:8880?type=ws&host=vms.lifetime59.workers.dev#A%20-%20%F0%9F%87%B0%F0%9F%87%B7%20KR%2001%20TG%3A%20%40nodpai
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@72.167.230.30:8880?type=ws&host=vms.lifetime51.workers.dev#A%20-%20%F0%9F%87%B0%F0%9F%87%B7%20KR%2002%20TG%3A%20%40nodpai
 vless://cd91af31-0c74-4bce-aac3-bdae367c84fa@43.203.252.196:21796/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.sony.com&fp=firefox&security=reality&pbk=dHK4t7AbVKnDxl6ondRWcwkkt4FDkrK89ugEzZfDuzw&sid=804d6574da9180#-%3EKR%2B%28%40DeamNet_Proxy%29
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@64.176.226.26:8443/?type=ws&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B0%F0%9F%87%B7%C2%AE%EF%B8%8FSouth%20Korea%C2%A9%EF%B8%8FSeoul%F0%9F%85%BF%EF%B8%8Fping%3A300ms
 vmess://ewogICAgImFkZCI6ICI1Mi43OC4yMTMuMjI0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI2ZjQ0MjgyMy02YjczLTRiMzEtZjFmNS1hYTFlOTA3YjA1MWUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+HsPCfh7dLUi01Mi43OC4yMTMuMjI0LTE4MTIiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
