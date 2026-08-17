@@ -1,6 +1,7 @@
 hy2://bc751c4c5c80f17dfbc05785c368b613@154.31.115.179:50160/?sni=154-31-115-179.liao.kdns.fr#🇯🇵JP
 hysteria2://bc751c4c5c80f17dfbc05785c368b613@154.31.115.179:50160?insecure=1&sni=154-31-115-179.liao.kdns.fr#%F0%9F%87%AF%F0%9F%87%B5%7CJP%7C%40wxgqlfx%7C15
 hysteria2://bc751c4c5c80f17dfbc05785c368b613@154.31.115.179:50160?security=tls&insecure=1&sni=154-31-115-179.liao.kdns.fr#🇯🇵|JP|@wxgqlfx|15
+hysteria2://bc751c4c5c80f17dfbc05785c368b613@154.31.115.179:50160?security=tls&sni=154-31-115-179.liao.kdns.fr#%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E9%83%BD+cogentco.com
 ss://15b84012-d261-4b4c-807a-061bb4a901fd@116.80.58.239:39975/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=cloudcircus.jp&fp=chrome&security=reality&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&sid=#-%3EJP%2B%28%40DeamNet_Proxy%29%20%287%29
 ss://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477/?type=raw&encryption=none#JP-%3EJP%2B%28%40DeamNet_Proxy%29
 ss://36477315-2e11-4478-b85c-549133624eef@178.253.245.144:21562/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.nazhumi.com&fp=chrome&security=reality&pbk=saEF9IjGEOga3eZG962AMJRTM93cnsVVziketYU6s1M&sid=#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AF%F0%9F%87%B5%C2%AE%EF%B8%8FJapan%C2%A9%EF%B8%8FShibuya%20City%F0%9F%85%BF%EF%B8%8Fping%3A234ms
@@ -135,7 +136,6 @@ trojan://AE62539071@literate-cow.rooster465.autos:443?security=tls#%F0%9F%87%AF%
 trojan://AE62539071@main-impala.rooster465.autos:443?allowInsecure=0#JP-13.193.221.67-0221
 trojan://AE62539071@main-impala.rooster465.autos:443?allowInsecure=1#JP🇯🇵
 trojan://AE62539071@main-impala.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-13.193.221.67-0221
-trojan://AE62539071@pet-antelope.rooster465.autos:443?sni=pet-antelope.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵JP-🚀@VPNine1
 trojan://AE62539071@polished-imp.rooster465.autos:443?allowInsecure=0&sni=polished-imp.rooster465.autos#JP-13.115.230.84-0174
 trojan://AE62539071@polished-imp.rooster465.autos:443?allowInsecure=1&sni=polished-imp.rooster465.autos#JP🇯🇵
 trojan://AE62539071@polished-imp.rooster465.autos:443?security=tls&sni=polished-imp.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.115.230.84-0174
@@ -163,7 +163,6 @@ trojan://FH72359861@adapted-quetzal.rooster465.autos:443?security=tls&sni=adapte
 trojan://FH72359861@adapting-giraffe.rooster465.autos:443?allowInsecure=0&sni=adapting-giraffe.rooster465.autos#JP-13.114.84.244-0177
 trojan://FH72359861@adapting-giraffe.rooster465.autos:443?allowInsecure=0&sni=adapting-giraffe.rooster465.autos#JP🇯🇵
 trojan://FH72359861@adapting-giraffe.rooster465.autos:443?security=tls&sni=adapting-giraffe.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.114.84.244-0177
-trojan://FH72359861@bright-buffalo.rooster465.autos:443?security=tls&path=/#🇯🇵JP-🚀@VPNine1
 trojan://FH72359861@bright-quagga.rooster465.autos:443?allowInsecure=0&sni=bright-quagga.rooster465.autos#JP-3.113.14.127-0231
 trojan://FH72359861@bright-quagga.rooster465.autos:443?allowInsecure=1#JP🇯🇵
 trojan://FH72359861@bright-quagga.rooster465.autos:443?security=tls&sni=bright-quagga.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-3.113.14.127-0231
@@ -296,7 +295,6 @@ trojan://ND91608427@thankful-mustang.rooster465.autos:443?security=tls&sni=thank
 trojan://ND91608427@upright-impala.rooster465.autos:443?allowInsecure=0&sni=upright-impala.rooster465.autos#JP-18.181.164.216-0215
 trojan://ND91608427@upright-impala.rooster465.autos:443?security=tls&sni=upright-impala.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.181.164.216-0215
 trojan://PQ05174892@aware-puma.rooster465.autos:443?allowInsecure=0&sni=aware-puma.rooster465.autos#_%E6%97%A5%E6%9C%AC_5
-trojan://PQ05174892@concise-guinea.rooster465.autos:443?allowInsecure=1#🇯🇵JP-🚀@VPNine1
 trojan://PQ05174892@ethical-raccoon.rooster465.autos:443?allowInsecure=0#JP-13.115.247.230-2273
 trojan://PQ05174892@ethical-raccoon.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-13.115.247.230-2273
 trojan://PQ05174892@key-sponge.rooster465.autos:443?allowInsecure=0&sni=key-sponge.rooster465.autos#_%E6%97%A5%E6%9C%AC_13
@@ -305,7 +303,6 @@ trojan://PQ05174892@mighty-lemming.rooster465.autos:443?security=tls&sni=mighty-
 trojan://PQ05174892@open-caribou.rooster465.autos:443?allowInsecure=0&sni=open-caribou.rooster465.autos#_%E6%97%A5%E6%9C%AC_42
 trojan://PQ05174892@proud-escargot.rooster465.autos:443?allowInsecure=0&sni=proud-escargot.rooster465.autos#_%E6%97%A5%E6%9C%AC_41
 trojan://PQ05174892@sterling-vervet.rooster465.autos:443?allowInsecure=0&sni=sterling-vervet.rooster465.autos#_%E6%97%A5%E6%9C%AC_39
-trojan://PQ05174892@witty-duckling.rooster465.autos:443?allowInsecure=1&sni=witty-duckling.rooster465.autos#🇯🇵JP-🚀@VPNine1
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.11:443/?type=tcp&security=tls#Tokyo%20%28Japan%29%20%281%29
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443/?type=tcp&security=tls#Tokyo%20%28Japan%29%20%283%29
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443/?type=tcp&security=tls#Tokyo%20%28Japan%29%20%282%29
