@@ -138,6 +138,8 @@ trojan://PQ05174892@52.220.98.46:443?allowInsecure=0&sni=pleased-albacore.rooste
 trojan://PQ05174892@52.220.98.46:443?allowInsecure=0&sni=pleased-albacore.rooster465.autos#🇸🇬[openproxylist.com]trojan-SG
 trojan://PQ05174892@apparent-wasp.rooster465.autos:443?allowInsecure=1#🇸🇬SG-🚀@VPNine1
 trojan://PQ05174892@apparent-wasp.rooster465.autos:443?allowInsecure=1#🇸🇬[openproxylist.com]trojan-SG
+trojan://PQ05174892@fleet-pony.rooster465.autos:443/?type=tcp&security=tls&allowInsecure=1#🇸🇬SG
+trojan://PQ05174892@fleet-pony.rooster465.autos:443/?type=tcp&security=tls&allowInsecure=1#🇸🇬SG-🚀@VPNine1
 trojan://PQ05174892@infinite-anteater.rooster465.autos:443?allowInsecure=0&sni=infinite-anteater.rooster465.autos#SG-13.251.133.9-2271
 trojan://PQ05174892@infinite-anteater.rooster465.autos:443?allowInsecure=0&sni=infinite-anteater.rooster465.autos#🇸🇬[openproxylist.com]trojan-SG
 trojan://PQ05174892@intense-monarch.rooster465.autos:443?allowInsecure=0&sni=intense-monarch.rooster465.autos#🇸🇬SG-🚀@VPNine1
@@ -145,7 +147,6 @@ trojan://PQ05174892@intense-monarch.rooster465.autos:443?allowInsecure=0&sni=int
 trojan://affae2e0-e84b-11ec-b09f-1239d0255272@trojan1.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.51.247-5610
 trojan://cd39f62aed7b90f6@5.44.249.43:3389?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-5.44.249.43-5734
 trojan://humanity@104.18.152.113:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%B8%F0%9F%87%AC%20SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://humanity@43.169.18.179:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇸🇬SG-🚀@VPNine1
 trojan://iyinglong@13.213.69.245:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.213.69.245-5706
 trojan://iyinglong@18.140.67.76:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.140.67.76-5613
 trojan://iyinglong@18.141.8.87:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.141.8.87-5611
@@ -239,4 +240,3 @@ vmess://eyJhZGQiOiJhYzAxLjExMTE2NS54eXoiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hy
 vmess://eyJhZGQiOiJhYzAxLjExMTE2NS54eXoiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiYTc3NzI3YzYtMGIxOS00ODk0LTk1YmMtN2E5ZjRkZmYxZTg0IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicGNzIjoiIiwicG9ydCI6IjU3NjgyIiwicHMiOiJTR1x1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYyB8IGFjMDEuMTExMTY1Lnh5ei01NzY4MiB8IDM0Ni4wNm1zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIiLCJ2Y24iOiIifQ==
 vmess://eyJhZGQiOiJhYzAyLjExMTE2NS54eXoiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiYTc3NzI3YzYtMGIxOS00ODk0LTk1YmMtN2E5ZjRkZmYxZTg0IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiMzcyNjUiLCJwcyI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IEY3QUEwMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIiwidmNuIjoiIn0=
 vmess://eyJhZGQiOiJhYzAyLjExMTE2NS54eXoiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiYTc3NzI3YzYtMGIxOS00ODk0LTk1YmMtN2E5ZjRkZmYxZTg0IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicGNzIjoiIiwicG9ydCI6IjM3MjY1IiwicHMiOiJTR1x1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYyB8IGFjMDIuMTExMTY1Lnh5ei0zNzI2NSB8IDQ0NS4wOW1zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIiLCJ2Y24iOiIifQ==
-vmess://eyJhZGQiOiJzbGltZS1yaGluZXN0b25lLXNweS5nbGl0Y2gubWUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJlc3QtY2hhcm0tcGVkaWF0cmljaWFuLmdsaXRjaC5tZSIsImlkIjoiMWQ1ZmI0OTYtMTlmYi00OGZiLTk4ODAtYTE0NzMyNmRlZTYyIiwibmV0Ijoid3MiLCJwYXRoIjoiLzFkNWZiNDk2LTE5ZmItNDhmYi05ODgwLWExNDczMjZkZWU2Mi12bWVzcyIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IDgzNDFGQSJ9
