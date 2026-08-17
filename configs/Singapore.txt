@@ -6,7 +6,6 @@ hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@xjp4.mangshe.xyz:2060?insecure=
 hysteria2://ce24c43947331f36746c1f692c3812e0@129-150-54-169.liao.kdns.fr:50160?insecure=0&sni=129-150-54-169.liao.kdns.fr#%7CSG%7C%40wxgqlfx%7C27
 hysteria2://ce24c43947331f36746c1f692c3812e0@129-150-54-169.liao.kdns.fr:50160?insecure=0&sni=129-150-54-169.liao.kdns.fr#%7CSG%7C%40wxgqlfx%7C27%202
 hysteria2://ce24c43947331f36746c1f692c3812e0@129-150-54-169.liao.kdns.fr:50160?insecure=0&sni=129-150-54-169.liao.kdns.fr#%F0%9F%87%B8%F0%9F%87%AC%7CSG%7C%40wxgqlfx%7C27
-hysteria2://ce24c43947331f36746c1f692c3812e0@129-150-54-169.liao.kdns.fr:50160?insecure=0&sni=129-150-54-169.liao.kdns.fr#9%7C%7CSG%7C%40wxgqlfx%7C27
 hysteria2://ce24c43947331f36746c1f692c3812e0@129-150-54-169.liao.kdns.fr:50160?insecure=0&sni=129-150-54-169.liao.kdns.fr#9%7C%F0%9F%87%B8%7CSG%7C%40wxgqlfx%7C27
 hysteria2://ce24c43947331f36746c1f692c3812e0@129-150-54-169.liao.kdns.fr:50160?security=tls&insecure=0&sni=129-150-54-169.liao.kdns.fr#🇸🇬|SG|@wxgqlfx|27
 ss://0dc3fe97-73e3-4cc2-89a7-331e66540365@46.149.71.46:443?sni=www.avito.ru&alpn=http/1.1&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#A%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2010%20TG%3A%20%40nodpai
@@ -103,11 +102,11 @@ trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=1
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=getandroid.com#%F0%9F%87%B8%F0%9F%87%ACSG-15.235.197.4-7842
 trojan://38f169d6-d202-4b1b-8db8-e6eb1648f5cf@43.160.197.160:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-43.160.197.160-5059
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
-trojan://6ec301428255a78a1d826988d86cc87e@16.162.100.124:51396?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://6ec301428255a78a1d826988d86cc87e@16.162.100.124:51396?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://6ec301428255a78a1d826988d86cc87e@16.162.100.124:7375?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://6ec301428255a78a1d826988d86cc87e@16.162.100.124:7375?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
-trojan://6ec301428255a78a1d826988d86cc87e@18.163.126.92:45744?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.14.234:51396?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+trojan://6ec301428255a78a1d826988d86cc87e@95.40.14.234:51396?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://6f0a9d0fa39d65fa@5.44.249.43:3389?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-5.44.249.43-5736
 trojan://71086710-33eb-11ed-adce-1239d0255272@sg1-trojan.bonds.id:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-103.253.24.212-5615
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@168.138.189.17:28443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-168.138.189.17-2788
@@ -116,7 +115,7 @@ trojan://AE62539071@integral-quetzal.rooster465.autos:443?allowInsecure=0&sni=in
 trojan://AE62539071@integral-quetzal.rooster465.autos:443?allowInsecure=1#SG🇸🇬
 trojan://AE62539071@integral-quetzal.rooster465.autos:443?security=tls&sni=integral-quetzal.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-13.212.173.162-0276
 trojan://BxceQaOe@16.163.139.175:26704?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
-trojan://BxceQaOe@16.163.146.58:26704?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
+trojan://BxceQaOe@16.163.139.175:26704?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://FH72359861@assuring-skink.rooster465.autos:443?security=tls&sni=assuring-skink.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-54.254.185.194-1354
 trojan://FH72359861@bold-eagle.rooster465.autos:443?allowInsecure=1#SG🇸🇬
 trojan://FH72359861@charming-ox.rooster465.autos:443?allowInsecure=0&sni=charming-ox.rooster465.autos#SG-54.254.235.88-0283
@@ -133,12 +132,10 @@ trojan://FH72359861@select-chipmunk.rooster465.autos:443?security=tls&sni=select
 trojan://FH72359861@square-guinea.rooster465.autos:443?security=tls&sni=square-guinea.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-56.10.68.149-1356
 trojan://FH72359861@welcome-monitor.rooster465.autos:443?security=tls&sni=welcome-monitor.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-47.129.183.20-1358
 trojan://FH72359861@worthy-perch.rooster465.autos:443?allowInsecure=0&sni=worthy-perch.rooster465.autos#SG-18.143.132.167-0286
-trojan://FH72359861@worthy-perch.rooster465.autos:443?allowInsecure=1#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:177.37ms
 trojan://FH72359861@worthy-perch.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.143.132.167-0274
 trojan://FLpONjB2Lb@139.162.45.139:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-139.162.45.139-3340
 trojan://IQ68037294@45.135.228.169:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-45.135.228.169-5137
-trojan://PQ05174892@apparent-wasp.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:175.89ms
-trojan://PQ05174892@apparent-wasp.rooster465.autos:443?allowInsecure=1#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:175.89ms
+trojan://PQ05174892@apparent-wasp.rooster465.autos:443?allowInsecure=1#🇸🇬SG-🚀@VPNine1
 trojan://PQ05174892@infinite-anteater.rooster465.autos:443?allowInsecure=0&sni=infinite-anteater.rooster465.autos#SG-13.251.133.9-2271
 trojan://PQ05174892@infinite-anteater.rooster465.autos:443?allowInsecure=0&sni=infinite-anteater.rooster465.autos#🇸🇬SG-🚀@VPNine1
 trojan://affae2e0-e84b-11ec-b09f-1239d0255272@trojan1.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.51.247-5610
