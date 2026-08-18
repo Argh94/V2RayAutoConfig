@@ -14,6 +14,7 @@ ss://2864749a-b45d-52c3-0f36-e64224f5480f@174.138.21.249:443/?type=raw&encryptio
 ss://2864749a-b45d-52c3-0f36-e64224f5480f@188.166.176.63:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.alibaba.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%289%29
 ss://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#SG🇸🇬
 ss://423b1d79-08c4-403f-9d5e-c541f791b55f@154.196.139.50:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=asia.cendora.ru&fp=chrome&security=reality&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077&packetEncoding=xudp#🇸🇬SG
+ss://511c1563-2cb6-4064-abc6-a59ee49818a8@in1.levikogjgfdd.ir:40443?type=tcp&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&sid=88b6&fp=qq&flow=xtls-rprx-vision&headerType=none&host=Telegram-Leviko_v2ray&sni=deepl.com&encryption=none&security=reality#🆔soskeynet%20🔒%20VL-TCP-%20🇸🇬%20SG%20199ms
 ss://53b59cb5-c741-3399-9065-93dc34685f5b@188.253.123.164:39561/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.cloudflare.com&fp=chrome&security=reality&pbk=JrWOojSFwFA93YjsiQkDydTItQzNAsXsHU24HuWGWjA&sid=bc8e3658db7d1323#新加坡
 ss://65500794-99b4-0343-bd18-a12453257a2b@125.77.20.210:13565/?type=ws&encryption=none&flow=&path=/#新加坡
 ss://6aa028bc-08a9-41d1-a397-d60ce65df081@support.zoom.us:80?security=none&type=ws&path=%2Fshalana&host=shalana.xyz&encryption=none#SG🇸🇬
@@ -112,7 +113,6 @@ trojan://FH72359861@54.254.235.88:443?sni=charming-ox.rooster465.autos#🇸🇬S
 trojan://FH72359861@bold-eagle.rooster465.autos:443?allowInsecure=1#SG🇸🇬
 trojan://FH72359861@charming-ox.rooster465.autos:443?allowInsecure=0&sni=charming-ox.rooster465.autos#SG-54.254.235.88-0222
 trojan://FH72359861@charming-ox.rooster465.autos:443?allowInsecure=1&sni=charming-ox.rooster465.autos#SG🇸🇬
-trojan://FH72359861@charming-ox.rooster465.autos:443?security=tls&headerType=&type=tcp&sni=charming-ox.rooster465.autos#🇸🇬|SG|@wxgqlfx|1
 trojan://FH72359861@eminent-panther.rooster465.autos:443?allowInsecure=1#SG🇸🇬
 trojan://FH72359861@fond-chipmunk.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.140.89.211-5182
 trojan://FH72359861@proven-stud.rooster465.autos:443?allowInsecure=0&sni=proven-stud.rooster465.autos#SG🇸🇬
@@ -174,6 +174,7 @@ vless://2864749a-b45d-52c3-0f36-e64224f5480f@174.138.21.249:443/?type=raw&encryp
 vless://2864749a-b45d-52c3-0f36-e64224f5480f@188.166.176.63:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.alibaba.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%289%29
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#SG🇸🇬
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@154.196.139.50:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=asia.cendora.ru&fp=chrome&security=reality&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077&packetEncoding=xudp#🇸🇬SG
+vless://511c1563-2cb6-4064-abc6-a59ee49818a8@in1.levikogjgfdd.ir:40443?type=tcp&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&sid=88b6&fp=qq&flow=xtls-rprx-vision&headerType=none&host=Telegram-Leviko_v2ray&sni=deepl.com&encryption=none&security=reality#🆔soskeynet%20🔒%20VL-TCP-%20🇸🇬%20SG%20199ms
 vless://53b59cb5-c741-3399-9065-93dc34685f5b@188.253.123.164:39561/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.cloudflare.com&fp=chrome&security=reality&pbk=JrWOojSFwFA93YjsiQkDydTItQzNAsXsHU24HuWGWjA&sid=bc8e3658db7d1323#新加坡
 vless://65500794-99b4-0343-bd18-a12453257a2b@125.77.20.210:13565/?type=ws&encryption=none&flow=&path=/#新加坡
 vless://6aa028bc-08a9-41d1-a397-d60ce65df081@support.zoom.us:80?security=none&type=ws&path=%2Fshalana&host=shalana.xyz&encryption=none#SG🇸🇬
