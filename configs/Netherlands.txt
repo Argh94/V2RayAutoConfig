@@ -1,7 +1,6 @@
 hy2://085178e12d2211ec@nl.prisma-access.club:8445/?sni=nl.prisma-access.club#荷兰
 hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@nl174.mechvpn.online:443/?insecure=1&sni=nl174.mechvpn.online#荷兰
 hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@nl8.mechvpn.online:443/?insecure=1&sni=nl8.mechvpn.online#荷兰
-hy2://6f7a8009ecf6a12e10d03f9d88493c89@gorbachev-th.kvnfreetest.uk:55443/?sni=gorbachev-th.kvnfreetest.uk#荷兰
 hy2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.69:8443/?sni=grape-zet-turbo-nl.yyuyy.com#荷兰
 hy2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.72:8443/?sni=grape-zet-turbo-nl.yyuyy.com#荷兰
 hy2://cd74c0a406664a5bc0bac098220a2468@nl2.sferavpn.pro:443/?insecure=1&sni=nl2.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#荷兰
@@ -182,7 +181,6 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bWtLZnhuZENaOWMzWUlrQUFtQU5ydGZJL21sR0p3d1Y
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1eU9vVXFCcHdFZXZhR1E3Z014QzBG@62.84.102.28:26923#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+62.84.102.28-26923+%7C+88.02ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%B3%F0%9F%87%B1NL-92.112.126.90-5131
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@92.112.126.90:443#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+92.112.126.90-443+%7C+145.06ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4S1VJSkstQjRlU1M3bDFfaGdKUC1BQDM3LjI1Mi4yMC40MToxNTA=#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF-%3E%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T0RMWFZMejJGV05URmVTU25nM0Zt@136.244.100.113:443#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+136.244.100.113-443+%7C+89.3ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ3@108.181.58.239:8388#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+108.181.58.239-8388+%7C+85.85ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388#%F0%9F%87%B3%F0%9F%87%B1NL-108.181.126.122-4986
@@ -352,14 +350,12 @@ trojan://AE62539071@present-warthog.rooster465.autos:443#NL🇳🇱
 trojan://AE62539071@thorough-falcon.rooster465.autos:443#NL🇳🇱
 trojan://AE62539071@thorough-falcon.rooster465.autos:443?allowInsecure=0#NL-193.169.239.160-0221
 trojan://AE62539071@thorough-falcon.rooster465.autos:443?allowInsecure=1#NL🇳🇱
-trojan://AE62539071@thorough-falcon.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-193.169.239.160-0193
 trojan://AE62539071@thorough-falcon.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-193.169.239.160-0221
 trojan://AE62539071@whole-woodcock.rooster465.autos:443#NL🇳🇱
 trojan://AE62539071@whole-woodcock.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#Netherlands
 trojan://FH72359861@alive-snapper.rooster465.autos:443#NL🇳🇱
 trojan://FH72359861@pro-crane.rooster465.autos:443#NL🇳🇱
 trojan://FH72359861@pro-crane.rooster465.autos:443?allowInsecure=0#NL-89.39.70.120-0236
-trojan://FH72359861@pro-crane.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.120-0194
 trojan://FH72359861@pro-crane.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.120-0236
 trojan://FH72359861@renewed-chigger.rooster465.autos:443#NL🇳🇱
 trojan://M08tvzYWtUEJNtbpHp@194.124.216.192:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.192-5074
