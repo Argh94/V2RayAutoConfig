@@ -1,5 +1,6 @@
 hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr194.mechvpn.online:443/?sni=fr194.mechvpn.online#法国
 hy2://95e8532b-cc69-42d4-9553-e3c23292b15b@iq5ny.pleiades.codes:8443/?sni=iq5ny.pleiades.codes#法国
+hy2://95e8532b-cc69-42d4-9553-e3c23292b15b@iq5ny.pleiades.codes:8443/?sni=iq5ny.pleiades.codes#法国#🌐سرور
 hy2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723/?insecure=1&sni=www.cloudflare.com#法国
 hy2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443/?sni=host-vds2-fr.kvncococ.org#法国
 hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@iq5ny.pleiades.codes:8443?sni=iq5ny.pleiades.codes#%E6%B3%95%E5%9B%BD
@@ -45,7 +46,6 @@ ss://7595cd50-9326-48e4-a7bc-802e85e643ec@162.19.156.14:6800?security=reality&en
 ss://77c9a41e-70bd-47c2-b5e1-bff49df325d9@pizzashop.dearhossein-taktaz.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=pizzashop.dearhossein-taktaz.ir&fp=firefox&type=ws&allowInsecure=0&sni=pizzashop.dearhossein-taktaz.ir#FR🇫🇷
 ss://795d5f5b-318c-49a6-844f-ee2ab63bbe94@35.180.187.82:12228?security=reality&encryption=none&pbk=hvyaRhFtrj3cGv1Ya5uXpE256i2PoUi2fOgU0KlvKmI&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=59625eb3275249ca#REALITY|FR🇫🇷
 ss://7968c546-02dc-4f8c-b791-934591a94cb2@104.16.72.50:443?path=/cbasur#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2082&security=tls&encryption=none&insecure=0&host=hhvl.hhapp.kdns.fr&type=ws&allowInsecure=0&sni=hhvl.hhapp.kdns.fr#EPODONIOS
-ss://7ce54bb3-d612-4aa7-be08-089d3c461d53@54.240.174.87:443?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=d1yxsk0zprgivr.cloudfront.net#%E6%B3%95%E5%9B%BD+V2CROSS.COM
 ss://7e85ed3f-3829-45b1-8b1c-6a2e45ebc967@164.68.127.108:24144?encryption=none&security=none&type=tcp#FR🇫🇷
 ss://85bddbfa-4149-4db0-8092-39a2b228ec60@begin.magazinetut.online:443?security=tls&type=tcp&sni=begin.magazinetut.online&fp=chrome&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2007
 ss://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@31.59.121.150:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#FR🇫🇷
@@ -159,9 +159,9 @@ trojan://79770a32-9607-4919-9483-0f1794559390@95.179.217.221:443?security=tls&sn
 trojan://9498f3a0-2992-11ee-a4c7-1239d0255272@fr.test3.net:443?security=tls&sni=zula.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.159.59.186-7166
 trojan://973ed2e0-c4d8-4737-a093-71629148086d@51.77.213.197:443?security=tls&sni=frt2.sshocean.net#%F0%9F%87%AB%F0%9F%87%B7FR-51.77.213.197-4439
 trojan://9c71e3bf-d79c-41ad-ba08-1028aff0eaa5@104.19.174.68:443?allowInsecure=0&sni=px8r9i1b4k.bpusfaster2.top&ws=1&wspath=%2Fimages#%F0%9F%87%AB%F0%9F%87%B7%20FR%E6%B3%95%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://9c71e3bf-d79c-41ad-ba08-1028aff0eaa5@104.19.174.68:443?sni=px8r9i1b4k.bpusfaster2.top#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD3
+trojan://9c71e3bf-d79c-41ad-ba08-1028aff0eaa5@104.19.174.68:443?sni=px8r9i1b4k.bpusfaster2.top#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD
 trojan://9c71e3bf-d79c-41ad-ba08-1028aff0eaa5@cdn1.bpcdn.cc:443?allowInsecure=0&sni=gogoyy.bpmalai2026.top&ws=1&wspath=%2Fimages#%F0%9F%87%AB%F0%9F%87%B7%20FR%E6%B3%95%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://9c71e3bf-d79c-41ad-ba08-1028aff0eaa5@cdn1.bpcdn.cc:443?sni=gogoyy.bpmalai2026.top#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD
+trojan://9c71e3bf-d79c-41ad-ba08-1028aff0eaa5@cdn1.bpcdn.cc:443?sni=gogoyy.bpmalai2026.top#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD6
 trojan://AE62539071@15.237.214.103:443?allowInsecure=1&sni=tough-hermit.rooster465.autos#FR🇫🇷
 trojan://AE62539071@51.44.161.22:443?allowInsecure=1&fp=chrome&sni=distinct-quail.rooster465.autos#FR🇫🇷
 trojan://AE62539071@chief-cricket.rooster465.autos:443#FR🇫🇷
@@ -207,7 +207,6 @@ trojan://humanity@104.16.174.101:443/?type=ws&host=www.ignitelimit.com&path=%2Fa
 trojan://humanity@104.16.174.109:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28142%29
 trojan://humanity@104.16.174.117:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%20FR%E6%B3%95%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://humanity@104.16.174.121:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%20FR%E6%B3%95%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://humanity@104.16.174.121:443?sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD2
 trojan://humanity@104.16.174.124:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2877%29
 trojan://humanity@104.16.174.12:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28126%29
 trojan://humanity@104.16.174.143:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28140%29
@@ -248,7 +247,7 @@ trojan://humanity@104.18.152.144:443/?type=ws&host=www.calmloud.com&path=%2Fassi
 trojan://humanity@104.18.152.149:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2844%29
 trojan://humanity@104.18.152.152:443?allowInsecure=1&sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%E4%B8%A8yoyapai.com%5Cr
 trojan://humanity@104.18.152.152:443?allowInsecure=1&sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD%E4%B8%A8yoyapai.com%5Cr
-trojan://humanity@104.18.152.152:443?sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD5
+trojan://humanity@104.18.152.152:443?sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD7
 trojan://humanity@104.18.152.155:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28153%29
 trojan://humanity@104.18.152.155:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%20FR%E6%B3%95%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://humanity@104.18.152.159:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2821%29
@@ -261,17 +260,17 @@ trojan://humanity@104.18.152.204:443/?type=ws&host=www.ignitelimit.com&path=%2Fa
 trojan://humanity@104.18.152.207:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2811%29
 trojan://humanity@104.18.152.207:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%20FR%E6%B3%95%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://humanity@104.18.152.207:443?allowInsecure=1&sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD%E4%B8%A8yoyapai.com%5Cr
-trojan://humanity@104.18.152.207:443?sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD9
 trojan://humanity@104.18.152.208:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2883%29
 trojan://humanity@104.18.152.210:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2829%29
 trojan://humanity@104.18.152.219:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%20FR%E6%B3%95%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://humanity@104.18.152.219:443?sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD8
+trojan://humanity@104.18.152.219:443?sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD4
 trojan://humanity@104.18.152.225:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28136%29
 trojan://humanity@104.18.152.229:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2816%29
 trojan://humanity@104.18.152.230:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2822%29
 trojan://humanity@104.18.152.244:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2812%29
 trojan://humanity@104.18.152.50:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28137%29
 trojan://humanity@104.18.152.50:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%20FR%E6%B3%95%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://humanity@104.18.152.50:443?sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD2
 trojan://humanity@104.18.152.73:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2861%29
 trojan://humanity@104.18.152.73:443?allowInsecure=1&sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%E4%B8%A8yoyapai.com%5Cr
 trojan://humanity@104.18.152.77:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28143%29
@@ -279,7 +278,6 @@ trojan://humanity@104.18.152.77:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1
 trojan://humanity@104.18.152.97:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2820%29
 trojan://humanity@104.18.152.97:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2013
 trojan://humanity@104.18.22.63:443?allowInsecure=1&sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%E4%B8%A8yoyapai.com%5Cr
-trojan://humanity@104.18.22.63:443?sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD4
 trojan://humanity@104.18.8.83:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2840%29
 trojan://humanity@104.20.42.250:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=ios#%3E%3E%40configV2rayNG%3A%3AFR
 trojan://humanity@104.26.14.137:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#%3E%3E%40oneclickvpnkeys%3A%3AFR%20%2813%29
@@ -295,6 +293,7 @@ trojan://humanity@172.64.229.75:443/?type=ws&host=www.calmloud.com&path=%2Fassig
 trojan://humanity@172.67.149.60:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2001
 trojan://humanity@172.67.155.199:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&fp=ios#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2866%29
 trojan://humanity@172.67.221.242:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%20FR%E6%B3%95%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://humanity@172.67.221.242:443?sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD3
 trojan://humanity@188.114.97.3:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2848%29
 trojan://humanity@188.114.97.57:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28154%29
 trojan://humanity@188.114.98.0:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#%3E%3E%40outline_vpn%3A%3AFR
@@ -312,7 +311,6 @@ trojan://humanity@8.6.112.0:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wsp
 trojan://humanity@86.38.214.205:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%20FR%E6%B3%95%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://humanity@86.38.214.205:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2010
 trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%20FR%E6%B3%95%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD7
 trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2002
 trojan://humanity@render.com:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%20FR%E6%B3%95%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://humanity@sourceforge.net:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2888%29
@@ -321,7 +319,7 @@ trojan://humanity@www.gossipglove.com:443/?type=ws&path=%2Fassignment&security=t
 trojan://humanity@www.ignitelimit.com:443/?type=ws&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&fp=chrome#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2818%29
 trojan://humanity@www.ignitelimit.com:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2011
 trojan://humanity@www.speedtest.org:443?allowInsecure=1&sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%E4%B8%A8yoyapai.com%5Cr
-trojan://humanity@www.speedtest.org:443?sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD6
+trojan://humanity@www.speedtest.org:443?sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD5
 trojan://origin@176.31.83.90:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-176.31.83.90-1024
 trojan://telegram-id-directvpn@13.39.112.204:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-13.39.112.204-7986
 trojan://telegram-id-privatevpns@15.236.122.160:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-15.236.122.160-7891
@@ -374,7 +372,6 @@ vless://7595cd50-9326-48e4-a7bc-802e85e643ec@162.19.156.14:6800?security=reality
 vless://77c9a41e-70bd-47c2-b5e1-bff49df325d9@pizzashop.dearhossein-taktaz.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=pizzashop.dearhossein-taktaz.ir&fp=firefox&type=ws&allowInsecure=0&sni=pizzashop.dearhossein-taktaz.ir#FR🇫🇷
 vless://795d5f5b-318c-49a6-844f-ee2ab63bbe94@35.180.187.82:12228?security=reality&encryption=none&pbk=hvyaRhFtrj3cGv1Ya5uXpE256i2PoUi2fOgU0KlvKmI&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=59625eb3275249ca#REALITY|FR🇫🇷
 vless://7968c546-02dc-4f8c-b791-934591a94cb2@104.16.72.50:443?path=/cbasur#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2082&security=tls&encryption=none&insecure=0&host=hhvl.hhapp.kdns.fr&type=ws&allowInsecure=0&sni=hhvl.hhapp.kdns.fr#EPODONIOS
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@54.240.174.87:443?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=d1yxsk0zprgivr.cloudfront.net#%E6%B3%95%E5%9B%BD+V2CROSS.COM
 vless://7e85ed3f-3829-45b1-8b1c-6a2e45ebc967@164.68.127.108:24144?encryption=none&security=none&type=tcp#FR🇫🇷
 vless://85bddbfa-4149-4db0-8092-39a2b228ec60@begin.magazinetut.online:443?security=tls&type=tcp&sni=begin.magazinetut.online&fp=chrome&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2007
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@31.59.121.150:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#FR🇫🇷
