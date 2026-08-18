@@ -30,6 +30,7 @@ ss://47ec2037-4d21-453b-9c10-0c827ce998a8@64.176.73.210:15667/?type=tcp&encrypti
 ss://4c69e374-3bff-4f9e-a1ce-b4e3ccf76d19@plqw.slovovpn.com:4284?encryption=none&security=reality&sni=www.github.com&fp=qq&pbk=nllgSRcKDpgXUS23CrVnScDR9CVRUGS9g4IuKYi7Gmo&sid=608d3b45&type=tcp&headerType=none#REALITY|PL🇵🇱
 ss://551955b3-46e9-5129-95c9-e7474c15ed6b@103.68.110.42:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=pl1.fast-connect-service.site&type=tcp#PL🇵🇱
 ss://551955b3-46e9-5129-95c9-e7474c15ed6b@95.85.253.134:443?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=pl5.fast-connect-service.site&type=tcp#PL🇵🇱
+ss://5d8eb33a-2166-4daf-88fe-4be5799c493b@141.101.120.73:443?path=/&security=tls&encryption=none&insecure=0&host=noisy-term-e657.airdrop2014aa5168.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=noisy-term-e657.airdrop2014aa5168.workers.dev#Poland
 ss://5e7ecc47-e424-4653-876e-c7515a2c82b4@pl4.lckdwn.ru:443?encryption=none&security=none&type=ws#PL🇵🇱
 ss://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@201.3.225.13:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=EyzTSZxq5qlUT2xW0l7VP-DzIh2ucabMan9ekEv9Owo&security=reality&sid=143627f1&sni=uwu.spectrumproxy.shop&type=tcp#REALITY|PL🇵🇱
 ss://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@201.3.225.13:443?security=reality&encryption=none&pbk=EyzTSZxq5qlUT2xW0l7VP-DzIh2ucabMan9ekEv9Owo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=uwu.spectrumproxy.shop&sid=143627f1#REALITY|PL🇵🇱
@@ -169,6 +170,7 @@ vless://47ec2037-4d21-453b-9c10-0c827ce998a8@64.176.73.210:15667/?type=tcp&encry
 vless://4c69e374-3bff-4f9e-a1ce-b4e3ccf76d19@plqw.slovovpn.com:4284?encryption=none&security=reality&sni=www.github.com&fp=qq&pbk=nllgSRcKDpgXUS23CrVnScDR9CVRUGS9g4IuKYi7Gmo&sid=608d3b45&type=tcp&headerType=none#REALITY|PL🇵🇱
 vless://551955b3-46e9-5129-95c9-e7474c15ed6b@103.68.110.42:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=pl1.fast-connect-service.site&type=tcp#PL🇵🇱
 vless://551955b3-46e9-5129-95c9-e7474c15ed6b@95.85.253.134:443?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=pl5.fast-connect-service.site&type=tcp#PL🇵🇱
+vless://5d8eb33a-2166-4daf-88fe-4be5799c493b@141.101.120.73:443?path=/&security=tls&encryption=none&insecure=0&host=noisy-term-e657.airdrop2014aa5168.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=noisy-term-e657.airdrop2014aa5168.workers.dev#Poland
 vless://5e7ecc47-e424-4653-876e-c7515a2c82b4@pl4.lckdwn.ru:443?encryption=none&security=none&type=ws#PL🇵🇱
 vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@201.3.225.13:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=EyzTSZxq5qlUT2xW0l7VP-DzIh2ucabMan9ekEv9Owo&security=reality&sid=143627f1&sni=uwu.spectrumproxy.shop&type=tcp#REALITY|PL🇵🇱
 vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@201.3.225.13:443?security=reality&encryption=none&pbk=EyzTSZxq5qlUT2xW0l7VP-DzIh2ucabMan9ekEv9Owo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=uwu.spectrumproxy.shop&sid=143627f1#REALITY|PL🇵🇱
