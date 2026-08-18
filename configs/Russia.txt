@@ -4,6 +4,7 @@ hysteria2://921db318-1694-4408-9cc7-c93df39f7f8e@ru-i-2.monkeyisland.xyz:443?ins
 hysteria2://921db318-1694-4408-9cc7-c93df39f7f8e@ru-i-2.monkeyisland.xyz:443?security=tls&insecure=1&sni=ru-i-2.monkeyisland.xyz#🇷🇺|RU|@wxgqlfx|229
 hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@176.124.222.180:8443?sni=j47lq.pleiades.codes#%E4%BF%84%E7%BD%97%E6%96%AF
 ss://00c0ad9bdbcc41949344d618fdb51e36Og==@ru-node.vopn.net:443#REALITY%7CRU%F0%9F%87%B7%F0%9F%87%BA+%7C+ru-node.vopn.net-443+%7C+239.07ms
+ss://06d44c57-8e1a-41f4-b9c4-65d35869e078@145.249.115.201:13868?encryption=none&type=tcp&security=reality&pbk=sgpya-5ohMKCjzyrDe4RWz7b8O9XegDzQ88oHCV45Gk&sid=e852dc&sni=booking.com&fp=chrome&flow=xtls-rprx-vision#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 ss://0c4f46c2-afb7-4a80-8f6e-10258d80333e@185.185.142.79:2200?path=%2Fv1&security=&encryption=none&type=ws#RU🇷🇺
 ss://130e6aab-9eba-441e-9021-22cbccc72832@176.109.106.34:9888?security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#REALITY|RU🇷🇺
 ss://1b92d620-add7-42bd-ac1b-93ee4dfacee0@api.univesalsrv.com:443?encryption=none&type=grpc&security=reality&serviceName=rpc.v2.FeedService&mode=gun&sni=api.univesalsrv.com&fp=safari&insecure=1&allowInsecure=1&pbk=eU2IqYoHVYNfFqNlTNEAGooWqL2WqKbbQwxAPRu_7wc&sid=93762a4ddf178703#REALITY|RU🇷🇺
@@ -97,6 +98,7 @@ ss://fe444095-ab4b-45b5-8f25-2c2576fb1968@ru.rush-server.com:443?encryption=none
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.88.148.234:28443?security=tls#%F0%9F%87%B7%F0%9F%87%BARU-45.88.148.234-3354
 trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.88.148.237:28443?security=tls&sni=sbank.ir#%F0%9F%87%B7%F0%9F%87%BARU-45.88.148.237-2852
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@145.249.115.201:13868?encryption=none&type=tcp&security=reality&pbk=sgpya-5ohMKCjzyrDe4RWz7b8O9XegDzQ88oHCV45Gk&sid=e852dc&sni=booking.com&fp=chrome&flow=xtls-rprx-vision#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 vless://0c4f46c2-afb7-4a80-8f6e-10258d80333e@185.185.142.79:2200?path=%2Fv1&security=&encryption=none&type=ws#RU🇷🇺
 vless://130e6aab-9eba-441e-9021-22cbccc72832@176.109.106.34:9888?security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#REALITY|RU🇷🇺
 vless://1b92d620-add7-42bd-ac1b-93ee4dfacee0@api.univesalsrv.com:443?encryption=none&type=grpc&security=reality&serviceName=rpc.v2.FeedService&mode=gun&sni=api.univesalsrv.com&fp=safari&insecure=1&allowInsecure=1&pbk=eU2IqYoHVYNfFqNlTNEAGooWqL2WqKbbQwxAPRu_7wc&sid=93762a4ddf178703#REALITY|RU🇷🇺
