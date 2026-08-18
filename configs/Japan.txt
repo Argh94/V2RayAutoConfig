@@ -7,7 +7,7 @@ ss://15b84012-d261-4b4c-807a-061bb4a901fd@116.80.58.239:39975/?type=raw&encrypti
 ss://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477/?type=raw&encryption=none#JP-%3EJP%2B%28%40DeamNet_Proxy%29
 ss://36477315-2e11-4478-b85c-549133624eef@178.253.245.144:21562/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.nazhumi.com&fp=chrome&security=reality&pbk=saEF9IjGEOga3eZG962AMJRTM93cnsVVziketYU6s1M&sid=#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AF%F0%9F%87%B5%C2%AE%EF%B8%8FJapan%C2%A9%EF%B8%8FShibuya%20City%F0%9F%85%BF%EF%B8%8Fping%3A234ms
 ss://423b1d79-08c4-403f-9d5e-c541f791b55f@153.76.248.251:443?security=reality&encryption=none&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&headerType=&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=asia.cendora.ru&sid=e53048e82bb20077#REALITY|JP🇯🇵
-ss://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.40:10000?&type=tcp&headerType=none&path=%2F#JP%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9123
+ss://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.40:10000?&type=tcp&headerType=none&path=%2F#JP%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9120
 ss://85819b3c-fe18-40bb-bd9a-f3cd194a8d28@43.167.239.81:443/?type=ws&encryption=none&flow=&host=43.167.239.81&path=/ws&security=tls&sni=43.167.239.81&allowInsecure=1&packetEncoding=xudp#日本腾讯云
 ss://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.75.118.144:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#JP🇯🇵
 ss://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@151.242.165.136:59124?security=tls&type=ws&path=/danfeng&host=snippet.fgfw.indevs.in&alpn=http/1.1&sni=snippet.fgfw.indevs.in&fp=random#JP🇯🇵
@@ -249,6 +249,7 @@ trojan://ND91608427@18.181.194.227:443?allowInsecure=0&sni=moral-buzzard.rooster
 trojan://ND91608427@18.181.194.227:443?security=tls&sni=moral-buzzard.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.181.194.227-0258
 trojan://ND91608427@3.112.15.214:443?allowInsecure=0&sni=adjusted-labrador.rooster465.autos#JP-3.112.15.214-0218
 trojan://ND91608427@3.112.15.214:443?security=tls&sni=adjusted-labrador.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-3.112.15.214-0189
+trojan://ND91608427@3.112.15.214:443?security=tls&sni=adjusted-labrador.rooster465.autos#JP%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9134
 trojan://ND91608427@3.112.223.141:443?allowInsecure=0&sni=internal-sunbird.rooster465.autos#JP-3.112.223.141-0265
 trojan://ND91608427@3.112.223.141:443?security=tls&sni=internal-sunbird.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-3.112.223.141-0213
 trojan://ND91608427@3.112.238.99:443?allowInsecure=0&sni=stunning-mite.rooster465.autos#JP-3.112.238.99-0225
@@ -263,6 +264,7 @@ trojan://ND91608427@57.180.27.225:443?allowInsecure=0&sni=picked-guinea.rooster4
 trojan://ND91608427@57.180.27.225:443?security=tls&sni=picked-guinea.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-57.180.27.225-0218
 trojan://ND91608427@adjusted-labrador.rooster465.autos:443?allowInsecure=0&sni=adjusted-labrador.rooster465.autos#JP-3.112.15.214-0208
 trojan://ND91608427@adjusted-labrador.rooster465.autos:443?security=tls&sni=adjusted-labrador.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-3.112.15.214-0223
+trojan://ND91608427@adjusted-labrador.rooster465.autos:443?security=tls&sni=adjusted-labrador.rooster465.autos#JP%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9133
 trojan://ND91608427@better-molly.rooster465.autos:443?allowInsecure=0#JP-13.231.232.184-0230
 trojan://ND91608427@better-molly.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-13.231.232.184-0201
 trojan://ND91608427@casual-bee.rooster465.autos:443?allowInsecure=0&sni=casual-bee.rooster465.autos#JP-35.72.13.34-0238
@@ -330,7 +332,7 @@ vless://15b84012-d261-4b4c-807a-061bb4a901fd@116.80.58.239:39975/?type=raw&encry
 vless://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477/?type=raw&encryption=none#JP-%3EJP%2B%28%40DeamNet_Proxy%29
 vless://36477315-2e11-4478-b85c-549133624eef@178.253.245.144:21562/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.nazhumi.com&fp=chrome&security=reality&pbk=saEF9IjGEOga3eZG962AMJRTM93cnsVVziketYU6s1M&sid=#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AF%F0%9F%87%B5%C2%AE%EF%B8%8FJapan%C2%A9%EF%B8%8FShibuya%20City%F0%9F%85%BF%EF%B8%8Fping%3A234ms
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@153.76.248.251:443?security=reality&encryption=none&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&headerType=&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=asia.cendora.ru&sid=e53048e82bb20077#REALITY|JP🇯🇵
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.40:10000?&type=tcp&headerType=none&path=%2F#JP%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9123
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.40:10000?&type=tcp&headerType=none&path=%2F#JP%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9120
 vless://85819b3c-fe18-40bb-bd9a-f3cd194a8d28@43.167.239.81:443/?type=ws&encryption=none&flow=&host=43.167.239.81&path=/ws&security=tls&sni=43.167.239.81&allowInsecure=1&packetEncoding=xudp#日本腾讯云
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.75.118.144:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#JP🇯🇵
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@151.242.165.136:59124?security=tls&type=ws&path=/danfeng&host=snippet.fgfw.indevs.in&alpn=http/1.1&sni=snippet.fgfw.indevs.in&fp=random#JP🇯🇵
