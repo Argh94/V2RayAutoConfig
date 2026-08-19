@@ -4,7 +4,6 @@ hysteria2://bc751c4c5c80f17dfbc05785c368b613@154.31.115.179:50160?security=tls&i
 ss://048a61f8-b236-4082-b1c3-c22a85693c12@64cq-19370l2.meiboyun.cloud:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gcqSfWJ1yR5Aa2fsBYZ3vyaC0yQnil4qqNMZN4weZlE&sid=674a07ea4d1c4255#日本
 ss://0b772594-d6b9-4f4f-849b-8a6f92f594fe@43.165.177.82:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=ZuN9nc78h4Ccb19eb9NpTCs0jZkhJB8L0i1ZoAhu0XU&sid=b2f4518cf979889d#JP
 ss://0b772594-d6b9-4f4f-849b-8a6f92f594fe@43.165.177.82:443?&security=reality&flow=xtls-rprx-vision&pbk=ZuN9nc78h4Ccb19eb9NpTCs0jZkhJB8L0i1ZoAhu0XU&sid=b2f4518cf979889d&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&path=%2F#_JP_%E6%97%A5%E6%9C%AC
-ss://0b772594-d6b9-4f4f-849b-8a6f92f594fe@43.165.177.82:443?security=reality&encryption=none&pbk=ZuN9nc78h4Ccb19eb9NpTCs0jZkhJB8L0i1ZoAhu0XU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=b2f4518cf979889d#%E6%97%A5%E6%9C%AC+V2CROSS.COM
 ss://15b84012-d261-4b4c-807a-061bb4a901fd@116.80.58.239:39975/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=cloudcircus.jp&fp=chrome&security=reality&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&sid=#-%3EJP%2B%28%40DeamNet_Proxy%29%20%287%29
 ss://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477/?type=raw&encryption=none#JP-%3EJP%2B%28%40DeamNet_Proxy%29
 ss://36477315-2e11-4478-b85c-549133624eef@178.253.245.144:21562/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.nazhumi.com&fp=chrome&security=reality&pbk=saEF9IjGEOga3eZG962AMJRTM93cnsVVziketYU6s1M&sid=#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AF%F0%9F%87%B5%C2%AE%EF%B8%8FJapan%C2%A9%EF%B8%8FShibuya%20City%F0%9F%85%BF%EF%B8%8Fping%3A234ms
@@ -115,7 +114,6 @@ trojan://AE62539071@13.158.135.118:443?security=tls&insecure=0&host=v2rayNplus--
 trojan://AE62539071@18.183.182.132:443?allowInsecure=0&sni=exciting-grizzly.rooster465.autos#JP-18.183.182.132-0227
 trojan://AE62539071@18.183.182.132:443?security=tls&sni=exciting-grizzly.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.182.132-0227
 trojan://AE62539071@3.112.200.59:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=new-eagle.rooster465.autos#🇯🇵JP-🚀@VPNine1
-trojan://AE62539071@3.112.29.46:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=clear-killdeer.rooster465.autos#🇯🇵JP-🚀@VPNine1
 trojan://AE62539071@52.194.223.176:443?allowInsecure=0&sni=clear-heron.rooster465.autos#JP-52.194.223.176-0196
 trojan://AE62539071@52.194.223.176:443?security=tls&sni=clear-heron.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.194.223.176-0196
 trojan://AE62539071@52.68.175.30:443?allowInsecure=0&sni=on-roughy.rooster465.autos#JP-52.68.175.30-0207
@@ -333,9 +331,7 @@ trojan://ND91608427@thankful-mustang.rooster465.autos:443?allowInsecure=0&sni=th
 trojan://ND91608427@thankful-mustang.rooster465.autos:443?security=tls&sni=thankful-mustang.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.196.121.8-0214
 trojan://ND91608427@upright-impala.rooster465.autos:443?allowInsecure=0&sni=upright-impala.rooster465.autos#JP-18.181.164.216-0191
 trojan://ND91608427@upright-impala.rooster465.autos:443?security=tls&sni=upright-impala.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.181.164.216-0191
-trojan://PQ05174892@13.113.98.210:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=mighty-lemming.rooster465.autos#🇯🇵JP-🚀@VPNine1
 trojan://PQ05174892@13.115.145.243:443?allowInsecure=0&sni=smooth-cougar.rooster465.autos#JP🇯🇵
-trojan://PQ05174892@18.179.198.30:443?sni=glowing-iguana.rooster465.autos&type=tcp&fp=chrome#🇯🇵JP-🚀@VPNine1
 trojan://PQ05174892@aware-puma.rooster465.autos:443?allowInsecure=0#JP-52.69.227.10-4796
 trojan://PQ05174892@aware-puma.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-52.69.227.10-4796
 trojan://PQ05174892@balanced-goat.rooster465.autos:443?allowInsecure=0#JP-54.238.196.238-4800
@@ -389,7 +385,6 @@ trojan://tsuchiya@aa.ccmusic.jp:443/?type=tcp&security=tls#-%3EJP%2B%28%40DeamNe
 vless://048a61f8-b236-4082-b1c3-c22a85693c12@64cq-19370l2.meiboyun.cloud:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gcqSfWJ1yR5Aa2fsBYZ3vyaC0yQnil4qqNMZN4weZlE&sid=674a07ea4d1c4255#日本
 vless://0b772594-d6b9-4f4f-849b-8a6f92f594fe@43.165.177.82:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=ZuN9nc78h4Ccb19eb9NpTCs0jZkhJB8L0i1ZoAhu0XU&sid=b2f4518cf979889d#JP
 vless://0b772594-d6b9-4f4f-849b-8a6f92f594fe@43.165.177.82:443?&security=reality&flow=xtls-rprx-vision&pbk=ZuN9nc78h4Ccb19eb9NpTCs0jZkhJB8L0i1ZoAhu0XU&sid=b2f4518cf979889d&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&path=%2F#_JP_%E6%97%A5%E6%9C%AC
-vless://0b772594-d6b9-4f4f-849b-8a6f92f594fe@43.165.177.82:443?security=reality&encryption=none&pbk=ZuN9nc78h4Ccb19eb9NpTCs0jZkhJB8L0i1ZoAhu0XU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=b2f4518cf979889d#%E6%97%A5%E6%9C%AC+V2CROSS.COM
 vless://15b84012-d261-4b4c-807a-061bb4a901fd@116.80.58.239:39975/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=cloudcircus.jp&fp=chrome&security=reality&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&sid=#-%3EJP%2B%28%40DeamNet_Proxy%29%20%287%29
 vless://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477/?type=raw&encryption=none#JP-%3EJP%2B%28%40DeamNet_Proxy%29
 vless://36477315-2e11-4478-b85c-549133624eef@178.253.245.144:21562/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.nazhumi.com&fp=chrome&security=reality&pbk=saEF9IjGEOga3eZG962AMJRTM93cnsVVziketYU6s1M&sid=#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AF%F0%9F%87%B5%C2%AE%EF%B8%8FJapan%C2%A9%EF%B8%8FShibuya%20City%F0%9F%85%BF%EF%B8%8Fping%3A234ms
