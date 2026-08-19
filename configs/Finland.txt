@@ -4,8 +4,8 @@ hysteria2://133f76fc-a5ab-463e-b46d-9587d7137e55@h2.vpnushka.lol:443?security=tl
 hysteria2://707db87b-9cbf-438f-b4c7-9d984c8e944a@serv21.strettenvpn.com:443?insecure=1&sni=serv21.strettenvpn.com#%F0%9F%87%AB%F0%9F%87%AE%7CFI%7C%40wxgqlfx%7C222
 hysteria2://707db87b-9cbf-438f-b4c7-9d984c8e944a@serv21.strettenvpn.com:443?security=tls&insecure=1&sni=serv21.strettenvpn.com#🇫🇮|FI|@wxgqlfx|222
 hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@fast.wwwinternetvideo.click:443?insecure=1&sni=fast.wwwinternetvideo.click#%7CFI%7C%40wxgqlfx%7C217
+hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@fast.wwwinternetvideo.click:443?insecure=1&sni=fast.wwwinternetvideo.click#%7CFI%7C%40wxgqlfx%7C217%202
 hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@fast.wwwinternetvideo.click:443?insecure=1&sni=fast.wwwinternetvideo.click#%F0%9F%87%AB%F0%9F%87%AE%7CFI%7C%40wxgqlfx%7C217
-hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@fast.wwwinternetvideo.click:443?insecure=1&sni=fast.wwwinternetvideo.click#9%7C%F0%9F%87%AB%F0%9F%87%AE%7CFI%7C%40wxgqlfx%7C217
 hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@fast.wwwinternetvideo.click:443?security=tls&insecure=1&sni=fast.wwwinternetvideo.click#🇫🇮|FI|@wxgqlfx|217
 hysteria2://k-qZIMk71_90gFFSfFiP688PqB6yLxie@2.27.42.66:43327?insecure=1&sni=gate-v1.not-a-projects.xyz#%F0%9F%87%AB%F0%9F%87%AE%7CFI%7C%40wxgqlfx%7C169
 hysteria2://k-qZIMk71_90gFFSfFiP688PqB6yLxie@2.27.42.66:43327?security=tls&insecure=1&sni=gate-v1.not-a-projects.xyz#🇫🇮|FI|@wxgqlfx|169
@@ -102,6 +102,7 @@ ss://c35050ce-01ab-45a9-91b8-54cec637d0a8@185.184.121.101:8443/?type=ws&encrypti
 ss://c7e9c591-2764-423a-afca-efbd010fd396@145.239.85.117:2053/?type=ws&encryption=none&flow=&host=forfreeuse.rtqa.ru&path=/&security=tls&sni=forfreeuse.rtqa.ru&fp=chrome&packetEncoding=xudp#芬兰
 ss://c7e9c591-2764-423a-afca-efbd010fd396@163.5.187.118:2053/?type=ws&encryption=none&flow=&host=forfreeuse.rtqa.ru&path=/&security=tls&sni=forfreeuse.rtqa.ru&fp=chrome&packetEncoding=xudp#芬兰
 ss://c7e9c591-2764-423a-afca-efbd010fd396@188.241.241.28:2053/?type=ws&encryption=none&flow=&host=forfreeuse.rtqa.ru&path=/&security=tls&sni=forfreeuse.rtqa.ru#芬兰
+ss://c7e9c591-2764-423a-afca-efbd010fd396@65.109.12.58:2053?&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru&type=ws&headerType=none&host=forfreeuse.rtqa.ru&path=%2F#FI%E8%8A%AC%E5%85%B0%E4%B8%A8yoyapai.com
 ss://c7e9c591-2764-423a-afca-efbd010fd396@87.106.141.152:2053/?type=ws&encryption=none&flow=&host=forfreeuse.rtqa.ru&path=/&security=tls&sni=forfreeuse.rtqa.ru&fp=chrome&packetEncoding=xudp#芬兰
 ss://c8dcbe44-5714-4f99-8d7a-aadebea34abf@91.103.140.243:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=118rMk41g_0BeoQDR2V_1f8ABzC1WKXdolzE-LxqowM&sid=bff835c98c&sni=www.amd.com&spx=%2FdOSQM9dA3rf8Ag2#REALITY|FI🇫🇮
 ss://dd930365-5f37-4ef4-a809-e285ec6d3ce1@185.88.36.71:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SzjNg0dCOfUkpULDXd_2KnCUeVOQTJsKKtJ_xzQUFVc&security=reality&sid=ae4a&sni=music.yandex.ru&type=tcp#REALITY|FI🇫🇮
@@ -207,6 +208,7 @@ vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@185.184.121.101:8443/?type=ws&encry
 vless://c7e9c591-2764-423a-afca-efbd010fd396@145.239.85.117:2053/?type=ws&encryption=none&flow=&host=forfreeuse.rtqa.ru&path=/&security=tls&sni=forfreeuse.rtqa.ru&fp=chrome&packetEncoding=xudp#芬兰
 vless://c7e9c591-2764-423a-afca-efbd010fd396@163.5.187.118:2053/?type=ws&encryption=none&flow=&host=forfreeuse.rtqa.ru&path=/&security=tls&sni=forfreeuse.rtqa.ru&fp=chrome&packetEncoding=xudp#芬兰
 vless://c7e9c591-2764-423a-afca-efbd010fd396@188.241.241.28:2053/?type=ws&encryption=none&flow=&host=forfreeuse.rtqa.ru&path=/&security=tls&sni=forfreeuse.rtqa.ru#芬兰
+vless://c7e9c591-2764-423a-afca-efbd010fd396@65.109.12.58:2053?&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru&type=ws&headerType=none&host=forfreeuse.rtqa.ru&path=%2F#FI%E8%8A%AC%E5%85%B0%E4%B8%A8yoyapai.com
 vless://c7e9c591-2764-423a-afca-efbd010fd396@87.106.141.152:2053/?type=ws&encryption=none&flow=&host=forfreeuse.rtqa.ru&path=/&security=tls&sni=forfreeuse.rtqa.ru&fp=chrome&packetEncoding=xudp#芬兰
 vless://c8dcbe44-5714-4f99-8d7a-aadebea34abf@91.103.140.243:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=118rMk41g_0BeoQDR2V_1f8ABzC1WKXdolzE-LxqowM&sid=bff835c98c&sni=www.amd.com&spx=%2FdOSQM9dA3rf8Ag2#REALITY|FI🇫🇮
 vless://dd930365-5f37-4ef4-a809-e285ec6d3ce1@185.88.36.71:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SzjNg0dCOfUkpULDXd_2KnCUeVOQTJsKKtJ_xzQUFVc&security=reality&sid=ae4a&sni=music.yandex.ru&type=tcp#REALITY|FI🇫🇮
