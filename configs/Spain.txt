@@ -22,6 +22,7 @@ ss://a2415a12-3f92-4636-9823-9828d3ceb818@206.251.49.44:443/?type=tcp&encryption
 ss://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@170.168.97.3:993?security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=download.nvidia.com#REALITY|ES🇪🇸
 ss://fc03a9a8-ef0f-5794-e119-0c3b68b178e8@170.168.97.7:443?mode=auto&security=reality&encryption=none&pbk=jYD82Xg6TRu2lR0XINMWxKb8dNycDwF-H28ZrtiafUo&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#REALITY|ES🇪🇸
 trojan://fg20mtCFHy@172.233.107.18:5575?security=tls&sni=fgrsd.southbyte.xyz#%F0%9F%87%AA%F0%9F%87%B8ES-172.233.107.18-1118
+trojan://humanity@104.18.152.133:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%AA%F0%9F%87%B8%20%E8%A5%BF%E7%8F%AD%E7%89%99%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://rYuChHcwQZskq9E0zdoR@103.45.245.208:2053/?type=tcp&security=tls&sni=vpn5.rnmcnm.com#%F0%9F%87%AA%F0%9F%87%B8ES-103.45.245.208-0772
 vless://3b77447b-a712-4de0-aea5-ad80fdd283fd@3x-ui-multi-production-5f14.up.railway.app:443?fp=chrome&host=3x-ui-multi-production-5f14.up.railway.app&path=/in9&security=tls&sni=3x-ui-multi-production-5f14.up.railway.app&type=ws#Spain-es-client
 vless://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:443?encryption=none&type=xhttp&security=reality&path=%2F&mode=auto&sni=download.nvidia.com&fp=chrome&insecure=1&allowInsecure=1&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs#REALITY|ES🇪🇸
