@@ -3,7 +3,7 @@ hy2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723/?insecure=1&sni=www.cloudfl
 hysteria2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723?insecure=1&sni=www.cloudflare.com#%E6%B3%95%E5%9B%BD%20%231
 hysteria2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723?insecure=1&sni=www.cloudflare.com#%E6%B3%95%E5%9B%BD%20%231%202
 hysteria2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723?insecure=1&sni=www.cloudflare.com#8%7C%E6%B3%95%E5%9B%BD
-ss://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=jetfr228.global.ssl.fastly.net&amp;type=xhttp#France%200VH
+hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#🇫🇷FR-🚀@VPNine1
 ss://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?mode=auto&path=%2F&security=none&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#France%200VH
 ss://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@31.56.176.196:443/?type=ws&encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&fp=chrome#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FParis%F0%9F%85%BF%EF%B8%8Fping%3A39ms
 ss://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@82.64.152.55:20304/?type=ws&encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AFR%20%2832%29
@@ -163,6 +163,7 @@ trojan://AE62539071@distinct-quail.rooster465.autos:443?security=tls#%F0%9F%87%A
 trojan://AE62539071@one-quail.rooster465.autos:443#FR🇫🇷
 trojan://AE62539071@one-quail.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#France
 trojan://AE62539071@tough-hermit.rooster465.autos:443#FR🇫🇷
+trojan://FH72359861@13.37.222.178:443?sni=correct-pony.rooster465.autos#🇫🇷FR-🚀@VPNine1
 trojan://FH72359861@15.237.112.48:443?allowInsecure=1&sni=smiling-fowl.rooster465.autos#FR🇫🇷
 trojan://FH72359861@15.237.112.48:443?sni=smiling-fowl.rooster465.autos&type=tcp&fp=chrome#FR🇫🇷
 trojan://FH72359861@15.237.214.103:443?sni=tough-hermit.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#FR🇫🇷
@@ -170,10 +171,10 @@ trojan://FH72359861@15.237.214.103:443?sni=tough-hermit.rooster465.autos&fp=chro
 trojan://FH72359861@correct-pony.rooster465.autos:443#FR🇫🇷
 trojan://FH72359861@correct-pony.rooster465.autos:443?allowInsecure=0&sni=correct-pony.rooster465.autos#FR-13.37.222.178-0137
 trojan://FH72359861@correct-pony.rooster465.autos:443?security=tls&sni=correct-pony.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-13.37.222.178-0089
+trojan://FH72359861@correct-pony.rooster465.autos:443?security=tls&sni=correct-pony.rooster465.autos#🇫🇷FR-🚀@VPNine1
 trojan://FH72359861@nearby-cod.rooster465.autos:443#FR🇫🇷
 trojan://FH72359861@nearby-cod.rooster465.autos:443?allowInsecure=1#FR🇫🇷
 trojan://FH72359861@smiling-fowl.rooster465.autos:443#FR🇫🇷
-trojan://IQ68037294@correct-pony.rooster465.autos:443?allowInsecure=1&sni=correct-pony.rooster465.autos#🇫🇷FR-🚀@VPNine1
 trojan://ND91608427@15.237.137.197:443?fp=chrome&sni=fancy-skink.rooster465.autos#FR🇫🇷
 trojan://ND91608427@15.237.137.197:443?security=tls&sni=fancy-skink.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-15.237.137.197-0122
 trojan://ND91608427@fancy-skink.rooster465.autos:443#FR🇫🇷
@@ -185,12 +186,15 @@ trojan://ND91608427@fr1.levikogjgfdd.ir:443?security=tls&insecure=0&host=Telegra
 trojan://ND91608427@star-kiwi.rooster465.autos:443?security=tls&sni=star-kiwi.rooster465.autos#FR🇫🇷
 trojan://NQ26071394@35.181.65.111:443?type=tcp&security=tls&headerType=none&sni=ready-kangaroo.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0#FR🇫🇷
 trojan://ON38567014@13.38.35.46:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lucky-marmot.rooster465.autos#FR🇫🇷
+trojan://PQ05174892@firm-warthog.rooster465.autos:443?fp=chrome#🇫🇷FR-🚀@VPNine1
 trojan://PQ05174892@humane-bird.rooster465.autos:443?allowInsecure=1#FR🇫🇷
 trojan://PQ05174892@lucky-marmot.rooster465.autos:443?allowInsecure=0#_%E6%B3%95%E5%9B%BD_35
 trojan://PQ05174892@lucky-marmot.rooster465.autos:443?allowInsecure=0&sni=lucky-marmot.rooster465.autos#FR-13.38.35.46-4845
 trojan://PQ05174892@lucky-marmot.rooster465.autos:443?allowInsecure=1#FR🇫🇷
 trojan://PQ05174892@lucky-marmot.rooster465.autos:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-13.38.35.46-0093
 trojan://PQ05174892@lucky-marmot.rooster465.autos:443?sni=lucky-marmot.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2006
+trojan://PQ05174892@moral-dolphin.rooster465.autos:443?fp=chrome#🇫🇷FR-🚀@VPNine1
+trojan://PQ05174892@musical-shrew.rooster465.autos:443?fp=chrome#🇫🇷FR-🚀@VPNine1
 trojan://QV31589740@great-krill.rooster465.autos:443?allowInsecure=0&sni=great-krill.rooster465.autos#FR-51.44.160.58-0286
 trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&sni=great-krill.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-51.44.160.58-0096
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.38.99.96-1339
@@ -296,7 +300,6 @@ trojan://telegram-id-privatevpns@35.180.36.215:22222?security=tls&sni=trj.rollin
 trojan://xxoo@146.19.230.241:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-146.19.230.241-2460
 trojan://xxoo@146.19.230.241:443?security=tls&sni=bmi.ir#%F0%9F%87%AB%F0%9F%87%B7FR-146.19.230.241-7421
 trojan://xxoo@146.19.230.241:443?security=tls&sni=loader.tapsell.ir#%F0%9F%87%AB%F0%9F%87%B7FR-146.19.230.241-7417
-vless://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=jetfr228.global.ssl.fastly.net&amp;type=xhttp#France%200VH
 vless://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?mode=auto&path=%2F&security=none&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#France%200VH
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@31.56.176.196:443/?type=ws&encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&fp=chrome#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FParis%F0%9F%85%BF%EF%B8%8Fping%3A39ms
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@82.64.152.55:20304/?type=ws&encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AFR%20%2832%29
