@@ -16,7 +16,6 @@ ss://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?encryption=none&securit
 ss://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#SG🇸🇬
 ss://423b1d79-08c4-403f-9d5e-c541f791b55f@154.196.139.50:443?&security=reality&flow=xtls-rprx-vision&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077&fp=chrome&sni=asia.cendora.ru&type=tcp&headerType=none&path=%2F#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%B8%A8yoyapai.com_1
 ss://423b1d79-08c4-403f-9d5e-c541f791b55f@154.196.139.50:443?&security=reality&flow=xtls-rprx-vision&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077&fp=chrome&sni=asia.cendora.ru&type=tcp&headerType=none&path=%2F#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%B8%A8yoyapai.com_2
-ss://511c1563-2cb6-4064-abc6-a59ee49818a8@in1.levikogjgfdd.ir:40443?type=tcp&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&sid=88b6&fp=qq&flow=xtls-rprx-vision&headerType=none&host=Telegram-Leviko_v2ray&sni=deepl.com&encryption=none&security=reality#🆔soskeynet%20🔒%20VL-TCP-%20🇸🇬%20SG%20199ms
 ss://53b59cb5-c741-3399-9065-93dc34685f5b@188.253.123.164:39561/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.cloudflare.com&fp=chrome&security=reality&pbk=JrWOojSFwFA93YjsiQkDydTItQzNAsXsHU24HuWGWjA&sid=bc8e3658db7d1323#新加坡
 ss://65500794-99b4-0343-bd18-a12453257a2b@125.77.20.210:13565/?type=ws&encryption=none&flow=&path=/#新加坡
 ss://690ad3be-991b-4a2c-b351-42dd06789d03@e4ur-1936et2.startora.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.bing.com&fp=chrome&security=reality&pbk=3ZKNZEktRaPxt-XoWmx68EGsFwglnICVkvIl96973iA&sid=4014ce9b0d82ad9d&packetEncoding=xudp#🇸🇬SG
@@ -109,6 +108,7 @@ trojan://AE62539071@noted-bass.rooster465.autos:443?security=tls&path=%2F#SG🇸
 trojan://BxceQaOe@16.163.139.175:26704?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://BxceQaOe@16.163.139.175:26704?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://BxceQaOe@16.163.139.175:26704?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://EQ30679154@13.229.100.240:443#🇸🇬SG-🚀@VPNine1
 trojan://EQ30679154@47.129.160.142:443?security=tls&headerType=&type=tcp&sni=well-goshawk.rooster465.autos#🇸🇬|SG|@wxgqlfx|248
 trojan://EQ30679154@assuring-werewolf.rooster465.autos:443/?type=tcp&security=tls&fp=chrome#新加坡-09
 trojan://EQ30679154@moved-bass.rooster465.autos:443?allowInsecure=0&sni=moved-bass.rooster465.autos#🇸🇬SG-🚀@VPNine1
@@ -166,7 +166,6 @@ vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?encryption=none&secu
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#SG🇸🇬
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@154.196.139.50:443?&security=reality&flow=xtls-rprx-vision&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077&fp=chrome&sni=asia.cendora.ru&type=tcp&headerType=none&path=%2F#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%B8%A8yoyapai.com_1
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@154.196.139.50:443?&security=reality&flow=xtls-rprx-vision&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077&fp=chrome&sni=asia.cendora.ru&type=tcp&headerType=none&path=%2F#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%B8%A8yoyapai.com_2
-vless://511c1563-2cb6-4064-abc6-a59ee49818a8@in1.levikogjgfdd.ir:40443?type=tcp&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&sid=88b6&fp=qq&flow=xtls-rprx-vision&headerType=none&host=Telegram-Leviko_v2ray&sni=deepl.com&encryption=none&security=reality#🆔soskeynet%20🔒%20VL-TCP-%20🇸🇬%20SG%20199ms
 vless://53b59cb5-c741-3399-9065-93dc34685f5b@188.253.123.164:39561/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.cloudflare.com&fp=chrome&security=reality&pbk=JrWOojSFwFA93YjsiQkDydTItQzNAsXsHU24HuWGWjA&sid=bc8e3658db7d1323#新加坡
 vless://65500794-99b4-0343-bd18-a12453257a2b@125.77.20.210:13565/?type=ws&encryption=none&flow=&path=/#新加坡
 vless://690ad3be-991b-4a2c-b351-42dd06789d03@e4ur-1936et2.startora.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.bing.com&fp=chrome&security=reality&pbk=3ZKNZEktRaPxt-XoWmx68EGsFwglnICVkvIl96973iA&sid=4014ce9b0d82ad9d&packetEncoding=xudp#🇸🇬SG
