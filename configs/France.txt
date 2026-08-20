@@ -2,6 +2,7 @@ hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr194.mechvpn.online:443/?sni=fr194.m
 hy2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723/?insecure=1&sni=www.cloudflare.com#法国
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr194.mechvpn.online:443?sni=fr194.mechvpn.online#%E6%B3%95%E5%9B%BD
 hysteria2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723?insecure=1&sni=www.cloudflare.com#%E6%B3%95%E5%9B%BD%20%231
+hysteria2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723?insecure=1&sni=www.cloudflare.com#8%7C%E6%B3%95%E5%9B%BD
 ss://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?mode=auto&path=%2F&security=none&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#France%200VH
 ss://0321e2a6-82e7-418f-b9ab-aa781838dbe7@b.tahastar.ir:20271?security=reality&encryption=none&pbk=1Y2e1Zm8ac1gS0puegpZwZwtJbxTV482KIuCTq9Os1I&headerType=&fp=chrome&spx=%2Ff24c0c9459ad613&type=tcp&sni=it.nvidia.com&sid=27#REALITY|FR🇫🇷
 ss://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@31.56.176.196:443/?type=ws&encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&fp=chrome#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FParis%F0%9F%85%BF%EF%B8%8Fping%3A39ms
@@ -32,7 +33,6 @@ ss://77c9a41e-70bd-47c2-b5e1-bff49df325d9@pizzashop.dearhossein-taktaz.ir:443?pa
 ss://795d5f5b-318c-49a6-844f-ee2ab63bbe94@35.180.187.82:12228?encryption=none&flow=xtls-rprx-vision&fp=&pbk=hvyaRhFtrj3cGv1Ya5uXpE256i2PoUi2fOgU0KlvKmI&security=reality&sid=59625eb3275249ca&sni=www.tesla.com&type=tcp#REALITY|FR🇫🇷
 ss://7968c546-02dc-4f8c-b791-934591a94cb2@104.16.72.50:443?path=/cbasur#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2082&security=tls&encryption=none&insecure=0&host=hhvl.hhapp.kdns.fr&type=ws&allowInsecure=0&sni=hhvl.hhapp.kdns.fr#EPODONIOS
 ss://7c3e7eb3-289a-4664-b783-e459713aed4f@sourceforge.net:8880?encryption=none&security=none&type=httpupgrade&host=FFfcvFtcFar.9.postshup.ir&path=%2F%3Fed%3D2082#FR🇫🇷
-ss://7ce54bb3-d612-4aa7-be08-089d3c461d53@54.240.174.87:443?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=d1yxsk0zprgivr.cloudfront.net#%E6%B3%95%E5%9B%BD+V2CROSS.COM
 ss://7e85ed3f-3829-45b1-8b1c-6a2e45ebc967@164.68.127.108:24144?encryption=none&security=none&type=tcp#FR🇫🇷
 ss://888193f6-6818-42f4-b223-64c9fd323b76@forallpanel.srtongston.ir:8880?encryption=none&type=httpupgrade&path=%2F%3Fed%3D2082&host=xfx.francee1.postshup.ir#FR🇫🇷
 ss://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@31.59.121.150:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#FR🇫🇷
@@ -110,6 +110,7 @@ ss://b320eba7-5380-4bd1-b5e6-32daab16066f@fr-d.duckray.co.uk:3443/?type=grpc&enc
 ss://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=%2Fvws%2F&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#FR🇫🇷
 ss://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@81.95.4.189:443?encryption=none&fp=chrome&host=bab-6.site&path=%2Fvws%2F&security=tls&sni=bab-6.site&type=ws#FR🇫🇷
 ss://c04bf2df-2b7f-44da-a893-3792d3910fd8@78.17.208.22:443?encryption=none&type=tcp&security=reality&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus&sni=fr05.skorostnet.space&fp=chrome&insecure=1&allowInsecure=1&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&flow=xtls-rprx-vision#REALITY|FR🇫🇷
+ss://c7e9c591-2764-423a-afca-efbd010fd396@162.19.13.248:2053?&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru&type=ws&headerType=none&host=forfreeuse.rtqa.ru&path=%2F#_%E6%B3%95%E5%9B%BD_157
 ss://c9f0224c-c509-427e-b314-cef6cab20646@52.47.86.31:12453/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&security=reality&pbk=7Bp5RgrAqaiXOsiKaWnu6uliLDG8Eey2gA0coU9oay0&sid=52f510cea0a0a5ef#-%3EFR%2B%28%40DeamNet_Proxy%29%20%287%29
 ss://cc3e6e36-b329-435b-bb71-192fb5c718ae@check02.allenshop66244.ir:8443/?type=tcp&encryption=none&sni=play.google.com&fp=firefox&security=reality&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FRoubaix%F0%9F%85%BF%EF%B8%8Fping%3A94ms
 ss://cc3e6e36-b329-435b-bb71-192fb5c718ae@check05.allenshop66244.ir:8443/?type=tcp&encryption=none&sni=play.google.com&fp=firefox&security=reality&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FRoubaix%F0%9F%85%BF%EF%B8%8Fping%3A172ms
@@ -149,6 +150,7 @@ trojan://AE62539071@51.44.161.22:443?allowInsecure=1&fp=chrome&sni=distinct-quai
 trojan://AE62539071@chief-cricket.rooster465.autos:443#FR🇫🇷
 trojan://AE62539071@climbing-frog.rooster465.autos:443?sni=climbing-frog.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD2%202.2MB%2Fs
 trojan://AE62539071@distinct-quail.rooster465.autos:443#FR🇫🇷
+trojan://AE62539071@distinct-quail.rooster465.autos:443?allowInsecure=0#FR-51.44.161.22-0156
 trojan://AE62539071@distinct-quail.rooster465.autos:443?allowInsecure=1#FR🇫🇷
 trojan://AE62539071@distinct-quail.rooster465.autos:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-51.44.161.22-0233
 trojan://AE62539071@one-quail.rooster465.autos:443#FR🇫🇷
@@ -159,14 +161,13 @@ trojan://FH72359861@13.37.222.178:443?sni=correct-pony.rooster465.autos#FR🇫�
 trojan://FH72359861@15.237.112.48:443?allowInsecure=1&sni=smiling-fowl.rooster465.autos#FR🇫🇷
 trojan://FH72359861@15.237.214.103:443?sni=tough-hermit.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#FR🇫🇷
 trojan://FH72359861@correct-pony.rooster465.autos:443#FR🇫🇷
-trojan://FH72359861@correct-pony.rooster465.autos:443?allowInsecure=0&sni=correct-pony.rooster465.autos#FR-13.37.222.178-0123
 trojan://FH72359861@correct-pony.rooster465.autos:443?security=tls&sni=correct-pony.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-13.37.222.178-0123
 trojan://FH72359861@correct-pony.rooster465.autos:443?security=tls&sni=correct-pony.rooster465.autos#FR🇫🇷
 trojan://FH72359861@nearby-cod.rooster465.autos:443#FR🇫🇷
 trojan://FH72359861@smiling-fowl.rooster465.autos:443#FR🇫🇷
 trojan://IQ68037294@correct-pony.rooster465.autos:443?allowInsecure=1&sni=correct-pony.rooster465.autos#FR🇫🇷
 trojan://ND91608427@15.237.137.197:443?fp=chrome&sni=fancy-skink.rooster465.autos#FR🇫🇷
-trojan://ND91608427@fancy-skink.rooster465.autos:443?allowInsecure=0&sni=fancy-skink.rooster465.autos#FR-15.237.137.197-0271
+trojan://ND91608427@fancy-skink.rooster465.autos:443?allowInsecure=0&sni=fancy-skink.rooster465.autos#FR-15.237.137.197-0157
 trojan://ND91608427@fancy-skink.rooster465.autos:443?security=tls&sni=fancy-skink.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-15.237.137.197-0271
 trojan://ND91608427@fr1.levikogjgfdd.ir:443?security=tls&host=Telegram-Leviko_v2ray&headerType=none&fp=chrome&type=tcp&sni=classic-gator.rooster465.autos#FR🇫🇷
 trojan://ND91608427@fr1.levikogjgfdd.ir:443?security=tls&insecure=0&host=Telegram-Leviko_v2ray&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=classic-gator.rooster465.autos#FR🇫🇷
@@ -177,12 +178,11 @@ trojan://PQ05174892@35.180.10.212:443?type=tcp&security=tls&sni=firm-warthog.roo
 trojan://PQ05174892@51.44.167.144:443?type=tcp&security=tls&sni=immune-earwig.rooster465.autos#🇫🇷FR-🚀@VPNine1
 trojan://PQ05174892@firm-warthog.rooster465.autos:443?fp=chrome#FR🇫🇷
 trojan://PQ05174892@humane-bird.rooster465.autos:443?allowInsecure=1#FR🇫🇷
-trojan://PQ05174892@lucky-marmot.rooster465.autos:443?allowInsecure=0&sni=lucky-marmot.rooster465.autos#FR-13.38.35.46-0130
 trojan://PQ05174892@lucky-marmot.rooster465.autos:443?allowInsecure=1#FR🇫🇷
 trojan://PQ05174892@lucky-marmot.rooster465.autos:443?security=tls&sni=lucky-marmot.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-13.38.35.46-0130
 trojan://PQ05174892@moral-dolphin.rooster465.autos:443?fp=chrome#FR🇫🇷
 trojan://PQ05174892@musical-shrew.rooster465.autos:443?fp=chrome#FR🇫🇷
-trojan://QV31589740@great-krill.rooster465.autos:443?allowInsecure=0&sni=great-krill.rooster465.autos#FR-51.44.160.58-0113
+trojan://QV31589740@great-krill.rooster465.autos:443?allowInsecure=0&sni=great-krill.rooster465.autos#FR-51.44.160.58-0136
 trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&sni=great-krill.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-51.44.160.58-0113
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.38.99.96-2080
 trojan://db19fc68-c027-4641-a8eb-eed3e1065c8a@146.70.158.111:443?security=tls&sni=amin.karkas1.ir&type=grpc&serviceName=6vuNVgOFnqUEvj0rcXIcStL#%F0%9F%87%AB%F0%9F%87%B7FR-146.70.158.111-8073
@@ -268,7 +268,6 @@ trojan://humanity@130.250.137.171:443?allowInsecure=0&sni=www.ignitelimit.com&ws
 trojan://humanity@130.250.137.171:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2005
 trojan://humanity@141.101.90.101:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&allowInsecure=1&fp=ios#%3E%3E%40configV2rayNG%3A%3AFR%20%281%29
 trojan://humanity@141.101.90.101:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%E5%B7%B4%E9%BB%8E%20CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@141.101.90.101:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%E6%B3%95%E5%9B%BD%E5%B7%B4%E9%BB%8E+CloudFlare%E8%8A%82%E7%82%B9
 trojan://humanity@141.101.90.101:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD
 trojan://humanity@141.193.213.11:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1#-%3EFR%2B%28%40DeamNet_Proxy%29%20%282%29
 trojan://humanity@141.193.213.21:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28116%29
@@ -344,7 +343,6 @@ vless://77c9a41e-70bd-47c2-b5e1-bff49df325d9@pizzashop.dearhossein-taktaz.ir:443
 vless://795d5f5b-318c-49a6-844f-ee2ab63bbe94@35.180.187.82:12228?encryption=none&flow=xtls-rprx-vision&fp=&pbk=hvyaRhFtrj3cGv1Ya5uXpE256i2PoUi2fOgU0KlvKmI&security=reality&sid=59625eb3275249ca&sni=www.tesla.com&type=tcp#REALITY|FR🇫🇷
 vless://7968c546-02dc-4f8c-b791-934591a94cb2@104.16.72.50:443?path=/cbasur#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2082&security=tls&encryption=none&insecure=0&host=hhvl.hhapp.kdns.fr&type=ws&allowInsecure=0&sni=hhvl.hhapp.kdns.fr#EPODONIOS
 vless://7c3e7eb3-289a-4664-b783-e459713aed4f@sourceforge.net:8880?encryption=none&security=none&type=httpupgrade&host=FFfcvFtcFar.9.postshup.ir&path=%2F%3Fed%3D2082#FR🇫🇷
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@54.240.174.87:443?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=d1yxsk0zprgivr.cloudfront.net#%E6%B3%95%E5%9B%BD+V2CROSS.COM
 vless://7e85ed3f-3829-45b1-8b1c-6a2e45ebc967@164.68.127.108:24144?encryption=none&security=none&type=tcp#FR🇫🇷
 vless://888193f6-6818-42f4-b223-64c9fd323b76@forallpanel.srtongston.ir:8880?encryption=none&type=httpupgrade&path=%2F%3Fed%3D2082&host=xfx.francee1.postshup.ir#FR🇫🇷
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@31.59.121.150:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#FR🇫🇷
@@ -363,6 +361,7 @@ vless://b320eba7-5380-4bd1-b5e6-32daab16066f@fr-d.duckray.co.uk:3443/?type=grpc&
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=%2Fvws%2F&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#FR🇫🇷
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@81.95.4.189:443?encryption=none&fp=chrome&host=bab-6.site&path=%2Fvws%2F&security=tls&sni=bab-6.site&type=ws#FR🇫🇷
 vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@78.17.208.22:443?encryption=none&type=tcp&security=reality&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus&sni=fr05.skorostnet.space&fp=chrome&insecure=1&allowInsecure=1&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&flow=xtls-rprx-vision#REALITY|FR🇫🇷
+vless://c7e9c591-2764-423a-afca-efbd010fd396@162.19.13.248:2053?&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru&type=ws&headerType=none&host=forfreeuse.rtqa.ru&path=%2F#_%E6%B3%95%E5%9B%BD_157
 vless://c9f0224c-c509-427e-b314-cef6cab20646@52.47.86.31:12453/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&security=reality&pbk=7Bp5RgrAqaiXOsiKaWnu6uliLDG8Eey2gA0coU9oay0&sid=52f510cea0a0a5ef#-%3EFR%2B%28%40DeamNet_Proxy%29%20%287%29
 vless://cc3e6e36-b329-435b-bb71-192fb5c718ae@check02.allenshop66244.ir:8443/?type=tcp&encryption=none&sni=play.google.com&fp=firefox&security=reality&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FRoubaix%F0%9F%85%BF%EF%B8%8Fping%3A94ms
 vless://cc3e6e36-b329-435b-bb71-192fb5c718ae@check05.allenshop66244.ir:8443/?type=tcp&encryption=none&sni=play.google.com&fp=firefox&security=reality&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FRoubaix%F0%9F%85%BF%EF%B8%8Fping%3A172ms

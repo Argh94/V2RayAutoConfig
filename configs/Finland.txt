@@ -5,6 +5,7 @@ hysteria2://707db87b-9cbf-438f-b4c7-9d984c8e944a@serv21.strettenvpn.com:443?inse
 hysteria2://707db87b-9cbf-438f-b4c7-9d984c8e944a@serv21.strettenvpn.com:443?security=tls&insecure=1&sni=serv21.strettenvpn.com#🇫🇮|FI|@wxgqlfx|222
 hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@222.167.212.80:8443?sni=grape-power-pl.ddnsguru.com#%E8%8A%AC%E5%85%B0
 hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@fast.wwwinternetvideo.click:443?insecure=1&sni=fast.wwwinternetvideo.click#%F0%9F%87%AB%F0%9F%87%AE%7CFI%7C%40wxgqlfx%7C217
+hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@fast.wwwinternetvideo.click:443?insecure=1&sni=fast.wwwinternetvideo.click#9%7C%F0%9F%87%AB%F0%9F%87%AE%7CFI%7C%40wxgqlfx%7C217
 hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@fast.wwwinternetvideo.click:443?security=tls&insecure=1&sni=fast.wwwinternetvideo.click#🇫🇮|FI|@wxgqlfx|217
 hysteria2://k-qZIMk71_90gFFSfFiP688PqB6yLxie@2.27.42.66:43327?insecure=1&sni=gate-v1.not-a-projects.xyz#%F0%9F%87%AB%F0%9F%87%AE%7CFI%7C%40wxgqlfx%7C169
 hysteria2://k-qZIMk71_90gFFSfFiP688PqB6yLxie@2.27.42.66:43327?security=tls&insecure=1&sni=gate-v1.not-a-projects.xyz#🇫🇮|FI|@wxgqlfx|169
@@ -40,7 +41,6 @@ ss://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.253:443/?type=tcp&encrypti
 ss://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@fi.faygo.bot:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=enterprisekitten.com&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%AE%C2%AE%EF%B8%8FFinland%C2%A9%EF%B8%8FHelsinki%F0%9F%85%BF%EF%B8%8Fping%3A53.69ms
 ss://965f5b8b-b762-4281-bb45-60fb1e346c94@104.16.6.70:8443?mode=packet-up&path=%2Fhome%2Fnovinser%2Fpublic_html%2Fmy%2Fmodules%2Fservers%2Fcdnserver%2Fcdnserver.php&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=htz1.solidesign.uk#FI🇫🇮
 ss://9934f538-e22f-48f7-80bc-856d7041a38a@store19.vevluma.ir:1234?encryption=none&type=tcp&security=reality&headerType=none&sni=updates.cdn-apple.com&fp=chrome&insecure=1&allowInsecure=1&pbk=4sT8gYkbYI1RUPlO-SFVpJENKfGgMWoYQpflbcfspkI&sid=4844fb0c077b20b7&flow=xtls-rprx-vision#REALITY|FI🇫🇮
-ss://9e90d9f8-0c41-43a8-9f15-012076c5defd@45.128.235.158:443?&security=reality&flow=xtls-rprx-vision&pbk=sNm6sBc5dEEHxUJK_juWLBfOzoK0UTEefwJaaE_BlCY&sid=9aa967421bbfced3&fp=chrome&sni=www.deepl.com&type=tcp&headerType=none&path=%2F#FI-Helsinki-12823515-wiyp
 ss://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?type=tcp&encryption=none&flow=#FI🇫🇮
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0M2ZYZjF1TUtiSUtreG9OWUdRTXR0@38.244.137.202:45380#FI%F0%9F%87%AB%F0%9F%87%AE+%7C+38.244.137.202-45380+%7C+162.82ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFNkdialczSVo0V29rdno0VllMajRv@38.244.137.202:45380#FI%F0%9F%87%AB%F0%9F%87%AE+%7C+38.244.137.202-45380+%7C+164.82ms
@@ -62,6 +62,7 @@ ss://c35050ce-01ab-45a9-91b8-54cec637d0a8@185.184.121.101:8443/?type=ws&encrypti
 ss://c7e9c591-2764-423a-afca-efbd010fd396@145.239.85.117:2053/?type=ws&encryption=none&flow=&host=forfreeuse.rtqa.ru&path=/&security=tls&sni=forfreeuse.rtqa.ru&fp=chrome&packetEncoding=xudp#芬兰
 ss://c7e9c591-2764-423a-afca-efbd010fd396@163.5.187.118:2053/?type=ws&encryption=none&flow=&host=forfreeuse.rtqa.ru&path=/&security=tls&sni=forfreeuse.rtqa.ru&fp=chrome&packetEncoding=xudp#芬兰
 ss://c7e9c591-2764-423a-afca-efbd010fd396@188.241.241.28:2053/?type=ws&encryption=none&flow=&host=forfreeuse.rtqa.ru&path=/&security=tls&sni=forfreeuse.rtqa.ru#芬兰
+ss://c7e9c591-2764-423a-afca-efbd010fd396@194.154.30.154:443?&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru&type=ws&headerType=none&host=forfreeuse.rtqa.ru&path=%2F#_DE_%E5%BE%B7%E5%9B%BD-%3E%F0%9F%87%AB%F0%9F%87%AE_FI_%E8%8A%AC%E5%85%B0
 ss://c7e9c591-2764-423a-afca-efbd010fd396@194.154.30.154:443?security=tls&type=ws&path=%2F&host=forfreeuse.rtqa.ru&sni=forfreeuse.rtqa.ru&fp=chrome&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8A%AC%E5%85%B0%2002
 ss://c7e9c591-2764-423a-afca-efbd010fd396@65.109.12.58:2053?&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru&type=ws&headerType=none&host=forfreeuse.rtqa.ru&path=%2F#FI%E8%8A%AC%E5%85%B0%E4%B8%A8yoyapai.com
 ss://c7e9c591-2764-423a-afca-efbd010fd396@87.106.141.152:2053/?type=ws&encryption=none&flow=&host=forfreeuse.rtqa.ru&path=/&security=tls&sni=forfreeuse.rtqa.ru&fp=chrome&packetEncoding=xudp#芬兰
@@ -119,7 +120,6 @@ vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.253:443/?type=tcp&encry
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@fi.faygo.bot:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=enterprisekitten.com&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%AE%C2%AE%EF%B8%8FFinland%C2%A9%EF%B8%8FHelsinki%F0%9F%85%BF%EF%B8%8Fping%3A53.69ms
 vless://965f5b8b-b762-4281-bb45-60fb1e346c94@104.16.6.70:8443?mode=packet-up&path=%2Fhome%2Fnovinser%2Fpublic_html%2Fmy%2Fmodules%2Fservers%2Fcdnserver%2Fcdnserver.php&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=htz1.solidesign.uk#FI🇫🇮
 vless://9934f538-e22f-48f7-80bc-856d7041a38a@store19.vevluma.ir:1234?encryption=none&type=tcp&security=reality&headerType=none&sni=updates.cdn-apple.com&fp=chrome&insecure=1&allowInsecure=1&pbk=4sT8gYkbYI1RUPlO-SFVpJENKfGgMWoYQpflbcfspkI&sid=4844fb0c077b20b7&flow=xtls-rprx-vision#REALITY|FI🇫🇮
-vless://9e90d9f8-0c41-43a8-9f15-012076c5defd@45.128.235.158:443?&security=reality&flow=xtls-rprx-vision&pbk=sNm6sBc5dEEHxUJK_juWLBfOzoK0UTEefwJaaE_BlCY&sid=9aa967421bbfced3&fp=chrome&sni=www.deepl.com&type=tcp&headerType=none&path=%2F#FI-Helsinki-12823515-wiyp
 vless://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?type=tcp&encryption=none&flow=#FI🇫🇮
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@179.198.50.131:8443?mode=auto&path=%2F&security=reality&encryption=none&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&fp=firefox&type=xhttp&sni=wikihow.com#REALITY|FI🇫🇮
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@64.188.80.250:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.wikihow.com&fp=firefox&security=reality&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&sid=#%3E%3E%40configV2rayNG%3A%3AFI
@@ -132,6 +132,7 @@ vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@185.184.121.101:8443/?type=ws&encry
 vless://c7e9c591-2764-423a-afca-efbd010fd396@145.239.85.117:2053/?type=ws&encryption=none&flow=&host=forfreeuse.rtqa.ru&path=/&security=tls&sni=forfreeuse.rtqa.ru&fp=chrome&packetEncoding=xudp#芬兰
 vless://c7e9c591-2764-423a-afca-efbd010fd396@163.5.187.118:2053/?type=ws&encryption=none&flow=&host=forfreeuse.rtqa.ru&path=/&security=tls&sni=forfreeuse.rtqa.ru&fp=chrome&packetEncoding=xudp#芬兰
 vless://c7e9c591-2764-423a-afca-efbd010fd396@188.241.241.28:2053/?type=ws&encryption=none&flow=&host=forfreeuse.rtqa.ru&path=/&security=tls&sni=forfreeuse.rtqa.ru#芬兰
+vless://c7e9c591-2764-423a-afca-efbd010fd396@194.154.30.154:443?&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru&type=ws&headerType=none&host=forfreeuse.rtqa.ru&path=%2F#_DE_%E5%BE%B7%E5%9B%BD-%3E%F0%9F%87%AB%F0%9F%87%AE_FI_%E8%8A%AC%E5%85%B0
 vless://c7e9c591-2764-423a-afca-efbd010fd396@194.154.30.154:443?security=tls&type=ws&path=%2F&host=forfreeuse.rtqa.ru&sni=forfreeuse.rtqa.ru&fp=chrome&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8A%AC%E5%85%B0%2002
 vless://c7e9c591-2764-423a-afca-efbd010fd396@65.109.12.58:2053?&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru&type=ws&headerType=none&host=forfreeuse.rtqa.ru&path=%2F#FI%E8%8A%AC%E5%85%B0%E4%B8%A8yoyapai.com
 vless://c7e9c591-2764-423a-afca-efbd010fd396@87.106.141.152:2053/?type=ws&encryption=none&flow=&host=forfreeuse.rtqa.ru&path=/&security=tls&sni=forfreeuse.rtqa.ru&fp=chrome&packetEncoding=xudp#芬兰
