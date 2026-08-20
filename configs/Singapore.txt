@@ -1,6 +1,7 @@
 hy2://1427eb10-7529-4d38-a6a2-01b337868b37@sg2.xiaoliyu.cyou:1935/?insecure=1&sni=sg2.xiaoliyu.cyou#🇸🇬SG
 hy2://9gWt2z3KdC9VI8kAQYVvvSvhT9e05CfI@vip-sg-1.hkd4fwmg.vip:12645/?insecure=1&sni=vip-sg-1.hkd4fwmg.vip#SG
 hy2://P6qkAwznuC076mbIR2cGPg==@43.156.90.144:34567/?insecure=1&sni=bing.com#🇸🇬SG
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.155.42:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#新加坡
 hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@sg2.xiaoliyu.cyou:1935?insecure=1&sni=sg2.xiaoliyu.cyou#%F0%9F%87%B8%F0%9F%87%ACSG
 hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@sg2.xiaoliyu.cyou:1935?insecure=1&sni=sg2.xiaoliyu.cyou#8%7CSG
 hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@sg2.xiaoliyu.cyou:1935?insecure=1&sni=sg2.xiaoliyu.cyou#SG
@@ -21,7 +22,6 @@ ss://2864749a-b45d-52c3-0f36-e64224f5480f@188.166.176.63:443/?type=raw&encryptio
 ss://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#SG🇸🇬
 ss://423b1d79-08c4-403f-9d5e-c541f791b55f@154.196.139.50:443?&security=reality&flow=xtls-rprx-vision&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077&fp=chrome&sni=asia.cendora.ru&type=tcp&headerType=none&path=%2F#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%B8%A8yoyapai.com_1
 ss://423b1d79-08c4-403f-9d5e-c541f791b55f@154.196.139.50:443?&security=reality&flow=xtls-rprx-vision&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077&fp=chrome&sni=asia.cendora.ru&type=tcp&headerType=none&path=%2F#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%B8%A8yoyapai.com_2
-ss://53b59cb5-c741-3399-9065-93dc34685f5b@188.253.123.164:39561/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.cloudflare.com&fp=chrome&security=reality&pbk=JrWOojSFwFA93YjsiQkDydTItQzNAsXsHU24HuWGWjA&sid=bc8e3658db7d1323#新加坡
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.30:8880?type=ws&host=vms.lifetime04.workers.dev&path=/#A%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2009%20TG%3A%20%40nodpai
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.4.30:8880?type=ws&host=vms.lifetime59.workers.dev#A%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2008%20TG%3A%20%40nodpai
 ss://624dbb1d-d38b-4ed1-a967-f483af364eca@news.zoom.us:8443?type=ws&encryption=none&path=%2F&host=zero.csmaster.ggff.net&security=tls&alpn=h3%2Ch2%25%C3%83%C2%A2%C3%82%C2%80%C3%82%C2%A6&fp=qq#SG🇸🇬
@@ -195,14 +195,15 @@ trojan://AE62539071@stirred-buck.rooster465.autos:443#SG🇸🇬
 trojan://BxceQaOe@16.162.100.208:45744?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://BxceQaOe@16.162.100.208:45744?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://BxceQaOe@16.162.100.208:45744?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://EQ30679154@47.129.160.142:443?allowInsecure=1&sni=well-goshawk.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://EQ30679154@47.129.160.142:443?security=tls&headerType=&type=tcp&sni=well-goshawk.rooster465.autos#🇸🇬|SG|@wxgqlfx|248
 trojan://EQ30679154@47.129.160.142:443?security=tls&sni=well-goshawk.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-47.129.160.142-0422
 trojan://EQ30679154@47.129.160.142:443?sni=well-goshawk.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
 trojan://EQ30679154@assuring-werewolf.rooster465.autos:443/?type=tcp&security=tls&fp=chrome#新加坡-09
 trojan://EQ30679154@direct-hawk.rooster465.autos:443?allowInsecure=0&sni=direct-hawk.rooster465.autos#SG🇸🇬
 trojan://EQ30679154@direct-hawk.rooster465.autos:443?security=tls&sni=direct-hawk.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-13.212.55.43-0492
+trojan://EQ30679154@modest-bat.rooster465.autos:443?allowInsecure=1&sni=modest-bat.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://EQ30679154@moved-bass.rooster465.autos:443?allowInsecure=0&sni=moved-bass.rooster465.autos#SG🇸🇬
+trojan://EQ30679154@moved-bass.rooster465.autos:443?allowInsecure=1&sni=moved-bass.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://EQ30679154@moved-bass.rooster465.autos:443?security=tls&headerType=&type=tcp&sni=moved-bass.rooster465.autos#🇸🇬|SG|@wxgqlfx|207
 trojan://EQ30679154@well-goshawk.rooster465.autos:443?allowInsecure=0&sni=well-goshawk.rooster465.autos#SG🇸🇬
 trojan://EQ30679154@well-goshawk.rooster465.autos:443?security=tls&headerType=&type=tcp&sni=well-goshawk.rooster465.autos#🇸🇬|SG|@wxgqlfx|219
@@ -283,7 +284,6 @@ vless://2864749a-b45d-52c3-0f36-e64224f5480f@188.166.176.63:443/?type=raw&encryp
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#SG🇸🇬
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@154.196.139.50:443?&security=reality&flow=xtls-rprx-vision&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077&fp=chrome&sni=asia.cendora.ru&type=tcp&headerType=none&path=%2F#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%B8%A8yoyapai.com_1
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@154.196.139.50:443?&security=reality&flow=xtls-rprx-vision&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077&fp=chrome&sni=asia.cendora.ru&type=tcp&headerType=none&path=%2F#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%B8%A8yoyapai.com_2
-vless://53b59cb5-c741-3399-9065-93dc34685f5b@188.253.123.164:39561/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.cloudflare.com&fp=chrome&security=reality&pbk=JrWOojSFwFA93YjsiQkDydTItQzNAsXsHU24HuWGWjA&sid=bc8e3658db7d1323#新加坡
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.30:8880?type=ws&host=vms.lifetime04.workers.dev&path=/#A%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2009%20TG%3A%20%40nodpai
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.4.30:8880?type=ws&host=vms.lifetime59.workers.dev#A%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2008%20TG%3A%20%40nodpai
 vless://624dbb1d-d38b-4ed1-a967-f483af364eca@news.zoom.us:8443?type=ws&encryption=none&path=%2F&host=zero.csmaster.ggff.net&security=tls&alpn=h3%2Ch2%25%C3%83%C2%A2%C3%82%C2%80%C3%82%C2%A6&fp=qq#SG🇸🇬
