@@ -1,4 +1,3 @@
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@185.170.166.30:8880?type=ws&host=vms.lifetime04.workers.dev&path=/#A%20-%20%F0%9F%87%AE%F0%9F%87%AA%20IE%2001%20TG%3A%20%40nodpai
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWUo1SVMyb1NBczkza0dU@4.231.225.39:443#%F0%9F%87%AE%F0%9F%87%AAIE-4.231.225.39-5176
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@84.247.48.78:1080#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+84.247.48.78-1080+%7C+137.5ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWDI5N0FzMzFiUU1Sc0xQ@20.123.9.48:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+20.123.9.48-443+%7C+265.01ms
@@ -11,6 +10,7 @@ trojan://AE62539071@18.201.47.180:443?security=tls&insecure=0&headerType=none&fp
 trojan://AE62539071@54.170.38.205:443?fp=chrome&sni=unbiased-garfish.rooster465.autos#IE🇮🇪
 trojan://AE62539071@54.170.38.205:443?sni=unbiased-garfish.rooster465.autos&type=tcp&fp=chrome#IE🇮🇪
 trojan://AE62539071@54.74.159.195:443?fp=chrome&sni=kind-stork.rooster465.autos#IE🇮🇪
+trojan://AE62539071@54.74.159.195:443?security=tls&sni=kind-stork.rooster465.autos&type=tcp#%E7%88%B1%E5%B0%94%E5%85%B0+%E9%83%BD%E6%9F%8F%E6%9E%97Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://AE62539071@54.74.159.195:443?sni=kind-stork.rooster465.autos&type=tcp&fp=chrome#IE🇮🇪
 trojan://AE62539071@54.74.210.220:443?fp=chrome&sni=funny-hen.rooster465.autos#IE🇮🇪
 trojan://AE62539071@54.74.210.220:443?sni=funny-hen.rooster465.autos&type=tcp&fp=chrome#IE🇮🇪
@@ -24,7 +24,6 @@ trojan://AE62539071@unbiased-garfish.rooster465.autos:443#IE🇮🇪
 trojan://AE62539071@unbiased-garfish.rooster465.autos:443?allowInsecure=0#IE-54.170.38.205-0231
 trojan://AE62539071@unbiased-garfish.rooster465.autos:443?security=tls#%F0%9F%87%AE%F0%9F%87%AAIE-54.170.38.205-0231
 trojan://AE62539071@worthy-labrador.rooster465.autos:443#IE🇮🇪
-trojan://AE62539071@worthy-labrador.rooster465.autos:443?security=tls&sni=worthy-labrador.rooster465.autos#%E7%88%B1%E5%B0%94%E5%85%B0+V2CROSS.COM
 trojan://EQ30679154@funny-hen.rooster465.autos:443?allowInsecure=0&sni=funny-hen.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AA%20%E7%88%B1%E5%B0%94%E5%85%B0%20%E9%83%BD%E6%9F%8F%E6%9E%97Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://FH72359861@108.128.201.154:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=touching-turtle.rooster465.autos#Ireland
 trojan://FH72359861@108.128.201.154:443?sni=touching-turtle.rooster465.autos#IE🇮🇪
@@ -66,7 +65,6 @@ trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=trj.rollingn
 trojan://telegram-id-privatevpns@3.252.69.131:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-3.252.69.131-7612
 trojan://telegram-id-privatevpns@3.253.67.209:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-3.253.67.209-2280
 trojan://telegram-id-privatevpns@54.78.157.126:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-54.78.157.126-2305
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.170.166.30:8880?type=ws&host=vms.lifetime04.workers.dev&path=/#A%20-%20%F0%9F%87%AE%F0%9F%87%AA%20IE%2001%20TG%3A%20%40nodpai
 vmess://ewogICAgImFkZCI6ICI0NS4xMzEuMjQ4LjE0MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNTU3ZTUzMmUtZGU0YS00YjNlLTlmYjItNWQzNTVjY2I1ZGE5IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDUwMDY4LAogICAgInBzIjogIvCfh67wn4eqSUUtNDUuMTMxLjI0OC4xNDAtNzU0NyIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICI0NS4xMzEuMjQ4LjE0MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNTU3ZTUzMmUtZGU0YS00YjNlLTlmYjItNWQzNTVjY2I1ZGE5IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDUwMDY4LAogICAgInBzIjogIvCfh67wn4eqSUUtNDUuMTMxLjI0OC4xNDAtNzU0OSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICI0NS4xMzEuMjQ4LjIyOCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiYWMwMjczNjItYzk4OC00NjcwLWY3OGYtMDIxYjViZTZmNGUzIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDU5MTAyLAogICAgInBzIjogIvCfh67wn4eqSUUtNDUuMTMxLjI0OC4yMjgtNzU0NCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
