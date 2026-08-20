@@ -12,7 +12,6 @@ ss://470c7664-3262-afbb-2bef-f6f0f5e83815@yas.masterdadeh.ir:80?path=%2F&securit
 ss://5d1be7ae-8143-4b9a-9419-7a04e9301b96@clinet.speedit.ir:6067?encryption=mlkem768x25519plus.native.0rtt.Ksyng-9h5K9VQHZZp50_lKceGEnNUrUv_I4o7NLUzns&fp=chrome&pbk=AGHlWx1ol_3uO7Krt9kYBG9J1rsLyxYE1Gs48vGADjA&security=reality&sid=06075d&sni=www.cloudflare.com&spx=%2F07d6e732db7b099&type=tcp#REALITY|TR🇹🇷
 ss://74fbbe74-906d-5452-a27c-a85fc758bc9f@31.76.53.16.fwqfw783rg2dad.website:443/?type=ws&encryption=none&flow=&path=/websocket?ed=2560&security=tls&sni=31.76.53.16.fwqfw783rg2dad.website&alpn=http/1.1&fp=chrome&packetEncoding=xudp#土耳其-01
 ss://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#TR🇹🇷
-ss://7fa91a52-54d0-442f-b550-cf83d916918c@edge-tr-ist.cdn.sx:2083/?type=tcp&encryption=none&flow=&security=tls&sni=edge-tr-ist.cdn.sx&fp=chrome&packetEncoding=xudp#土耳其
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZXhOaU4xd0E3ZlZDT1Y4WWRPdkJO@77.83.245.116:9753#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+77.83.245.116-9753+%7C+181.69ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowR0FLMmI5Z2txQmF0dXhpMmNzd21I@83.217.9.17:25232#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+83.217.9.17-25232+%7C+184.8ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozUTdVMTZ5R1kwSngxeUdRZTlYdHpw@185.39.204.161:33563#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+185.39.204.161-33563+%7C+184.48ms
@@ -53,7 +52,6 @@ vless://470c7664-3262-afbb-2bef-f6f0f5e83815@yas.masterdadeh.ir:80?path=%2F&secu
 vless://5d1be7ae-8143-4b9a-9419-7a04e9301b96@clinet.speedit.ir:6067?encryption=mlkem768x25519plus.native.0rtt.Ksyng-9h5K9VQHZZp50_lKceGEnNUrUv_I4o7NLUzns&fp=chrome&pbk=AGHlWx1ol_3uO7Krt9kYBG9J1rsLyxYE1Gs48vGADjA&security=reality&sid=06075d&sni=www.cloudflare.com&spx=%2F07d6e732db7b099&type=tcp#REALITY|TR🇹🇷
 vless://74fbbe74-906d-5452-a27c-a85fc758bc9f@31.76.53.16.fwqfw783rg2dad.website:443/?type=ws&encryption=none&flow=&path=/websocket?ed=2560&security=tls&sni=31.76.53.16.fwqfw783rg2dad.website&alpn=http/1.1&fp=chrome&packetEncoding=xudp#土耳其-01
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#TR🇹🇷
-vless://7fa91a52-54d0-442f-b550-cf83d916918c@edge-tr-ist.cdn.sx:2083/?type=tcp&encryption=none&flow=&security=tls&sni=edge-tr-ist.cdn.sx&fp=chrome&packetEncoding=xudp#土耳其
 vless://ZoRoVPN@203.202.232.11:36068/?type=ws&encryption=none&host=Play.google.com&path=%2FZoRoVpn#%F0%9F%87%B9%F0%9F%87%B7TR-%F0%9F%9A%80%40VPNine1%20%282%29
 vless://a16c9e6e4be147829361ba54ec815259@62.133.63.167:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=8e399MgSjvh2ap5opo7EK0Gv_gPagXM-Icku3npTLkA&sid=aabbccdd&fp=random#REALITY|TR🇹🇷
 vless://a7a98347-5fe4-4615-9a89-7f1ba759265e@151.241.226.201:2053?encryption=none&fp=&pbk=_jsI5uVVqXkzCZ0OGJ5U7waecxOEiu2lm-8f8ZyW5mc&security=reality&sid=f5d596282182b440&sni=www.apple.com&type=tcp#REALITY|TR🇹🇷
