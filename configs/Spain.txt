@@ -3,6 +3,7 @@ ss://3b77447b-a712-4de0-aea5-ad80fdd283fd@3x-ui-multi-production-5f14.up.railway
 ss://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:443?encryption=none&type=xhttp&security=reality&path=%2F&mode=auto&sni=download.nvidia.com&fp=chrome&insecure=1&allowInsecure=1&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs#REALITY|ES🇪🇸
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@192.169.223.30:8880?type=ws&host=vms.lifetime42.workers.dev&path=/#A%20-%20%F0%9F%87%AA%F0%9F%87%B8%20ES%2001%20TG%3A%20%40nodpai
 ss://855d82bc-8cc6-4037-8da5-df0412f3c063@212.227.235.66:2053?encryption=none&fp=&pbk=6huZliKELOkP6l-eOIFe7PKP5MCGK2p5KzUeXRiMi00&security=reality&sid=13e0569248e98a05&sni=www.apple.com&type=tcp#REALITY|ES🇪🇸
+ss://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&sid=fd8cf7e1173f0edb#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHdnNqUTBPWjVuR1FYREdmemZXWmY1@212.227.146.33:443#%F0%9F%87%AA%F0%9F%87%B8ES-212.227.146.33-7693
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+140.174.184.5-8388+%7C+161.54ms
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-7491
@@ -21,6 +22,7 @@ vless://3b77447b-a712-4de0-aea5-ad80fdd283fd@3x-ui-multi-production-5f14.up.rail
 vless://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:443?encryption=none&type=xhttp&security=reality&path=%2F&mode=auto&sni=download.nvidia.com&fp=chrome&insecure=1&allowInsecure=1&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs#REALITY|ES🇪🇸
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.169.223.30:8880?type=ws&host=vms.lifetime42.workers.dev&path=/#A%20-%20%F0%9F%87%AA%F0%9F%87%B8%20ES%2001%20TG%3A%20%40nodpai
 vless://855d82bc-8cc6-4037-8da5-df0412f3c063@212.227.235.66:2053?encryption=none&fp=&pbk=6huZliKELOkP6l-eOIFe7PKP5MCGK2p5KzUeXRiMi00&security=reality&sid=13e0569248e98a05&sni=www.apple.com&type=tcp#REALITY|ES🇪🇸
+vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&sid=fd8cf7e1173f0edb#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
 vless://a2415a12-3f92-4636-9823-9828d3ceb818@206.251.49.44:443/?type=tcp&encryption=none&sni=www.intel.com&fp=chrome&security=reality&pbk=rqtY-HQaeREXyphzsfaFjavFmn-IA66s01KZxDLdwiE&sid=a097e0#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AA%F0%9F%87%B8%C2%AE%EF%B8%8FSpain%C2%A9%EF%B8%8FMadrid%F0%9F%85%BF%EF%B8%8Fping%3A51.42ms
 vless://c6f220ed-41f2-21ba-438c-80f05ebbf92a@170.168.97.5:8443?mode=gun&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#REALITY|ES🇪🇸
 vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@170.168.97.3:993?security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=download.nvidia.com#REALITY|ES🇪🇸
