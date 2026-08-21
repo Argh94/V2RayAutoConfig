@@ -277,7 +277,6 @@ ss://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?security=reality&e
 ss://c7e9c591-2764-423a-afca-efbd010fd396@143.110.163.137:2053?&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru&type=ws&headerType=none&host=forfreeuse.rtqa.ru&path=%2F#_%E8%8B%B1%E5%9B%BD_386
 ss://c7e9c591-2764-423a-afca-efbd010fd396@194.154.30.154:443?path=/&security=tls&encryption=none&host=forfreeuse.rtqa.ru&type=ws&sni=forfreeuse.rtqa.ru#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
 ss://cde6db10-61db-418f-9ea1-52f7c13404a9@87.120.219.225:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gb-2.quillrook.com&fp=firefox&pbk=hjdnuzysFQh3YtJ2yWjh-gduVE3A2yHWqJ1QXvrZyHM&sid=595e5e04&type=tcp&headerType=none#REALITY|GB🇬🇧
-ss://cf39fab0-bb85-42cb-9945-2ad69d78e575@91.110.174.210:8443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=%2FGOrbEh#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
 ss://cf39fab0-bb85-42cb-9945-2ad69d78e575@91.110.174.210:8443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=%2FGOrbEh#GB%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9137
 ss://chacha20ietfpoly1305Og==@82.38.31.185:8080#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+82.38.31.185-8080+%7C+152.49ms
 ss://chacha20ietfpoly1305Og==@82.38.31.204:8080#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+82.38.31.204-8080+%7C+156.4ms
@@ -362,7 +361,6 @@ vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?security=realit
 vless://c7e9c591-2764-423a-afca-efbd010fd396@143.110.163.137:2053?&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru&type=ws&headerType=none&host=forfreeuse.rtqa.ru&path=%2F#_%E8%8B%B1%E5%9B%BD_386
 vless://c7e9c591-2764-423a-afca-efbd010fd396@194.154.30.154:443?path=/&security=tls&encryption=none&host=forfreeuse.rtqa.ru&type=ws&sni=forfreeuse.rtqa.ru#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
 vless://cde6db10-61db-418f-9ea1-52f7c13404a9@87.120.219.225:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gb-2.quillrook.com&fp=firefox&pbk=hjdnuzysFQh3YtJ2yWjh-gduVE3A2yHWqJ1QXvrZyHM&sid=595e5e04&type=tcp&headerType=none#REALITY|GB🇬🇧
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@91.110.174.210:8443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=%2FGOrbEh#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@91.110.174.210:8443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=%2FGOrbEh#GB%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9137
 vless://d8b42cd5-a149-4356-9e61-000000000000@178.83.157.130:2551?security=none&encryption=none&headerType=none&type=tcp#GB🇬🇧
 vless://e2e299a724ae40c29b3cfccc50ecdf1b@194.110.246.13:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=apple.com&pbk=RwOdXZTmhq9iHFFr8jmge76I1NpjTFLHV3yIe7twuSM&sid=aabbccdd&fp=random#REALITY|GB🇬🇧
