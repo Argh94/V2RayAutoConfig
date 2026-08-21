@@ -1,7 +1,9 @@
 hy2://ef18d810-719c-4bf1-83c6-615d01f217eb@jp.cryptoofarm.com:443/?insecure=1&sni=jp.cryptoofarm.com#日本
 hy2://oU4tGn37oQ9JGmqnlTGkU3knrfAbclsq@vip-jp-4.hkd4fwmg.vip:32135/?insecure=1&sni=vip-jp-4.hkd4fwmg.vip#JP
 hysteria2://1e3a5c5fde1da9dd1358b4adeb0c4ca1@45.32.252.144:443?insecure=0&sni=vps.vpsv.cc#%E6%97%A5%E6%9C%AC%20%E4%B8%9C%E4%BA%ACChoopa%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+hysteria2://1e3a5c5fde1da9dd1358b4adeb0c4ca1@45.32.252.144:443?security=tls&sni=vps.vpsv.cc#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACChoopa%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 hysteria2://ef18d810-719c-4bf1-83c6-615d01f217eb@jp.cryptoofarm.com:443?insecure=1&sni=jp.cryptoofarm.com#%E6%97%A5%E6%9C%AC
+hysteria2://fJT5wNXNkYDvYKKGWUc9f2vd0LvHKSwc@43.167.198.167:443?insecure=1&security=tls&sni=43.167.198.167#%E6%97%A5%E6%9C%AC+V2CROSS.COM
 hysteria2://oU4tGn37oQ9JGmqnlTGkU3knrfAbclsq@vip-jp-4.hkd4fwmg.vip:32135?insecure=1&sni=vip-jp-4.hkd4fwmg.vip#JP
 hysteria2://oU4tGn37oQ9JGmqnlTGkU3knrfAbclsq@vip-jp-4.hkd4fwmg.vip:32135?insecure=1&sni=vip-jp-4.hkd4fwmg.vip#JP%202
 ss://048a61f8-b236-4082-b1c3-c22a85693c12@64cq-19370l2.meiboyun.cloud:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gcqSfWJ1yR5Aa2fsBYZ3vyaC0yQnil4qqNMZN4weZlE&sid=674a07ea4d1c4255#日本
@@ -114,6 +116,7 @@ trojan://AE62539071@13.231.24.177:443?allowInsecure=0&sni=easy-barnacle.rooster4
 trojan://AE62539071@13.231.24.177:443?security=tls&sni=easy-barnacle.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.231.24.177-0239
 trojan://AE62539071@18.183.109.172:443?allowInsecure=0&sni=well-jennet.rooster465.autos#JP-18.183.109.172-2138
 trojan://AE62539071@18.183.109.172:443?security=tls&sni=well-jennet.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.109.172-0269
+trojan://AE62539071@18.183.135.94:443?fp=chrome&sni=central-jawfish.rooster465.autos#🇯🇵JP-🚀@VPNine1
 trojan://AE62539071@18.183.140.61:443?security=tls&sni=harmless-imp.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.140.61-0266
 trojan://AE62539071@18.183.178.158:443?security=tls&sni=inviting-burro.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.178.158-0262
 trojan://AE62539071@18.183.182.132:443?allowInsecure=0&sni=exciting-grizzly.rooster465.autos#JP-18.183.182.132-0241
