@@ -1,7 +1,6 @@
 hy2://ef18d810-719c-4bf1-83c6-615d01f217eb@jp.cryptoofarm.com:443/?insecure=1&sni=jp.cryptoofarm.com#日本
 hy2://oU4tGn37oQ9JGmqnlTGkU3knrfAbclsq@vip-jp-4.hkd4fwmg.vip:32135/?insecure=1&sni=vip-jp-4.hkd4fwmg.vip#JP
 hysteria2://1e3a5c5fde1da9dd1358b4adeb0c4ca1@45.32.252.144:443?insecure=0&sni=vps.vpsv.cc#%E6%97%A5%E6%9C%AC%20%E4%B8%9C%E4%BA%ACChoopa%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-hysteria2://1e3a5c5fde1da9dd1358b4adeb0c4ca1@45.32.252.144:443?security=tls&sni=vps.vpsv.cc#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACChoopa%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 hysteria2://ef18d810-719c-4bf1-83c6-615d01f217eb@jp.cryptoofarm.com:443?insecure=1&sni=jp.cryptoofarm.com#%E6%97%A5%E6%9C%AC
 hysteria2://fJT5wNXNkYDvYKKGWUc9f2vd0LvHKSwc@43.167.198.167:443?insecure=1&security=tls&sni=43.167.198.167#%E6%97%A5%E6%9C%AC+V2CROSS.COM
 hysteria2://oU4tGn37oQ9JGmqnlTGkU3knrfAbclsq@vip-jp-4.hkd4fwmg.vip:32135?insecure=1&sni=vip-jp-4.hkd4fwmg.vip#JP
@@ -199,6 +198,7 @@ trojan://EQ30679154@wealthy-gobbler.rooster465.autos:443?security=tls&sni=wealth
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#Japan%20Klayer%20LLC
 trojan://FH72359861@13.159.22.208:443?security=tls&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=driven-bulldog.rooster465.autos#JP🇯🇵
 trojan://FH72359861@3.112.4.72:443?sni=definite-hen.rooster465.autos&fp=chrome&type=tcp&path=%2F#JP🇯🇵
+trojan://FH72359861@43.207.83.177:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=settled-camel.rooster465.autos#🇯🇵JP-🚀@VPNine1
 trojan://FH72359861@43.207.87.43:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=casual-stallion.rooster465.autos#JP🇯🇵
 trojan://FH72359861@52.68.147.250:443#JP🇯🇵
 trojan://FH72359861@adapted-quetzal.rooster465.autos:443?allowInsecure=0&sni=adapted-quetzal.rooster465.autos#JP-52.195.2.92-0189
@@ -388,7 +388,6 @@ trojan://fg20mtCFHy@172.237.3.17:5443/?type=tcp&security=tls&sni=www.bing.com&al
 trojan://humanity@104.16.174.44:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%AF%F0%9F%87%B5%20JP%E6%97%A5%E6%9C%AC%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://humanity@104.18.152.219:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%AF%F0%9F%87%B5%20JP%E6%97%A5%E6%9C%AC%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://humanity@104.18.152.219:443?sni=www.ignitelimit.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
-trojan://humanity@104.18.152.225:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%AF%F0%9F%87%B5%20JP%E6%97%A5%E6%9C%AC%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://humanity@104.18.152.97:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%AF%F0%9F%87%B5%20JP%E6%97%A5%E6%9C%AC%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://tsuchiya@aa.ccmusic.jp:443/?type=tcp&security=tls#-%3EJP%2B%28%40DeamNet_Proxy%29%20%283%29
 vless://048a61f8-b236-4082-b1c3-c22a85693c12@64cq-19370l2.meiboyun.cloud:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gcqSfWJ1yR5Aa2fsBYZ3vyaC0yQnil4qqNMZN4weZlE&sid=674a07ea4d1c4255#日本
