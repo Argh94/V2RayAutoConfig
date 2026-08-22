@@ -17,13 +17,6 @@ ss://888193f6-6818-42f4-b223-64c9fd323b76@45.80.111.1:8880?encryption=none&type=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.26.156:1080#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+146.70.26.156-1080+%7C+96.24ms
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.160-4127
 ss://a382aa45-22d5-4a8c-86cc-ad11d1f2800f@cf-mci.coixconqwe1.ir:80?path=%2F%3Fed%3D2082&security=none&encryption=none&host=Ss.3.termius.ir&type=httpupgrade#CH🇨🇭
-ss://c7e9c591-2764-423a-afca-efbd010fd396@103.63.30.163:443?&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru&type=ws&headerType=none&host=forfreeuse.rtqa.ru&path=%2F#_%E7%91%9E%E5%A3%AB_185
-ss://c7e9c591-2764-423a-afca-efbd010fd396@103.63.30.73:443?&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru&type=ws&headerType=none&host=forfreeuse.rtqa.ru&path=%2F#_%E7%91%9E%E5%A3%AB_203
-ss://c7e9c591-2764-423a-afca-efbd010fd396@179.43.180.236:443?&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru&type=ws&headerType=none&host=forfreeuse.rtqa.ru&path=%2F#_%E7%91%9E%E5%A3%AB_188
-ss://c7e9c591-2764-423a-afca-efbd010fd396@185.191.239.218:443?&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru&type=ws&headerType=none&host=forfreeuse.rtqa.ru&path=%2F#_%E7%91%9E%E5%A3%AB_328
-ss://c7e9c591-2764-423a-afca-efbd010fd396@185.195.69.72:443?&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru&type=ws&headerType=none&host=forfreeuse.rtqa.ru&path=%2F#_%E7%91%9E%E5%A3%AB_157
-ss://c7e9c591-2764-423a-afca-efbd010fd396@45.59.125.193:443?&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru&type=ws&headerType=none&host=forfreeuse.rtqa.ru&path=%2F#_%E7%91%9E%E5%A3%AB_183
-ss://c7e9c591-2764-423a-afca-efbd010fd396@83.228.193.188:443?&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru&type=ws&headerType=none&host=forfreeuse.rtqa.ru&path=%2F#_%E7%91%9E%E5%A3%AB_254
 ss://ec9e4d1a-46e1-4405-a559-7fda3501cf7b@cf2.coixconqwe1.ir:2086?encryption=none&type=xhttp&path=%2F%3Fed%3D2082&host=Sse.2.termius.ir&mode=auto#CH🇨🇭
 ss://f4f2229e-ca2a-40b1-b4ae-24248c21b645@cdn7-02.cdn-vkvideo.com:443?security=reality&encryption=none&pbk=MpuwI3YH2g3YWHKLuQwwgD_qLo-UmUtZe8L1KXOKxhA&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn7-02.cdn-vkvideo.com&sid=b0d8f964b7ac8ac0#REALITY|CH🇨🇭
 trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-152.67.71.149-2556
@@ -44,12 +37,5 @@ vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.66:8443/?type=tcp&encryp
 vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.79:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&security=reality&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%AD%C2%AE%EF%B8%8FSwitzerland%C2%A9%EF%B8%8FBern%F0%9F%85%BF%EF%B8%8Fping%3A42.51ms
 vless://888193f6-6818-42f4-b223-64c9fd323b76@45.80.111.1:8880?encryption=none&type=httpupgrade&path=%2F%3Fed%3D2082&host=eEhdfhhgln.5.postshup.ir#CH🇨🇭
 vless://a382aa45-22d5-4a8c-86cc-ad11d1f2800f@cf-mci.coixconqwe1.ir:80?path=%2F%3Fed%3D2082&security=none&encryption=none&host=Ss.3.termius.ir&type=httpupgrade#CH🇨🇭
-vless://c7e9c591-2764-423a-afca-efbd010fd396@103.63.30.163:443?&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru&type=ws&headerType=none&host=forfreeuse.rtqa.ru&path=%2F#_%E7%91%9E%E5%A3%AB_185
-vless://c7e9c591-2764-423a-afca-efbd010fd396@103.63.30.73:443?&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru&type=ws&headerType=none&host=forfreeuse.rtqa.ru&path=%2F#_%E7%91%9E%E5%A3%AB_203
-vless://c7e9c591-2764-423a-afca-efbd010fd396@179.43.180.236:443?&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru&type=ws&headerType=none&host=forfreeuse.rtqa.ru&path=%2F#_%E7%91%9E%E5%A3%AB_188
-vless://c7e9c591-2764-423a-afca-efbd010fd396@185.191.239.218:443?&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru&type=ws&headerType=none&host=forfreeuse.rtqa.ru&path=%2F#_%E7%91%9E%E5%A3%AB_328
-vless://c7e9c591-2764-423a-afca-efbd010fd396@185.195.69.72:443?&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru&type=ws&headerType=none&host=forfreeuse.rtqa.ru&path=%2F#_%E7%91%9E%E5%A3%AB_157
-vless://c7e9c591-2764-423a-afca-efbd010fd396@45.59.125.193:443?&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru&type=ws&headerType=none&host=forfreeuse.rtqa.ru&path=%2F#_%E7%91%9E%E5%A3%AB_183
-vless://c7e9c591-2764-423a-afca-efbd010fd396@83.228.193.188:443?&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru&type=ws&headerType=none&host=forfreeuse.rtqa.ru&path=%2F#_%E7%91%9E%E5%A3%AB_254
 vless://ec9e4d1a-46e1-4405-a559-7fda3501cf7b@cf2.coixconqwe1.ir:2086?encryption=none&type=xhttp&path=%2F%3Fed%3D2082&host=Sse.2.termius.ir&mode=auto#CH🇨🇭
 vless://f4f2229e-ca2a-40b1-b4ae-24248c21b645@cdn7-02.cdn-vkvideo.com:443?security=reality&encryption=none&pbk=MpuwI3YH2g3YWHKLuQwwgD_qLo-UmUtZe8L1KXOKxhA&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn7-02.cdn-vkvideo.com&sid=b0d8f964b7ac8ac0#REALITY|CH🇨🇭
