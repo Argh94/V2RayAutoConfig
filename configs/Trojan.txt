@@ -7103,7 +7103,6 @@ trojan://PQ05174892@18.183.216.49:443?sni=fun-poodle.rooster465.autos&type=tcp&p
 trojan://PQ05174892@18.183.245.11:443?sni=bright-buffalo.rooster465.autos&fp=chrome&type=tcp&path=/#
 trojan://PQ05174892@18.183.245.11:443?sni=bright-buffalo.rooster465.autos&type=tcp&path=/#
 trojan://PQ05174892@18.199.174.201:443?fp=chrome#
-trojan://PQ05174892@18.199.174.201:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=casual-quail.rooster465.autos#
 trojan://PQ05174892@18.199.174.201:443?security=tls&sni=casual-quail.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=1#
 trojan://PQ05174892@18.199.174.201:443?sni=casual-quail.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#
 trojan://PQ05174892@18.199.174.201:443?sni=casual-quail.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#@V2ray_Collector
