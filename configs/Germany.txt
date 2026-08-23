@@ -257,7 +257,6 @@ ss://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.52:443?encryption=none&flow=
 ss://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.89:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#REALITY|DE🇩🇪
 ss://d65cc14c-f53f-4fe2-b262-97856601319c@br1.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#REALITY|DE🇩🇪
 ss://d65cc14c-f53f-4fe2-b262-97856601319c@us3.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#REALITY|DE🇩🇪
-ss://dbe453d8-112d-4bad-b353-3ccf60044a23@164.90.191.172:47260/?type=tcp&encryption=none&flow=#德国
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@18.159.232.255:22223?encryption=none&security=none&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.72.202.163:22223?encryption=none&security=none&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20149ms
 ss://e64100fd-773d-4cc6-adbe-a4c94876d07a@45.131.214.45:443/?type=grpc&encryption=none&sni=d.primarymaster.online&fp=chrome&security=reality&pbk=ID6lMOmt7BiuPHjZkoLSWNR9ONmB6b4L9skIIFjtXxU&sid=#-%3EDE%2B%28%40DeamNet_Proxy%29%20%282%29
@@ -482,7 +481,6 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.52:443?encryption=none&fl
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.89:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#REALITY|DE🇩🇪
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@br1.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#REALITY|DE🇩🇪
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@us3.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#REALITY|DE🇩🇪
-vless://dbe453d8-112d-4bad-b353-3ccf60044a23@164.90.191.172:47260/?type=tcp&encryption=none&flow=#德国
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.159.232.255:22223?encryption=none&security=none&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.72.202.163:22223?encryption=none&security=none&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20149ms
 vless://e64100fd-773d-4cc6-adbe-a4c94876d07a@45.131.214.45:443/?type=grpc&encryption=none&sni=d.primarymaster.online&fp=chrome&security=reality&pbk=ID6lMOmt7BiuPHjZkoLSWNR9ONmB6b4L9skIIFjtXxU&sid=#-%3EDE%2B%28%40DeamNet_Proxy%29%20%282%29
