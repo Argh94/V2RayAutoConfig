@@ -13,6 +13,7 @@ ss://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:18443?security=tls&enc
 ss://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9002?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&authority=&serviceName=grpc-reality&mode=gun#REALITY|RU🇷🇺
 ss://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&spx=%2Fsinavm&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#REALITY|RU🇷🇺
 ss://5255d3f3-f419-4c5b-9059-f1749e6eb6fb@5.42.120.224:7443?type=xhttp&security=tls&fp=firefox&sni=ruservice3.oaklandjoseph.top&path=%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks%2F#RU🇷🇺
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.67.215.30:8880?type=ws&host=vms.lifetime48.workers.dev&path=/#A%20-%20%F0%9F%87%B7%F0%9F%87%BA%20RU%2001%20TG%3A%20%40nodpai
 ss://7aa508f3-176f-0024-add3-646af94d6288@185.137.232.194:443?mode=packet-up&path=%2Fassets&security=reality&encryption=none&pbk=kYwdZueXQt_DEKPrWTw8yoj6G4AWqupg8UrWjAgWbkE&fp=chrome&type=xhttp&sni=aispir.ru&sid=8ba6e72ee60667f6#REALITY|RU🇷🇺
 ss://7b2ce6b0-6d2b-4926-b7bf-6247eb1a0050@5.42.103.91:2200?path=%2Fv1&security=&encryption=none&type=ws#RU🇷🇺
 ss://7d2bac5e-6ff9-45c9-844e-6bfc5a384a42@185.147.26.175:443?security=reality&encryption=none&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yt.orpheous.ru&sid=9e4eced6e98ed4d4#REALITY|RU🇷🇺
@@ -93,6 +94,7 @@ vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:18443?security=tls&
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9002?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&authority=&serviceName=grpc-reality&mode=gun#REALITY|RU🇷🇺
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&spx=%2Fsinavm&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#REALITY|RU🇷🇺
 vless://5255d3f3-f419-4c5b-9059-f1749e6eb6fb@5.42.120.224:7443?type=xhttp&security=tls&fp=firefox&sni=ruservice3.oaklandjoseph.top&path=%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks%2F#RU🇷🇺
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.67.215.30:8880?type=ws&host=vms.lifetime48.workers.dev&path=/#A%20-%20%F0%9F%87%B7%F0%9F%87%BA%20RU%2001%20TG%3A%20%40nodpai
 vless://7aa508f3-176f-0024-add3-646af94d6288@185.137.232.194:443?mode=packet-up&path=%2Fassets&security=reality&encryption=none&pbk=kYwdZueXQt_DEKPrWTw8yoj6G4AWqupg8UrWjAgWbkE&fp=chrome&type=xhttp&sni=aispir.ru&sid=8ba6e72ee60667f6#REALITY|RU🇷🇺
 vless://7b2ce6b0-6d2b-4926-b7bf-6247eb1a0050@5.42.103.91:2200?path=%2Fv1&security=&encryption=none&type=ws#RU🇷🇺
 vless://7d2bac5e-6ff9-45c9-844e-6bfc5a384a42@185.147.26.175:443?security=reality&encryption=none&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yt.orpheous.ru&sid=9e4eced6e98ed4d4#REALITY|RU🇷🇺
