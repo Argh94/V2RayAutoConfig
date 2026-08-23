@@ -1,5 +1,7 @@
 hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr194.mechvpn.online:443/?sni=fr194.mechvpn.online#法国
 hy2://github.com/Alvin9999-newpac/fanqiang@62.210.147.2:43115/?insecure=1&sni=www.microsoft.com#法国
+hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr194.mechvpn.online:443?sni=fr194.mechvpn.online#%E6%B3%95%E5%9B%BD
+hysteria2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723/?insecure=1&sni=www.cloudflare.com#France%20%F0%9F%87%AB%F0%9F%87%B7
 hysteria2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723?insecure=1&sni=www.cloudflare.com#%E6%B3%95%E5%9B%BD%20%231
 hysteria2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723?insecure=1&sni=www.cloudflare.com#%E6%B3%95%E5%9B%BD%20%231%202
 hysteria2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723?insecure=1&sni=www.cloudflare.com#8%7C%E6%B3%95%E5%9B%BD
@@ -98,6 +100,7 @@ ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8881#%F0%9F%87%AB%F0%9F
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8882#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-5185
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@195.154.200.150:443#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.200.150-5203
 ss://a60bc8c8-1447-4f2c-a09c-c4293b257fd8@54.37.136.194:2053?encryption=none&fp=&pbk=JldKt40jK4uwPfwxy5RNZSvMf11bHIEphKmPNEmlRmg&security=reality&sid=6c3d30b55a969136&sni=www.cloudflare.com&type=tcp#REALITY|FR🇫🇷
+ss://ac7fb60f-0b7a-465d-a002-05160ec04ed6@88.218.196.178:443?sni=lapa4.api3-max.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇫🇷[openproxylist.com]vless-FR
 ss://ac7fb60f-0b7a-465d-a002-05160ec04ed6@lapa5.api3-max.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=lapa5.api3-max.ru&alpn=h2,http/1.1&fp=chrome#法国
 ss://acd726d3-0128-44d8-a575-21013ff7740a@51.44.25.250:44520/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=MrLRcU_2S2CpUc7VT3ajIavX5NYUiQdP6J5QTDFNGFU&sid=8897c56a495b26cc#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2843%29
 ss://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20X
@@ -307,6 +310,7 @@ vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@31.59.121.150:2053?&security=tls&fp
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@51.38.226.4:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#FR🇫🇷
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@54.36.99.234:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#FR🇫🇷
 vless://a60bc8c8-1447-4f2c-a09c-c4293b257fd8@54.37.136.194:2053?encryption=none&fp=&pbk=JldKt40jK4uwPfwxy5RNZSvMf11bHIEphKmPNEmlRmg&security=reality&sid=6c3d30b55a969136&sni=www.cloudflare.com&type=tcp#REALITY|FR🇫🇷
+vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@88.218.196.178:443?sni=lapa4.api3-max.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇫🇷[openproxylist.com]vless-FR
 vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@lapa5.api3-max.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=lapa5.api3-max.ru&alpn=h2,http/1.1&fp=chrome#法国
 vless://acd726d3-0128-44d8-a575-21013ff7740a@51.44.25.250:44520/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=MrLRcU_2S2CpUc7VT3ajIavX5NYUiQdP6J5QTDFNGFU&sid=8897c56a495b26cc#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2843%29
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20X
