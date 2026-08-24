@@ -24,8 +24,6 @@ ss://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality&en
 ss://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#REALITY|FR🇫🇷
 ss://53821f3c-5b03-456a-89f3-f8379f130752@57.128.81.193:443/?type=raw&encryption=none&sni=www.samsung.com&security=reality&pbk=fXdtB8vImCUJMQBLcCNK7p1v3rVzx6HllaDLk8Vc4EU&sid=239dcd11#-%3EFR%2B%28%40DeamNet_Proxy%29%20%285%29
 ss://53c76647-14d1-4df5-99cb-be99ad2e6bd9@185.55.240.199:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=fr199.mechvpn.online#FR🇫🇷
-ss://53c76647-14d1-4df5-99cb-be99ad2e6bd9@194.24.161.133:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=fr133.mechvpn.online&fp=chrome#法国
-ss://53c76647-14d1-4df5-99cb-be99ad2e6bd9@194.24.161.140:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=fr140.mechvpn.online&fp=chrome#法国
 ss://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=nMlxwhP34_5wFPscbso_hOfRDmsj9DonMpDSXUrnJR8&sid=ead3d6f82a9d#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2863%29
 ss://5c22dd50-f75d-4cf5-ba53-721f91d8bfe1@45.131.212.31:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sellflow.org&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#法国
 ss://5c22dd50-f75d-4cf5-ba53-721f91d8bfe1@45.131.212.52:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fr.sellflow.org&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#法国
@@ -301,8 +299,6 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#REALITY|FR🇫🇷
 vless://53821f3c-5b03-456a-89f3-f8379f130752@57.128.81.193:443/?type=raw&encryption=none&sni=www.samsung.com&security=reality&pbk=fXdtB8vImCUJMQBLcCNK7p1v3rVzx6HllaDLk8Vc4EU&sid=239dcd11#-%3EFR%2B%28%40DeamNet_Proxy%29%20%285%29
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@185.55.240.199:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=fr199.mechvpn.online#FR🇫🇷
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@194.24.161.133:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=fr133.mechvpn.online&fp=chrome#法国
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@194.24.161.140:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=fr140.mechvpn.online&fp=chrome#法国
 vless://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=nMlxwhP34_5wFPscbso_hOfRDmsj9DonMpDSXUrnJR8&sid=ead3d6f82a9d#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2863%29
 vless://5c22dd50-f75d-4cf5-ba53-721f91d8bfe1@45.131.212.31:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sellflow.org&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#法国
 vless://5c22dd50-f75d-4cf5-ba53-721f91d8bfe1@45.131.212.52:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fr.sellflow.org&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#法国
