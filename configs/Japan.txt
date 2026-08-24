@@ -1,5 +1,6 @@
 hy2://Foc_Mcxi45rM9v3ve_N92fdrK_10_Ssc5@185.39.31.117:8443/?insecure=1&sni=grape-beer.yyuyy.com#日本
 hy2://ef18d810-719c-4bf1-83c6-615d01f217eb@jp.cryptoofarm.com:443/?insecure=1&sni=jp.cryptoofarm.com#日本
+hy2://ef18d810-719c-4bf1-83c6-615d01f217eb@jp.cryptoofarm.com:443/?insecure=1&sni=jp.cryptoofarm.com#日本#🌐سرور
 hy2://oU4tGn37oQ9JGmqnlTGkU3knrfAbclsq@vip-jp-4.hkd4fwmg.vip:32135/?insecure=1&sni=vip-jp-4.hkd4fwmg.vip#JP
 hysteria2://Foc_Mcxi45rM9v3ve_N92fdrK_10_Ssc5@185.39.31.117:8443?insecure=1&sni=grape-beer.yyuyy.com#%E6%97%A5%E6%9C%AC
 hysteria2://b4c65d3711d27d46f32263f1dd9caf48@151.145.65.190:50160?insecure=1&sni=www.bing.com#JP-Tokyo-h-11456519-ooau
@@ -12,7 +13,6 @@ ss://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477/?type=raw&encrypt
 ss://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#JP🇯🇵
 ss://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&security=reality&encryption=none&authority=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&fp=firefox&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#REALITY|JP🇯🇵
 ss://36477315-2e11-4478-b85c-549133624eef@178.253.245.144:21562/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.nazhumi.com&fp=chrome&security=reality&pbk=saEF9IjGEOga3eZG962AMJRTM93cnsVVziketYU6s1M&sid=#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AF%F0%9F%87%B5%C2%AE%EF%B8%8FJapan%C2%A9%EF%B8%8FShibuya%20City%F0%9F%85%BF%EF%B8%8Fping%3A234ms
-ss://47388561-cf0c-4cfc-91f8-fdfd9fa3d756@150.40.117.221:8443?security=reality&flow=xtls-rprx-vision&headerType=none&sni=www.amazon.com&sid=7b&type=tcp&encryption=none&pbk=B5F8h8tpeZ-1ydiT0uFgdc30jJyw8H89Y8e-p_VV6yw&fp=chrome#%E6%97%A5%E6%9C%AC+V2CROSS.COM
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@176.124.223.30:8880?type=ws&host=vms.lifetime38.workers.dev#A%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2005%20TG%3A%20%40nodpai
 ss://6a1f6c94-7785-42e2-9203-381d1f4db37e@103.100.158.10:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=1xIu8ESLs4JviWXp8XaOceWAEVHqWLzNIiojA_uf8Ug&sid=83feb7aa267e9ddf#日本
 ss://6f339a8a-6c15-4104-a9ef-95f2082e8e53@103.76.85.207:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=wz7upg9oyxhWauuxq8wT0vwm-zwq2GlGqXPuRyjHVTs&sid=d243260730435fb4&packetEncoding=xudp#🇯🇵JP
@@ -184,7 +184,6 @@ vless://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477/?type=raw&encr
 vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#JP🇯🇵
 vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&security=reality&encryption=none&authority=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&fp=firefox&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#REALITY|JP🇯🇵
 vless://36477315-2e11-4478-b85c-549133624eef@178.253.245.144:21562/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.nazhumi.com&fp=chrome&security=reality&pbk=saEF9IjGEOga3eZG962AMJRTM93cnsVVziketYU6s1M&sid=#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AF%F0%9F%87%B5%C2%AE%EF%B8%8FJapan%C2%A9%EF%B8%8FShibuya%20City%F0%9F%85%BF%EF%B8%8Fping%3A234ms
-vless://47388561-cf0c-4cfc-91f8-fdfd9fa3d756@150.40.117.221:8443?security=reality&flow=xtls-rprx-vision&headerType=none&sni=www.amazon.com&sid=7b&type=tcp&encryption=none&pbk=B5F8h8tpeZ-1ydiT0uFgdc30jJyw8H89Y8e-p_VV6yw&fp=chrome#%E6%97%A5%E6%9C%AC+V2CROSS.COM
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.124.223.30:8880?type=ws&host=vms.lifetime38.workers.dev#A%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2005%20TG%3A%20%40nodpai
 vless://6a1f6c94-7785-42e2-9203-381d1f4db37e@103.100.158.10:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=1xIu8ESLs4JviWXp8XaOceWAEVHqWLzNIiojA_uf8Ug&sid=83feb7aa267e9ddf#日本
 vless://6f339a8a-6c15-4104-a9ef-95f2082e8e53@103.76.85.207:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=wz7upg9oyxhWauuxq8wT0vwm-zwq2GlGqXPuRyjHVTs&sid=d243260730435fb4&packetEncoding=xudp#🇯🇵JP
