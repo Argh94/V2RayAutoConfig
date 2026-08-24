@@ -5,7 +5,6 @@ ss://237f91bf-102e-4077-8cc3-baebccb42936@85.198.70.200:14406?flow=xtls-rprx-vis
 ss://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?encryption=none&security=none&type=ws&path=%2Fv1#RU🇷🇺
 ss://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?path=%2Fv1&security=none&encryption=none&type=ws#RU🇷🇺
 ss://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:18443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=disagreedebut.net&type=tcp#RU🇷🇺
-ss://423b1d79-08c4-403f-9d5e-c541f791b55f@mws.tunnelgate.org:14443?encryption=none&security=tls&sni=mws.tunnelgate.org&insecure=0&allowInsecure=0&type=ws&host=mws.tunnelgate.org&path=%2Fru#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 ss://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&type=tcp&headerType=none#REALITY|RU🇷🇺
 ss://50e636af-b554-4526-94ad-d0f4b34adecc@147.45.47.51:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#REALITY|RU🇷🇺
 ss://5255d3f3-f419-4c5b-9059-f1749e6eb6fb@5.42.120.102:7443?type=xhttp&security=tls&fp=chrome&sni=ruservice5.oaklandjoseph.top&path=%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks#RU🇷🇺
@@ -87,7 +86,6 @@ vless://237f91bf-102e-4077-8cc3-baebccb42936@85.198.70.200:14406?flow=xtls-rprx-
 vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?encryption=none&security=none&type=ws&path=%2Fv1#RU🇷🇺
 vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?path=%2Fv1&security=none&encryption=none&type=ws#RU🇷🇺
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:18443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=disagreedebut.net&type=tcp#RU🇷🇺
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@mws.tunnelgate.org:14443?encryption=none&security=tls&sni=mws.tunnelgate.org&insecure=0&allowInsecure=0&type=ws&host=mws.tunnelgate.org&path=%2Fru#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&type=tcp&headerType=none#REALITY|RU🇷🇺
 vless://50e636af-b554-4526-94ad-d0f4b34adecc@147.45.47.51:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#REALITY|RU🇷🇺
 vless://5255d3f3-f419-4c5b-9059-f1749e6eb6fb@5.42.120.102:7443?type=xhttp&security=tls&fp=chrome&sni=ruservice5.oaklandjoseph.top&path=%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks#RU🇷🇺
