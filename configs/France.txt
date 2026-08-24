@@ -21,10 +21,8 @@ ss://53c76647-14d1-4df5-99cb-be99ad2e6bd9@194.24.161.133:443/?type=tcp&encryptio
 ss://53c76647-14d1-4df5-99cb-be99ad2e6bd9@194.24.161.140:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=fr140.mechvpn.online&fp=chrome#法国
 ss://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr15.mechvpn.online:443?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision-udp443#FR🇫🇷
 ss://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=nMlxwhP34_5wFPscbso_hOfRDmsj9DonMpDSXUrnJR8&sid=ead3d6f82a9d#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2863%29
-ss://54a54ea0-4409-4030-ad9b-44c45849c05a@152.89.253.239:7443?sni=ya.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#A%20-%20%F0%9F%87%AB%F0%9F%87%B7%20FR%2003%20TG%3A%20%40nodpai
 ss://5c22dd50-f75d-4cf5-ba53-721f91d8bfe1@45.131.212.31:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sellflow.org&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#法国
 ss://5c22dd50-f75d-4cf5-ba53-721f91d8bfe1@45.131.212.52:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fr.sellflow.org&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#法国
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.119.30:8880?type=ws&host=vms.lifetime56.workers.dev#A%20-%20%F0%9F%87%AB%F0%9F%87%B7%20FR%2001%20TG%3A%20%40nodpai
 ss://670decfe-68cc-499e-8cb1-22b39c20acbb@nl8.helper-internet.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=nl8.helper-internet.com&type=tcp#REALITY|FR🇫🇷
 ss://670decfe-68cc-499e-8cb1-22b39c20acbb@nl8.helper-internet.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=nl8.helper-internet.com&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88&type=tcp&headerType=none#REALITY|FR🇫🇷
 ss://67f37ffe-c8c4-4ced-8f9c-5b45738224f1@francebigtour.hchdhsbs12gd.ir:7006?security=reality&encryption=none&pbk=0QdpIQcpbMkJCpL1XY0soedKEfJfHgIKz3tWmjLa6yE&headerType=none&fp=qq&type=tcp&sni=play.google.com#REALITY|FR🇫🇷
@@ -138,7 +136,6 @@ trojan://9498f3a0-2992-11ee-a4c7-1239d0255272@fr.test3.net:443?security=tls&sni=
 trojan://973ed2e0-c4d8-4737-a093-71629148086d@51.77.213.197:443?security=tls&sni=frt2.sshocean.net#%F0%9F%87%AB%F0%9F%87%B7FR-51.77.213.197-4151
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.38.99.96-1507
 trojan://db19fc68-c027-4641-a8eb-eed3e1065c8a@146.70.158.111:443?security=tls&sni=amin.karkas1.ir&type=grpc&serviceName=6vuNVgOFnqUEvj0rcXIcStL#%F0%9F%87%AB%F0%9F%87%B7FR-146.70.158.111-7538
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%40v2boxvless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.26.4.60:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#%40v2box
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=asriran.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-6922
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=namayesh.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-6920
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=softsaaz.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-6926
@@ -289,10 +286,8 @@ vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@194.24.161.133:443/?type=tcp&encryp
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@194.24.161.140:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=fr140.mechvpn.online&fp=chrome#法国
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr15.mechvpn.online:443?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision-udp443#FR🇫🇷
 vless://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=nMlxwhP34_5wFPscbso_hOfRDmsj9DonMpDSXUrnJR8&sid=ead3d6f82a9d#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2863%29
-vless://54a54ea0-4409-4030-ad9b-44c45849c05a@152.89.253.239:7443?sni=ya.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#A%20-%20%F0%9F%87%AB%F0%9F%87%B7%20FR%2003%20TG%3A%20%40nodpai
 vless://5c22dd50-f75d-4cf5-ba53-721f91d8bfe1@45.131.212.31:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sellflow.org&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#法国
 vless://5c22dd50-f75d-4cf5-ba53-721f91d8bfe1@45.131.212.52:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fr.sellflow.org&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#法国
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.119.30:8880?type=ws&host=vms.lifetime56.workers.dev#A%20-%20%F0%9F%87%AB%F0%9F%87%B7%20FR%2001%20TG%3A%20%40nodpai
 vless://670decfe-68cc-499e-8cb1-22b39c20acbb@nl8.helper-internet.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=nl8.helper-internet.com&type=tcp#REALITY|FR🇫🇷
 vless://670decfe-68cc-499e-8cb1-22b39c20acbb@nl8.helper-internet.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=nl8.helper-internet.com&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88&type=tcp&headerType=none#REALITY|FR🇫🇷
 vless://67f37ffe-c8c4-4ced-8f9c-5b45738224f1@francebigtour.hchdhsbs12gd.ir:7006?security=reality&encryption=none&pbk=0QdpIQcpbMkJCpL1XY0soedKEfJfHgIKz3tWmjLa6yE&headerType=none&fp=qq&type=tcp&sni=play.google.com#REALITY|FR🇫🇷
