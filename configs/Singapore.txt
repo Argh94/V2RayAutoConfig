@@ -6,7 +6,6 @@ hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.254.190.23:443/?insecure=1&sni=vpn-sg-001.fast
 hysteria2://9gWt2z3KdC9VI8kAQYVvvSvhT9e05CfI@vip-sg-1.hkd4fwmg.vip:12645?insecure=1&sni=vip-sg-1.hkd4fwmg.vip#SG
 hysteria2://P6qkAwznuC076mbIR2cGPg%3D%3D@43.156.90.144:34567?insecure=1&sni=bing.com#%F0%9F%87%B8%F0%9F%87%ACSG
 hysteria2://ZYTopBPE6fGijECIcT3KxqFEpjQJ44ND@vip-sg-2.hkd4fwmg.vip:55793?insecure=1&sni=vip-sg-2.hkd4fwmg.vip#SG%20%231
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.82.184:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%E6%96%B0%E5%8A%A0%E5%9D%A1%20Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.155.42:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%E6%96%B0%E5%8A%A0%E5%9D%A1
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.254.190.23:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%231
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.254.190.23:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%231%202
@@ -22,13 +21,13 @@ ss://2864749a-b45d-52c3-0f36-e64224f5480f@159.89.198.1:443/?type=raw&encryption=
 ss://2864749a-b45d-52c3-0f36-e64224f5480f@174.138.21.249:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.adobe.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29
 ss://2864749a-b45d-52c3-0f36-e64224f5480f@188.166.176.63:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.alibaba.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%289%29
 ss://389e0591-86d6-408f-bf24-18f611a0c94b@66.42.62.84:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=kxuW6rJkcKU88l_sgqezrcMFEy4yofrgouBoKufWASs&sid=2fadfe9a357ec21e#新加坡
-ss://389e0591-86d6-408f-bf24-18f611a0c94b@66.42.62.84:443?&security=reality&flow=xtls-rprx-vision&pbk=kxuW6rJkcKU88l_sgqezrcMFEy4yofrgouBoKufWASs&sid=2fadfe9a357ec21e&fp=chrome&sni=www.apple.com&type=tcp&headerType=none&path=%2F#SG-Singapore-h-42628-oobu
 ss://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#SG🇸🇬
 ss://423b1d79-08c4-403f-9d5e-c541f791b55f@154.196.139.50:443?&security=reality&flow=xtls-rprx-vision&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077&fp=chrome&sni=asia.cendora.ru&type=tcp&headerType=none&path=%2F#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%B8%A8yoyapai.com_1
 ss://423b1d79-08c4-403f-9d5e-c541f791b55f@154.196.139.50:443?&security=reality&flow=xtls-rprx-vision&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077&fp=chrome&sni=asia.cendora.ru&type=tcp&headerType=none&path=%2F#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%B8%A8yoyapai.com_2
 ss://53cdd75e-9597-4b04-89a4-d29ba3fe7d1f@sg.cloudata.eu.org:59485?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zsflrBjOk_fPWAngmKpBq_4a-5Aq33e1CmCaUgHjMmM&security=reality&sid=a230ce302a&sni=yahoo.com&type=tcp#sg-quan
 ss://6179bb85-fd73-4aa1-a10d-a7c017306c1b@162.128.84.142:443?security=none&encryption=none&headerType=none&type=tcp#SG🇸🇬
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.30:8880?type=ws&host=vms.lifetime04.workers.dev&path=/#A%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2009%20TG%3A%20%40nodpai
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.4.30:8880?&security=false&fp=chrome&type=ws&headerType=none&host=vms.lifetime59.workers.dev&path=%2F#A%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2008%20TG%3A%20%40nodpai
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.4.30:8880?type=ws&host=vms.lifetime59.workers.dev#A%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2008%20TG%3A%20%40nodpai
 ss://65500794-99b4-0343-bd18-a12453257a2b@125.77.20.210:13565/?type=ws&encryption=none&flow=&path=/#新加坡
 ss://690ad3be-991b-4a2c-b351-42dd06789d03@162.128.71.118:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=3ZKNZEktRaPxt-XoWmx68EGsFwglnICVkvIl96973iA&security=reality&sid=4014ce9b0d82ad9d&sni=www.bing.com&type=tcp#REALITY|SG🇸🇬
@@ -159,13 +158,13 @@ vless://2864749a-b45d-52c3-0f36-e64224f5480f@159.89.198.1:443/?type=raw&encrypti
 vless://2864749a-b45d-52c3-0f36-e64224f5480f@174.138.21.249:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.adobe.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29
 vless://2864749a-b45d-52c3-0f36-e64224f5480f@188.166.176.63:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.alibaba.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%289%29
 vless://389e0591-86d6-408f-bf24-18f611a0c94b@66.42.62.84:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=kxuW6rJkcKU88l_sgqezrcMFEy4yofrgouBoKufWASs&sid=2fadfe9a357ec21e#新加坡
-vless://389e0591-86d6-408f-bf24-18f611a0c94b@66.42.62.84:443?&security=reality&flow=xtls-rprx-vision&pbk=kxuW6rJkcKU88l_sgqezrcMFEy4yofrgouBoKufWASs&sid=2fadfe9a357ec21e&fp=chrome&sni=www.apple.com&type=tcp&headerType=none&path=%2F#SG-Singapore-h-42628-oobu
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#SG🇸🇬
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@154.196.139.50:443?&security=reality&flow=xtls-rprx-vision&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077&fp=chrome&sni=asia.cendora.ru&type=tcp&headerType=none&path=%2F#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%B8%A8yoyapai.com_1
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@154.196.139.50:443?&security=reality&flow=xtls-rprx-vision&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077&fp=chrome&sni=asia.cendora.ru&type=tcp&headerType=none&path=%2F#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%B8%A8yoyapai.com_2
 vless://53cdd75e-9597-4b04-89a4-d29ba3fe7d1f@sg.cloudata.eu.org:59485?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zsflrBjOk_fPWAngmKpBq_4a-5Aq33e1CmCaUgHjMmM&security=reality&sid=a230ce302a&sni=yahoo.com&type=tcp#sg-quan
 vless://6179bb85-fd73-4aa1-a10d-a7c017306c1b@162.128.84.142:443?security=none&encryption=none&headerType=none&type=tcp#SG🇸🇬
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.30:8880?type=ws&host=vms.lifetime04.workers.dev&path=/#A%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2009%20TG%3A%20%40nodpai
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.4.30:8880?&security=false&fp=chrome&type=ws&headerType=none&host=vms.lifetime59.workers.dev&path=%2F#A%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2008%20TG%3A%20%40nodpai
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.4.30:8880?type=ws&host=vms.lifetime59.workers.dev#A%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2008%20TG%3A%20%40nodpai
 vless://65500794-99b4-0343-bd18-a12453257a2b@125.77.20.210:13565/?type=ws&encryption=none&flow=&path=/#新加坡
 vless://690ad3be-991b-4a2c-b351-42dd06789d03@162.128.71.118:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=3ZKNZEktRaPxt-XoWmx68EGsFwglnICVkvIl96973iA&security=reality&sid=4014ce9b0d82ad9d&sni=www.bing.com&type=tcp#REALITY|SG🇸🇬
