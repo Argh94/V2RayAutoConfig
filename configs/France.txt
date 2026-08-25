@@ -6,6 +6,7 @@ hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr194.mechvpn.online:443?sni=fr
 hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora3.api3-max.ru:443?insecure=1&sni=dora3.api3-max.ru#%E6%B3%95%E5%9B%BD%20%231
 hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora4.api3-max.ru:443?insecure=1&sni=dora4.api3-max.ru#%E6%B3%95%E5%9B%BD%20%232
 ss://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?mode=auto&path=%2F&security=none&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#France%200VH
+ss://0772109c-a680-4896-b005-d86513194f96@77.221.152.100:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&security=reality&sid=bbc68cec8bb8d2e3&sni=node14.mxvpn.dev&type=tcp#🆔soskeynet%20🔒%20VL-TCP-%20🇫🇷%20FR%20down
 ss://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@31.56.176.196:443/?type=ws&encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&fp=chrome#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FParis%F0%9F%85%BF%EF%B8%8Fping%3A39ms
 ss://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@82.64.152.55:20304/?type=ws&encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AFR%20%2832%29
 ss://15cbab96-197e-46a5-9042-073b3980c798@fsdns.ectunnelvpn.me:80?encryption=none&host=fsdns.ectunnelvpn.me&path=/vless&security=none&type=ws#FR🇫🇷
@@ -250,6 +251,7 @@ trojan://xxoo@146.19.230.241:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-146.19.
 trojan://xxoo@146.19.230.241:443?security=tls&sni=bmi.ir#%F0%9F%87%AB%F0%9F%87%B7FR-146.19.230.241-7819
 trojan://xxoo@146.19.230.241:443?security=tls&sni=loader.tapsell.ir#%F0%9F%87%AB%F0%9F%87%B7FR-146.19.230.241-7815
 vless://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?mode=auto&path=%2F&security=none&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#France%200VH
+vless://0772109c-a680-4896-b005-d86513194f96@77.221.152.100:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&security=reality&sid=bbc68cec8bb8d2e3&sni=node14.mxvpn.dev&type=tcp#🆔soskeynet%20🔒%20VL-TCP-%20🇫🇷%20FR%20down
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@31.56.176.196:443/?type=ws&encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&fp=chrome#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FParis%F0%9F%85%BF%EF%B8%8Fping%3A39ms
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@82.64.152.55:20304/?type=ws&encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AFR%20%2832%29
 vless://15cbab96-197e-46a5-9042-073b3980c798@fsdns.ectunnelvpn.me:80?encryption=none&host=fsdns.ectunnelvpn.me&path=/vless&security=none&type=ws#FR🇫🇷
