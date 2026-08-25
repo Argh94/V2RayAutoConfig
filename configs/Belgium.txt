@@ -8,6 +8,7 @@ ss://08f84d53-e262-459c-a15a-26213e7a07c9@be2.wba-pn.ru:443?path=%2F&security=tl
 ss://08f84d53-e262-459c-a15a-26213e7a07c9@be2.wba-pn.ru:443?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=be2.wba-pn.ru#BE🇧🇪
 ss://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.206:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=kind-wolf.cdn.cachefleet.com#REALITY|BE🇧🇪
 ss://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.215:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=bold-kestrel.cdn.cachefleet.com#REALITY|BE🇧🇪
+ss://851b2819-b359-40bc-ad61-a5d41027be2c@150.251.114.43:443?encryption=none&path=%2Fvless&security=none&type=ws#%E6%AF%94%E5%88%A9%E6%97%B6+V2CROSS.COM
 ss://90562d79-e7b7-4aa8-b86e-32537ab0ede5@163.128.98.140:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=Cas0ZJcBSzluAQsloMFnJblbrZCKyE3PGTSJAbPlNCs&sid=7be83fb9e5328293#比利时
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.210.217.94:1080#BE%F0%9F%87%A7%F0%9F%87%AA+%7C+185.210.217.94-1080+%7C+102.09ms
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#%F0%9F%87%A7%F0%9F%87%AABE-192.71.249.78-7497
@@ -22,6 +23,7 @@ vless://08f84d53-e262-459c-a15a-26213e7a07c9@be2.wba-pn.ru:443?path=%2F&security
 vless://08f84d53-e262-459c-a15a-26213e7a07c9@be2.wba-pn.ru:443?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=be2.wba-pn.ru#BE🇧🇪
 vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.206:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=kind-wolf.cdn.cachefleet.com#REALITY|BE🇧🇪
 vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.215:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=bold-kestrel.cdn.cachefleet.com#REALITY|BE🇧🇪
+vless://851b2819-b359-40bc-ad61-a5d41027be2c@150.251.114.43:443?encryption=none&path=%2Fvless&security=none&type=ws#%E6%AF%94%E5%88%A9%E6%97%B6+V2CROSS.COM
 vless://90562d79-e7b7-4aa8-b86e-32537ab0ede5@163.128.98.140:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=Cas0ZJcBSzluAQsloMFnJblbrZCKyE3PGTSJAbPlNCs&sid=7be83fb9e5328293#比利时
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@109.69.218.164:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=zealous-vortex.cdn.cachefleet.com&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&allowinsecure=0&type=tcp&headerType=none#REALITY|BE🇧🇪
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@109.69.218.164:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=zealous-vortex.cdn.cachefleet.com&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&type=tcp&headerType=none#REALITY|BE🇧🇪
