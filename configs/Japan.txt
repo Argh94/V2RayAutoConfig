@@ -20,6 +20,7 @@ ss://93cc16ff-60bd-4a48-8b4b-0ca1ce5f22ba@14.137.244.44:18233/?type=tcp&encrypti
 ss://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.75.118.144:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#JP🇯🇵
 ss://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@151.242.165.136:59124?security=tls&type=ws&path=/danfeng&host=snippet.fgfw.indevs.in&alpn=http/1.1&sni=snippet.fgfw.indevs.in&fp=random#JP🇯🇵
 ss://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@2.27.27.64:443?security=reality&encryption=none&pbk=qBtxq4RZxDLCJT8i48iaGMhacv8MOI0yhIFiuwYJm08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jp.musicwave.net&sid=825d392c67e4#REALITY|JP🇯🇵
+ss://D8ED7FFD-7AA8-4EEB-9020-18A1A38AE6CC@jp4-r.link-t7.com:10034/?type=grpc&encryption=none&flow=&serviceName=update&sni=s0.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#日本
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:800#%F0%9F%87%AF%F0%9F%87%B5JP-185.172.113.182-7524
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:804#%F0%9F%87%AF%F0%9F%87%B5JP-185.172.113.182-7525
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:811#%F0%9F%87%AF%F0%9F%87%B5JP-185.172.113.182-7523
@@ -80,7 +81,6 @@ trojan://40c89b10235c40321e7a3cef82b53a03@trs16.bolab.net:22?security=tls#%F0%9F
 trojan://40c89b10235c40321e7a3cef82b53a03@trs17.bolab.net:22?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.127.203.108-2908
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#Japan%20NTT%20Pc
 trojan://4f7dc540-d244-4e64-af21-4b5bb300add3@132.226.5.246:443?security=tls&sni=www.tokyo2023.ga#%F0%9F%87%AF%F0%9F%87%B5JP-132.226.5.246-4637
-trojan://6519a715da174466@jcnp178.pacemakere.com:101?allowInsecure=1#🇯🇵JP-🚀@VPNine1
 trojan://6d64570c-81d4-30fa-b2e2-dce73e1a2702@138.2.45.89:44301?security=tls&sni=osav101.jd0001.top#%F0%9F%87%AF%F0%9F%87%B5JP-138.2.45.89-1955
 trojan://7a566d21dfcd0f12490275fd3dd3cfc4@trs09.bolab.net:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-140.227.54.4-2830
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?security=tls&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&sni=t11.qifei.app#JP🇯🇵
@@ -194,6 +194,7 @@ vless://93cc16ff-60bd-4a48-8b4b-0ca1ce5f22ba@14.137.244.44:18233/?type=tcp&encry
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.75.118.144:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#JP🇯🇵
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@151.242.165.136:59124?security=tls&type=ws&path=/danfeng&host=snippet.fgfw.indevs.in&alpn=http/1.1&sni=snippet.fgfw.indevs.in&fp=random#JP🇯🇵
 vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@2.27.27.64:443?security=reality&encryption=none&pbk=qBtxq4RZxDLCJT8i48iaGMhacv8MOI0yhIFiuwYJm08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jp.musicwave.net&sid=825d392c67e4#REALITY|JP🇯🇵
+vless://D8ED7FFD-7AA8-4EEB-9020-18A1A38AE6CC@jp4-r.link-t7.com:10034/?type=grpc&encryption=none&flow=&serviceName=update&sni=s0.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#日本
 vless://a12b0d31-f599-498e-b76e-8558a14b766b@47.79.144.103:25242/?type=ws&encryption=none&path=%2Fa12b0d31#-%3EJP%2B%28%40DeamNet_Proxy%29%20%282%29
 vless://a157bb84-dd84-4ad8-86b0-0656bc76e4d1@jpaws.ccwink.photos:53113/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=docs.aws.amazon.com&fp=chrome&security=reality&pbk=BdFiTcTZt1oIRD_Q04KnxPjs_1cZFqjV-sbVGP49PVY&sid=238ba3b9e8#日本
 vless://a157bb84-dd84-4ad8-86b0-0656bc76e4d1@jpaws.ccwink.photos:64294/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=docs.aws.amazon.com&fp=chrome&security=reality&pbk=KmcS-yU6kDycbSojXgUYU1-fHwXmF1oBk_ke0gbGUy0&sid=7083&packetEncoding=xudp#日本
