@@ -1,5 +1,6 @@
 ss://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#IT🇮🇹
 ss://1e280316-0408-47c4-b058-05b8f1f17f02@ov-italy1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws&sni=ov-italy1.09vpn.com#IT🇮🇹
+ss://699ce9a1-abbb-4525-988e-b940381352e8@itproxy3.lockdwn.com:443?&security=false&fp=chrome&type=ws&headerType=none&host=itproxy3.lockdwn.com&path=%2F#_%E6%84%8F%E5%A4%A7%E5%88%A9_203
 ss://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&security=reality&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b#-%3EIT%2B%28%40DeamNet_Proxy%29%20%285%29
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca12.speedmeter.shop:8880/?type=grpc&encryption=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AE%F0%9F%87%B9%C2%AE%EF%B8%8FItaly%C2%A9%EF%B8%8FMilan%F0%9F%85%BF%EF%B8%8Fping%3A80ms
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.directdnsai.shop:8880/?type=grpc&encryption=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AE%F0%9F%87%B9%C2%AE%EF%B8%8FItaly%C2%A9%EF%B8%8FMilan%F0%9F%85%BF%EF%B8%8Fping%3A86ms
@@ -33,6 +34,7 @@ ss://bbec13cf-f7a7-4896-99c8-c9dcd21035cb@ita.montago-shop.ir:443?encryption=non
 ss://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.51:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&fp=chrome&security=reality&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a#🆔freeconfigsplus%20🔒%20VL-TCP-%20🇮🇹%20IT%20123ms
 vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#IT🇮🇹
 vless://1e280316-0408-47c4-b058-05b8f1f17f02@ov-italy1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws&sni=ov-italy1.09vpn.com#IT🇮🇹
+vless://699ce9a1-abbb-4525-988e-b940381352e8@itproxy3.lockdwn.com:443?&security=false&fp=chrome&type=ws&headerType=none&host=itproxy3.lockdwn.com&path=%2F#_%E6%84%8F%E5%A4%A7%E5%88%A9_203
 vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&security=reality&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b#-%3EIT%2B%28%40DeamNet_Proxy%29%20%285%29
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca12.speedmeter.shop:8880/?type=grpc&encryption=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AE%F0%9F%87%B9%C2%AE%EF%B8%8FItaly%C2%A9%EF%B8%8FMilan%F0%9F%85%BF%EF%B8%8Fping%3A80ms
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.directdnsai.shop:8880/?type=grpc&encryption=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AE%F0%9F%87%B9%C2%AE%EF%B8%8FItaly%C2%A9%EF%B8%8FMilan%F0%9F%85%BF%EF%B8%8Fping%3A86ms
