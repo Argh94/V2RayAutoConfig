@@ -7,7 +7,6 @@ hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.254.190.23:443/?insecure=1&sni=vpn-sg-001.fast
 hysteria2://0a344117cfeef3d6602e338c2f1e7957@38.180.190.215:50160?insecure=1&sni=www.bing.com#%E6%96%B0%E5%8A%A0%E5%9D%A1
 hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@xjp1.mangshe.xyz:2056?insecure=1&sni=xjp1.mangshe.xyz#%F0%9F%87%B8%F0%9F%87%ACSG
 hysteria2://VL0N0IPJ5Tqj672H7FsxYw%3D%3D@18.136.199.31:12451?sni=c.hbapp.xyz&obfs=salamander&obfs-password=MBd0Kzj3ZcY3#%F0%9F%87%B8%F0%9F%87%ACSG%20%231
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.54.166:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#Singapore%20%F0%9F%87%B8%F0%9F%87%AC
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.54.166:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%87%B8%F0%9F%87%ACSG%20%232
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.54.166:443?insecure=1&sni=vpn-sg-001.fastervpn.world#SG%20%232
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.54.166:443?insecure=1&sni=vpn-sg-001.fastervpn.world#SG%20%232%202
@@ -98,7 +97,6 @@ trojan://08964210-e7b8-11ec-95aa-1239d0255272@w12.udpgw.com:443?security=tls#%F0
 trojan://0c6a3341e8d5ab17@103.172.116.196:3389?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.196-2441
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=15.235.197.4#%F0%9F%87%B8%F0%9F%87%ACSG-15.235.197.4-7693
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=getandroid.com#%F0%9F%87%B8%F0%9F%87%ACSG-15.235.197.4-7695
-trojan://1a205ae2-be41-42b0-abdf-795a2ea3df4e@t1.gitvpn.eu.org:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-68.183.184.107-0228
 trojan://1a205ae2-be41-42b0-abdf-795a2ea3df4e@t1.gitvpn.eu.org:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-68.183.184.107-0242
 trojan://38f169d6-d202-4b1b-8db8-e6eb1648f5cf@43.160.197.160:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-43.160.197.160-5043
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
@@ -158,6 +156,7 @@ vless://c7d5062b-604e-42b0-85d0-0ba354cee311@149.28.136.177:443/?type=tcp&encryp
 vless://d64d50bb-fe6f-49bd-bbfd-a6f02dc47d69@163.128.99.239:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=AAgK52aNv0or2NLswvbExwOdTFcNeUeC2hTsznFnPVQ&sid=b3e189533758eb90&packetEncoding=xudp#新加坡
 vless://e85ce618-50cd-42e0-a8ba-5052e6be9498@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vless://f06c6039-a489-3d78-a676-ed43be6deca3@155.117.199.13:31873/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.cloudflare.com&fp=chrome&security=reality&pbk=JrWOojSFwFA93YjsiQkDydTItQzNAsXsHU24HuWGWjA&sid=bc8e3658db7d1323#新加坡
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGOFx1RDgzQ1x1RERFQyBTRyIsDQogICJhZGQiOiAiMTMuMjUwLjExNC4xOTQiLA0KICAicG9ydCI6ICI4NDQzIiwNCiAgImlkIjogIjlkY2I4ZDczLWNjMGItNGZjYy1hMTJkLWQ3YWZmYjU2MjY3YyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIiwNCiAgImluc2VjdXJlIjogIjAiDQp9
 vmess://ewogICAgImFkZCI6ICI4LjIxNC4zMy4xNTgiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImNiODFlNmFiLTFkODMtNGFjMS1mMGFkLWFlNWMyYTdjMjllZiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4e48J+HrFNHLTguMjE0LjMzLjE1OC00NjQ3IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICI4LjIxOS41OC41OCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiOTE2NDZmOWEtYjRlOS00YWNhLWJmZTMtODg5MmIzZTU4ZmU3IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3JheSIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4e48J+HrFNHLTguMjE5LjU4LjU4LTQzNTMiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vmess://ewogICAgImFkZCI6ICI4LjIxOS4xMjAuMTY4IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJmZmZmZmZmZi1mZmZmLWZmZmYtZmZmZi1mZmZmZmZmZmZmZmYiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvdm1lc3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HuPCfh6xTRy04LjIxOS4xMjAuMTY4LTY3ODgiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJwMy5jaGlndWEudGsiCn0=
