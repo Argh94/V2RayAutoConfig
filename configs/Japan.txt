@@ -4,10 +4,10 @@ hy2://4d6d97a82ddf959252e2ada36c3c3053@138.2.8.249:50160/?insecure=1&sni=www.bin
 hy2://a9081889-1949-49ba-a2aa-7054515716de@c2.bestai.beauty:3488/?insecure=1&sni=c2.bestai.beauty#日本
 hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1&sni=www.bing.com#%E6%97%A5%E6%9C%AC
 hysteria2://4d6d97a82ddf959252e2ada36c3c3053@138.2.8.249:50160?insecure=1&sni=www.bing.com#%E6%97%A5%E6%9C%AC%20%231
-hysteria2://a9081889-1949-49ba-a2aa-7054515716de@c2.bestai.beauty:3488?insecure=1&sni=c2.bestai.beauty#%E6%97%A5%E6%9C%AC%20%231
 hysteria2://a9081889-1949-49ba-a2aa-7054515716de@c2.bestai.beauty:3488?insecure=1&sni=c2.bestai.beauty#%E6%97%A5%E6%9C%AC%20%232
 hysteria2://mdq80x0xv9wt7520@giftcard.gateway-stream.com:52046?alpn=h3&fp=chrome&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#dc-udp-%F0%9F%87%AF%F0%9F%87%B5%20Japan-Tokyo
 ss://063e01c2-4c0f-418e-9375-3cc1312f635b@162.141.131.102:50159/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=fLtEa_5BiN89xQDypfFMOu5o6DoUf6ch42jGdkXy6zE&sid=7f24526f7307c07a#日本
+ss://0afc6426-606c-48e7-bd70-3c424a416842@us22.sofast.live:58011?fp=chrome&type=tcp#%E6%97%A5%E6%9C%AC+V2CROSS.COM
 ss://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?security=none&encryption=none&headerType=none&type=tcp#JP🇯🇵
 ss://15836880-212b-4690-b29c-1889a749bf72@43.207.162.145:32913?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.intel.com&fp=chrome&pbk=iJhoNzfiPiua04PL88iAAyZz2u39su4ChSCiGVoekRQ&sid=a8f0a95931a52732&type=tcp&headerType=none&path=%2F#REALITY|JP🇯🇵
 ss://15b84012-d261-4b4c-807a-061bb4a901fd@116.80.58.239:39975/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=cloudcircus.jp&fp=chrome&security=reality&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&sid=#-%3EJP%2B%28%40DeamNet_Proxy%29%20%287%29
@@ -158,6 +158,7 @@ trojan://da777aae-defb-41d0-a183-2c27da2b4677@150.230.96.103:443?security=tls#%F
 trojan://f42e1a2e-e650-44f4-8d17-bcb68663da18@150.230.201.192:443?security=tls&sni=www.seetheworldjp.ga#%F0%9F%87%AF%F0%9F%87%B5JP-150.230.201.192-4522
 trojan://tsuchiya@aa.ccmusic.jp:443/?type=tcp&security=tls#-%3EJP%2B%28%40DeamNet_Proxy%29%20%283%29
 vless://063e01c2-4c0f-418e-9375-3cc1312f635b@162.141.131.102:50159/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=fLtEa_5BiN89xQDypfFMOu5o6DoUf6ch42jGdkXy6zE&sid=7f24526f7307c07a#日本
+vless://0afc6426-606c-48e7-bd70-3c424a416842@us22.sofast.live:58011?fp=chrome&type=tcp#%E6%97%A5%E6%9C%AC+V2CROSS.COM
 vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?security=none&encryption=none&headerType=none&type=tcp#JP🇯🇵
 vless://15836880-212b-4690-b29c-1889a749bf72@43.207.162.145:32913?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.intel.com&fp=chrome&pbk=iJhoNzfiPiua04PL88iAAyZz2u39su4ChSCiGVoekRQ&sid=a8f0a95931a52732&type=tcp&headerType=none&path=%2F#REALITY|JP🇯🇵
 vless://15b84012-d261-4b4c-807a-061bb4a901fd@116.80.58.239:39975/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=cloudcircus.jp&fp=chrome&security=reality&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&sid=#-%3EJP%2B%28%40DeamNet_Proxy%29%20%287%29
