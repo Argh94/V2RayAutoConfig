@@ -92,7 +92,7 @@ ss://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?&security=false&fp=
 ss://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?&security=false&fp=chrome&type=ws&headerType=none&host=Telegram-Leviko_v2ray&path=%2F4bc027a44532#_%E6%B3%A2%E5%85%B0_347
 ss://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?&security=false&fp=chrome&type=ws&headerType=none&path=%2F4bc027a44532#PL%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa9a.xyz%E3%80%9119
 ss://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?&security=false&fp=chrome&type=ws&headerType=none&path=%2F4bc027a44532#_%E6%B3%A2%E5%85%B0_346
-ss://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?&type=ws&headerType=none&path=%2F4bc027a44532#PL%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9119
+ss://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?path=%2F4bc027a44532&sni=178.95.170.83&type=ws#PL%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9120
 ss://d23cb516-40db-4aa4-8142-6b45ff882f90@94.183.209.59:443?path=%2F&security=none&encryption=none&type=ws#PL🇵🇱
 ss://d268e46d-6cba-44df-a2ce-c569ecf9d65e@pl1.bexait.ir:2434?security=reality&encryption=none&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=9de041877612a718#REALITY|PL🇵🇱
 ss://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@83.168.111.66:443?security=reality&encryption=none&pbk=QdGXMBWibJZdfDmDk3YcCMxNPd0yd_CkHAOt2yDYJCE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=97ac193c0962477c#REALITY|PL🇵🇱
@@ -152,7 +152,7 @@ vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?&security=false&
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?&security=false&fp=chrome&type=ws&headerType=none&host=Telegram-Leviko_v2ray&path=%2F4bc027a44532#_%E6%B3%A2%E5%85%B0_347
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?&security=false&fp=chrome&type=ws&headerType=none&path=%2F4bc027a44532#PL%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa9a.xyz%E3%80%9119
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?&security=false&fp=chrome&type=ws&headerType=none&path=%2F4bc027a44532#_%E6%B3%A2%E5%85%B0_346
-vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?&type=ws&headerType=none&path=%2F4bc027a44532#PL%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9119
+vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?path=%2F4bc027a44532&sni=178.95.170.83&type=ws#PL%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9120
 vless://d23cb516-40db-4aa4-8142-6b45ff882f90@94.183.209.59:443?path=%2F&security=none&encryption=none&type=ws#PL🇵🇱
 vless://d268e46d-6cba-44df-a2ce-c569ecf9d65e@pl1.bexait.ir:2434?security=reality&encryption=none&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=9de041877612a718#REALITY|PL🇵🇱
 vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@83.168.111.66:443?security=reality&encryption=none&pbk=QdGXMBWibJZdfDmDk3YcCMxNPd0yd_CkHAOt2yDYJCE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=97ac193c0962477c#REALITY|PL🇵🇱
