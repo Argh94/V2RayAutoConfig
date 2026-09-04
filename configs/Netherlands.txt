@@ -118,7 +118,6 @@ ss://86be7d6e-9dda-433b-8ea8-0c44a7dfcfbd@85.158.110.62:8443?security=reality&fp
 ss://8892e34a-339b-4526-b88d-cf68c516231c@152.70.58.201:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Hg_ivwbClYmR-SEHdoGgq4yEk6ltbjS5c4yiQRa4_28&security=reality&sid=52c723e0fad49689&sni=www.nvidia.com&type=tcp#REALITY|NL🇳🇱
 ss://8e8e4592-6088-4d00-b061-ef5456d0eb9c@hys41.wba-pn.ru:443?allowInsecure=1&encryption=none&path=%2F&security=tls&sni=hys41.wba-pn.ru&type=ws#NL🇳🇱
 ss://8e8e4592-6088-4d00-b061-ef5456d0eb9c@hys41.wba-pn.ru:443?encryption=none&fp=qq&security=tls&type=ws#NL🇳🇱
-ss://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.245.146:62145?#NL%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9125
 ss://91d0fa43-e557-43e7-a731-f0c3d1fb306a@89.105.208.123:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=n1.cloudgaming.one&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&type=tcp&headerType=none#REALITY|NL🇳🇱
 ss://91d0fa43-e557-43e7-a731-f0c3d1fb306a@89.105.208.123:443?security=reality&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=n1.cloudgaming.one&sid=6d6f13013d3e1d0c#REALITY|NL🇳🇱
 ss://995e6b4d-1d71-4542-95c7-dda552b6cd1c@89.105.195.147:443?encryption=none&security=tls&serviceName=home.v1.ObjectService&sni=gateway.mediacorphub.org&type=grpc#NL🇳🇱
@@ -481,7 +480,6 @@ vless://86be7d6e-9dda-433b-8ea8-0c44a7dfcfbd@85.158.110.62:8443?security=reality
 vless://8892e34a-339b-4526-b88d-cf68c516231c@152.70.58.201:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Hg_ivwbClYmR-SEHdoGgq4yEk6ltbjS5c4yiQRa4_28&security=reality&sid=52c723e0fad49689&sni=www.nvidia.com&type=tcp#REALITY|NL🇳🇱
 vless://8e8e4592-6088-4d00-b061-ef5456d0eb9c@hys41.wba-pn.ru:443?allowInsecure=1&encryption=none&path=%2F&security=tls&sni=hys41.wba-pn.ru&type=ws#NL🇳🇱
 vless://8e8e4592-6088-4d00-b061-ef5456d0eb9c@hys41.wba-pn.ru:443?encryption=none&fp=qq&security=tls&type=ws#NL🇳🇱
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.245.146:62145?#NL%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9125
 vless://91d0fa43-e557-43e7-a731-f0c3d1fb306a@89.105.208.123:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=n1.cloudgaming.one&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&type=tcp&headerType=none#REALITY|NL🇳🇱
 vless://91d0fa43-e557-43e7-a731-f0c3d1fb306a@89.105.208.123:443?security=reality&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=n1.cloudgaming.one&sid=6d6f13013d3e1d0c#REALITY|NL🇳🇱
 vless://995e6b4d-1d71-4542-95c7-dda552b6cd1c@89.105.195.147:443?encryption=none&security=tls&serviceName=home.v1.ObjectService&sni=gateway.mediacorphub.org&type=grpc#NL🇳🇱
