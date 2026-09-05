@@ -5,6 +5,7 @@ ss://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:443?path=%2F&sec
 ss://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:8443?encryption=none&security=tls&type=tcp#EE🇪🇪
 ss://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:8443?sni=estproxy4.lockdwn.com&alpn=h2%2Chttp%2F1.1&fp=edge&security=tls#EE🇪🇪
 ss://2a12bb81-f3a3-41bb-99ab-36febf676b4a@188.255.236.213:443?security=reality&encryption=none&pbk=UMvz-4jhwqv9obtELN1iozBhEUsayjnOvXBSHEiX_DI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=cosmic-aurora.cdn.cachefleet.com#REALITY|EE🇪🇪
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.110.50:8880?type=ws&host=vms.lifetime51.workers.dev&path=/?ed=2560#A%20-%20%F0%9F%87%AA%F0%9F%87%AA%20EE%2001%20TG%3A%20%40nodpai
 ss://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?encryption=none&security=none&type=grpc&mode=gun&authority=&serviceName=grpc#EE🇪🇪
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.252.5.234:989#%F0%9F%87%AA%F0%9F%87%AAEE-37.252.5.234-3827
 ss://a704443d-655e-4d9f-8ce6-12eeb17a9a08@ee.alertyagency.com:443?security=reality&encryption=none&pbk=nP6l7_NPVUklPsrochXfsGGjbDHMHGWodoXN3h_6RQU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=b71a4299#REALITY|EE🇪🇪
@@ -18,6 +19,7 @@ vless://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:443?path=%2F&
 vless://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:8443?encryption=none&security=tls&type=tcp#EE🇪🇪
 vless://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:8443?sni=estproxy4.lockdwn.com&alpn=h2%2Chttp%2F1.1&fp=edge&security=tls#EE🇪🇪
 vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@188.255.236.213:443?security=reality&encryption=none&pbk=UMvz-4jhwqv9obtELN1iozBhEUsayjnOvXBSHEiX_DI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=cosmic-aurora.cdn.cachefleet.com#REALITY|EE🇪🇪
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.110.50:8880?type=ws&host=vms.lifetime51.workers.dev&path=/?ed=2560#A%20-%20%F0%9F%87%AA%F0%9F%87%AA%20EE%2001%20TG%3A%20%40nodpai
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?encryption=none&security=none&type=grpc&mode=gun&authority=&serviceName=grpc#EE🇪🇪
 vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@ee.alertyagency.com:443?security=reality&encryption=none&pbk=nP6l7_NPVUklPsrochXfsGGjbDHMHGWodoXN3h_6RQU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=b71a4299#REALITY|EE🇪🇪
 vmess://ewogICAgImFkZCI6ICIxNzYuMTEyLjE0Ni4xOTAiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImY5MjQ3ZGY0LTAyZDUtNGIzMS1hY2M1LTQwMjI2NTJjNTk1MyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4eq8J+HqkVFLTE3Ni4xMTIuMTQ2LjE5MC0wNDI4IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
