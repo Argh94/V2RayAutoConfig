@@ -5,7 +5,6 @@ ss://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2053?encryption=none&flo
 ss://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2083?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=grpc&allowInsecure=0&sni=laoye.in-gect.fun#LV🇱🇻
 ss://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?encryption=none&host=laoye.in-gect.fun&path=%2F&security=none&type=ws#LV🇱🇻
 ss://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?encryption=none&path=%2F&security=none&type=ws#LV🇱🇻
-ss://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?encryption=none&security=&type=ws#Latvia
 ss://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2083?encryption=none&security=tls&serviceName=grpc&sni=laoye.in-gect.fun&type=grpc#LV🇱🇻
 ss://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114/?type=raw&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&sid=772e#-%3ELV%2B%28%40DeamNet_Proxy%29%20%281%29
 ss://8ea09611-4e24-49f9-8b2a-25974d8ebf8c@31.76.104.157:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mag3.portal-guard.com&fp=chrome&security=reality&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B1%F0%9F%87%BB%C2%AE%EF%B8%8FLatvia%C2%A9%EF%B8%8FRiga%F0%9F%85%BF%EF%B8%8Fping%3A58.8ms
@@ -31,7 +30,6 @@ vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2053?encryption=none&
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2083?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=grpc&allowInsecure=0&sni=laoye.in-gect.fun#LV🇱🇻
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?encryption=none&host=laoye.in-gect.fun&path=%2F&security=none&type=ws#LV🇱🇻
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?encryption=none&path=%2F&security=none&type=ws#LV🇱🇻
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?encryption=none&security=&type=ws#Latvia
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2083?encryption=none&security=tls&serviceName=grpc&sni=laoye.in-gect.fun&type=grpc#LV🇱🇻
 vless://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114/?type=raw&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&sid=772e#-%3ELV%2B%28%40DeamNet_Proxy%29%20%281%29
 vless://8ea09611-4e24-49f9-8b2a-25974d8ebf8c@31.76.104.157:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mag3.portal-guard.com&fp=chrome&security=reality&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B1%F0%9F%87%BB%C2%AE%EF%B8%8FLatvia%C2%A9%EF%B8%8FRiga%F0%9F%85%BF%EF%B8%8Fping%3A58.8ms
