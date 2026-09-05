@@ -1,6 +1,7 @@
 hy2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160/?insecure=1&sni=www.bing.com#韩国
 hy2://C0DD7bgChaltqnh/T2az6ijM@140.238.31.111:20000/?sni=rmgyvpn.rest&obfs=salamander&obfs-password=C0DD7bgChaltqnh/T2az6ijM#韩国
 hysteria2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1&sni=www.bing.com#%E9%9F%A9%E5%9B%BD
+ss://23aa3d7e-039b-4c21-a8f7-0f7d1ddbbbb6@168.110.121.199:50159/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.ibm.com&fp=chrome&security=reality&pbk=k8nAYo1-IaxhdMI4CLPK0BcjD7TiFoBCwpB0CqUSHg0&sid=effd22907e2bf94f&packetEncoding=xudp#韩国
 ss://58c14e54-6db0-46fb-a1fb-8f3184197d94@lgkr.87544899.xyz:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=maps.apple.com&fp=chrome&security=reality&pbk=lQmGSphKsWB-pO-xKkjj_dE3fPAIeSHSsFqsAJvq-lA&sid=e1696a6e2520fdb1#韩国
 ss://58c14e54-6db0-46fb-a1fb-8f3184197d94@lgkr.87544899.xyz:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=maps.apple.com&fp=chrome&security=reality&pbk=lQmGSphKsWB-pO-xKkjj_dE3fPAIeSHSsFqsAJvq-lA&sid=e1696a6e2520fdb1&packetEncoding=xudp#KR
 ss://83973343-90db-423d-a5f7-2e3b56aeb8f4@43.202.46.25:28482?security=reality&encryption=none&pbk=8fsYG_Pg35aeg1E5Gc3HUaXou2OUQee4ukxVk99iR0s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=fa1e592603c283#REALITY|KR🇰🇷
@@ -46,7 +47,6 @@ trojan://AE62539071@3.120.138.119:443?sni=up-dinosaur.rooster465.autos&path=%2F#
 trojan://AE62539071@54.74.210.220:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=funny-hen.rooster465.autos#KR🇰🇷
 trojan://AE62539071@clear-heron.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-13.124.155.60-4717
 trojan://AE62539071@tough-hermit.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.239.104-0153
-trojan://AE62539071@tough-hermit.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.239.104-4667
 trojan://CF68213490@alert-fish.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.103.190-4651
 trojan://CF68213490@caring-wallaby.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.100.239-4753
 trojan://CF68213490@central-jawfish.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.192.47-4724
@@ -93,7 +93,6 @@ trojan://NQ26071394@guided-pelican.rooster465.autos:443?security=tls#%F0%9F%87%B
 trojan://NQ26071394@internal-peacock.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.132.193-4748
 trojan://NQ26071394@inviting-rabbit.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.36.52.203-4704
 trojan://NQ26071394@living-hagfish.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-13.124.56.133-4726
-trojan://NQ26071394@magical-prawn.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.249.3-0201
 trojan://NQ26071394@magical-prawn.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.249.3-0238
 trojan://NQ26071394@neat-octopus.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.38.181.59-4727
 trojan://NQ26071394@warm-bass.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.200.254.103-4747
@@ -114,17 +113,14 @@ trojan://cc05b267-2e17-4e73-92f0-2cf603aa5997@146.56.179.67:40005?security=tls#%
 trojan://cd27884b-c5af-34ec-b75f-8248077818fe@144.24.76.54:8443?security=tls&sni=2.hg.kr.cat77.cloud#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.76.54-1245
 trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@146.56.189.146:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-146.56.189.146-2743
 trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@146.56.189.146:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-146.56.189.146-3084
-trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@144.24.69.60:28443?security=tls&sni=glckr.hruqoaw.cn#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.69.60-0017
 trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@144.24.69.60:28443?security=tls&sni=glckr.hruqoaw.cn#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.69.60-0195
-trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@144.24.77.154:28443?security=tls&sni=glckr.hruqoaw.cn#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.77.154-0057
 trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@144.24.77.154:28443?security=tls&sni=glckr.hruqoaw.cn#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.77.154-0165
-trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@144.24.87.99:28443?security=tls&sni=glckr.hruqoaw.cn#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.87.99-0055
 trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@144.24.87.99:28443?security=tls&sni=glckr.hruqoaw.cn#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.87.99-0167
-trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@144.24.90.94:28443?security=tls&sni=glckr.hruqoaw.cn#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.90.94-0056
 trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@144.24.90.94:28443?security=tls&sni=glckr.hruqoaw.cn#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.90.94-0166
 trojan://rYuChHcwQZskq9E0zdoR@119.195.0.158:35342/?type=tcp&security=tls&sni=vpn5.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR-119.195.0.158-0458
 trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443/?type=tcp&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-38.60.220.65-0160
 trojan://xxoo@3.34.6.217:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.6.217-3588
+vless://23aa3d7e-039b-4c21-a8f7-0f7d1ddbbbb6@168.110.121.199:50159/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.ibm.com&fp=chrome&security=reality&pbk=k8nAYo1-IaxhdMI4CLPK0BcjD7TiFoBCwpB0CqUSHg0&sid=effd22907e2bf94f&packetEncoding=xudp#韩国
 vless://58c14e54-6db0-46fb-a1fb-8f3184197d94@lgkr.87544899.xyz:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=maps.apple.com&fp=chrome&security=reality&pbk=lQmGSphKsWB-pO-xKkjj_dE3fPAIeSHSsFqsAJvq-lA&sid=e1696a6e2520fdb1#韩国
 vless://58c14e54-6db0-46fb-a1fb-8f3184197d94@lgkr.87544899.xyz:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=maps.apple.com&fp=chrome&security=reality&pbk=lQmGSphKsWB-pO-xKkjj_dE3fPAIeSHSsFqsAJvq-lA&sid=e1696a6e2520fdb1&packetEncoding=xudp#KR
 vless://83973343-90db-423d-a5f7-2e3b56aeb8f4@43.202.46.25:28482?security=reality&encryption=none&pbk=8fsYG_Pg35aeg1E5Gc3HUaXou2OUQee4ukxVk99iR0s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=fa1e592603c283#REALITY|KR🇰🇷
