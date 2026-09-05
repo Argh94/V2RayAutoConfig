@@ -62,6 +62,7 @@ ss://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.245:2087?&security=false&fp
 ss://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.245:2087?&security=false&fp=chrome&type=ws&headerType=none&path=%2F8f2690e2d016#_%E8%8B%B1%E5%9B%BD_70
 ss://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.245:2087?encryption=none&fp=chrome&path=%2F8f2690e2d016&type=ws#GB%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9111
 ss://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.245:2087?encryption=none&path=%2F8f2690e2d016&security=none&type=ws#GB🇬🇧
+ss://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.245:2087?encryption=none&path=/8f2690e2d016&security=none&type=ws#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
 ss://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.245:2087?path=%2F8f2690e2d016&security=none&encryption=none&type=ws#GB🇬🇧
 ss://98bc431a-2963-4faa-a712-cc83798a2edb@109.169.85.139:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=slashdot.org&type=tcp#REALITY|GB🇬🇧
 ss://9e6b8db1-da80-494f-bad7-7a0451f801a1@5.152.223.193:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=strapi.io&type=tcp#REALITY|GB🇬🇧
@@ -296,7 +297,6 @@ ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@172.99.190.39:443#%F0%9F%87%AC%F0%9F%8
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@172.99.190.61:443#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.61-5894
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@172.99.190.61:6379#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.61-5842
 ss://ab6410aa-664f-47ab-9ba7-7d9022ad2153@178.83.121.85:443?mode=gun&security=reality&encryption=none&authority=yahoo.com&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&fp=chrome&spx=%2F&type=grpc&serviceName=xyz&sid=ce741cbe468babc7#REALITY|GB🇬🇧
-ss://af00e0c4-decf-48f2-9013-56abe9c9efcd@31.76.71.140:443?security=reality&type=tcp&packetEncoding=xudp&sni=rrr.windconnect.pro&fp=chrome&flow=xtls-rprx-vision&sid=4da5d1853f04af6d&pbk=BsFRd4pZgH2hK2AmVf6Mv7z2QGmV2LPYbqkT1UqZX30&encryption=none#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
 ss://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@82.152.223.130:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=YULPgY4Knu4LVqKcc2uhzTcndqIWWKr74W1dVXcLQ0c&security=reality&sid=c37c2ae6f6eb0d71&sni=public-auth.savesafe.cc&type=tcp#REALITY|GB🇬🇧
 ss://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@82.152.223.140:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=YULPgY4Knu4LVqKcc2uhzTcndqIWWKr74W1dVXcLQ0c&security=reality&sid=c37c2ae6f6eb0d71&sni=public-auth.savesafe.cc&type=tcp#REALITY|GB🇬🇧
 ss://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@api.getsavesafe.space:443?mode=auto&security=reality&encryption=none&pbk=fkYk0Ow--0GYExpBFb2wZjooymT7uASOQLw9ESC3DF8&fp=firefox&type=xhttp&sni=api.getsavesafe.space&sid=62b6d6e64d461d78#REALITY|GB🇬🇧
@@ -343,7 +343,7 @@ trojan://67e200f1-4ff5-42ca-8425-3f16f7986c29@51.89.22.228:443?security=tls&sni=
 trojan://8697fe6b-1lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@185.44.76.188:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-185.44.76.188-4135
 trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@london11.yukiss.eu.org:18818?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-140.238.123.200-2255
 trojan://b640d791-ff83-4300-b509-c2a02f97f167@51.38.71.175:80?security=tls&sni=uk1.trojanvh.xyz#%F0%9F%87%AC%F0%9F%87%A7GB-51.38.71.175-6806
-trojan://humanity@176.97.66.175:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+trojan://humanity@176.97.66.175:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD
 trojan://shenmegui@185.49.33.47:8461?security=tls&sni=$jp.swiftfalcon.app#%F0%9F%87%AC%F0%9F%87%A7GB-185.49.33.47-1517
 trojan://t%3D59N%3DMo9Mri3fydoIizU9vBbePqKilHij@192.248.173.25:443/?type=tcp&security=tls#London%20%28United%20Kingdom%29%20%282%29
 trojan://t%3D59N%3DMo9Mri3fydoIizU9vBbePqKilHij@45.32.176.168:443/?type=tcp&security=tls#London%20%28United%20Kingdom%29%20%283%29
@@ -414,12 +414,12 @@ vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.245:2087?&security=false
 vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.245:2087?&security=false&fp=chrome&type=ws&headerType=none&path=%2F8f2690e2d016#_%E8%8B%B1%E5%9B%BD_70
 vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.245:2087?encryption=none&fp=chrome&path=%2F8f2690e2d016&type=ws#GB%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9111
 vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.245:2087?encryption=none&path=%2F8f2690e2d016&security=none&type=ws#GB🇬🇧
+vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.245:2087?encryption=none&path=/8f2690e2d016&security=none&type=ws#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
 vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.245:2087?path=%2F8f2690e2d016&security=none&encryption=none&type=ws#GB🇬🇧
 vless://98bc431a-2963-4faa-a712-cc83798a2edb@109.169.85.139:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=slashdot.org&type=tcp#REALITY|GB🇬🇧
 vless://9e6b8db1-da80-494f-bad7-7a0451f801a1@5.152.223.193:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=strapi.io&type=tcp#REALITY|GB🇬🇧
 vless://SoonTeam@72.62.211.211:80/?type=ws&encryption=none&host=pay.google.com&path=%2FtelegramSoonTeam#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AC%F0%9F%87%A7%C2%AE%EF%B8%8FUnited%20Kingdom%C2%A9%EF%B8%8FManchester%F0%9F%85%BF%EF%B8%8Fping%3A53.21ms
 vless://ab6410aa-664f-47ab-9ba7-7d9022ad2153@178.83.121.85:443?mode=gun&security=reality&encryption=none&authority=yahoo.com&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&fp=chrome&spx=%2F&type=grpc&serviceName=xyz&sid=ce741cbe468babc7#REALITY|GB🇬🇧
-vless://af00e0c4-decf-48f2-9013-56abe9c9efcd@31.76.71.140:443?security=reality&type=tcp&packetEncoding=xudp&sni=rrr.windconnect.pro&fp=chrome&flow=xtls-rprx-vision&sid=4da5d1853f04af6d&pbk=BsFRd4pZgH2hK2AmVf6Mv7z2QGmV2LPYbqkT1UqZX30&encryption=none#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@82.152.223.130:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=YULPgY4Knu4LVqKcc2uhzTcndqIWWKr74W1dVXcLQ0c&security=reality&sid=c37c2ae6f6eb0d71&sni=public-auth.savesafe.cc&type=tcp#REALITY|GB🇬🇧
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@82.152.223.140:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=YULPgY4Knu4LVqKcc2uhzTcndqIWWKr74W1dVXcLQ0c&security=reality&sid=c37c2ae6f6eb0d71&sni=public-auth.savesafe.cc&type=tcp#REALITY|GB🇬🇧
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@api.getsavesafe.space:443?mode=auto&security=reality&encryption=none&pbk=fkYk0Ow--0GYExpBFb2wZjooymT7uASOQLw9ESC3DF8&fp=firefox&type=xhttp&sni=api.getsavesafe.space&sid=62b6d6e64d461d78#REALITY|GB🇬🇧
