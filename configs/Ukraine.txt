@@ -1,4 +1,6 @@
 hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52068?alpn=h3&fp=chrome&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#dc-udp-%F0%9F%87%BA%F0%9F%87%A6%20Ukraine-Kyiv
+ss://2eadb97f-bba4-4471-8d55-bd461525a2dc@213.111.149.58:8443?encryption=none&security=tls&sni=eded-52n.pages.dev&fp=chrome&type=ws&host=eded-52n.pages.dev&path=%2F#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
+ss://41f4cb15-5a3f-3934-89fe-b4177146adf4@s171.gogocs.xyz:59424?encryption=none&type=tcp&headerType=&fp=firefox&host=7f29d405s220.gogocs.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u643766u7f29d405s220.gogocs.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
 ss://72e97eb0d0544970a7ed42d796c6773c@130.0.233.100:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=oJXngdG-SwLxHt2tJonmC-T_6PS4UEACLWj4sbfetno&sid=aabbccdd&fp=random#REALITY|UA🇺🇦
 ss://75079a7f-75b5-418b-8a65-f7b2f438cd4a@212.87.190.62:2054/?type=grpc&encryption=none&flow=&serviceName=grpc-tunnel&sni=dl.google.com&fp=chrome&security=reality&pbk=Ojwlyprfyf5D1an18CW4gwbHOWzHhKZ7Tq9F_W6-EUY&sid=&packetEncoding=xudp#乌克兰
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcXlpbWl2M1lOZ3U2ZEFwY3Rwdzd0@130.0.233.100:33610#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+130.0.233.100-33610+%7C+176.5ms
@@ -6,6 +8,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphUk5GWUt0TE9uYVBFNUZDSEk5eWxy@130.0.233.100:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#%F0%9F%87%BA%F0%9F%87%A6UA-195.28.182.217-7503
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#%F0%9F%87%BA%F0%9F%87%A6UA-5.188.6.8-7239
 ss://c10999b4-7f93-5a50-3908-1467b1e52ae2@91.218.122.10:8443?mode=gun&security=reality&encryption=none&pbk=VxlbLM9ypmP8KyH65M6nPgArl19XOyREm9oNUlCN2yA&fp=chrome&type=grpc&serviceName=TunService&sni=www.microsoft.com#REALITY|UA🇺🇦
+vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@213.111.149.58:8443?encryption=none&security=tls&sni=eded-52n.pages.dev&fp=chrome&type=ws&host=eded-52n.pages.dev&path=%2F#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
+vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@s171.gogocs.xyz:59424?encryption=none&type=tcp&headerType=&fp=firefox&host=7f29d405s220.gogocs.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u643766u7f29d405s220.gogocs.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
 vless://72e97eb0d0544970a7ed42d796c6773c@130.0.233.100:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=oJXngdG-SwLxHt2tJonmC-T_6PS4UEACLWj4sbfetno&sid=aabbccdd&fp=random#REALITY|UA🇺🇦
 vless://75079a7f-75b5-418b-8a65-f7b2f438cd4a@212.87.190.62:2054/?type=grpc&encryption=none&flow=&serviceName=grpc-tunnel&sni=dl.google.com&fp=chrome&security=reality&pbk=Ojwlyprfyf5D1an18CW4gwbHOWzHhKZ7Tq9F_W6-EUY&sid=&packetEncoding=xudp#乌克兰
 vless://c10999b4-7f93-5a50-3908-1467b1e52ae2@91.218.122.10:8443?mode=gun&security=reality&encryption=none&pbk=VxlbLM9ypmP8KyH65M6nPgArl19XOyREm9oNUlCN2yA&fp=chrome&type=grpc&serviceName=TunService&sni=www.microsoft.com#REALITY|UA🇺🇦
