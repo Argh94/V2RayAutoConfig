@@ -1,7 +1,7 @@
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-001.fastervpn.world:443/?insecure=1&sni=vpn-uk-001.fastervpn.world#英国
 hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.234:8080/?insecure=1&sni=hopp-legend-se.roxa.org#英国
 hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080/?insecure=1&sni=hopp-legend-se.roxa.org#英国
-hy2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@news.gazette.help:443/?security=tls&sni=news.gazette.help#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+hy2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@news.gazette.help:443/?security=tls&sni=news.gazette.help#%E8%8B%B1%E5%9B%BD+V2CROSS.COM#🌐سرور
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-001.fastervpn.world:443?insecure=1&sni=vpn-uk-001.fastervpn.world#%E8%8B%B1%E5%9B%BD
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-001.fastervpn.world:443?insecure=1&sni=vpn-uk-001.fastervpn.world#%E8%8B%B1%E5%9B%BD%203
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.234:8080?insecure=1&sni=hopp-legend-se.roxa.org#%E8%8B%B1%E5%9B%BD%20%231
@@ -18,7 +18,6 @@ ss://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@57.128.181.14:8443/?type=ws&encryption
 ss://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@57.129.137.57:443/?type=ws&encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&fp=chrome#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AC%F0%9F%87%A7%C2%AE%EF%B8%8FUnited%20Kingdom%C2%A9%EF%B8%8FAshtead%F0%9F%85%BF%EF%B8%8Fping%3A44.66ms
 ss://0c78b433-e644-4249-9e56-86ab4c5106e2@144.31.213.199:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=vip.check-ghost.space#GB🇬🇧
 ss://0fcbc45d-acdc-40cf-9a66-961c00f5b4a5@109.169.76.39:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=slashdot.org&sid=fd55b698ee8c3629#REALITY|GB🇬🇧
-ss://18a46172-92db-42b2-959a-4f3af68597f7@uka.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=e8f4426268c05621#🆔soskeynet%20🔒%20VL-TCP-%20🇬🇧%20GB%20159ms
 ss://1d9b247a-d20e-49fd-bd9c-bb06e1ea2a18@95.154.196.62:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=wiu5fVlBM7keSI48Oi3dEnQTR1BnJXgHtXo9xBpAnTA&security=reality&sid=16498ac98306ce31&sni=foodnetwork.com&type=tcp#REALITY|GB🇬🇧
 ss://3165b4d0-40f7-4df0-9f59-4c89ccdac92d@82.24.203.10:2087?encryption=none&path=%2F3bfc3e3ed603&security=none&type=ws#GB🇬🇧
 ss://3165b4d0-40f7-4df0-9f59-4c89ccdac92d@82.24.203.2:2087?encryption=none&path=%2F3bfc3e3ed603&security=none&type=ws#GB🇬🇧
@@ -388,7 +387,6 @@ vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@57.128.181.14:8443/?type=ws&encrypt
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@57.129.137.57:443/?type=ws&encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&fp=chrome#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AC%F0%9F%87%A7%C2%AE%EF%B8%8FUnited%20Kingdom%C2%A9%EF%B8%8FAshtead%F0%9F%85%BF%EF%B8%8Fping%3A44.66ms
 vless://0c78b433-e644-4249-9e56-86ab4c5106e2@144.31.213.199:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=vip.check-ghost.space#GB🇬🇧
 vless://0fcbc45d-acdc-40cf-9a66-961c00f5b4a5@109.169.76.39:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=slashdot.org&sid=fd55b698ee8c3629#REALITY|GB🇬🇧
-vless://18a46172-92db-42b2-959a-4f3af68597f7@uka.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=e8f4426268c05621#🆔soskeynet%20🔒%20VL-TCP-%20🇬🇧%20GB%20159ms
 vless://1d9b247a-d20e-49fd-bd9c-bb06e1ea2a18@95.154.196.62:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=wiu5fVlBM7keSI48Oi3dEnQTR1BnJXgHtXo9xBpAnTA&security=reality&sid=16498ac98306ce31&sni=foodnetwork.com&type=tcp#REALITY|GB🇬🇧
 vless://3165b4d0-40f7-4df0-9f59-4c89ccdac92d@82.24.203.10:2087?encryption=none&path=%2F3bfc3e3ed603&security=none&type=ws#GB🇬🇧
 vless://3165b4d0-40f7-4df0-9f59-4c89ccdac92d@82.24.203.2:2087?encryption=none&path=%2F3bfc3e3ed603&security=none&type=ws#GB🇬🇧

@@ -51,7 +51,6 @@ trojan://AE62539071@3.120.138.119:443?sni=up-dinosaur.rooster465.autos&path=%2F#
 trojan://AE62539071@54.74.210.220:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=funny-hen.rooster465.autos#KR🇰🇷
 trojan://AE62539071@clear-heron.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-13.124.155.60-5122
 trojan://AE62539071@kind-stork.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.39.225.215-5066
-trojan://AE62539071@tough-hermit.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.239.104-0194
 trojan://AE62539071@tough-hermit.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.239.104-0264
 trojan://CF68213490@alert-fish.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.103.190-4994
 trojan://CF68213490@central-jawfish.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.192.47-5146
@@ -64,7 +63,6 @@ trojan://CF68213490@gentle-honeybee.rooster465.autos:443?security=tls#%F0%9F%87%
 trojan://CF68213490@innocent-rattler.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-52.78.76.194-5127
 trojan://CF68213490@loyal-molly.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.203.214.247-5130
 trojan://CF68213490@moved-bluegill.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.36.76.91-5132
-trojan://CF68213490@smiling-fowl.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-52.78.158.178-5060
 trojan://CF68213490@smiling-fowl.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-52.78.158.178-5133
 trojan://CF68213490@smooth-lark.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.211.246-4988
 trojan://CF68213490@star-moray.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.202.1.241-5134
@@ -97,9 +95,7 @@ trojan://NQ26071394@accurate-cat.rooster465.autos:443?security=tls#%F0%9F%87%B0%
 trojan://NQ26071394@devoted-heron.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.35.140.206-4981
 trojan://NQ26071394@fit-marten.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-52.78.7.106-5128
 trojan://NQ26071394@guided-pelican.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.36.112.57-0217
-trojan://NQ26071394@guided-pelican.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.36.112.57-4957
 trojan://NQ26071394@inviting-rabbit.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.36.52.203-5131
-trojan://NQ26071394@magical-prawn.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.249.3-0250
 trojan://NQ26071394@magical-prawn.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.249.3-0309
 trojan://NQ26071394@wise-rhino.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-52.79.98.24-4986
 trojan://NQ26071394@worthy-labrador.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-52.78.235.153-5126
@@ -118,13 +114,9 @@ trojan://cc05b267-2e17-4e73-92f0-2cf603aa5997@146.56.179.67:40005?security=tls#%
 trojan://cd27884b-c5af-34ec-b75f-8248077818fe@144.24.76.54:8443?security=tls&sni=2.hg.kr.cat77.cloud#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.76.54-1704
 trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@146.56.189.146:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-146.56.189.146-3202
 trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@146.56.189.146:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-146.56.189.146-3543
-trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@144.24.69.60:28443?security=tls&sni=glckr.hruqoaw.cn#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.69.60-0221
 trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@144.24.69.60:28443?security=tls&sni=glckr.hruqoaw.cn#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.69.60-0287
-trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@144.24.77.154:28443?security=tls&sni=glckr.hruqoaw.cn#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.77.154-0201
 trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@144.24.77.154:28443?security=tls&sni=glckr.hruqoaw.cn#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.77.154-0270
-trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@144.24.87.99:28443?security=tls&sni=glckr.hruqoaw.cn#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.87.99-0203
 trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@144.24.87.99:28443?security=tls&sni=glckr.hruqoaw.cn#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.87.99-0272
-trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@144.24.90.94:28443?security=tls&sni=glckr.hruqoaw.cn#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.90.94-0202
 trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@144.24.90.94:28443?security=tls&sni=glckr.hruqoaw.cn#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.90.94-0271
 trojan://rYuChHcwQZskq9E0zdoR@119.195.0.158:35342/?type=tcp&security=tls&sni=vpn5.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR-119.195.0.158-0458
 trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443/?type=tcp&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-38.60.220.65-0160
