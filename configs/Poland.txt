@@ -95,7 +95,7 @@ ss://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?&security=false&fp=
 ss://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?&security=false&fp=chrome&type=ws&headerType=none&path=%2F4bc027a44532#_%E6%B3%A2%E5%85%B0_198
 ss://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?encryption=none&path=%2F4bc027a44532&security=none&type=ws#PL🇵🇱
 ss://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?path=%2F4bc027a44532&security=none&encryption=none&type=ws#PL🇵🇱
-ss://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?path=/4bc027a44532&security=none&encryption=none&type=ws#PL%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9113
+ss://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.178:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=pl2-ded.moritech.net&type=tcp&headerType=none&path=%2F#_PL_%E6%B3%A2%E5%85%B0
 ss://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl5.moritech.net:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl5.moritech.net#🆔soskeynet%20🔒%20VL-TCP-N/A%20🇵🇱%20PL%20363ms
 ss://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl6.moritech.net:443?security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl6.moritech.net#🆔soskeynet%20🔒%20VL-TCP-N/A%20🇵🇱%20PL%20444ms
 ss://d23cb516-40db-4aa4-8142-6b45ff882f90@94.183.209.59:443?path=%2F&security=none&encryption=none&type=ws#PL🇵🇱
@@ -163,7 +163,7 @@ vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?&security=false&
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?&security=false&fp=chrome&type=ws&headerType=none&path=%2F4bc027a44532#_%E6%B3%A2%E5%85%B0_198
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?encryption=none&path=%2F4bc027a44532&security=none&type=ws#PL🇵🇱
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?path=%2F4bc027a44532&security=none&encryption=none&type=ws#PL🇵🇱
-vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?path=/4bc027a44532&security=none&encryption=none&type=ws#PL%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9113
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.178:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=pl2-ded.moritech.net&type=tcp&headerType=none&path=%2F#_PL_%E6%B3%A2%E5%85%B0
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl5.moritech.net:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl5.moritech.net#🆔soskeynet%20🔒%20VL-TCP-N/A%20🇵🇱%20PL%20363ms
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl6.moritech.net:443?security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl6.moritech.net#🆔soskeynet%20🔒%20VL-TCP-N/A%20🇵🇱%20PL%20444ms
 vless://d23cb516-40db-4aa4-8142-6b45ff882f90@94.183.209.59:443?path=%2F&security=none&encryption=none&type=ws#PL🇵🇱
