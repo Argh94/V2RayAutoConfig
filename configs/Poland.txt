@@ -104,7 +104,6 @@ ss://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.98:2087?path=%2F4bc027a4453
 ss://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.3:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl4.moritech.net&alpn=h2&fp=chrome&packetEncoding=xudp#波兰
 ss://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl6.moritech.net&fp=firefox&alpn=h2&type=tcp&headerType=none#PL🇵🇱
 ss://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl6.moritech.net#PL🇵🇱
-ss://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl-new-ded2.moritech.net:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=pl-new-ded2.moritech.net&type=tcp&headerType=none&host=pl-new-ded2.moritech.net&path=%2F#%E6%B3%A2%E5%85%B0%20%7C%20POL
 ss://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl6.moritech.net:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=pl6.moritech.net&type=tcp#PL🇵🇱
 ss://d23cb516-40db-4aa4-8142-6b45ff882f90@94.183.209.59:443?encryption=none&type=ws&path=%2F&security=none#PL🇵🇱
 ss://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@83.168.111.66:443?security=reality&encryption=none&pbk=QdGXMBWibJZdfDmDk3YcCMxNPd0yd_CkHAOt2yDYJCE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=97ac193c0962477c#REALITY|PL🇵🇱
@@ -173,7 +172,6 @@ vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.98:2087?path=%2F4bc027a4
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.3:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl4.moritech.net&alpn=h2&fp=chrome&packetEncoding=xudp#波兰
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl6.moritech.net&fp=firefox&alpn=h2&type=tcp&headerType=none#PL🇵🇱
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl6.moritech.net#PL🇵🇱
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl-new-ded2.moritech.net:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=pl-new-ded2.moritech.net&type=tcp&headerType=none&host=pl-new-ded2.moritech.net&path=%2F#%E6%B3%A2%E5%85%B0%20%7C%20POL
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl6.moritech.net:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=pl6.moritech.net&type=tcp#PL🇵🇱
 vless://d23cb516-40db-4aa4-8142-6b45ff882f90@94.183.209.59:443?encryption=none&type=ws&path=%2F&security=none#PL🇵🇱
 vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@83.168.111.66:443?security=reality&encryption=none&pbk=QdGXMBWibJZdfDmDk3YcCMxNPd0yd_CkHAOt2yDYJCE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=97ac193c0962477c#REALITY|PL🇵🇱
