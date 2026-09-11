@@ -14,7 +14,6 @@ ss://14155d8d-14f7-4105-984b-f477e3880943@104.105.202.38:29239/?type=tcp&encrypt
 ss://15cbab96-197e-46a5-9042-073b3980c798@fsdns.ectunnelvpn.me:80?encryption=none&host=fsdns.ectunnelvpn.me&path=/vless&security=none&type=ws#FR🇫🇷
 ss://1964139b-ad1e-449f-8ca0-416ad62c4241@170.39.216.98:1102?mode=stream-one&path=%2F%3Fed%3D2048&security=&encryption=none&host=www.samanehha.io&type=xhttp#FR🇫🇷
 ss://1ab5ef70-14af-428b-bf4b-03889e0a3131@kshskjsjskeoekheueieie.nenenet1.ir:55777?path=%2F&security=&encryption=mlkem768x25519plus.native.0rtt.O0QGHQMpSF3WNptiABMMcbXEtaaCf6Ql47WE6TX4CW0&type=ws#FR🇫🇷
-ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&host=t.me%2Fv2line&type=ws#France%200VHcloud
 ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@ov-france2.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20OVH
 ss://391ff971-a901-415e-b0f1-e0c0047e7a24@194.33.34.167:443/?type=raw&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=enBIOTqlP6CHTvic3CLgpUd_AcJAAbAQIa-oFIk4dVU&sid=302e#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28139%29
 ss://3b3c1bd6-3009-4d17-a27a-095e43157265@francervewcwerxr24231c42v423c4v23v4.soft421.ir:1152?security=reality&encryption=none&pbk=24qgQiNdIzdKYtFOQDFtB6kN9WKx0gviKirv8Bb4hhI&headerType=none&fp=safari&type=tcp&sni=yahoo.com&sid=86a68a48b7d45f43#REALITY|FR🇫🇷
@@ -145,8 +144,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20ProxyCloud%20France
 ss://df880bf8-2635-4a83-a6bf-91bb36df284b@fr2.janusgate.org:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=fr2.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=6ed1d644822b2951&spx=%2F#REALITY|FR🇫🇷
 ss://e2510a9d-4980-4fd8-aed5-0f4d55663317@ipx5.reallyclody.ir:2026?security=reality&encryption=none&pbk=Vx3rusy36I-sHQzZo45TztNmj4EoQCWGSmx5IWU6QU4&headerType=none&fp=qq&type=tcp&sni=www.icloud.com&sid=b7c285513e6ef482#REALITY|FR🇫🇷
-ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.74.87:22222?#🇫🇷[openproxylist.com]vless-FR
-ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.170.215:22223?#🇫🇷[openproxylist.com]vless-FR
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.15.183:22222?encryption=none&security=none&type=tcp#FR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%917
 ss://e484561b-1843-48f7-be20-d606f873ac2f@ishsvvsvsbshsbsh.kafsh-topakin.ir:61463?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=safari&pbk=v5VFbOeBbwCEo8maIZcA4ru5yj9X1O69AetI_Tgq1R8&sid=6400e17f79d23c93&spx=%2F32338adacad315d&allowinsecure=0&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#REALITY|FR🇫🇷
 ss://e6b5e08a-83fa-48d2-8a94-c6cc01fc35fd@178.214.100.10:9443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=beast.locallynet.org&fp=firefox&allowinsecure=0&type=tcp&headerType=none#FR🇫🇷
@@ -275,7 +272,6 @@ vless://14155d8d-14f7-4105-984b-f477e3880943@104.105.202.38:29239/?type=tcp&encr
 vless://15cbab96-197e-46a5-9042-073b3980c798@fsdns.ectunnelvpn.me:80?encryption=none&host=fsdns.ectunnelvpn.me&path=/vless&security=none&type=ws#FR🇫🇷
 vless://1964139b-ad1e-449f-8ca0-416ad62c4241@170.39.216.98:1102?mode=stream-one&path=%2F%3Fed%3D2048&security=&encryption=none&host=www.samanehha.io&type=xhttp#FR🇫🇷
 vless://1ab5ef70-14af-428b-bf4b-03889e0a3131@kshskjsjskeoekheueieie.nenenet1.ir:55777?path=%2F&security=&encryption=mlkem768x25519plus.native.0rtt.O0QGHQMpSF3WNptiABMMcbXEtaaCf6Ql47WE6TX4CW0&type=ws#FR🇫🇷
-vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&host=t.me%2Fv2line&type=ws#France%200VHcloud
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@ov-france2.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20OVH
 vless://391ff971-a901-415e-b0f1-e0c0047e7a24@194.33.34.167:443/?type=raw&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=enBIOTqlP6CHTvic3CLgpUd_AcJAAbAQIa-oFIk4dVU&sid=302e#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28139%29
 vless://3b3c1bd6-3009-4d17-a27a-095e43157265@francervewcwerxr24231c42v423c4v23v4.soft421.ir:1152?security=reality&encryption=none&pbk=24qgQiNdIzdKYtFOQDFtB6kN9WKx0gviKirv8Bb4hhI&headerType=none&fp=safari&type=tcp&sni=yahoo.com&sid=86a68a48b7d45f43#REALITY|FR🇫🇷
@@ -355,8 +351,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20ProxyCloud%20France
 vless://df880bf8-2635-4a83-a6bf-91bb36df284b@fr2.janusgate.org:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=fr2.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=6ed1d644822b2951&spx=%2F#REALITY|FR🇫🇷
 vless://e2510a9d-4980-4fd8-aed5-0f4d55663317@ipx5.reallyclody.ir:2026?security=reality&encryption=none&pbk=Vx3rusy36I-sHQzZo45TztNmj4EoQCWGSmx5IWU6QU4&headerType=none&fp=qq&type=tcp&sni=www.icloud.com&sid=b7c285513e6ef482#REALITY|FR🇫🇷
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.74.87:22222?#🇫🇷[openproxylist.com]vless-FR
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.170.215:22223?#🇫🇷[openproxylist.com]vless-FR
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.15.183:22222?encryption=none&security=none&type=tcp#FR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%917
 vless://e484561b-1843-48f7-be20-d606f873ac2f@ishsvvsvsbshsbsh.kafsh-topakin.ir:61463?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=safari&pbk=v5VFbOeBbwCEo8maIZcA4ru5yj9X1O69AetI_Tgq1R8&sid=6400e17f79d23c93&spx=%2F32338adacad315d&allowinsecure=0&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#REALITY|FR🇫🇷
 vless://e6b5e08a-83fa-48d2-8a94-c6cc01fc35fd@178.214.100.10:9443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=beast.locallynet.org&fp=firefox&allowinsecure=0&type=tcp&headerType=none#FR🇫🇷
