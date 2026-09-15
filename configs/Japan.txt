@@ -5,13 +5,13 @@ hysteria2://07a4fcf5553a80cf300374d325386038@141.147.151.58:443?insecure=1&sni=w
 hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1&sni=www.bing.com#%E6%97%A5%E6%9C%AC%20%231
 hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1&sni=www.bing.com#%E6%97%A5%E6%9C%AC%20%231%203
 hysteria2://4d6d97a82ddf959252e2ada36c3c3053@138.2.8.249:50160?insecure=1&sni=www.bing.com#%E6%97%A5%E6%9C%AC%20%232
+hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@mszz.mangshe.xyz:20562?insecure=1&security=tls&sni=www.microsoft.com#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACM247%E7%BD%91%E7%BB%9C
 ss://059fbe5b-21dc-413f-8f5c-dac39201914c@13.114.89.187:16611/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.intel.com&fp=chrome&security=reality&pbk=cDzA5Efsd52LehcCFXh9bS3eCuj7HQZwau-yjPqLPgQ&sid=701b0c5c9dee514d&packetEncoding=xudp#日本
 ss://15b84012-d261-4b4c-807a-061bb4a901fd@116.80.58.239:39975/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=cloudcircus.jp&fp=chrome&security=reality&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&sid=#-%3EJP%2B%28%40DeamNet_Proxy%29%20%287%29
 ss://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477/?type=raw&encryption=none#JP-%3EJP%2B%28%40DeamNet_Proxy%29
 ss://31904E3E-F57B-41D1-BDB2-CB6D3A496232@jp4-r.link-t7.com:10034/?type=grpc&encryption=none&flow=&serviceName=update&sni=s0.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#日本
 ss://35b898320a7c48dd8d1ca2891b522195Og==@45.32.57.118:4433#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+45.32.57.118-4433+%7C+98.14ms
 ss://36477315-2e11-4478-b85c-549133624eef@178.253.245.144:21562/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.nazhumi.com&fp=chrome&security=reality&pbk=saEF9IjGEOga3eZG962AMJRTM93cnsVVziketYU6s1M&sid=#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AF%F0%9F%87%B5%C2%AE%EF%B8%8FJapan%C2%A9%EF%B8%8FShibuya%20City%F0%9F%85%BF%EF%B8%8Fping%3A234ms
-ss://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=none&type=tcp#%E6%97%A5%E6%9C%AC+V2CROSS.COM
 ss://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?encryption=none&flow=&fp=chrome&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&security=reality&serviceName=grpc&sid=c226283c4de5b1ad&sni=ads.x5.ru&type=grpc#REALITY|JP🇯🇵
 ss://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?mode=gun&security=reality&encryption=none&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#REALITY|JP🇯🇵
 ss://5416ef6f-b8e5-48e9-87e4-3d5649b2e3e0@jp-1.gsafevpnapi.com:20270?&security=reality&pbk=l2Wjf_xR2rZYHYmST-zxaYDDj5QhiL9riXa1ozBSjEE&sid=28500ae15838f905&fp=chrome&sni=www.yahoo.com&type=tcp&headerType=none&host=jp-1.gsafevpnapi.com&path=%2F#_%E6%97%A5%E6%9C%AC_18
@@ -148,7 +148,6 @@ vless://15b84012-d261-4b4c-807a-061bb4a901fd@116.80.58.239:39975/?type=raw&encry
 vless://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477/?type=raw&encryption=none#JP-%3EJP%2B%28%40DeamNet_Proxy%29
 vless://31904E3E-F57B-41D1-BDB2-CB6D3A496232@jp4-r.link-t7.com:10034/?type=grpc&encryption=none&flow=&serviceName=update&sni=s0.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#日本
 vless://36477315-2e11-4478-b85c-549133624eef@178.253.245.144:21562/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.nazhumi.com&fp=chrome&security=reality&pbk=saEF9IjGEOga3eZG962AMJRTM93cnsVVziketYU6s1M&sid=#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AF%F0%9F%87%B5%C2%AE%EF%B8%8FJapan%C2%A9%EF%B8%8FShibuya%20City%F0%9F%85%BF%EF%B8%8Fping%3A234ms
-vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=none&type=tcp#%E6%97%A5%E6%9C%AC+V2CROSS.COM
 vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?encryption=none&flow=&fp=chrome&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&security=reality&serviceName=grpc&sid=c226283c4de5b1ad&sni=ads.x5.ru&type=grpc#REALITY|JP🇯🇵
 vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?mode=gun&security=reality&encryption=none&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#REALITY|JP🇯🇵
 vless://5416ef6f-b8e5-48e9-87e4-3d5649b2e3e0@jp-1.gsafevpnapi.com:20270?&security=reality&pbk=l2Wjf_xR2rZYHYmST-zxaYDDj5QhiL9riXa1ozBSjEE&sid=28500ae15838f905&fp=chrome&sni=www.yahoo.com&type=tcp&headerType=none&host=jp-1.gsafevpnapi.com&path=%2F#_%E6%97%A5%E6%9C%AC_18
