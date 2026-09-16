@@ -7,7 +7,6 @@ ss://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@82.64.152.55:20304/?type=ws&encryption
 ss://0bc31c7f-1ee2-4dd3-929b-b61ae780eb3c@141.227.160.23:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=se.sellflow.org&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&packetEncoding=xudp#法国
 ss://15cbab96-197e-46a5-9042-073b3980c798@fsdns.ectunnelvpn.me:80?encryption=none&host=fsdns.ectunnelvpn.me&path=/vless&security=none&type=ws#FR🇫🇷
 ss://2211972b-a45a-4951-a640-6173d573e637@54.37.136.194:2053?encryption=none&fp=&pbk=3nFTPdoFnfcwN1xnLwegJmBycLqRH6TRsrbD2XnQbjM&security=reality&sid=bfc5464d84de3b3b&sni=www.cloudflare.com&type=tcp#REALITY|FR🇫🇷
-ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&host=t.me%2Fv2line&type=ws#France%200VHcloud
 ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@ov-france2.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20OVH
 ss://391ff971-a901-415e-b0f1-e0c0047e7a24@194.33.34.167:443/?type=raw&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=enBIOTqlP6CHTvic3CLgpUd_AcJAAbAQIa-oFIk4dVU&sid=302e#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28139%29
 ss://3b3c1bd6-3009-4d17-a27a-095e43157265@francervewcwerxr24231c42v423c4v23v4.soft421.ir:1152?security=reality&encryption=none&pbk=24qgQiNdIzdKYtFOQDFtB6kN9WKx0gviKirv8Bb4hhI&headerType=none&fp=safari&type=tcp&sni=yahoo.com&sid=86a68a48b7d45f43#REALITY|FR🇫🇷
@@ -124,8 +123,8 @@ ss://deb96819-bdaa-4f52-a536-d4751290ce47@13.38.52.64:15469/?type=raw&encryption
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20ProxyCloud%20France
 ss://df880bf8-2635-4a83-a6bf-91bb36df284b@fr2.janusgate.org:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=fr2.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=6ed1d644822b2951&spx=%2F#REALITY|FR🇫🇷
-ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.172.122:22223?#🇫🇷[openproxylist.com]vless-FR
-ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.145.224:22222?#🇫🇷[openproxylist.com]vless-FR
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.134.201:22223?encryption=none&security=none&type=tcp#FR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%911
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.134.201:22224?encryption=none&security=none&type=tcp#FR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%915
 ss://e484561b-1843-48f7-be20-d606f873ac2f@ishsvvsvsbshsbsh.kafsh-topakin.ir:61463?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=safari&pbk=v5VFbOeBbwCEo8maIZcA4ru5yj9X1O69AetI_Tgq1R8&sid=6400e17f79d23c93&spx=%2F32338adacad315d&allowinsecure=0&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#REALITY|FR🇫🇷
 ss://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?encryption=none&fp=&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&security=reality&sid=50ba05992b05c1c3&sni=www.cloudflare.com&type=tcp#REALITY|FR🇫🇷
 ss://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&type=tcp#FR🇫🇷
@@ -260,7 +259,6 @@ vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@82.64.152.55:20304/?type=ws&encrypt
 vless://0bc31c7f-1ee2-4dd3-929b-b61ae780eb3c@141.227.160.23:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=se.sellflow.org&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&packetEncoding=xudp#法国
 vless://15cbab96-197e-46a5-9042-073b3980c798@fsdns.ectunnelvpn.me:80?encryption=none&host=fsdns.ectunnelvpn.me&path=/vless&security=none&type=ws#FR🇫🇷
 vless://2211972b-a45a-4951-a640-6173d573e637@54.37.136.194:2053?encryption=none&fp=&pbk=3nFTPdoFnfcwN1xnLwegJmBycLqRH6TRsrbD2XnQbjM&security=reality&sid=bfc5464d84de3b3b&sni=www.cloudflare.com&type=tcp#REALITY|FR🇫🇷
-vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&host=t.me%2Fv2line&type=ws#France%200VHcloud
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@ov-france2.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20OVH
 vless://391ff971-a901-415e-b0f1-e0c0047e7a24@194.33.34.167:443/?type=raw&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=enBIOTqlP6CHTvic3CLgpUd_AcJAAbAQIa-oFIk4dVU&sid=302e#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28139%29
 vless://3b3c1bd6-3009-4d17-a27a-095e43157265@francervewcwerxr24231c42v423c4v23v4.soft421.ir:1152?security=reality&encryption=none&pbk=24qgQiNdIzdKYtFOQDFtB6kN9WKx0gviKirv8Bb4hhI&headerType=none&fp=safari&type=tcp&sni=yahoo.com&sid=86a68a48b7d45f43#REALITY|FR🇫🇷
@@ -330,8 +328,8 @@ vless://deb96819-bdaa-4f52-a536-d4751290ce47@13.38.52.64:15469/?type=raw&encrypt
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20ProxyCloud%20France
 vless://df880bf8-2635-4a83-a6bf-91bb36df284b@fr2.janusgate.org:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=fr2.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=6ed1d644822b2951&spx=%2F#REALITY|FR🇫🇷
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.172.122:22223?#🇫🇷[openproxylist.com]vless-FR
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.145.224:22222?#🇫🇷[openproxylist.com]vless-FR
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.134.201:22223?encryption=none&security=none&type=tcp#FR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%911
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.134.201:22224?encryption=none&security=none&type=tcp#FR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%915
 vless://e484561b-1843-48f7-be20-d606f873ac2f@ishsvvsvsbshsbsh.kafsh-topakin.ir:61463?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=safari&pbk=v5VFbOeBbwCEo8maIZcA4ru5yj9X1O69AetI_Tgq1R8&sid=6400e17f79d23c93&spx=%2F32338adacad315d&allowinsecure=0&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#REALITY|FR🇫🇷
 vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?encryption=none&fp=&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&security=reality&sid=50ba05992b05c1c3&sni=www.cloudflare.com&type=tcp#REALITY|FR🇫🇷
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&type=tcp#FR🇫🇷
