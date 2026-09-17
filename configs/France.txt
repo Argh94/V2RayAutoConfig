@@ -81,11 +81,6 @@ ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8881#%F0%9F%87%AB%F0%9F
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8882#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-5714
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@195.154.200.150:443#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.200.150-5732
 ss://a1750ade-801f-4e3e-a5d2-de825771205d@151.80.147.30:443?encryption=none&type=tcp&security=reality&headerType=none&sni=speedtest.net&insecure=1&allowInsecure=1&pbk=Ij3Iz1jqht6zLOy9uI0iusTy4n1oIr7gpgTwRTtA8kY&sid=42b395462da31c0e&flow=xtls-rprx-vision#REALITY|FR🇫🇷
-ss://ac7fb60f-0b7a-465d-a002-05160ec04ed6@momo1.api3-max.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=momo1.api3-max.ru&fp=chrome&packetEncoding=xudp#法国
-ss://ac7fb60f-0b7a-465d-a002-05160ec04ed6@momo10.api3-max.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=momo10.api3-max.ru&fp=chrome&packetEncoding=xudp#法国
-ss://ac7fb60f-0b7a-465d-a002-05160ec04ed6@momo3.api3-max.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=momo3.api3-max.ru&fp=chrome&packetEncoding=xudp#法国
-ss://ac7fb60f-0b7a-465d-a002-05160ec04ed6@momo4.api3-max.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=momo4.api3-max.ru&fp=chrome&packetEncoding=xudp#法国
-ss://ac7fb60f-0b7a-465d-a002-05160ec04ed6@momo5.api3-max.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=momo5.api3-max.ru&fp=chrome&packetEncoding=xudp#法国
 ss://acd726d3-0128-44d8-a575-21013ff7740a@51.44.25.250:44520/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=MrLRcU_2S2CpUc7VT3ajIavX5NYUiQdP6J5QTDFNGFU&sid=8897c56a495b26cc#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2843%29
 ss://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20X
 ss://b320eba7-5380-4bd1-b5e6-32daab16066f@fr-d.duckray.co.uk:3443/?type=grpc&encryption=none&sni=api.github.com&security=reality&pbk=Ps_w7KP3VFrZv1niWfX3synmJq_d2c7sVSckxa3sgio&sid=#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FRoubaix%F0%9F%85%BF%EF%B8%8Fping%3A68.38ms
@@ -288,11 +283,6 @@ vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@31.59.121.150:2053?&security=tls&fp
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@51.38.226.4:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#FR🇫🇷
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@54.36.99.234:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#FR🇫🇷
 vless://a1750ade-801f-4e3e-a5d2-de825771205d@151.80.147.30:443?encryption=none&type=tcp&security=reality&headerType=none&sni=speedtest.net&insecure=1&allowInsecure=1&pbk=Ij3Iz1jqht6zLOy9uI0iusTy4n1oIr7gpgTwRTtA8kY&sid=42b395462da31c0e&flow=xtls-rprx-vision#REALITY|FR🇫🇷
-vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@momo1.api3-max.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=momo1.api3-max.ru&fp=chrome&packetEncoding=xudp#法国
-vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@momo10.api3-max.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=momo10.api3-max.ru&fp=chrome&packetEncoding=xudp#法国
-vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@momo3.api3-max.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=momo3.api3-max.ru&fp=chrome&packetEncoding=xudp#法国
-vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@momo4.api3-max.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=momo4.api3-max.ru&fp=chrome&packetEncoding=xudp#法国
-vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@momo5.api3-max.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=momo5.api3-max.ru&fp=chrome&packetEncoding=xudp#法国
 vless://acd726d3-0128-44d8-a575-21013ff7740a@51.44.25.250:44520/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=MrLRcU_2S2CpUc7VT3ajIavX5NYUiQdP6J5QTDFNGFU&sid=8897c56a495b26cc#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2843%29
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20X
 vless://b320eba7-5380-4bd1-b5e6-32daab16066f@fr-d.duckray.co.uk:3443/?type=grpc&encryption=none&sni=api.github.com&security=reality&pbk=Ps_w7KP3VFrZv1niWfX3synmJq_d2c7sVSckxa3sgio&sid=#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FRoubaix%F0%9F%85%BF%EF%B8%8Fping%3A68.38ms
