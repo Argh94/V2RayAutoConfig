@@ -12,6 +12,7 @@ ss://2864749a-b45d-52c3-0f36-e64224f5480f@174.138.21.249:443/?type=raw&encryptio
 ss://2864749a-b45d-52c3-0f36-e64224f5480f@188.166.176.63:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.alibaba.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%289%29
 ss://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#SG🇸🇬
 ss://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.43.187:8880?&security=false&fp=chrome&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%7C%20SGP
+ss://5fce1c98-0192-4d03-a8b4-9ba8a8eef474@uh-sg01.ziyoufly.xyz:55555?flow=xtls-rprx-vision&fp=safari&pbk=godKGcXdZIpRF-dvdGR5JMdjwdHoi_TULHWm3GlZyhs&security=reality&sid=8a4a4ce4&sni=d1.awsstatic.com#SG%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9128
 ss://6de97a5c-acc0-473a-895e-0e9b3b120c74@vbzm.cn:443?path=%2F17001%2Fmsn&security=tls&alpn=http%2F1.1&encryption=none&host=on1.irandoc.info&fp=chrome&type=ws&sni=on1sni.irandoc.info#SG🇸🇬
 ss://779d227c-f7be-4b9d-a4a9-1197c734b4e7@18.141.49.252:35308/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.tesla.com&fp=firefox&security=reality&pbk=4g1kpdmdbN6aNxeBYMj9WherunH9JSXsI_nKZTDiewE&sid=fef8dcb8cafe30#-%3ESG%2B%28%40DeamNet_Proxy%29%20%2838%29
 ss://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443?security=&encryption=none&headerType=none&type=tcp#Singapore
@@ -119,6 +120,7 @@ vless://2864749a-b45d-52c3-0f36-e64224f5480f@174.138.21.249:443/?type=raw&encryp
 vless://2864749a-b45d-52c3-0f36-e64224f5480f@188.166.176.63:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.alibaba.com&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e#-%3ESG%2B%28%40DeamNet_Proxy%29%20%289%29
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#SG🇸🇬
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.43.187:8880?&security=false&fp=chrome&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%7C%20SGP
+vless://5fce1c98-0192-4d03-a8b4-9ba8a8eef474@uh-sg01.ziyoufly.xyz:55555?flow=xtls-rprx-vision&fp=safari&pbk=godKGcXdZIpRF-dvdGR5JMdjwdHoi_TULHWm3GlZyhs&security=reality&sid=8a4a4ce4&sni=d1.awsstatic.com#SG%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9128
 vless://6de97a5c-acc0-473a-895e-0e9b3b120c74@vbzm.cn:443?path=%2F17001%2Fmsn&security=tls&alpn=http%2F1.1&encryption=none&host=on1.irandoc.info&fp=chrome&type=ws&sni=on1sni.irandoc.info#SG🇸🇬
 vless://779d227c-f7be-4b9d-a4a9-1197c734b4e7@18.141.49.252:35308/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.tesla.com&fp=firefox&security=reality&pbk=4g1kpdmdbN6aNxeBYMj9WherunH9JSXsI_nKZTDiewE&sid=fef8dcb8cafe30#-%3ESG%2B%28%40DeamNet_Proxy%29%20%2838%29
 vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443?security=&encryption=none&headerType=none&type=tcp#Singapore
