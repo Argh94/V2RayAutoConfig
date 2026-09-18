@@ -1,5 +1,4 @@
 ss://23aa3d7e-039b-4c21-a8f7-0f7d1ddbbbb6@168.110.121.199:50159/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.ibm.com&fp=chrome&security=reality&pbk=k8nAYo1-IaxhdMI4CLPK0BcjD7TiFoBCwpB0CqUSHg0&sid=effd22907e2bf94f&packetEncoding=xudp#韩国
-ss://41a7089a040b45388b8d010902405bdeOg==@140.238.2.250:443#KR%F0%9F%87%B0%F0%9F%87%B7+%7C+140.238.2.250-443+%7C+133.33ms
 ss://DFDBA849-E8F0-4C1B-9BD6-C4C87679B0A3@kr5-r.link-t7.com:10050/?type=grpc&encryption=none&flow=&serviceName=update&sni=s0.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#韩国
 ss://YWVzLTEyOC1nY206M2EzMDhkNWYtNzJhMy00MmMwLTg4YTgtNTQ5ZjhlYmI1NzEz@129.154.222.205:32702#%F0%9F%87%B0%F0%9F%87%B7KR-129.154.222.205-2415
 ss://YWVzLTI1Ni1jZmI6MTIzNCFAIyQ=@49.254.204.134:1774#%F0%9F%87%B0%F0%9F%87%B7KR-49.254.204.134-0186
@@ -30,7 +29,7 @@ ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.39.146:6697#%F0%9F%87%B0%F0%9F
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#%F0%9F%87%B0%F0%9F%87%B7KR-141.164.45.187-0200
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@158.247.205.87:5601#%F0%9F%87%B0%F0%9F%87%B7KR-158.247.205.87-2478
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@158.247.205.87:443#%F0%9F%87%B0%F0%9F%87%B7KR-158.247.205.87-2479
-ss://ac1b933dafff448793eff57130a55dffOg==@217.142.138.61:80#KR%F0%9F%87%B0%F0%9F%87%B7+%7C+217.142.138.61-80+%7C+128.25ms
+ss://ac1b933dafff448793eff57130a55dffOg==@217.142.138.61:80#KR%F0%9F%87%B0%F0%9F%87%B7+%7C+217.142.138.61-80+%7C+155.72ms
 ss://cd91af31-0c74-4bce-aac3-bdae367c84fa@43.203.252.196:21796/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.sony.com&fp=firefox&security=reality&pbk=dHK4t7AbVKnDxl6ondRWcwkkt4FDkrK89ugEzZfDuzw&sid=804d6574da9180#-%3EKR%2B%28%40DeamNet_Proxy%29
 ss://eeb6823c-b926-4ea2-866a-5542edd26e59@64.176.226.26:8443/?type=ws&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B0%F0%9F%87%B7%C2%AE%EF%B8%8FSouth%20Korea%C2%A9%EF%B8%8FSeoul%F0%9F%85%BF%EF%B8%8Fping%3A300ms
 trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@138.2.115.240:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-138.2.115.240-2999
@@ -51,6 +50,7 @@ trojan://CF68213490@eminent-dogfish.rooster465.autos:443?security=tls#%F0%9F%87%
 trojan://CF68213490@eternal-woodcock.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-52.78.121.69-5309
 trojan://CF68213490@funny-hen.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.203.172.115-5313
 trojan://CF68213490@helping-shark.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.19.184-5369
+trojan://CF68213490@helping-shark.rooster465.autos:443?security=tls#🇰🇷KR-🚀@VPNine1
 trojan://CF68213490@innocent-rattler.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-52.78.76.194-5311
 trojan://CF68213490@loyal-molly.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.203.214.247-5314
 trojan://CF68213490@musical-manatee.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.96.227-5316
@@ -73,7 +73,6 @@ trojan://NQ26071394@fit-marten.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0
 trojan://NQ26071394@grand-grub.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.202.54.120-5300
 trojan://NQ26071394@guided-pelican.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.36.112.57-5218
 trojan://NQ26071394@inviting-rabbit.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.36.52.203-5315
-trojan://NQ26071394@inviting-rabbit.rooster465.autos:443?security=tls#KR🇰🇷
 trojan://NQ26071394@living-hagfish.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-13.124.56.133-5319
 trojan://NQ26071394@magical-prawn.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.249.3-5305
 trojan://NQ26071394@neat-octopus.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.38.181.59-5321
