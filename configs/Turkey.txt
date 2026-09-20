@@ -3,7 +3,6 @@ ss://1a49012e-1dc4-45b7-a97c-3404bc915a66@tr-ist-3.blook.network:443/?type=tcp&e
 ss://2a7d20bf-e65f-49a8-9e60-889776701a7c@cardpayment.cleanfoodshop.org:443?path=%2Fmedia%2Fws%2F&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=cardpayment.cleanfoodshop.org#TR🇹🇷
 ss://34fc6d57-0fd6-42f8-af83-21c9d4d87b3f@93.190.9.14:3090?mode=multi&security=&encryption=none&type=grpc&serviceName=vless#TR🇹🇷
 ss://34fc6d57-0fd6-42f8-af83-21c9d4d87b3f@93.190.9.14:3090?mode=multi&security=none&encryption=none&authority=&type=grpc&serviceName=vless#TR🇹🇷
-ss://63f92f15-b423-47f4-a2ab-24c94070d88e@Gaming.ark-cloudservice.ir:61583?security=none&encryption=mlkem768x25519plus.native.0rtt.CQyUnqfYVI4bh293hfozcZfukzUJKWSSCQljrt3eEEU&headerType=none&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇹🇷%20TR%20308ms
 ss://7b47d1f4-facc-43ea-a8d9-e128d27b59c7@tr.koomeh.net:80?encryption=none&security=none&type=xhttp&path=%2F%3Fed%3D2048&mode=stream-one#TR🇹🇷
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZjJOcTVZTG55Y2xQYVdSOG15Ny9WZGQzWlg4VVJuY1haTmx5NStIY1VTcz0=@176.53.17.241:1943#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+176.53.17.241-1943+%7C+122.87ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmxFV2gyUHpETWV3OHFvOVlrUEVB@38.180.105.12:443#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+38.180.105.12-443+%7C+124.2ms
@@ -21,7 +20,6 @@ vless://1a49012e-1dc4-45b7-a97c-3404bc915a66@tr-ist-3.blook.network:443/?type=tc
 vless://2a7d20bf-e65f-49a8-9e60-889776701a7c@cardpayment.cleanfoodshop.org:443?path=%2Fmedia%2Fws%2F&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=cardpayment.cleanfoodshop.org#TR🇹🇷
 vless://34fc6d57-0fd6-42f8-af83-21c9d4d87b3f@93.190.9.14:3090?mode=multi&security=&encryption=none&type=grpc&serviceName=vless#TR🇹🇷
 vless://34fc6d57-0fd6-42f8-af83-21c9d4d87b3f@93.190.9.14:3090?mode=multi&security=none&encryption=none&authority=&type=grpc&serviceName=vless#TR🇹🇷
-vless://63f92f15-b423-47f4-a2ab-24c94070d88e@Gaming.ark-cloudservice.ir:61583?security=none&encryption=mlkem768x25519plus.native.0rtt.CQyUnqfYVI4bh293hfozcZfukzUJKWSSCQljrt3eEEU&headerType=none&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇹🇷%20TR%20308ms
 vless://7b47d1f4-facc-43ea-a8d9-e128d27b59c7@tr.koomeh.net:80?encryption=none&security=none&type=xhttp&path=%2F%3Fed%3D2048&mode=stream-one#TR🇹🇷
 vless://ZoRoVPN@203.202.232.11:36068/?type=ws&encryption=none&host=Play.google.com&path=%2FZoRoVpn#%F0%9F%87%B9%F0%9F%87%B7TR-%F0%9F%9A%80%40VPNine1%20%282%29
 vless://a16c9e6e4be147829361ba54ec815259@62.133.63.167:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=8e399MgSjvh2ap5opo7EK0Gv_gPagXM-Icku3npTLkA&sid=aabbccdd&fp=random#REALITY|TR🇹🇷
