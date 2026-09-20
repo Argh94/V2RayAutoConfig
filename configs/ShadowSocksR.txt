@@ -43,6 +43,7 @@ ssr://Z2xpbW1lcmRzZHMuc2RsLXN6LmNvbTozOTAwNzphdXRoX2FlczEyOF9tZDU6YWVzLTI1Ni1jZm
 ssr://ZWR1YWxsLmJ1enpsaW5lLm9yZzo1NjE6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cGxhaW46YldKc1lXNXJNWEJ2Y25RPS8/b2Jmc3BhcmFtPSZyZW1hcmtzPThKJTJCSHFQQ2ZoN05EVGkweE1qQXVNak15TGpJd05pNHlOVEV0TkRneU53JTNEJTNEJnByb3RvcGFyYW09TlRVNU5UWTZNVEV4TVRFeA==
 ssr://api.meituan88.com:14048:auth_aes128_md5:chacha20-ietf:plain:ZGkxNVBW/?obfsparam=MTRlMTE2NzM1LmRvdXlpbi5jb20%3D&remarks=8J%2BHrfCfh7BISy00My4yNTUuMTE5LjI4LTU0Mjg%3D&protoparam=#
 ssr://api.meituan88.com:17348:auth_aes128_md5:rc4-md5:tls1.2_ticket_auth:ZGkxNVBW/?obfsparam=OTllMTQ0MzkxLmRvdXlpbi5jb20%3D&remarks=8J%2BHrfCfh7BISy00My4yNTUuMTE5LjI4LTU0MTE%3D&protoparam=#
+ssr://api.meituan88.com:18566:auth_aes128_md5:chacha20-ietf:plainZGkxNVBWremarks=8J-HuPCfh6xTR18xfDEuNU1CL3M=&obfsparam=MzNmMzEzNzIzLmRvdXlpbi5jb20=&protoparam=MzEzNzIzOmRDd3JuaQ==
 ssr://api.meituan88.com:19623:auth_aes128_md5:chacha20-ietf:tls1.2_ticket_auth:ZGkxNVBW/?obfsparam=NjY1MjAzNDYzLmRvdXlpbi5jb20%3D&remarks=8J%2BHrfCfh7BISy00My4yNTUuMTE5LjI4LTU0MjA%3D&protoparam=#
 ssr://api.meituan88.com:2105:auth_aes128_md5:aes-256-cfb:tls1.2_ticket_auth:ZGkxNVBW/?obfsparam=ODdjMjc2OTI0LmRvdXlpbi5jb20%3D&remarks=8J%2BHrfCfh7BISy00My4yNTUuMTE5LjI4LTU0MzA%3D&protoparam=#
 ssr://api.meituan88.com:2107:auth_aes128_md5:aes-256-cfb:tls1.2_ticket_auth:ZGkxNVBW/?obfsparam=ODdjMjc2OTI0LmRvdXlpbi5jb20%3D&remarks=8J%2BHrfCfh7BISy00My4yNTUuMTE5LjI4LTU0MTM%3D&protoparam=#
@@ -51,15 +52,14 @@ ssr://api.meituan88.com:32414:auth_aes128_md5:rc4-md5:plain:ZGkxNVBW/?obfsparam=
 ssr://api.meituan88.com:37398:auth_aes128_md5:chacha20-ietf:tls1.2_ticket_auth:ZGkxNVBW/?obfsparam=OTllMTQ0MzkxLmRvdXlpbi5jb20%3D&remarks=8J%2BHrfCfh7BISy00My4yNTUuMTE5LjI4LTU0MjI%3D&protoparam=#
 ssr://api.meituan88.com:39514:auth_aes128_md5:chacha20-ietf:tls1.2_ticket_auth:ZGkxNVBW/?obfsparam=OTllMTQ0MzkxLmRvdXlpbi5jb20%3D&remarks=8J%2BHrfCfh7BISy00My4yNTUuMTE5LjI4LTU0Mjc%3D&protoparam=#
 ssr://api.meituan88.com:41181:auth_aes128_md5:chacha20-ietf:plain:ZGkxNVBW/?obfsparam=NjY1MjAzNDYzLmRvdXlpbi5jb20%3D&remarks=8J%2BHrfCfh7BISy00My4yNTUuMTE5LjI4LTU0MTY%3D&protoparam=#
-ssr://api.meituan88.com:58427:auth_aes128_md5:rc4-md5:plainZGkxNVBWremarks=8J-HsPCfh7dLUl8xfDIuNE1CL3M=&obfsparam=MzNmMzEzNzIzLmRvdXlpbi5jb20=&protoparam=MzEzNzIzOmRDd3JuaQ==
 ssr://api.meituan88.com:59382:auth_aes128_md5:chacha20-ietf:tls1.2_ticket_auth:ZGkxNVBW/?obfsparam=OTllMTQ0MzkxLmRvdXlpbi5jb20%3D&remarks=8J%2BHrfCfh7BISy00My4yNTUuMTE5LjI4LTU0MjM%3D&protoparam=#
 ssr://api.meituan88.com:59430:auth_aes128_md5:chacha20-ietf:tls1.2_ticket_auth:ZGkxNVBW/?obfsparam=OTllMTQ0MzkxLmRvdXlpbi5jb20%3D&remarks=8J%2BHrfCfh7BISy00My4yNTUuMTE5LjI4LTU0MzI%3D&protoparam=#
 ssr://api.meituan88.com:60213:auth_aes128_md5:chacha20-ietf:tls1.2_ticket_auth:ZGkxNVBW/?obfsparam=NjY1MjAzNDYzLmRvdXlpbi5jb20%3D&remarks=8J%2BHrfCfh7BISy00My4yNTUuMTE5LjI4LTU0MDk%3D&protoparam=#
 ssr://api.meituan88.com:61714:auth_aes128_md5:chacha20-ietf:tls1.2_ticket_auth:ZGkxNVBW/?obfsparam=MzNmMzEzNzIzLmRvdXlpbi5jb20%3D&remarks=8J%2BHrfCfh7BISy00My4yNTUuMTE5LjI4LTU0MjY%3D&protoparam=#
-ssr://api.meituan88.com:61714:auth_aes128_md5:chacha20-ietf:tls1.2_ticket_authZGkxNVBWremarks=8J-HufCfh7xUV18yfDQuM01CL3M=&obfsparam=MzNmMzEzNzIzLmRvdXlpbi5jb20=&protoparam=MzEzNzIzOmRDd3JuaQ==
 ssr://api.meituan88.com:7004:auth_aes128_md5:chacha20-ietf:tls1.2_ticket_auth:ZGkxNVBW/?obfsparam=NjY1MjAzNDYzLmRvdXlpbi5jb20%3D&remarks=8J%2BHrfCfh7BISy00My4yNTUuMTE5LjI4LTU0MTk%3D&protoparam=#
-ssr://api.meituan88.com:7015:auth_aes128_md5:chacha20-ietf:plainZGkxNVBWremarks=8J-HufCfh7xUV18zfDEuNE1CL3M=&obfsparam=MzNmMzEzNzIzLmRvdXlpbi5jb20=&protoparam=MzEzNzIzOmRDd3JuaQ==
-ssr://api.meituan88.com:7016:auth_aes128_md5:chacha20-ietf:plainZGkxNVBWremarks=8J-HrfCfh7BIS18yfDQuME1CL3M=&obfsparam=MzNmMzEzNzIzLmRvdXlpbi5jb20=&protoparam=MzEzNzIzOmRDd3JuaQ==
+ssr://api.meituan88.com:7007:auth_aes128_md5:chacha20-ietf:plainZGkxNVBWremarks=8J-HrfCfh7BIS18xfDMuNE1CL3M=&obfsparam=MzNmMzEzNzIzLmRvdXlpbi5jb20=&protoparam=MzEzNzIzOmRDd3JuaQ==
+ssr://api.meituan88.com:7016:auth_aes128_md5:chacha20-ietf:plainZGkxNVBWremarks=8J-HrfCfh7BIS18yfDUuMk1CL3M=&obfsparam=MzNmMzEzNzIzLmRvdXlpbi5jb20=&protoparam=MzEzNzIzOmRDd3JuaQ==
+ssr://api.meituan88.com:7018:auth_aes128_md5:chacha20-ietf:plainZGkxNVBWremarks=8J-HufCfh7xUV18xfDUuNU1CL3M=&obfsparam=MzNmMzEzNzIzLmRvdXlpbi5jb20=&protoparam=MzEzNzIzOmRDd3JuaQ==
 ssr://bGl2ZS5iaWxpYmlsaWNsb3VkMDEuY29tOjU0MTEyOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpUWFkwWlRCUlNGZFFkMlJpUzJsRFJnPT0vP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkhyJTJGQ2ZoN1ZLVUMwek5TNDNOaTR4TVRJdU56Z3ROVFEwTVElM0QlM0QmcHJvdG9wYXJhbT0=
 ssr://bGl2ZS5iaWxpYmlsaWNsb3VkMDEuY29tOjU0MTEzOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpUWFkwWlRCUlNGZFFkMlJpUzJsRFJnPT0vP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkhyJTJGQ2ZoN1ZLVUMwMU1pNHhPVFV1TVRjMUxqSTBOQzAxTkRNNCZwcm90b3BhcmFtPQ==
 ssr://bGl2ZS5iaWxpYmlsaWNsb3VkMDEuY29tOjUzODQ1OmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpUWFkwWlRCUlNGZFFkMlJpUzJsRFJnPT0vP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkhyJTJGQ2ZoN1ZLVUMwekxqRXhNaTR4T1RndU1UZzJMVFUwTXprJTNEJnByb3RvcGFyYW09
