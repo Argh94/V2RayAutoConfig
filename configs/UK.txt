@@ -285,8 +285,8 @@ ss://chacha20ietfpoly1305Og==@82.38.31.185:8080#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+8
 ss://chacha20ietfpoly1305Og==@82.38.31.204:8080#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+82.38.31.204-8080+%7C+146.35ms
 ss://chacha20ietfpoly1305Og==@82.38.31.35:8080#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+82.38.31.35-8080+%7C+146.85ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-0059
-ss://d0e771c5-024e-4393-bb90-4a3e3c561656@31.76.7.227:443?security=reality&encryption=none&pbk=nIL5EeUo2XUkCaLJGbzgRm6zhF-96kWvV2VmhEt3CX4&headerType=&fp=chrome&spx=/42618003b1db127&type=tcp&flow=xtls-rprx-vision&sni=origin.vpnoodles.ru&sid=4af4102cb26e59#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
 ss://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#GB🇬🇧
+ss://d949020f-6ec6-455a-819b-7d7b32f9ff14@45.152.65.129:11563?flow=xtls-rprx-vision&fp=chrome&pbk=WzLRxXsO23hehh3gwGkVYfGpAW_tV0QOpfza_Os5Cgg&security=reality&sni=aws.amazon.com#GB%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9128
 ss://e4306ea0-e11a-435c-9cf9-bf2c805b0c3b@164.37.103.74:443?flow=xtls-rprx-vision&encryption=none&security=reality&pbk=I80mt8c1kRZwVPuHdYmm_2snW_BUTjrLmUEKxNuXhWE&sid=8bab58026280e6aa&type=tcp&fp=qq&sni=free.halyard-online.org&headerType=none#REALITY|GB🇬🇧
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.243.242:22224?encryption=none&security=none&type=tcp#🆔lrnbymaa%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20down
 ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=M84tG1gGw0.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=M84tG1gGw0.SoLeNtRaA.iNfO#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
@@ -372,8 +372,8 @@ vless://c18b978e-1c4e-415c-8bea-07942b563a64@46.250.250.48:8443?&security=tls&fp
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?encryption=none&security=none&serviceName=vless&type=grpc#GB🇬🇧
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?encryption=none&security=none&type=grpc&mode=gun&authority=&serviceName=vless#GB🇬🇧
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#GB🇬🇧
-vless://d0e771c5-024e-4393-bb90-4a3e3c561656@31.76.7.227:443?security=reality&encryption=none&pbk=nIL5EeUo2XUkCaLJGbzgRm6zhF-96kWvV2VmhEt3CX4&headerType=&fp=chrome&spx=/42618003b1db127&type=tcp&flow=xtls-rprx-vision&sni=origin.vpnoodles.ru&sid=4af4102cb26e59#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
 vless://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#GB🇬🇧
+vless://d949020f-6ec6-455a-819b-7d7b32f9ff14@45.152.65.129:11563?flow=xtls-rprx-vision&fp=chrome&pbk=WzLRxXsO23hehh3gwGkVYfGpAW_tV0QOpfza_Os5Cgg&security=reality&sni=aws.amazon.com#GB%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9128
 vless://e4306ea0-e11a-435c-9cf9-bf2c805b0c3b@164.37.103.74:443?flow=xtls-rprx-vision&encryption=none&security=reality&pbk=I80mt8c1kRZwVPuHdYmm_2snW_BUTjrLmUEKxNuXhWE&sid=8bab58026280e6aa&type=tcp&fp=qq&sni=free.halyard-online.org&headerType=none#REALITY|GB🇬🇧
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.243.242:22224?encryption=none&security=none&type=tcp#🆔lrnbymaa%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20down
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=M84tG1gGw0.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=M84tG1gGw0.SoLeNtRaA.iNfO#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
