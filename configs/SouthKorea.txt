@@ -26,6 +26,7 @@ ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#KR%F0%9F%87%B0%F0%
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.39.146:6697#%F0%9F%87%B0%F0%9F%87%B7KR-141.164.39.146-2453
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@158.247.205.87:5601#%F0%9F%87%B0%F0%9F%87%B7KR-158.247.205.87-2480
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@158.247.205.87:443#%F0%9F%87%B0%F0%9F%87%B7KR-158.247.205.87-2481
+ss://c18b978e-1c4e-415c-8bea-07942b563a64@123.111.169.70:2083?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#_%E9%9F%A9%E5%9B%BD_343
 ss://cd91af31-0c74-4bce-aac3-bdae367c84fa@43.203.252.196:21796/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.sony.com&fp=firefox&security=reality&pbk=dHK4t7AbVKnDxl6ondRWcwkkt4FDkrK89ugEzZfDuzw&sid=804d6574da9180#-%3EKR%2B%28%40DeamNet_Proxy%29
 ss://eeb6823c-b926-4ea2-866a-5542edd26e59@64.176.226.26:8443/?type=ws&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B0%F0%9F%87%B7%C2%AE%EF%B8%8FSouth%20Korea%C2%A9%EF%B8%8FSeoul%F0%9F%85%BF%EF%B8%8Fping%3A300ms
 trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@138.2.115.240:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-138.2.115.240-3001
@@ -49,6 +50,7 @@ trojan://rYuChHcwQZskq9E0zdoR@119.195.0.158:35342/?type=tcp&security=tls&sni=vpn
 trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443/?type=tcp&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-38.60.220.65-0160
 trojan://xxoo@3.34.6.217:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.6.217-4276
 vless://700a7a0e-3f27-406c-81d1-aa1abe411af8@34.64.149.137:443?&security=reality&pbk=kqIDhDhYFrXD-1GeurwjzFwbB0zWipgWmcbADXwmyy8&sid=3fd0a8ddef3ae5c6&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&path=%2F#_%E9%9F%A9%E5%9B%BD_13
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@123.111.169.70:2083?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#_%E9%9F%A9%E5%9B%BD_343
 vless://cd91af31-0c74-4bce-aac3-bdae367c84fa@43.203.252.196:21796/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.sony.com&fp=firefox&security=reality&pbk=dHK4t7AbVKnDxl6ondRWcwkkt4FDkrK89ugEzZfDuzw&sid=804d6574da9180#-%3EKR%2B%28%40DeamNet_Proxy%29
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@64.176.226.26:8443/?type=ws&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B0%F0%9F%87%B7%C2%AE%EF%B8%8FSouth%20Korea%C2%A9%EF%B8%8FSeoul%F0%9F%85%BF%EF%B8%8Fping%3A300ms
 vmess://ewogICAgImFkZCI6ICI0My4yMDEuMTAzLjEyIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiNDMuMjAxLjEwMy4xMiIsCiAgICAiaWQiOiAiZjQ2YjJlMmEtZTAyYy00MzdhLTgzM2MtMDIzNDEwODQwYTgwIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2Y0NmIyZTJhLWUwMmMtNDM3YS04MzNjLTAyMzQxMDg0MGE4MCIsCiAgICAicG9ydCI6IDI5OTMwLAogICAgInBzIjogIvCfh7Dwn4e3S1ItNDMuMjAxLjEwMy4xMi0wODg0IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
