@@ -128,10 +128,7 @@ ss://deb96819-bdaa-4f52-a536-d4751290ce47@13.38.52.64:15469/?type=raw&encryption
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20ProxyCloud%20France
 ss://e2510a9d-4980-4fd8-aed5-0f4d55663317@ipx5.reallyclody.ir:2026?security=reality&encryption=none&pbk=Vx3rusy36I-sHQzZo45TztNmj4EoQCWGSmx5IWU6QU4&headerType=none&fp=qq&type=tcp&sni=www.icloud.com&sid=b7c285513e6ef482#REALITY|FR🇫🇷
-ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.231.13:22223?encryption=none&security=none&type=tcp#FR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9140
-ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.231.13:22224?encryption=none&security=none&type=tcp#FR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9143
-ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.68.85:22223?encryption=none&security=none&type=tcp#FR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9141
-ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.68.85:22224?encryption=none&security=none&type=tcp#FR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9144
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.175.72:22222?encryption=none&security=none&type=tcp#FR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9129
 ss://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?encryption=none&security=reality&sni=www.cloudflare.com&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&sid=50ba05992b05c1c3&type=tcp&headerType=none#REALITY|FR🇫🇷
 ss://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&encryption=none&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=50ba05992b05c1c3#REALITY|FR🇫🇷
 ss://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&encryption=none&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&headerType=none&type=tcp&sni=www.cloudflare.com&sid=50ba05992b05c1c3#REALITY|FR🇫🇷
@@ -348,10 +345,7 @@ vless://deb96819-bdaa-4f52-a536-d4751290ce47@13.38.52.64:15469/?type=raw&encrypt
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20ProxyCloud%20France
 vless://e2510a9d-4980-4fd8-aed5-0f4d55663317@ipx5.reallyclody.ir:2026?security=reality&encryption=none&pbk=Vx3rusy36I-sHQzZo45TztNmj4EoQCWGSmx5IWU6QU4&headerType=none&fp=qq&type=tcp&sni=www.icloud.com&sid=b7c285513e6ef482#REALITY|FR🇫🇷
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.231.13:22223?encryption=none&security=none&type=tcp#FR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9140
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.231.13:22224?encryption=none&security=none&type=tcp#FR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9143
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.68.85:22223?encryption=none&security=none&type=tcp#FR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9141
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.68.85:22224?encryption=none&security=none&type=tcp#FR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9144
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.175.72:22222?encryption=none&security=none&type=tcp#FR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9129
 vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?encryption=none&security=reality&sni=www.cloudflare.com&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&sid=50ba05992b05c1c3&type=tcp&headerType=none#REALITY|FR🇫🇷
 vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&encryption=none&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=50ba05992b05c1c3#REALITY|FR🇫🇷
 vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&encryption=none&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&headerType=none&type=tcp&sni=www.cloudflare.com&sid=50ba05992b05c1c3#REALITY|FR🇫🇷
