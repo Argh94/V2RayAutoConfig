@@ -9,7 +9,7 @@ trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.18.32.87:443?path=%2Ftrojan&se
 trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.18.32.87:443?path=%2Ftrojan&security=tls&host=id1.nathaya.web.id&type=ws&sni=id1.nathaya.web.id#ID🇮🇩
 trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@188.114.97.6:443?path=%2Ftrojan&security=tls&fm=%7B%22tcp%22%3A+%5B%7B%22type%22%3A+%22fragment%22%2C+%22settings%22%3A+%7B%22packets%22%3A+%22tlshello%22%2C+%22lengths%22%3A+%5B%220%22%2C+%22104%22%2C+%221%22%5D%2C+%22delays%22%3A+%5B%220%22%5D%2C+%22maxSplit%22%3A+%220%22%7D%7D%2C%7B%22type%22%3A+%22fragment%22%2C+%22settings%22%3A+%7B%22packets%22%3A+%221-1%22%2C+%22lengths%22%3A+%5B%22114%22%2C+%221%22%5D%2C+%22delays%22%3A+%5B%221%22%5D%2C+%22maxSplit%22%3A+%2211%22%7D%7D%5D%7D&insecure=0&host=id1.nathaya.web.id&type=ws&allowInsecure=0&sni=id1.nathaya.web.id#ID🇮🇩
 trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@188.114.97.6:443?path=%2Ftrojan&security=tls&host=id1.nathaya.web.id&type=ws&sni=id1.nathaya.web.id#ID🇮🇩
-trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-41.216.177.41-4875
+trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-41.216.177.41-4485
 trojan://humanity@141.193.213.10:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#Channel%20id%3A%20%40ShadowProxy66%20
 trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Channel%20id%3A%20%40ConfigV2RayNG%20%F0%9F%87%BA%F0%9F%87%B8
 trojan://humanity@188.114.97.194:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
@@ -17,8 +17,8 @@ trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&fm=%7B%22tcp%
 trojan://humanity@188.114.97.7:443?path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Channel%20id%3A%20%40ConfigV2RayNG%20%F0%9F%87%BA%F0%9F%87%B8
 trojan://humanity@27.50.48.49:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#Channel%20id%3A%20%40ShadowProxy66%20
 trojan://humanity@89.116.46.8:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#Channel%20id%3A%20%40ShadowProxy66%20
-trojan://idc117okt@103.176.78.153:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.176.78.153-4717
-trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.226.139.201-7037
+trojan://idc117okt@103.176.78.153:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.176.78.153-4327
+trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.226.139.201-6534
 trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443/?type=tcp&security=tls#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AE%F0%9F%87%A9%C2%AE%EF%B8%8FIndonesia%C2%A9%EF%B8%8FJakarta%F0%9F%85%BF%EF%B8%8Fping%3A234.73ms
 vless://13bbbb75-2ec5-4262-9784-fe8b6e94510b@yt6.safepass.click:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=timeweb.cloud&fp=chrome&security=reality&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&sid=965af8960474c29c#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
 vless://3977434d-6a9b-4858-8ced-80326ba5e367@103.172.197.2:29172?&security=reality&flow=xtls-rprx-vision&pbk=pff94OJwuKXnF7_3SJ8KKJuAN4GJtInBlR-kg-4mwzQ&fp=chrome&sni=aws.amazon.com&type=tcp&headerType=none&host=aws.amazon.com&path=%2F#ID%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9122
