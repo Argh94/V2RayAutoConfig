@@ -1,6 +1,8 @@
 ss://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.104:443?path=/tyxyws#telegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&security=tls&encryption=none&fm={
+ss://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.2:443?path=/tyxyws#telegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&security=tls&encryption=none&fm={
 ss://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.153.10:443?path=/tyxyws#telegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&security=tls&encryption=none&fm={
 ss://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.16.10.135:443?path=/ws#/?----?ed=512&security=tls&encryption=none&fm={
+ss://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.16.10.135:443?path=/ws#/?TELEGRAM--MTMVPN--MTMVPN?ed=512&security=tls&encryption=none&fm={
 ss://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.16.10.135:443?path=/ws#/?TELEGRAM--MTMVPN--mtmvpn?ed=512&security=tls&encryption=none&fm={
 ss://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.16.10.2:443?path=/ws#TELEGRAM--MARAMBASHI--MARAMBASHI?ed=512&security=tls&encryption=none&fm={
 ss://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.18.26.90:443?path=/ws#TELEGRAM--MARAMBASHI--MARAMBASHI?ed=512&security=tls&encryption=none&fm={
@@ -9,9 +11,12 @@ ss://fdc48be3-a615-41ac-8bd1-ed844c931048@188.114.97.6:443?path=/fp=chrome?ed#TE
 ss://fdc48be3-a615-41ac-8bd1-ed844c931048@188.114.97.6:443?path=/fp=chrome?ed#TELEGRAM--V2ray_confiigs&alpn=http/1.1&encryption=none&fm={
 ss://fdc48be3-a615-41ac-8bd1-ed844c931048@188.114.97.6:443?path=/fp=chrome?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET?ed=512&security=tls&alpn=http/1.1&encryption=none&fm={
 ss://fdc48be3-a615-41ac-8bd1-ed844c931048@188.114.97.6:443?path=/fp=chrome?ed#Telegram---mtmvpn---mtmvpn---mtmvpn---mtmvpn?ed=512&security=tls&alpn=http/1.1&encryption=none&fm={
+trojan://humanity@172.67.139.14:443?path=/assignment?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&fm={
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.104:443?path=/tyxyws#telegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&security=tls&encryption=none&fm={
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.2:443?path=/tyxyws#telegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&security=tls&encryption=none&fm={
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.153.10:443?path=/tyxyws#telegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&security=tls&encryption=none&fm={
 vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.16.10.135:443?path=/ws#/?----?ed=512&security=tls&encryption=none&fm={
+vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.16.10.135:443?path=/ws#/?TELEGRAM--MTMVPN--MTMVPN?ed=512&security=tls&encryption=none&fm={
 vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.16.10.135:443?path=/ws#/?TELEGRAM--MTMVPN--mtmvpn?ed=512&security=tls&encryption=none&fm={
 vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.16.10.2:443?path=/ws#TELEGRAM--MARAMBASHI--MARAMBASHI?ed=512&security=tls&encryption=none&fm={
 vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.18.26.90:443?path=/ws#TELEGRAM--MARAMBASHI--MARAMBASHI?ed=512&security=tls&encryption=none&fm={
