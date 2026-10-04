@@ -1,5 +1,4 @@
 ss://7f86f371-5a85-48be-babc-7af1ae7ffb75@198.55.102.59:4443?&security=reality&flow=xtls-rprx-vision&pbk=9gYnZLxZAPxIKzu9e-cOLBpbCn9p9og9gBodOCh5HB8&sid=ce6767c3f1&fp=chrome&sni=vk.com&type=tcp&headerType=none&path=%2F#_%E7%88%B1%E5%B0%94%E5%85%B0_19
-ss://7f86f371-5a85-48be-babc-7af1ae7ffb75@198.55.102.59:4443?sni=vk.com&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%AE%F0%9F%87%AA%20%E7%88%B1%E5%B0%94%E5%85%B0%20%7C%20IRL%20%231
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6emlYSERPRlhjNHFSam9q@20.107.184.151:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+20.107.184.151-443+%7C+382.42ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWUo1SVMyb1NBczkza0dU@4.231.225.39:443#%F0%9F%87%AE%F0%9F%87%AAIE-4.231.225.39-5112
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphQmxxZGZEdjFhVGIya2xy@4.210.66.171:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+4.210.66.171-443+%7C+70.73ms
@@ -17,7 +16,7 @@ trojan://UX82473651@loved-shark.rooster465.autos:443?allowInsecure=1&sni=loved-s
 trojan://UX82473651@loved-shark.rooster465.autos:443?allowInsecure=1&sni=loved-shark.rooster465.autos#%E7%88%B1%E5%B0%94%E5%85%B0%20%7C%20IRL%20%232%203
 trojan://UX82473651@loved-shark.rooster465.autos:443?allowInsecure=1&sni=loved-shark.rooster465.autos#%E7%88%B1%E5%B0%94%E5%85%B0%20%7C%20IRL%20%232%204
 trojan://UX82473651@loved-shark.rooster465.autos:443?allowInsecure=1&sni=loved-shark.rooster465.autos#%E7%88%B1%E5%B0%94%E5%85%B0%20%7C%20IRL%20%232%205
-trojan://UX82473651@loved-shark.rooster465.autos:443?allowInsecure=1&sni=loved-shark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AA%20%E7%88%B1%E5%B0%94%E5%85%B0%20%7C%20IRL%20%232
+trojan://UX82473651@loved-shark.rooster465.autos:443?allowInsecure=1&sni=loved-shark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20trojan-IE-...
 trojan://UX82473651@loved-shark.rooster465.autos:443?security=tls&sni=loved-shark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.253.106.233-0483
 trojan://telegram-id-directvpn@34.253.231.7:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-34.253.231.7-7643
 trojan://telegram-id-directvpn@34.253.231.7:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-34.253.231.7-7645
@@ -27,7 +26,6 @@ trojan://telegram-id-privatevpns@3.252.69.131:22222?security=tls&sni=trj.rolling
 trojan://telegram-id-privatevpns@3.253.67.209:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-3.253.67.209-2145
 trojan://telegram-id-privatevpns@54.78.157.126:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-54.78.157.126-2170
 vless://7f86f371-5a85-48be-babc-7af1ae7ffb75@198.55.102.59:4443?&security=reality&flow=xtls-rprx-vision&pbk=9gYnZLxZAPxIKzu9e-cOLBpbCn9p9og9gBodOCh5HB8&sid=ce6767c3f1&fp=chrome&sni=vk.com&type=tcp&headerType=none&path=%2F#_%E7%88%B1%E5%B0%94%E5%85%B0_19
-vless://7f86f371-5a85-48be-babc-7af1ae7ffb75@198.55.102.59:4443?sni=vk.com&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%AE%F0%9F%87%AA%20%E7%88%B1%E5%B0%94%E5%85%B0%20%7C%20IRL%20%231
 vless://fdc48be3-a615-41ac-8bd1-ed844c931048@45.141.234.138:443?sni=edgetunnel-4uw.pages.dev&type=ws&host=edgetunnel-4uw.pages.dev&path=/fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-IE-2...
 vless://fdc48be3-a615-41ac-8bd1-ed844c931048@45.141.234.138:443?sni=edgetunnel-4uw.pages.dev&type=ws&host=edgetunnel-4uw.pages.dev&path=/fp=chromesecurity=tls#%F0%9F%87%AE%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-IE-2...%20%231
 vmess://ewogICAgImFkZCI6ICI0NS4xMzEuMjQ4LjE0MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNTU3ZTUzMmUtZGU0YS00YjNlLTlmYjItNWQzNTVjY2I1ZGE5IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDUwMDY4LAogICAgInBzIjogIvCfh67wn4eqSUUtNDUuMTMxLjI0OC4xNDAtNzU5NSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
