@@ -99,6 +99,7 @@ ss://d00d9d18-20cf-4191-be76-6f73d43a27ec@18.136.119.69:20975?type=tcp&encryptio
 ss://d00d9d18-20cf-4191-be76-6f73d43a27ec@18.139.227.162:28243?security=none&encryption=none&headerType=none&type=tcp#SG🇸🇬
 ss://d00d9d18-20cf-4191-be76-6f73d43a27ec@18.139.227.162:28243?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=IXxfPvq2OkbSuA-ZTBFpMzkDU1uO8dEI1e7s9VfHh1Y&sid=7996bf4dcf194d18#REALITY|SG🇸🇬
 ss://d00d9d18-20cf-4191-be76-6f73d43a27ec@18.140.238.157:31870?security=none&encryption=none&headerType=none&type=tcp#SG🇸🇬
+ss://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#SG%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9115
 ss://d342d11e-d224-4463-b982-532309285094@cf.090227.xyz:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20%7C%20SGP%20%231
 ss://d342d11e-d224-4463-b982-532309285094@cf.877774.xyz:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20%7C%20SGP%20%232
 ss://e85ce618-50cd-42e0-a8ba-5052e6be9498@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
@@ -162,6 +163,7 @@ trojan://UX82473651@holy-lamb.rooster465.autos:443?security=tls&sni=holy-lamb.ro
 trojan://UX82473651@inviting-ferret.rooster465.autos:443?allowInsecure=0&sni=inviting-ferret.rooster465.autos#SG-56.10.9.77-0651
 trojan://UX82473651@inviting-ferret.rooster465.autos:443?allowInsecure=1&sni=inviting-ferret.rooster465.autos#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%7C%20SGP%204
 trojan://UX82473651@inviting-ferret.rooster465.autos:443?security=tls&sni=inviting-ferret.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-56.10.9.77-0651
+trojan://UX82473651@inviting-ferret.rooster465.autos:443?security=tls&sni=inviting-ferret.rooster465.autos#SG%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9117
 trojan://UX82473651@pet-antelope.rooster465.autos:443?allowInsecure=0&sni=pet-antelope.rooster465.autos#_%E6%96%B0%E5%8A%A0%E5%9D%A1_24
 trojan://UX82473651@pet-antelope.rooster465.autos:443?allowInsecure=1&sni=pet-antelope.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%5Bwww.v2nodes.com%5D%20trojan-SG-...
 trojan://UX82473651@real-cardinal.rooster465.autos:443?allowInsecure=0&sni=real-cardinal.rooster465.autos#SG-52.221.218.179-0405
@@ -224,6 +226,7 @@ vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@18.136.119.69:20975?type=tcp&encryp
 vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@18.139.227.162:28243?security=none&encryption=none&headerType=none&type=tcp#SG🇸🇬
 vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@18.139.227.162:28243?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=IXxfPvq2OkbSuA-ZTBFpMzkDU1uO8dEI1e7s9VfHh1Y&sid=7996bf4dcf194d18#REALITY|SG🇸🇬
 vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@18.140.238.157:31870?security=none&encryption=none&headerType=none&type=tcp#SG🇸🇬
+vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#SG%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9115
 vless://d342d11e-d224-4463-b982-532309285094@cf.090227.xyz:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20%7C%20SGP%20%231
 vless://d342d11e-d224-4463-b982-532309285094@cf.877774.xyz:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20%7C%20SGP%20%232
 vless://e85ce618-50cd-42e0-a8ba-5052e6be9498@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
