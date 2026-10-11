@@ -1,5 +1,6 @@
 ss://0575005f-0ba9-4d6d-85e0-4a6a8cbafc1b@85.137.165.97:443?sni=kclx.eu.org&type=ws&host=kclx.eu.org&path=/154.16.10.34-8080fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%BF%5Bwww.v2nodes.com%5D%20vless-CZ-5...
 ss://14f4be39-cb89-4f2b-8200-704666b6fa4e@95.85.241.209:443?security=reality&encryption=none&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#REALITY|CZ🇨🇿
+ss://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@est-2.ardesnode.ru:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&sni=est-2.ardesnode.ru#%E6%8D%B7%E5%85%8B+V2CROSS.COM
 ss://8f502ed8-e703-4678-b5d8-885260dda802@153.76.185.114:3090?mode=multi&security=&encryption=none&type=grpc&serviceName=vless#CZ🇨🇿
 ss://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@80.211.205.173:8443?security=tls&type=ws&path=/danfeng&host=snippet.fgfw.ye.gs&sni=snippet.fgfw.ye.gs&fp=random#CZ🇨🇿
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjeWk0RkRlNEZkclRHM3JVcG5h@195.123.246.15:51348#%F0%9F%87%A8%F0%9F%87%BFCZ-195.123.246.15-7928
@@ -12,6 +13,7 @@ trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#%F0%9F%87%A8%F0%9F%87%B
 trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@46.8.100.93:443?allowInsecure=1&security=tls&sni=nl.zhabulik.ru#CZ🇨🇿
 vless://0575005f-0ba9-4d6d-85e0-4a6a8cbafc1b@85.137.165.97:443?sni=kclx.eu.org&type=ws&host=kclx.eu.org&path=/154.16.10.34-8080fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%BF%5Bwww.v2nodes.com%5D%20vless-CZ-5...
 vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@95.85.241.209:443?security=reality&encryption=none&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#REALITY|CZ🇨🇿
+vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@est-2.ardesnode.ru:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&sni=est-2.ardesnode.ru#%E6%8D%B7%E5%85%8B+V2CROSS.COM
 vless://8f502ed8-e703-4678-b5d8-885260dda802@153.76.185.114:3090?mode=multi&security=&encryption=none&type=grpc&serviceName=vless#CZ🇨🇿
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@80.211.205.173:8443?security=tls&type=ws&path=/danfeng&host=snippet.fgfw.ye.gs&sni=snippet.fgfw.ye.gs&fp=random#CZ🇨🇿
 vless://cfb5b3d3-c094-4222-99e8-53faa787c857@193.93.194.120:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=site.rumedia-cdn.com&security=reality&pbk=dgrcO3r5wkEjcsWdEsNtgtWCe9vER6mgADXYclWXVxg&sid=8de54d32a8d3fdf9#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%BF%C2%AE%EF%B8%8FCzechia%C2%A9%EF%B8%8FPrague%F0%9F%85%BF%EF%B8%8Fping%3A45.45ms
