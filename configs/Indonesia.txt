@@ -115,9 +115,6 @@ ss://f8c9d2a1-da40-4f90-b671-11772a0b13d6@103.172.197.3:16006?security=reality&e
 ss://f8c9d2a1-da40-4f90-b671-11772a0b13d6@103.172.197.3:16006?sni=www.cloudflare.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%A9%5Bwww.v2nodes.com%5D%20vless-ID-1...%20%231
 ss://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@200.165.231.209:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0&sni=wstg.datasynctrue.online#Channel%20id%3A%20%40ConfigV2RayNG%20%F0%9F%87%B7%F0%9F%87%BA
 trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.18.32.87:443?allowInsecure=0&sni=id1.nathaya.web.id&type=ws&host=id1.nathaya.web.id&path=/trojan#%F0%9F%87%AE%F0%9F%87%A9%5Bwww.v2nodes.com%5D%20trojan-ID-...
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.18.32.87:443?path=%2Ftrojan&security=tls&host=id1.nathaya.web.id&type=ws&sni=id1.nathaya.web.id#ID🇮🇩
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.18.32.87:443?security=tls&sni=id1.nathaya.web.id&type=ws&path=%2Ftrojan&Host=id1.nathaya.web.id#ID🇮🇩
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.70.21:443?security=tls&sni=id1.nathaya.web.id&type=ws&path=%2Ftrojan&Host=id1.nathaya.web.id#ID🇮🇩
 trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@188.114.97.6:443?path=%2Ftrojan&security=tls&host=id1.nathaya.web.id&type=ws&sni=id1.nathaya.web.id#ID🇮🇩
 trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-41.216.177.41-4706
 trojan://UX82473651@43.201.100.203:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=optimum-snapper.rooster465.autos#Channel%20id%3A%20%40ConfigV2RayNG%20%F0%9F%87%B0%F0%9F%87%B7
