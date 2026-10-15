@@ -1,13 +1,10 @@
-ss://2387bfbc10a64bd7dc557cba954ce6e8Og==@54.229.151.97:59236#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+54.229.151.97-59236+%7C+98.6ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWUo1SVMyb1NBczkza0dU@4.231.225.39:443#%F0%9F%87%AE%F0%9F%87%AAIE-4.231.225.39-5313
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+20.123.1.55-443+%7C+103.79ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+20.123.1.55-443+%7C+105.76ms
 ss://YWVzLTI1Ni1nY206V0N1ejd5cmZaU0NRUVhTTnJ0R1B6MkhU@146.70.48.53:50168#%F0%9F%87%AE%F0%9F%87%AAIE-146.70.48.53-1788
-ss://chacha20ietfpoly1305Og==@20.107.184.151:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+20.107.184.151-443+%7C+462.03ms
+trojan://UX82473651@3.253.106.233:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=loved-shark.rooster465.autos#IE🇮🇪
 trojan://UX82473651@3.253.106.233:443?security=tls&sni=loved-shark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.253.106.233-0240
 trojan://UX82473651@34.242.77.118:443?fp=chrome&sni=sacred-anemone.rooster465.autos#IE🇮🇪
 trojan://UX82473651@34.242.77.118:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=sacred-anemone.rooster465.autos#IE🇮🇪
-trojan://UX82473651@adapting-basilisk.rooster465.autos:443?allowInsecure=1#IE🇮🇪
+trojan://UX82473651@54.72.130.222:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=adapting-basilisk.rooster465.autos#IE🇮🇪
 trojan://UX82473651@adapting-basilisk.rooster465.autos:443?allowInsecure=1&sni=adapting-basilisk.rooster465.autos#IE🇮🇪
 trojan://UX82473651@adapting-basilisk.rooster465.autos:443?security=tls&sni=adapting-basilisk.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-54.72.130.222-0253
 trojan://UX82473651@adapting-basilisk.rooster465.autos:443?sni=adapting-basilisk.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20trojan-IE-...
@@ -30,5 +27,4 @@ vmess://ewogICAgImFkZCI6ICI0NS4xMzEuMjQ4LjIyOCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0
 vmess://ewogICAgImFkZCI6ICI0NS4xMzEuMjQ4LjIyOCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiYWMwMjczNjItYzk4OC00NjcwLWY3OGYtMDIxYjViZTZmNGUzIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDU5MTAyLAogICAgInBzIjogIvCfh67wn4eqSUUtNDUuMTMxLjI0OC4yMjgtNzY5MyIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICIxODUuMTA4LjEyOC42MCIsCiAgICAiYWlkIjogNjQsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjVhYWIzOTM2LTE2ZDctNDM3Ny04YzMzLTBkNzdmMmQyOTVlZSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HrvCfh6pJRS0xODUuMTA4LjEyOC42MC0wODIzIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://eyJ2IjoiMiIsInBzIjoiSUUg8J+HrvCfh6ogfCBAUmF5ZGlrYWx4IHwgMDM3NjBEIiwiYWRkIjoiNTQuMjI5LjE1MS45NyIsInBvcnQiOiI1OTIzNiIsImlkIjoiMjM4N2JmYmMtMTBhNi00YmQ3LWRjNTUtN2NiYTk1NGNlNmU4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInRscyI6IiIsImFscG4iOiIiLCJwYXRoIjoiLyIsImhvc3QiOiJ0bXMuZGluZ3RhbGsuY29tIn0=
-vmess://eyJhZGQiOiI1NC4yMjkuMTUxLjk3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSIsImlkIjoiMjM4N2JmYmMtMTBhNi00YmQ3LWRjNTUtN2NiYTk1NGNlNmU4IiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6IjU5MjM2IiwicHMiOiJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZWFbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLUlFIiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiI4NS4xNTkuMjI5LjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWZlNTc1NTctZGYyNC00M2U1LTljZWEtNWQyYWNjMmNhZDA4IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiODQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IklFIPCfh67wn4eqIHwgQFJheWRpa2FseCB8IEI3QjFCNiJ9
