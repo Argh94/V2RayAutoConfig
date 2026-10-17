@@ -1,6 +1,6 @@
 ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20India%20%23%D0%BC%D1%8F_%CE%B1%CA%9F%CF%83%D0%BF%CE%B5
 ss://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?sni=www.apple.com&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%234
-ss://405b964e-a2d2-454f-aaaa-711cc218897c@5.253.28.240:40443?#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN
+ss://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?sni=deepl.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN
 ss://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@168.144.155.167:443?&security=tls&fp=chrome&sni=cf3.schzyc.cc.cd&type=ws&headerType=none&host=cf3.schzyc.cc.cd&path=%2Fproxyip%3DProxyIP.CMLiussss.netfp%3Dchrome#%5Bwww.v2nodes.com%5D%20vless-IN-4...
 ss://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@168.144.155.167:443?sni=cf3.schzyc.cc.cd&type=ws&host=cf3.schzyc.cc.cd&path=/proxyip=ProxyIP.CMLiussss.netfp=chromesecurity=tls#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-4...
 ss://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?&security=false&fp=chrome&type=ws&headerType=none&host=13.140.56.100&path=%2Fvless#%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%231
@@ -27,12 +27,13 @@ ss://c7c27192-60a5-4ce1-b613-95270d82309d@5.253.29.254:10443?sni=5.253.29.254#%F
 ss://c7c27192-60a5-4ce1-b613-95270d82309d@5.253.29.254:14430?&security=false&fp=chrome&type=ws&headerType=none&host=5.253.29.254&path=%2Fvless#%5Bwww.v2nodes.com%5D%20vless-IN-1...
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@159.65.147.91:443?security=tls#%F0%9F%87%AE%F0%9F%87%B3IN-159.65.147.91-2242
 trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls#%F0%9F%87%AE%F0%9F%87%B3IN-152.67.160.174-1474
+trojan://Tg3RnK7Xp8B1@64.176.96.237:443?sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20trojan-IN-...
 trojan://Trojan@82164024@in.tronsg.com:443?security=tls&sni=in.tronsg.com#%F0%9F%87%AE%F0%9F%87%B3IN-139.84.132.62-5459
 trojan://Trojan@82164024@in.tronsg.com:443?sni=in.tronsg.com&allowInsecure=1&type=tcp#IN🇮🇳
 trojan://e05c749b-7c6b-41b8-9c71-9dcf685edf4a@152.67.162.166:443?security=tls#%F0%9F%87%AE%F0%9F%87%B3IN-152.67.162.166-3530
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20India%20%23%D0%BC%D1%8F_%CE%B1%CA%9F%CF%83%D0%BF%CE%B5
 vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?sni=www.apple.com&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%234
-vless://405b964e-a2d2-454f-aaaa-711cc218897c@5.253.28.240:40443?#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN
+vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?sni=deepl.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN
 vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@168.144.155.167:443?&security=tls&fp=chrome&sni=cf3.schzyc.cc.cd&type=ws&headerType=none&host=cf3.schzyc.cc.cd&path=%2Fproxyip%3DProxyIP.CMLiussss.netfp%3Dchrome#%5Bwww.v2nodes.com%5D%20vless-IN-4...
 vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@168.144.155.167:443?sni=cf3.schzyc.cc.cd&type=ws&host=cf3.schzyc.cc.cd&path=/proxyip=ProxyIP.CMLiussss.netfp=chromesecurity=tls#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-4...
 vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?&security=false&fp=chrome&type=ws&headerType=none&host=13.140.56.100&path=%2Fvless#%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%231
