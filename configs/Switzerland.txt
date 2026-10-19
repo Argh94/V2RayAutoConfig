@@ -28,11 +28,11 @@ ss://94b0cde3-a305-4d89-a192-575339220c7f@104.24.91.178:80/?type=ws&encryption=n
 ss://9784bb19-3833-43ad-83b0-27ef8fc04ef2@146.70.233.51:443?&security=tls&fp=chrome&sni=20664.pages.dev&type=ws&headerType=none&host=20664.pages.dev&path=%2F%3Fed%3D2048#_%E7%91%9E%E5%A3%AB_79
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOV1l4TQ@de1.opensocks.site:8388#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.26.156:1080#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+146.70.26.156-1080+%7C+123.63ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#%F0%9F%87%A8%F0%9F%87%ADCH-132.243.175.144-0186
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#%F0%9F%87%A8%F0%9F%87%ADCH-132.243.175.144-0222
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+132.243.175.144-8388+%7C+122.88ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpucWNJZllIbHBNbjNqenFrTkRqS2FH@138.124.67.26:25572#%F0%9F%87%A8%F0%9F%87%ADCH-138.124.67.26-0941
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.160-4258
-ss://YWVzLTEyOC1nY206MmJmNTM2YTRiZDYwMDg1MTE3MzRhNTA1ZDI0OGRlMmM=@86.106.84.194:13261#%F0%9F%87%A8%F0%9F%87%ADCH-86.106.84.194-0438
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.160-4690
+ss://YWVzLTEyOC1nY206MmJmNTM2YTRiZDYwMDg1MTE3MzRhNTA1ZDI0OGRlMmM=@86.106.84.194:13261#%F0%9F%87%A8%F0%9F%87%ADCH-86.106.84.194-0427
 ss://a04c750d-3b71-493b-b2c1-6473ff1209dd@79.132.141.248:23202?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=6oC15TpJ0YxlXVvax9G4Zw-FcP3kKoqgs4iSwOHlvwc&fp=firefox&spx=%2F0f6ac3bda1db9c4&type=xhttp&sni=www.sony.com&sid=8c6e#REALITY|CH🇨🇭
 ss://a1311ab3-0498-4cfd-b2c9-b5a4ba7d2999@104.16.184.194:80/?type=ws&encryption=none&flow=&host=rapid-mountain-e6a9-ppal03.rahog30057.workers.dev&path=%2F%3Fed%3D2560#%F0%9F%91%81Ch%3A
 ss://a1311ab3-0498-4cfd-b2c9-b5a4ba7d2999@104.24.247.189:80/?type=ws&encryption=none&flow=&host=rapid-mountain-e6a9-ppal03.rahog30057.workers.dev&path=%2F%3Fed%3D2560#%F0%9F%91%81Ch%3A
@@ -43,7 +43,7 @@ ss://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?security=reality&en
 ss://ec1bb388-649c-4deb-9eb1-a096b784e0d3@104.16.25.21:80/?type=ws&encryption=none&flow=&host=round-truth-4e97-ppal03.vegasow726.workers.dev&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8Ch%3A
 ss://ec1bb388-649c-4deb-9eb1-a096b784e0d3@104.24.167.96:80/?type=ws&encryption=none&flow=&host=round-truth-4e97-ppal03.vegasow726.workers.dev&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8Ch%3A
 ss://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@138.124.63.224:8444?encryption=none&fp=&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&serviceName=GunService&sid=457fab2ac885dbe0&sni=github.com&type=grpc#REALITY|CH🇨🇭
-trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-152.67.71.149-2687
+trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-152.67.71.149-3119
 trojan://8d047125-8467-4724-bb62-ef64405dca78@91.192.102.92:443/?type=tcp&security=tls&sni=joss.gpj1.web.id#%F0%9F%87%A8%F0%9F%87%ADCH-91.192.102.92-1572
 vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.50:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&security=reality&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%AD%C2%AE%EF%B8%8FSwitzerland%C2%A9%EF%B8%8FBern%F0%9F%85%BF%EF%B8%8Fping%3A31.19ms
 vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.51:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&security=reality&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%AD%C2%AE%EF%B8%8FSwitzerland%C2%A9%EF%B8%8FBern%F0%9F%85%BF%EF%B8%8Fping%3A30.33ms
