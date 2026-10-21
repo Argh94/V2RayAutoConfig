@@ -11,7 +11,7 @@ ss://2463908b-9922-43d1-8186-a9d245790073@185.46.112.170:443?security=reality&en
 ss://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#FR🇫🇷
 ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&host=t.me%2Fv2line&type=ws#France%200VHcloud
 ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@ov-france2.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20OVH
-ss://2bdcf0ac-f84e-471f-98dc-a1807acab1cb@redcloudport-bidarbash.sbs:443?sni=redcloudport-bidarbash.sbs&type=ws&host=redcloudport-bidarbash.sbs&path=/zoodifp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...%20%232
+ss://2bdcf0ac-f84e-471f-98dc-a1807acab1cb@redcloudport-bidarbash.sbs:443?sni=redcloudport-bidarbash.sbs&type=ws&host=redcloudport-bidarbash.sbs&path=/zoodifp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...%20%231
 ss://347f6eda-d514-4756-a810-ddbe5ba114aa@51.44.49.36:443?security=reality&sni=anandtech.com&type=http&fp=chrome&pbk=xhUiZLkRCdO3b06Sfl4CMAkzwufpHbZcTYhLAA036R8#REALITY|FR🇫🇷
 ss://347f6eda-d514-4756-a810-ddbe5ba114aa@51.44.57.46:443?security=reality&sni=anandtech.com&type=http&fp=chrome&pbk=xhUiZLkRCdO3b06Sfl4CMAkzwufpHbZcTYhLAA036R8#REALITY|FR🇫🇷
 ss://391ff971-a901-415e-b0f1-e0c0047e7a24@194.33.34.167:443/?type=raw&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=enBIOTqlP6CHTvic3CLgpUd_AcJAAbAQIa-oFIk4dVU&sid=302e#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28139%29
@@ -19,6 +19,8 @@ ss://3e5da4f6-93c4-4701-911b-1a5091d2430f@213.199.39.156:30001/?type=ws&encrypti
 ss://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443/?type=tcp&encryption=none&flow=&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20%40v2ray_collector%20%231
 ss://42f4be04-31d7-477d-9549-c1f79c6b9ee0@51.38.32.227:2096?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&sid=42c0b628ba6a42a9&type=tcp&headerType=none#FR🇫🇷
 ss://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#REALITY|FR🇫🇷
+ss://495c7195-85b8-498a-bf20-2ea9ce9175b5@139.100.226.187:8443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#%E6%B3%95%E5%9B%BD+V2CROSS.COM
+ss://495c7195-85b8-498a-bf20-2ea9ce9175b5@178.104.16.207:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fp=chromefp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%20%7C%20FRA%20%231
 ss://495c7195-85b8-498a-bf20-2ea9ce9175b5@38.54.59.70:443?security=tls&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2005
 ss://53821f3c-5b03-456a-89f3-f8379f130752@57.128.81.193:443/?type=raw&encryption=none&sni=www.samsung.com&security=reality&pbk=fXdtB8vImCUJMQBLcCNK7p1v3rVzx6HllaDLk8Vc4EU&sid=239dcd11#-%3EFR%2B%28%40DeamNet_Proxy%29%20%285%29
 ss://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=nMlxwhP34_5wFPscbso_hOfRDmsj9DonMpDSXUrnJR8&sid=ead3d6f82a9d#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2863%29
@@ -63,6 +65,7 @@ ss://75cc7568-abb0-46a8-88be-8137d3c647d4@152.228.139.33:51671?security=reality&
 ss://7b4b7d4e-7a53-4c0c-bd8e-9f3b1b2c7f21@51.91.158.180:443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.speedtest.net&fp=firefox&insecure=1&allowInsecure=1&pbk=wwH_L9FmhJ7AyOBKm9J8YGKdVo1G-QlDEuw5-s3eGEM&sid=9a4c7d2f8e1b6a3c&flow=xtls-rprx-vision#REALITY|FR🇫🇷
 ss://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?allowinsecure=0&encryption=none&fp=chrome&mode=gun&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&security=reality&serviceName=grpc-common3&sid=52add08b86a5ccea&sni=www.nvidia.com&type=grpc#REALITY|FR🇫🇷
 ss://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?encryption=none&security=reality&sni=www.nvidia.com&fp=firefox&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&sid=52add08b86a5ccea&allowinsecure=0&type=grpc&mode=gun&serviceName=grpc-common3#REALITY|FR🇫🇷
+ss://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?sni=www.nvidia.com&type=grpc&serviceName=grpc-common3&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...%20%233
 ss://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?type=grpc&encryption=none&serviceName=grpc-common3&sni=www.nvidia.com&security=reality&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&sid=52add08b86a5ccea#REALITY|FR🇫🇷
 ss://8571cb82-5941-4841-9613-63beffa96480@vpnfastsoper.co99.win:1080?security=&encryption=none&headerType=none&type=tcp#FR🇫🇷
 ss://8571cb82-5941-4841-9613-63beffa96480@vpnfastsoper.co99.win:443?security=&encryption=none&headerType=none&type=tcp#FR🇫🇷
@@ -129,6 +132,7 @@ ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@195.154.200.150:443#%F0%9F%87%AB%F0%9F
 ss://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&security=reality&sid=b390e0a721d242b0&sni=www.icloud.com&type=tcp#REALITY|FR🇫🇷
 ss://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#REALITY|FR🇫🇷
 ss://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#REALITY|FR🇫🇷
+ss://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?sni=www.icloud.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...%20%232
 ss://acd726d3-0128-44d8-a575-21013ff7740a@51.44.25.250:44520/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=MrLRcU_2S2CpUc7VT3ajIavX5NYUiQdP6J5QTDFNGFU&sid=8897c56a495b26cc#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2843%29
 ss://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20X
 ss://b30f3c95-104c-4c4b-92fe-d96602d61f3a@185.171.202.232:2096?security=reality&alpn=h2&encryption=none&pbk=hsndXIwexxE5l2h1DUNjc349cgNIL9g9e9jLN5YdAQo&headerType=none&fp=edge&type=tcp&sni=tgju.org&sid=d3669db1187035bc#REALITY|FR🇫🇷
@@ -148,12 +152,12 @@ ss://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.50:443?encryption=none&typ
 ss://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.60:443?encryption=none&type=xhttp&security=reality&path=%2F&host=panel.freesavesafe.com&sni=panel.freesavesafe.com&fp=firefox&insecure=1&allowInsecure=1&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb#REALITY|FR🇫🇷
 ss://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.70:443?encryption=none&type=xhttp&security=reality&path=%2F&host=panel.freesavesafe.com&sni=panel.freesavesafe.com&fp=firefox&insecure=1&allowInsecure=1&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb#REALITY|FR🇫🇷
 ss://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.90:443?encryption=none&type=xhttp&security=reality&path=%2F&host=panel.freesavesafe.com&sni=panel.freesavesafe.com&fp=firefox&insecure=1&allowInsecure=1&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb#REALITY|FR🇫🇷
-ss://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?sni=passport.yandex.ru&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...%20%233
+ss://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?sni=passport.yandex.ru&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...%20%234
 ss://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&type=tcp&sni=mother-earth.fyi&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2002
 ss://bda82bcdf6e246ae9552673f0b87ac30Og==@57.128.164.21:80#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+57.128.164.21-80+%7C+184.26ms
 ss://bf16ee0c-8b3c-41e4-ab3a-8b48033c404e@51.77.217.70:2053?encryption=none&fp=&pbk=g63cT3uI0Y5iUtj3m__RYz7nmR1eIK4AYikdnZCl63w&security=reality&sid=bfe58beb41f1d09f&sni=www.apple.com&type=tcp#REALITY|FR🇫🇷
-ss://bf16ee0c-8b3c-41e4-ab3a-8b48033c404e@51.77.217.70:2053?sni=www.apple.com&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...%20%234
-ss://c3571d81-38bd-44a8-9b75-5af8a125fc42@speedtest.org:8443?sni=pbsjv.megalionzone-vexina.sbs&alpn=http/1.1&type=ws&host=pbsjv.megalionzone-vexina.sbs&path=/balafp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...%20%231
+ss://bf16ee0c-8b3c-41e4-ab3a-8b48033c404e@51.77.217.70:2053?sni=www.apple.com&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...%20%235
+ss://c3571d81-38bd-44a8-9b75-5af8a125fc42@speedtest.org:8443?sni=pbsjv.megalionzone-vexina.sbs&alpn=http/1.1&type=ws&host=pbsjv.megalionzone-vexina.sbs&path=/balafp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...
 ss://c6db98c5-9959-425e-9340-300779fc4e4b@37.49.230.85:8443?alpn=h2&encryption=none&fp=chrome&security=tls&serviceName=fr5grpc&sni=fr5.sodahub.online&type=grpc#FR🇫🇷
 ss://c6db98c5-9959-425e-9340-300779fc4e4b@37.49.230.85:8443?sni=fr5.sodahub.online&alpn=h2&type=grpc&serviceName=fr5grpc&fp=chrome&security=tls#FR🇫🇷
 ss://c9f0224c-c509-427e-b314-cef6cab20646@52.47.86.31:12453/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&security=reality&pbk=7Bp5RgrAqaiXOsiKaWnu6uliLDG8Eey2gA0coU9oay0&sid=52f510cea0a0a5ef#-%3EFR%2B%28%40DeamNet_Proxy%29%20%287%29
@@ -169,6 +173,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638964214452380765.arak-blkaft-aaar.info:8880/?type=grpc&encryption=none&flow=#France%20
 ss://e2510a9d-4980-4fd8-aed5-0f4d55663317@ipx5.reallyclody.ir:2026?security=reality&encryption=none&pbk=Vx3rusy36I-sHQzZo45TztNmj4EoQCWGSmx5IWU6QU4&headerType=none&fp=qq&type=tcp&sni=www.icloud.com&sid=b7c285513e6ef482#REALITY|FR🇫🇷
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.145.160:22222?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20down
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.145.160:22223?#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%20%7C%20FRA%20%232
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.145.160:22223?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20112ms
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.145.160:22223?encryption=none&security=none&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20112ms
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.145.160:22224?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20down
@@ -177,10 +182,10 @@ ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.101.74:22223?encryption=none&sec
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.101.74:22224?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20down
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.125.186:22222?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20down
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.125.186:22224?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20down
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.117.74:22222?#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%20%7C%20FRA%20%233
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.117.74:22222?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20down
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.117.74:22223?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20down
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.117.74:22224?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20down
-ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.147.45:22222?#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...
 ss://e72b54df-3c45-4856-bcf9-bf3e1bf6ff5e@69.84.182.13:443/?type=ws&encryption=none&flow=&host=fr-1-fr-1.aiopen.sbs&path=%2Fkbjc%2Ffr1&security=tls&sni=fr-1-fr-1.aiopen.sbs&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2015
 ss://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?encryption=none&fp=&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&security=reality&sid=50ba05992b05c1c3&sni=www.cloudflare.com&type=tcp#REALITY|FR🇫🇷
 ss://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&encryption=none&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&headerType=none&type=tcp&sni=www.cloudflare.com&sid=50ba05992b05c1c3#REALITY|FR🇫🇷
@@ -261,7 +266,7 @@ trojan://humanity@104.18.152.73:443/?type=ws&host=www.ignitelimit.com&path=%2Fas
 trojan://humanity@104.18.152.77:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28143%29
 trojan://humanity@104.18.152.97:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2820%29
 trojan://humanity@104.18.8.83:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2840%29
-trojan://humanity@104.19.229.21:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-FR-...%20%238
+trojan://humanity@104.19.229.21:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-FR-...%20%236
 trojan://humanity@104.20.42.250:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=ios#%3E%3E%40configV2rayNG%3A%3AFR
 trojan://humanity@104.26.14.137:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#%3E%3E%40oneclickvpnkeys%3A%3AFR%20%2813%29
 trojan://humanity@141.101.90.101:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&allowInsecure=1&fp=ios#%3E%3E%40configV2rayNG%3A%3AFR%20%281%29
@@ -269,12 +274,10 @@ trojan://humanity@141.193.213.11:443/?type=ws&host=www.calmloud.com&path=%2Fassi
 trojan://humanity@141.193.213.21:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28116%29
 trojan://humanity@162.159.193.22:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28100%29
 trojan://humanity@165.215.250.14:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&alpn=http%2F1.1#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28122%29
-trojan://humanity@165.215.250.14:443?#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-FR-...%20%237
-trojan://humanity@165.215.250.14:443?allowInsecure=1&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-FR-...%20%239
+trojan://humanity@165.215.250.14:443?#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-FR-...%20%235
+trojan://humanity@165.215.250.14:443?allowInsecure=1&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-FR-...%20%237
 trojan://humanity@172.64.229.75:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28104%29
 trojan://humanity@172.67.155.199:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&fp=ios#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2866%29
-trojan://humanity@185.114.72.31:2053?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-FR-...%20%234
-trojan://humanity@185.220.100.168:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-FR-...%20%236
 trojan://humanity@185.255.179.166:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-FR-...
 trojan://humanity@188.114.97.3:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2848%29
 trojan://humanity@188.114.97.57:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28154%29
@@ -282,10 +285,10 @@ trojan://humanity@188.114.98.0:443/?type=ws&host=www.calmlunch.com&path=%2Fassig
 trojan://humanity@199.181.197.111:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1#%3E%3E%40ShadowsocksM%3A%3AFR
 trojan://humanity@199.181.197.228:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1#%3E%3E%40ShadowsocksM%3A%3AFR%20%283%29
 trojan://humanity@212.183.88.136:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28102%29
-trojan://humanity@212.183.88.136:443?sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-FR-...%20%2310
+trojan://humanity@212.183.88.136:443?sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-FR-...%20%238
 trojan://humanity@212.227.144.37:8443?allowInsecure=0&sni=www.calmlunch.com&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&type=ws&host=www.calmlunch.com&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-FR-...%20%232
 trojan://humanity@216.24.57.6:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2862%29
-trojan://humanity@45.130.125.160:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-FR-...%20%235
+trojan://humanity@45.130.125.160:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-FR-...%20%234
 trojan://humanity@45.130.125.69:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%3E%3E%40configV2rayNG%3A%3AFR%20%286%29
 trojan://humanity@45.130.125.76:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&alpn=http%2F1.1#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2830%29
 trojan://humanity@45.85.118.176:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1#-%3EFR%2B%28%40DeamNet_Proxy%29%20%284%29
@@ -325,7 +328,7 @@ vless://2463908b-9922-43d1-8186-a9d245790073@185.46.112.170:443?security=reality
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#FR🇫🇷
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&host=t.me%2Fv2line&type=ws#France%200VHcloud
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@ov-france2.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20OVH
-vless://2bdcf0ac-f84e-471f-98dc-a1807acab1cb@redcloudport-bidarbash.sbs:443?sni=redcloudport-bidarbash.sbs&type=ws&host=redcloudport-bidarbash.sbs&path=/zoodifp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...%20%232
+vless://2bdcf0ac-f84e-471f-98dc-a1807acab1cb@redcloudport-bidarbash.sbs:443?sni=redcloudport-bidarbash.sbs&type=ws&host=redcloudport-bidarbash.sbs&path=/zoodifp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...%20%231
 vless://347f6eda-d514-4756-a810-ddbe5ba114aa@51.44.49.36:443?security=reality&sni=anandtech.com&type=http&fp=chrome&pbk=xhUiZLkRCdO3b06Sfl4CMAkzwufpHbZcTYhLAA036R8#REALITY|FR🇫🇷
 vless://347f6eda-d514-4756-a810-ddbe5ba114aa@51.44.57.46:443?security=reality&sni=anandtech.com&type=http&fp=chrome&pbk=xhUiZLkRCdO3b06Sfl4CMAkzwufpHbZcTYhLAA036R8#REALITY|FR🇫🇷
 vless://391ff971-a901-415e-b0f1-e0c0047e7a24@194.33.34.167:443/?type=raw&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=enBIOTqlP6CHTvic3CLgpUd_AcJAAbAQIa-oFIk4dVU&sid=302e#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28139%29
@@ -333,6 +336,8 @@ vless://3e5da4f6-93c4-4701-911b-1a5091d2430f@213.199.39.156:30001/?type=ws&encry
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443/?type=tcp&encryption=none&flow=&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20%40v2ray_collector%20%231
 vless://42f4be04-31d7-477d-9549-c1f79c6b9ee0@51.38.32.227:2096?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&sid=42c0b628ba6a42a9&type=tcp&headerType=none#FR🇫🇷
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#REALITY|FR🇫🇷
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@139.100.226.187:8443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#%E6%B3%95%E5%9B%BD+V2CROSS.COM
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@178.104.16.207:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fp=chromefp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%20%7C%20FRA%20%231
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@38.54.59.70:443?security=tls&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2005
 vless://53821f3c-5b03-456a-89f3-f8379f130752@57.128.81.193:443/?type=raw&encryption=none&sni=www.samsung.com&security=reality&pbk=fXdtB8vImCUJMQBLcCNK7p1v3rVzx6HllaDLk8Vc4EU&sid=239dcd11#-%3EFR%2B%28%40DeamNet_Proxy%29%20%285%29
 vless://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=nMlxwhP34_5wFPscbso_hOfRDmsj9DonMpDSXUrnJR8&sid=ead3d6f82a9d#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2863%29
@@ -375,6 +380,7 @@ vless://75cc7568-abb0-46a8-88be-8137d3c647d4@152.228.139.33:51671?security=reali
 vless://7b4b7d4e-7a53-4c0c-bd8e-9f3b1b2c7f21@51.91.158.180:443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.speedtest.net&fp=firefox&insecure=1&allowInsecure=1&pbk=wwH_L9FmhJ7AyOBKm9J8YGKdVo1G-QlDEuw5-s3eGEM&sid=9a4c7d2f8e1b6a3c&flow=xtls-rprx-vision#REALITY|FR🇫🇷
 vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?allowinsecure=0&encryption=none&fp=chrome&mode=gun&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&security=reality&serviceName=grpc-common3&sid=52add08b86a5ccea&sni=www.nvidia.com&type=grpc#REALITY|FR🇫🇷
 vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?encryption=none&security=reality&sni=www.nvidia.com&fp=firefox&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&sid=52add08b86a5ccea&allowinsecure=0&type=grpc&mode=gun&serviceName=grpc-common3#REALITY|FR🇫🇷
+vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?sni=www.nvidia.com&type=grpc&serviceName=grpc-common3&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...%20%233
 vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?type=grpc&encryption=none&serviceName=grpc-common3&sni=www.nvidia.com&security=reality&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&sid=52add08b86a5ccea#REALITY|FR🇫🇷
 vless://8571cb82-5941-4841-9613-63beffa96480@vpnfastsoper.co99.win:1080?security=&encryption=none&headerType=none&type=tcp#FR🇫🇷
 vless://8571cb82-5941-4841-9613-63beffa96480@vpnfastsoper.co99.win:443?security=&encryption=none&headerType=none&type=tcp#FR🇫🇷
@@ -386,6 +392,7 @@ vless://9e6be4b8-2724-405b-83e7-5de5d220e79c@199.232.170.133:443/?type=ws&encryp
 vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&security=reality&sid=b390e0a721d242b0&sni=www.icloud.com&type=tcp#REALITY|FR🇫🇷
 vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#REALITY|FR🇫🇷
 vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#REALITY|FR🇫🇷
+vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?sni=www.icloud.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...%20%232
 vless://acd726d3-0128-44d8-a575-21013ff7740a@51.44.25.250:44520/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=MrLRcU_2S2CpUc7VT3ajIavX5NYUiQdP6J5QTDFNGFU&sid=8897c56a495b26cc#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2843%29
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20X
 vless://b30f3c95-104c-4c4b-92fe-d96602d61f3a@185.171.202.232:2096?security=reality&alpn=h2&encryption=none&pbk=hsndXIwexxE5l2h1DUNjc349cgNIL9g9e9jLN5YdAQo&headerType=none&fp=edge&type=tcp&sni=tgju.org&sid=d3669db1187035bc#REALITY|FR🇫🇷
@@ -405,11 +412,11 @@ vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.50:443?encryption=none&
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.60:443?encryption=none&type=xhttp&security=reality&path=%2F&host=panel.freesavesafe.com&sni=panel.freesavesafe.com&fp=firefox&insecure=1&allowInsecure=1&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb#REALITY|FR🇫🇷
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.70:443?encryption=none&type=xhttp&security=reality&path=%2F&host=panel.freesavesafe.com&sni=panel.freesavesafe.com&fp=firefox&insecure=1&allowInsecure=1&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb#REALITY|FR🇫🇷
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.90:443?encryption=none&type=xhttp&security=reality&path=%2F&host=panel.freesavesafe.com&sni=panel.freesavesafe.com&fp=firefox&insecure=1&allowInsecure=1&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb#REALITY|FR🇫🇷
-vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?sni=passport.yandex.ru&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...%20%233
+vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?sni=passport.yandex.ru&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...%20%234
 vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&type=tcp&sni=mother-earth.fyi&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2002
 vless://bf16ee0c-8b3c-41e4-ab3a-8b48033c404e@51.77.217.70:2053?encryption=none&fp=&pbk=g63cT3uI0Y5iUtj3m__RYz7nmR1eIK4AYikdnZCl63w&security=reality&sid=bfe58beb41f1d09f&sni=www.apple.com&type=tcp#REALITY|FR🇫🇷
-vless://bf16ee0c-8b3c-41e4-ab3a-8b48033c404e@51.77.217.70:2053?sni=www.apple.com&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...%20%234
-vless://c3571d81-38bd-44a8-9b75-5af8a125fc42@speedtest.org:8443?sni=pbsjv.megalionzone-vexina.sbs&alpn=http/1.1&type=ws&host=pbsjv.megalionzone-vexina.sbs&path=/balafp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...%20%231
+vless://bf16ee0c-8b3c-41e4-ab3a-8b48033c404e@51.77.217.70:2053?sni=www.apple.com&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...%20%235
+vless://c3571d81-38bd-44a8-9b75-5af8a125fc42@speedtest.org:8443?sni=pbsjv.megalionzone-vexina.sbs&alpn=http/1.1&type=ws&host=pbsjv.megalionzone-vexina.sbs&path=/balafp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...
 vless://c6db98c5-9959-425e-9340-300779fc4e4b@37.49.230.85:8443?alpn=h2&encryption=none&fp=chrome&security=tls&serviceName=fr5grpc&sni=fr5.sodahub.online&type=grpc#FR🇫🇷
 vless://c6db98c5-9959-425e-9340-300779fc4e4b@37.49.230.85:8443?sni=fr5.sodahub.online&alpn=h2&type=grpc&serviceName=fr5grpc&fp=chrome&security=tls#FR🇫🇷
 vless://c9f0224c-c509-427e-b314-cef6cab20646@52.47.86.31:12453/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&security=reality&pbk=7Bp5RgrAqaiXOsiKaWnu6uliLDG8Eey2gA0coU9oay0&sid=52f510cea0a0a5ef#-%3EFR%2B%28%40DeamNet_Proxy%29%20%287%29
@@ -425,6 +432,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638964214452380765.arak-blkaft-aaar.info:8880/?type=grpc&encryption=none&flow=#France%20
 vless://e2510a9d-4980-4fd8-aed5-0f4d55663317@ipx5.reallyclody.ir:2026?security=reality&encryption=none&pbk=Vx3rusy36I-sHQzZo45TztNmj4EoQCWGSmx5IWU6QU4&headerType=none&fp=qq&type=tcp&sni=www.icloud.com&sid=b7c285513e6ef482#REALITY|FR🇫🇷
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.145.160:22222?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20down
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.145.160:22223?#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%20%7C%20FRA%20%232
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.145.160:22223?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20112ms
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.145.160:22223?encryption=none&security=none&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20112ms
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.145.160:22224?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20down
@@ -433,10 +441,10 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.101.74:22223?encryption=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.101.74:22224?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20down
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.125.186:22222?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20down
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.125.186:22224?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20down
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.117.74:22222?#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%20%7C%20FRA%20%233
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.117.74:22222?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20down
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.117.74:22223?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20down
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.117.74:22224?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20down
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.147.45:22222?#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...
 vless://e72b54df-3c45-4856-bcf9-bf3e1bf6ff5e@69.84.182.13:443/?type=ws&encryption=none&flow=&host=fr-1-fr-1.aiopen.sbs&path=%2Fkbjc%2Ffr1&security=tls&sni=fr-1-fr-1.aiopen.sbs&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2015
 vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?encryption=none&fp=&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&security=reality&sid=50ba05992b05c1c3&sni=www.cloudflare.com&type=tcp#REALITY|FR🇫🇷
 vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&encryption=none&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&headerType=none&type=tcp&sni=www.cloudflare.com&sid=50ba05992b05c1c3#REALITY|FR🇫🇷
