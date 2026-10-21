@@ -190,7 +190,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.157:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443#Channel%20id%3A%20%40ConfigV2RayNG%20%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#Channel%20id%3A%20%40ConfigV2RayNG%20%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.170:443#Channel%20id%3A%20%40ConfigV2RayNG%20%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.171:443#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:8080#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:8080#Channel%20id%3A%20%40ConfigV2RayNG%20%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080#Channel%20id%3A%20%40ConfigV2RayNG%20%F0%9F%87%B3%F0%9F%87%B1
@@ -479,6 +478,8 @@ ss://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&pbk=
 ss://f774f037-6320-42e3-a97b-6d4a1f018dd5@2.28.142.170:443?encryption=mlkem768x25519plus.native.0rtt.Y0-j5e-CpehUKzhEeat1dTYevroKyHV4g9HML3ujmlQ&host=germanytest.tulnaro.ir&mode=auto&path=%2F&pbk=IqFTx4k5VQydmffvavaOHDXBtdgDxX26A6NtsVvDfhw&security=reality&sid=d485c3d5248d6b51&sni=germanytest.tulnaro.ir&type=xhttp#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 ss://f8d52ece-fad4-478d-875d-df6eed3befa7@31.56.186.115:443?security=reality&encryption=none&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fi-s-1.pythonmakemigreat.wiki&sid=78f97d82e16aaad6#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 ss://f9cb2991-ad4a-4a54-aeb3-55d56ac02a8e@31.76.68.245:443?security=reality&encryption=none&pbk=INbgA5nXpjZ2P1f6lY7sMBlDM3ZMV8RX3cw-RRGM0mM&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=fra01.deflink.net&sid=f22e97cfd4d9#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
+trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.18.32.87:443?path=%2Ftrojan&security=tls&host=id1.nathaya.web.id&type=ws&sni=id1.nathaya.web.id#ID🇮🇩
+trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@188.114.97.6:443?path=%2Ftrojan&security=tls&host=id1.nathaya.web.id&type=ws&sni=id1.nathaya.web.id#ID🇮🇩
 trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-41.216.177.41-4485
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de10.dedushka.top:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=de10.dedushka.top#Channel%20id%3A%20%40ConfigV2RayNG%20%F0%9F%87%A9%F0%9F%87%AA
 trojan://8JHppSLSIBA0PK,Nx@104.21.41.49:2083?ed=2560&eh=Sec-WebSocket-Protocol&host=8tsmm6nspocz3ha9.khr2dz0ola61ydpze6zvu7jhcd4.workers.dev&path=%2Ftr%2FfsvjN2wOC2fuDFrdawJtWADScC&sni=8tsmm6NspoCZ3HA9.KHr2DZ0OLa61yDPZE6ZVU7Jhcd4.WORKErS.dEV&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
