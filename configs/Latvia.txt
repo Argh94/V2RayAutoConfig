@@ -3,7 +3,6 @@ ss://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?type=tcp&encryption
 ss://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752/?type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B1%F0%9F%87%BB%C2%AE%EF%B8%8FLatvia%C2%A9%EF%B8%8FRiga%F0%9F%85%BF%EF%B8%8Fping%3A63.71ms
 ss://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&security=reality&sid=33acba1b&sni=www.apple.com&type=tcp#REALITY|LV🇱🇻
 ss://6338c01a-310e-42c3-bf4f-2a20e161054b@185.220.223.25:443?type=tcp&security=reality&path=%2F&sni=lv.aiage.work&fp=firefox&flow=xtls-rprx-vision&pbk=ds-U8G06uZvV9qFhAeO16dwS9Nkcw_coYr_4puEUGFg&sid=3c6afdc4124d0560#REALITY|LV🇱🇻
-ss://6338c01a-310e-42c3-bf4f-2a20e161054b@lv.aiage.work:443?sni=lv.aiage.work&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B1%F0%9F%87%BB%5Bwww.v2nodes.com%5D%20vless-LV-1...%20%231
 ss://6bb90b5a-db5b-401d-afa9-49667e75de1e@77.73.238.211:16109?security=reality&encryption=none&pbk=SaMw05aDLQh_Bb55XStVfvcBinGmCmCrZGqg5yI6s2s&host=%C3%97http&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=46ef6b9bc8#Latvia%20RU%20VDS
 ss://6bb90b5a-db5b-401d-afa9-49667e75de1e@77.73.238.211:16109?security=reality&encryption=none&pbk=SaMw05aDLQh_Bb55XStVfvcBinGmCmCrZGqg5yI6s2s&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=46ef6b9bc8#Latvia%20RU%20Vds
 ss://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2096?path=/&security=&encryption=none&host=laoye.in-gect.fun&type=ws#Latvia
@@ -36,7 +35,6 @@ trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?allowInsecure=1&s
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?allowInsecure=1&sni=lv1.dedushka.top#%5Bwww.v2nodes.com%5D%20trojan-LV-...%206
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?allowInsecure=1&sni=lv1.dedushka.top#%F0%9F%87%B1%F0%9F%87%BB%5Bwww.v2nodes.com%5D%20trojan-LV-...
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?allowInsecure=1&sni=lv1.dedushka.top&alpn=http%2F1.1#LV🇱🇻
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?allowInsecure=1&sni=lv1.dedushka.top&alpn=http/1.1#🇱🇻[openproxylist.com]trojan-LV
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?alpn=http%2F1.1&fp=firefox#LV🇱🇻
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top#%F0%9F%87%B1%F0%9F%87%BBLV-94.140.112.22-0179
 trojan://humanity@185.22.172.249:443?security=tls#%F0%9F%87%B1%F0%9F%87%BBLV-185.22.172.249-0518
@@ -45,7 +43,6 @@ vless://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?type=tcp&encrypt
 vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752/?type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B1%F0%9F%87%BB%C2%AE%EF%B8%8FLatvia%C2%A9%EF%B8%8FRiga%F0%9F%85%BF%EF%B8%8Fping%3A63.71ms
 vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&security=reality&sid=33acba1b&sni=www.apple.com&type=tcp#REALITY|LV🇱🇻
 vless://6338c01a-310e-42c3-bf4f-2a20e161054b@185.220.223.25:443?type=tcp&security=reality&path=%2F&sni=lv.aiage.work&fp=firefox&flow=xtls-rprx-vision&pbk=ds-U8G06uZvV9qFhAeO16dwS9Nkcw_coYr_4puEUGFg&sid=3c6afdc4124d0560#REALITY|LV🇱🇻
-vless://6338c01a-310e-42c3-bf4f-2a20e161054b@lv.aiage.work:443?sni=lv.aiage.work&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B1%F0%9F%87%BB%5Bwww.v2nodes.com%5D%20vless-LV-1...%20%231
 vless://6bb90b5a-db5b-401d-afa9-49667e75de1e@77.73.238.211:16109?security=reality&encryption=none&pbk=SaMw05aDLQh_Bb55XStVfvcBinGmCmCrZGqg5yI6s2s&host=%C3%97http&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=46ef6b9bc8#Latvia%20RU%20VDS
 vless://6bb90b5a-db5b-401d-afa9-49667e75de1e@77.73.238.211:16109?security=reality&encryption=none&pbk=SaMw05aDLQh_Bb55XStVfvcBinGmCmCrZGqg5yI6s2s&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=46ef6b9bc8#Latvia%20RU%20Vds
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2096?path=/&security=&encryption=none&host=laoye.in-gect.fun&type=ws#Latvia
