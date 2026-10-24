@@ -15,8 +15,7 @@ ss://fd6fb48f-b324-4a82-9dcd-f8bdb1bd5301@45.130.125.114:443/?type=ws&encryption
 ss://vpn_connects@clfconnect.pishipishi.pro:8880/?type=tcp&encryption=none&flow=#%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20%40easy_free_vpn%20%231
 trojan://5a2c16f9@156.230.12.71:443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%B8%F0%9F%87%A8SC-156.230.12.71-1771
 trojan://af4b064a9c39472fb34ad8b113acdc6b@156.244.6.115:443/?type=tcp&security=tls&sni=156.244.6.115#%F0%9F%87%B8%F0%9F%87%A8SC-156.244.6.115-1798
-trojan://humanity@154.81.141.42:443?cs=semi-python&path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇸🇨SC-🚀@VPNine1
-trojan://humanity@45.128.76.242:443?cs=semi-python&path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇸🇨SC-🚀@VPNine1
+trojan://mitivpn@45.128.76.242:443?cs=semi-python&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=de.mitivpn.in.net&fp=unsafe&type=ws&allowInsecure=0&sni=de.mitivpn.in.net#🇸🇨SC-🚀@VPNine1
 vless://2dac53cd-d5ce-4d00-9a3f-f595765bc466@45.196.169.53:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=chrome&security=reality&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=4ffc99daad0f261f#%F0%9F%87%B8%F0%9F%87%A8SC-%F0%9F%9A%80%40VPNine1%20%282%29
 vless://49e4b91a-bd15-4e54-9b51-41a3380afb51@z5n1.vpnpolar.online:443?host=z5n1.vpnpolar.online&path=%2Fbeeline&security=tls&sni=z5n1.vpnpolar.online&type=ws#SC🇸🇨
 vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@45.145.56.163:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=de2.spectrum.vu&pbk=Vci2ab6lM0ezoLBj2LgE-ynvakjbWOqUUSZmk5vcNjE&sid=44d44d1c625a13aa&type=tcp&headerType=none#REALITY|SC🇸🇨
