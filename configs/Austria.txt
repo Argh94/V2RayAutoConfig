@@ -5,8 +5,8 @@ ss://416b38f5-b4a2-4014-a169-f1d5dc3470c6@141.227.165.196:443/?type=tcp&encrypti
 ss://495c7195-85b8-498a-bf20-2ea9ce9175b5@130.78.185.4:443?security=tls&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%A5%A5%E5%9C%B0%E5%88%A9%2003
 ss://8007dda2-aed2-4514-8299-6e3edbdb015b@66.90.106.228:443?security=reality&encryption=none&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=au1.wolffast.net&sid=8718c58d3d51db59#🆔lrnbymaa%20🔒%20VL-TCP-%20🇦🇹%20AT%20138ms
 ss://98de0f0d-faec-43e1-ab40-a3bd6d91ceb8@132.243.254.58:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.google.com&fp=firefox&security=reality&pbk=BR69ZK8WI9lWKssofXxe45kViW7TcBoIPKv5aZI4uxE&sid=abcd1234#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A6%F0%9F%87%B9%C2%AE%EF%B8%8FAustria%C2%A9%EF%B8%8FVienna%F0%9F%85%BF%EF%B8%8Fping%3A35.47ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NWRyQUw3UGZDSXdRMnljVXVvRHNWMkxz@212.113.106.243:13022#%F0%9F%87%A6%F0%9F%87%B9AT-212.113.106.243-7175
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMnp4WFBld2xWM0JsZnFxWWlTdGh2dExj@212.113.106.243:12949#%F0%9F%87%A6%F0%9F%87%B9AT-212.113.106.243-7176
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NWRyQUw3UGZDSXdRMnljVXVvRHNWMkxz@212.113.106.243:13022#%F0%9F%87%A6%F0%9F%87%B9AT-212.113.106.243-7209
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMnp4WFBld2xWM0JsZnFxWWlTdGh2dExj@212.113.106.243:12949#%F0%9F%87%A6%F0%9F%87%B9AT-212.113.106.243-7210
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.180.197.41:8080#%F0%9F%87%A6%F0%9F%87%B9AT-38.180.197.41-0215
 ss://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.77:443/?type=ws&encryption=none&flow=&path=%2Fblue&security=tls&sni=ck.ylks.xyz#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A6%F0%9F%87%B9Austria
 ss://cf30deec-917f-4b1a-bb01-c48527cbc83a@at.fast-cone.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=at.fast-cone.com&fp=edge&security=reality&pbk=Lq8lVW-_htJisywo8x4xbzaZGI5a7UZyvLjChObY5WQ&sid=80#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A6%F0%9F%87%B9%C2%AE%EF%B8%8FAustria%C2%A9%EF%B8%8FVienna%F0%9F%85%BF%EF%B8%8Fping%3A61.02ms
@@ -16,7 +16,7 @@ trojan://600421cf-11d7-429f-a65b-c30397f1bc03@86.106.119.23:443?security=tls&ins
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.156:443/?type=ws&path=%2Fproxyip%3D212.183.88.156%3A443&security=tls&sni=icecream.955850.xyz#%F0%9F%87%A6%F0%9F%87%B9AT-212.183.88.156-0633
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.172:443/?type=tcp&security=tls&sni=icecream.955850.xyz#%F0%9F%87%A6%F0%9F%87%B9AT-212.183.88.172-0872
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.194:443/?type=ws&path=%2Fproxyip%3D212.183.88.194%3A443&security=tls&sni=icecream.955850.xyz#%F0%9F%87%A6%F0%9F%87%B9AT-212.183.88.194-0626
-trojan://humanity@212.183.88.136:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#%F0%9F%87%A6%F0%9F%87%B9AT-212.183.88.136-0451
+trojan://humanity@212.183.88.136:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#%F0%9F%87%A6%F0%9F%87%B9AT-212.183.88.136-0460
 trojan://slch2024@212.183.88.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%A6%F0%9F%87%B9AT-212.183.88.195-0594
 trojan://slch2024@212.183.88.87:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%A6%F0%9F%87%B9AT-212.183.88.87-0703
 vless://057b649c-54b1-4f68-86b1-90381637a2cf@152.53.33.43:443/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http#%3E%3E%40configV2rayNG%3A%3AAT
