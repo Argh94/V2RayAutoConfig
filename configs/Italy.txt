@@ -73,7 +73,6 @@ ss://d342d11e-d224-4463-b982-532309285094@cf.090227.xyz:443?&security=tls&fp=chr
 ss://d342d11e-d224-4463-b982-532309285094@cf.090227.xyz:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2Ffp%3Dchrome#%5Bwww.v2nodes.com%5D%20vless-IT-1...%20%234%202
 ss://d342d11e-d224-4463-b982-532309285094@cf.090227.xyz:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2Ffp%3Dchrome#%5Bwww.v2nodes.com%5D%20vless-IT-1...%20%234%203
 ss://d342d11e-d224-4463-b982-532309285094@cf.090227.xyz:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B9%5Bwww.v2nodes.com%5D%20vless-IT-1...%20%233
-ss://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?sni=www.apple.com&fp=firefox&security=tls#%F0%9F%87%AE%F0%9F%87%B9%5Bwww.v2nodes.com%5D%20vless-IT-1...%20%232
 ss://d5e5f5a1-0f23-4c49-af9f-4be445bf9d8e@82.118.16.189:443?allowInsecure=1&sni=www.cloudflare.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B9%5Bwww.v2nodes.com%5D%20vless-IT-1...
 ss://dc2259c4-388e-4285-ba18-df619b6672b6@82.118.16.187:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=R5ycsjJ-v024902dMSqTsSdqxUwCFEXMebdBEWFt9VU&security=reality&sid=cd6065902eea7a02&sni=www.cloudflare.com&type=tcp#REALITY|IT🇮🇹
 ss://dc2259c4-388e-4285-ba18-df619b6672b6@82.118.16.187:443?sni=www.cloudflare.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B9%5Bwww.v2nodes.com%5D%20vless-IT-1...%20%231
@@ -110,7 +109,6 @@ vless://d342d11e-d224-4463-b982-532309285094@cf.090227.xyz:443?&security=tls&fp=
 vless://d342d11e-d224-4463-b982-532309285094@cf.090227.xyz:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2Ffp%3Dchrome#%5Bwww.v2nodes.com%5D%20vless-IT-1...%20%234%202
 vless://d342d11e-d224-4463-b982-532309285094@cf.090227.xyz:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2Ffp%3Dchrome#%5Bwww.v2nodes.com%5D%20vless-IT-1...%20%234%203
 vless://d342d11e-d224-4463-b982-532309285094@cf.090227.xyz:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B9%5Bwww.v2nodes.com%5D%20vless-IT-1...%20%233
-vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?sni=www.apple.com&fp=firefox&security=tls#%F0%9F%87%AE%F0%9F%87%B9%5Bwww.v2nodes.com%5D%20vless-IT-1...%20%232
 vless://d5e5f5a1-0f23-4c49-af9f-4be445bf9d8e@82.118.16.189:443?allowInsecure=1&sni=www.cloudflare.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B9%5Bwww.v2nodes.com%5D%20vless-IT-1...
 vless://dc2259c4-388e-4285-ba18-df619b6672b6@82.118.16.187:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=R5ycsjJ-v024902dMSqTsSdqxUwCFEXMebdBEWFt9VU&security=reality&sid=cd6065902eea7a02&sni=www.cloudflare.com&type=tcp#REALITY|IT🇮🇹
 vless://dc2259c4-388e-4285-ba18-df619b6672b6@82.118.16.187:443?sni=www.cloudflare.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B9%5Bwww.v2nodes.com%5D%20vless-IT-1...%20%231
