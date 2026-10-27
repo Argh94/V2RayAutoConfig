@@ -6,7 +6,6 @@ ss://4350213a-b4e7-262a-0bd7-bd16957cf71a@170.168.97.8:8443?encryption=none&secu
 ss://4350213a-b4e7-262a-0bd7-bd16957cf71a@170.168.97.8:8443?mode=gun&security=reality&encryption=none&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&fp=chrome&type=grpc&serviceName=TunService&sni=www.hp.com#REALITY|ES🇪🇸
 ss://4b7d30e1-b048-4832-83ef-cf687c595cf4@213.182.201.18:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#ES🇪🇸
 ss://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@83.147.18.75:443?security=reality&encryption=none&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=7f1e29593aa94ad1#REALITY|ES🇪🇸
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@185.18.250.50:8880?type=ws&host=vms.lifetime47.workers.dev&path=/?ed=2560#%F0%9F%87%AA%F0%9F%87%B8%20%E8%A5%BF%E7%8F%AD%E7%89%99%20%7C%20ESP%20%231
 ss://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@46.28.71.135:443?security=tls&encryption=none&type=grpc&serviceName=v1.segment.UWfv4bkH4bz1Hs3u.ts&sni=l97bke0sf1.hat.onl#ES🇪🇸
 ss://897d47f8-4dd5-42a1-bcd0-bef19caff55a@193.238.154.78:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=4eE3K8Eac-ELze-LwRyJolqmhPqgCVqwQM1DKu6i0Ts&security=reality&sid=e93d46ee3735069e&sni=gateway.icloud.com&type=tcp#REALITY|ES🇪🇸
 ss://897d47f8-4dd5-42a1-bcd0-bef19caff55a@193.238.154.78:443?sni=gateway.icloud.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AA%F0%9F%87%B8%5Bwww.v2nodes.com%5D%20vless-ES-1...%20%232
@@ -36,9 +35,9 @@ ss://a2415a12-3f92-4636-9823-9828d3ceb818@206.251.49.44:443/?type=tcp&encryption
 ss://b38712cb-e4aa-4462-b7e3-df20508d2b39@213.152.165.203:2095?sni=www.apple.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AA%F0%9F%87%B8%5Bwww.v2nodes.com%5D%20vless-ES-1...
 ss://ead0dd61-d398-40ad-80d6-a0e1e516d7d3@212.227.235.66:2053?sni=www.apple.com&fp=firefox&security=tls#%F0%9F%87%AA%F0%9F%87%B8%5Bwww.v2nodes.com%5D%20vless-ES-1...%20%233
 ss://f8b74d3c-4c21-4667-a3e7-412d8a5598f6@213.182.201.15:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#ES🇪🇸
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.discovergreatjobsandadvanceyourcareer.com#🇪🇸ES-🚀@VPNine1
 trojan://be94cd60-8e91-4cd6-9c53-26ee1314edfd@178.33.161.196:2053/?type=ws&path=%2FFree-VPN-CF-Geo-Project%2F178.33.161.196%3D2053&security=tls&sni=joss.gpj1.web.id#%F0%9F%87%AA%F0%9F%87%B8ES-178.33.161.196-1436
 trojan://humanity@185.114.72.31:2053?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%87%AA%F0%9F%87%B8ES-185.114.72.31-0486
+trojan://humanity@212.227.90.142:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇪🇸ES-🚀@VPNine1
 trojan://rYuChHcwQZskq9E0zdoR@103.45.245.208:2053/?type=tcp&security=tls&sni=vpn5.rnmcnm.com#%F0%9F%87%AA%F0%9F%87%B8ES-103.45.245.208-0772
 vless://12c53e32-e589-47d6-b857-e4132294f767@46.28.71.247:443?sni=www.cloudflare.com&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%AA%F0%9F%87%B8%5Bwww.v2nodes.com%5D%20vless-ES-1...%20%231
 vless://1e4668ca-6526-84ac-2a53-28bbc209da13@170.168.97.6:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=xhttp&sni=download.nvidia.com#REALITY|ES🇪🇸
@@ -48,7 +47,6 @@ vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@170.168.97.8:8443?encryption=none&s
 vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@170.168.97.8:8443?mode=gun&security=reality&encryption=none&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&fp=chrome&type=grpc&serviceName=TunService&sni=www.hp.com#REALITY|ES🇪🇸
 vless://4b7d30e1-b048-4832-83ef-cf687c595cf4@213.182.201.18:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#ES🇪🇸
 vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@83.147.18.75:443?security=reality&encryption=none&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=7f1e29593aa94ad1#REALITY|ES🇪🇸
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.18.250.50:8880?type=ws&host=vms.lifetime47.workers.dev&path=/?ed=2560#%F0%9F%87%AA%F0%9F%87%B8%20%E8%A5%BF%E7%8F%AD%E7%89%99%20%7C%20ESP%20%231
 vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@46.28.71.135:443?security=tls&encryption=none&type=grpc&serviceName=v1.segment.UWfv4bkH4bz1Hs3u.ts&sni=l97bke0sf1.hat.onl#ES🇪🇸
 vless://897d47f8-4dd5-42a1-bcd0-bef19caff55a@193.238.154.78:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=4eE3K8Eac-ELze-LwRyJolqmhPqgCVqwQM1DKu6i0Ts&security=reality&sid=e93d46ee3735069e&sni=gateway.icloud.com&type=tcp#REALITY|ES🇪🇸
 vless://897d47f8-4dd5-42a1-bcd0-bef19caff55a@193.238.154.78:443?sni=gateway.icloud.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AA%F0%9F%87%B8%5Bwww.v2nodes.com%5D%20vless-ES-1...%20%232
