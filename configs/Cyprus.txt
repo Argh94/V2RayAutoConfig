@@ -16,7 +16,6 @@ ss://dbf403f4-b871-4446-8712-675562dbbb7b@195.85.59.161:2095/?type=ws&encryption
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880/?type=tcp&encryption=none&flow=#%F0%9F%87%A8%F0%9F%87%BE%20CY%20%7C%20VLESS%20%7C%20%40v2ray_collector%20%231
 ss://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#REALITY|CY🇨🇾
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443?security=tls#%F0%9F%87%A8%F0%9F%87%BECY-45.82.253.234-3415
-trojan://Pass-Client-1@171.22.119.74:8446?security=tls&allowInsecure=1&type=grpc&serviceName=grpc-video-call#🇨🇾CY-🚀@VPNine1
 trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.82.253.237:28443?security=tls#%F0%9F%87%A8%F0%9F%87%BECY-45.82.253.237-3456
 vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#Cyprus%20WorkTitans
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#Cyprus%20Dedipath
