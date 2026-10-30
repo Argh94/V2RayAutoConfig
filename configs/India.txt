@@ -5,8 +5,8 @@ ss://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?#%F0%9F%87%AE%F0%9F
 ss://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?&security=tls&fp=chrome&sni=app-6ada5023.deploy.meerasolution.com&type=ws&headerType=none&host=app-6ada5023.deploy.meerasolution.com&path=%2Fws%2F16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88#_%E5%8D%B0%E5%BA%A6%20%285%29
 ss://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?sni=www.apple.com&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%233
 ss://295009c6-5a47-4f77-b9ac-9be24a61da48@sinavm.soft10.ir:2096?sni=sinavm.soft10.ir&alpn=http/1.1&type=ws&host=sinavm.soft10.ir&path=/SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVMfp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%231
+ss://405b964e-a2d2-454f-aaaa-711cc218897c@5.253.28.240:40443?sni=deepl.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN
 ss://58c9cbd0-7f3c-4b75-ad46-6b5f1c5d9d18@in.direct.aabbccdde.org:81/?type=tcp&encryption=none&flow=#%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20VLESS%20%7C%20%40kafing_2%20%231
-ss://5e679ccd-1586-4d5f-b87b-48251046cad8@hydra.yokkastars.com:2443?#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN
 ss://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?&security=false&fp=chrome&type=ws&headerType=none&host=13.140.56.100&path=%2Fvless#%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%231%202
 ss://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?&security=false&fp=chrome&type=ws&headerType=none&host=13.140.56.100&path=%2Fvless#%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%231%203
 ss://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?&security=false&fp=chrome&type=ws&headerType=none&host=13.140.56.100&path=%2Fvless#%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%231%204
@@ -44,6 +44,7 @@ trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?allowInsecure=1&sni=in002.z
 trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?allowInsecure=1&sni=in002.zestapp778.com#%E5%8D%B0%E5%BA%A6%20%7C%20IND%20%231%202
 trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?allowInsecure=1&sni=in002.zestapp778.com#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20trojan-IN-...
 trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?allowInsecure=1&sni=in002.zestapp778.com#_%E5%8D%B0%E5%BA%A6
+trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?allowInsecure=1&sni=in002.zestapp778.com#🇮🇳[openproxylist.com]trojan-IN
 trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?security=tls&sni=in002.zestapp778.com#%F0%9F%87%AE%F0%9F%87%B3IN-139.84.210.39-0530
 trojan://e05c749b-7c6b-41b8-9c71-9dcf685edf4a@152.67.162.166:443?security=tls#%F0%9F%87%AE%F0%9F%87%B3IN-152.67.162.166-3770
 trojan://ttfang@20.235.105.146:443/?type=ws&path=%2F&security=tls&sni=ttfang.fange.me#%F0%9F%87%AE%F0%9F%87%B3IN-20.235.105.146-0711
@@ -54,8 +55,8 @@ vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?#%F0%9F%87%AE%F0
 vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?&security=tls&fp=chrome&sni=app-6ada5023.deploy.meerasolution.com&type=ws&headerType=none&host=app-6ada5023.deploy.meerasolution.com&path=%2Fws%2F16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88#_%E5%8D%B0%E5%BA%A6%20%285%29
 vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?sni=www.apple.com&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%233
 vless://295009c6-5a47-4f77-b9ac-9be24a61da48@sinavm.soft10.ir:2096?sni=sinavm.soft10.ir&alpn=http/1.1&type=ws&host=sinavm.soft10.ir&path=/SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVM-SiNAVMfp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%231
+vless://405b964e-a2d2-454f-aaaa-711cc218897c@5.253.28.240:40443?sni=deepl.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN
 vless://58c9cbd0-7f3c-4b75-ad46-6b5f1c5d9d18@in.direct.aabbccdde.org:81/?type=tcp&encryption=none&flow=#%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20VLESS%20%7C%20%40kafing_2%20%231
-vless://5e679ccd-1586-4d5f-b87b-48251046cad8@hydra.yokkastars.com:2443?#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN
 vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?&security=false&fp=chrome&type=ws&headerType=none&host=13.140.56.100&path=%2Fvless#%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%231%202
 vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?&security=false&fp=chrome&type=ws&headerType=none&host=13.140.56.100&path=%2Fvless#%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%231%203
 vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?&security=false&fp=chrome&type=ws&headerType=none&host=13.140.56.100&path=%2Fvless#%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%231%204
