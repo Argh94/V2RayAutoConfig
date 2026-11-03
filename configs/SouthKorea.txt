@@ -1,8 +1,9 @@
+hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@54.180.135.1:443?insecure=1&sni=www.bing.com#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%20%7C%20KOR%20%231
 ss://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?&security=false&fp=chrome&type=ws&headerType=none&host=152.69.226.63&path=%2F#%5Bwww.v2nodes.com%5D%20vless-KR-1...%202
 ss://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?&security=false&fp=chrome&type=ws&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-KR-1...
 ss://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?&security=false&fp=chrome&type=ws&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-KR-1...%203
 ss://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?&security=false&fp=chrome&type=ws&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-KR-1...%204
-ss://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?type=ws&path=/#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...
+ss://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?sni=152.69.226.63&type=ws&path=/#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...
 ss://319d5ffb-57e8-4bbd-ac0c-5d55d0c253de@47.80.19.173:2053?sni=gateway.icloud.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...%20%231
 ss://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?sni=www.apple.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...%20%233
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM=@3.34.200.45:8443#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.200.45-0637
@@ -92,7 +93,7 @@ vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?&security=false
 vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?&security=false&fp=chrome&type=ws&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-KR-1...
 vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?&security=false&fp=chrome&type=ws&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-KR-1...%203
 vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?&security=false&fp=chrome&type=ws&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-KR-1...%204
-vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?type=ws&path=/#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...
+vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?sni=152.69.226.63&type=ws&path=/#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...
 vless://319d5ffb-57e8-4bbd-ac0c-5d55d0c253de@47.80.19.173:2053?sni=gateway.icloud.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...%20%231
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?sni=www.apple.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...%20%233
 vless://a2de9567-9646-45a9-a410-7303a43bdb6c@151.245.106.49:2053?sni=www.cloudflare.com&fp=firefox&security=tls#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...%20%232
