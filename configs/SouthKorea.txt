@@ -1,8 +1,9 @@
+hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@54.180.135.1:443?insecure=1&sni=www.bing.com#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%20%7C%20KOR%20%231
 ss://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?&security=false&fp=chrome&type=ws&headerType=none&host=152.69.226.63&path=%2F#%5Bwww.v2nodes.com%5D%20vless-KR-1...%202
 ss://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?&security=false&fp=chrome&type=ws&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-KR-1...
 ss://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?&security=false&fp=chrome&type=ws&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-KR-1...%203
 ss://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?&security=false&fp=chrome&type=ws&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-KR-1...%204
-ss://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?type=ws&path=/#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...
+ss://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?sni=152.69.226.63&type=ws&path=/#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...
 ss://319d5ffb-57e8-4bbd-ac0c-5d55d0c253de@47.80.19.173:2053?sni=gateway.icloud.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...%20%231
 ss://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?sni=www.apple.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...%20%233
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM=@3.34.200.45:8443#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.200.45-0637
@@ -92,7 +93,7 @@ vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?&security=false
 vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?&security=false&fp=chrome&type=ws&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-KR-1...
 vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?&security=false&fp=chrome&type=ws&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-KR-1...%203
 vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?&security=false&fp=chrome&type=ws&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-KR-1...%204
-vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?type=ws&path=/#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...
+vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?sni=152.69.226.63&type=ws&path=/#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...
 vless://319d5ffb-57e8-4bbd-ac0c-5d55d0c253de@47.80.19.173:2053?sni=gateway.icloud.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...%20%231
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?sni=www.apple.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...%20%233
 vless://a2de9567-9646-45a9-a410-7303a43bdb6c@151.245.106.49:2053?sni=www.cloudflare.com&fp=firefox&security=tls#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...%20%232
@@ -149,6 +150,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiS1Ig8J+HsPCfh7cgfCBAUmF5ZGlrYWx4IHwgQTk5RDczIiwiYWRk
 vmess://eyJ2IjoiMiIsInBzIjoiS1Ig8J+HsPCfh7cgfCBAUmF5ZGlrYWx4IHwgQzFCQkY3IiwiYWRkIjoiMTMyLjE0NS44MC4yMzAiLCJwb3J0IjoiODAiLCJpZCI6IjUxNTU4NjBlLWQwN2QtNDZjMy05MTI4LTNhZmJkODQ2MjZjNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsImhvc3QiOiJudWxsIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiS1Ig8J+HsPCfh7cgfCBAUmF5ZGlrYWx4IHwgRDUxOEYxIiwiYWRkIjoiMTMyLjE0NS44MC4yMzAiLCJwb3J0IjoiODAiLCJpZCI6IjUxNTU4NjBlLWQwN2QtNDZjMy05MTI4LTNhZmJkODQ2MjZjNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwidGxzIjoiIiwic25pIjoia3IwMi5hMGEueHl6IiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiS1Ig8J+HsPCfh7cgfCBAUmF5ZGlrYWx4IHwgRTlGOTdBIiwiYWRkIjoiMTQwLjIzOC4yLjI1MCIsInBvcnQiOiI0NDMiLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoibm9uZSIsInR5cGUiOiIiLCJ0bHMiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1LUiIsImFkZCI6IjEyOS4xNTQuNjEuMTk2IiwicG9ydCI6IjgwMCIsImlkIjoiYTkxNWIxZDYtY2YyOC00ZGM4LWU0YjQtZTA5YzQ4YzM3ZWMwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 vmess://eyJhZGQiOiI0My4xNTUuMTk5LjIyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjM3MjJhZDE2LWYzZTEtNDQwNi1iMDRhLTkyOWI1MjlkOGUwZCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiODAiLCJwcyI6IktSIPCfh7Dwn4e3IHwgQFJheWRpa2FseCB8IDVEMjYwRCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIiwidmNuIjoiIn0=
 vmess://eyJhZGQiOiIxNDYuNTYuMTEyLjExMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlN2MzMDJmMy05MGQ2LTQyZGQtOWQ3ZC05NGEzNjgzYTM3MDciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6Ijg4ODgiLCJwcyI6IktSIPCfh7Dwn4e3IHwgQFJheWRpa2FseCB8IEVENTM0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
 vmess://eyJhZGQiOiIxNTIuNjcuMjE4LjM4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIxNTIuNjcuMjE4LjM4IiwiaWQiOiJiNWU5NDgwYS1iN2FhLTQwYTQtZjlhNy01Mjk5YjVlMzYzYjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HsPCfh7dLUi0xNTIuNjcuMjE4LjM4LTAxNDkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
