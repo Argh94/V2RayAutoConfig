@@ -10,7 +10,7 @@ ss://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?&security=false&fp
 ss://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?&security=false&fp=chrome&type=ws&headerType=none&host=13.140.56.100&path=%2Fvless#%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%233%203
 ss://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?&security=false&fp=chrome&type=ws&headerType=none&host=13.140.56.100&path=%2Fvless#%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%233%204
 ss://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?fp=chrome&path=%2Fvless&security=false&type=ws#IN🇮🇳
-ss://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?sni=13.140.56.100&type=ws&host=13.140.56.100&path=/vless#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%233
+ss://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?type=ws&host=13.140.56.100&path=/vless#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%233
 ss://6ae44ad9-c2cb-4bdf-8e48-6c01fa646372@45.89.106.101:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&fp=firefox&security=reality&pbk=f6MOnGRTqdns7Lut75DSrnFZeiiZ4N04gnj5m-l7KnM&sid=54ce#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AE%F0%9F%87%B3%C2%AE%EF%B8%8FIndia%C2%A9%EF%B8%8FNew%20Delhi%F0%9F%85%BF%EF%B8%8Fping%3A156.42ms
 ss://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@178.212.35.198:443?fp=firefox&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&security=reality&sid=6bdc8320&sni=www.cloudflare.com&type=tcp#REALITY|IN🇮🇳
 ss://99c5b713-dedf-4a10-8070-916ff3f49b0e@5.253.30.226:443?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-3...%20%231
@@ -48,7 +48,7 @@ vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?&security=false
 vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?&security=false&fp=chrome&type=ws&headerType=none&host=13.140.56.100&path=%2Fvless#%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%233%203
 vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?&security=false&fp=chrome&type=ws&headerType=none&host=13.140.56.100&path=%2Fvless#%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%233%204
 vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?fp=chrome&path=%2Fvless&security=false&type=ws#IN🇮🇳
-vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?sni=13.140.56.100&type=ws&host=13.140.56.100&path=/vless#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%233
+vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?type=ws&host=13.140.56.100&path=/vless#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%233
 vless://6ae44ad9-c2cb-4bdf-8e48-6c01fa646372@45.89.106.101:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&fp=firefox&security=reality&pbk=f6MOnGRTqdns7Lut75DSrnFZeiiZ4N04gnj5m-l7KnM&sid=54ce#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AE%F0%9F%87%B3%C2%AE%EF%B8%8FIndia%C2%A9%EF%B8%8FNew%20Delhi%F0%9F%85%BF%EF%B8%8Fping%3A156.42ms
 vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@178.212.35.198:443?fp=firefox&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&security=reality&sid=6bdc8320&sni=www.cloudflare.com&type=tcp#REALITY|IN🇮🇳
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@5.253.30.226:443?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-3...%20%231
