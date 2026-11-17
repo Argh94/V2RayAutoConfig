@@ -5,12 +5,11 @@ ss://2462c208-e2e8-4071-95a7-afaae3ab9f0d@140.225.209.131:11443?security=reality
 ss://2462c208-e2e8-4071-95a7-afaae3ab9f0d@140.225.209.171:11443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=140.225.209.170&fp=firefox&pbk=ZqHfvrlH6yQwF36OVgnBbgDgMIXtOYZ_QRpkjbwOJBg&sid=341079e3ef711499&type=tcp&headerType=none#REALITY|AE🇦🇪
 ss://2462c208-e2e8-4071-95a7-afaae3ab9f0d@140.225.209.171:11443?security=reality&encryption=none&pbk=ZqHfvrlH6yQwF36OVgnBbgDgMIXtOYZ_QRpkjbwOJBg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=140.225.209.170&sid=341079e3ef711499#REALITY|AE🇦🇪
 ss://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?&security=false&fp=chrome&type=ws&headerType=none&host=uae.unixzone.us&path=%2F#%5Bwww.v2nodes.com%5D%20vless-AE-1...%20%231
-ss://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?&security=false&fp=chrome&type=ws&headerType=none&host=uae.unixzone.us&path=%2F#%5Bwww.v2nodes.com%5D%20vless-AE-1...%20%231%203
-ss://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?&security=false&fp=chrome&type=ws&headerType=none&host=uae.unixzone.us&path=%2F#%5Bwww.v2nodes.com%5D%20vless-AE-1...%20%231%204
 ss://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?sni=uae.unixzone.us&type=ws&host=uae.unixzone.us&path=/#%F0%9F%87%A6%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-AE-1...%20%231
 ss://3a4ddfac-e7da-48c9-9648-4a366109fc3a@api.steamsale.ir:443/?type=tcp&encryption=none&flow=#%F0%9F%87%A6%F0%9F%87%AA%20AE%20%7C%20VLESS%20%7C%20%40ai_duet%20%231
 ss://568e8786-99b5-4a26-b3af-a90e86ee0223@140.225.209.131:11443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=140.225.209.130&fp=firefox&security=reality&pbk=aRrXkr-ISYHOylnMElRKZ4BoHBdgXLBDgBmCC899j1w&sid=1b10fef2d97c68a3#REALITY|AE🇦🇪
 ss://568e8786-99b5-4a26-b3af-a90e86ee0223@140.225.209.181:11443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=140.225.209.180&fp=firefox&security=reality&pbk=12CuhgRF7B52cRNwcRxqBztQ5lxCZBiRXAvfrmtkpnk&sid=a956eec560f7d409#REALITY|AE🇦🇪
+ss://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?&security=false&fp=chrome&type=ws&headerType=none&host=95.174.68.188&path=%2Fvless#%5Bwww.v2nodes.com%5D%20vless-AE-1...
 ss://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?type=ws&host=95.174.68.188&path=/vless#%F0%9F%87%A6%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-AE-1...
 ss://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@db01.ssr.ee:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=itunes.apple.com&pbk=3tyvN86mGzMnYhAMX06SJMYSWhG02rqzTr7GjS-OaWI&sid=6ba85179e30d4fc2#REALITY|AE🇦🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@151.242.251.144:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.144-0331
@@ -58,12 +57,11 @@ vless://2462c208-e2e8-4071-95a7-afaae3ab9f0d@140.225.209.131:11443?security=real
 vless://2462c208-e2e8-4071-95a7-afaae3ab9f0d@140.225.209.171:11443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=140.225.209.170&fp=firefox&pbk=ZqHfvrlH6yQwF36OVgnBbgDgMIXtOYZ_QRpkjbwOJBg&sid=341079e3ef711499&type=tcp&headerType=none#REALITY|AE🇦🇪
 vless://2462c208-e2e8-4071-95a7-afaae3ab9f0d@140.225.209.171:11443?security=reality&encryption=none&pbk=ZqHfvrlH6yQwF36OVgnBbgDgMIXtOYZ_QRpkjbwOJBg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=140.225.209.170&sid=341079e3ef711499#REALITY|AE🇦🇪
 vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?&security=false&fp=chrome&type=ws&headerType=none&host=uae.unixzone.us&path=%2F#%5Bwww.v2nodes.com%5D%20vless-AE-1...%20%231
-vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?&security=false&fp=chrome&type=ws&headerType=none&host=uae.unixzone.us&path=%2F#%5Bwww.v2nodes.com%5D%20vless-AE-1...%20%231%203
-vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?&security=false&fp=chrome&type=ws&headerType=none&host=uae.unixzone.us&path=%2F#%5Bwww.v2nodes.com%5D%20vless-AE-1...%20%231%204
 vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?sni=uae.unixzone.us&type=ws&host=uae.unixzone.us&path=/#%F0%9F%87%A6%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-AE-1...%20%231
 vless://3a4ddfac-e7da-48c9-9648-4a366109fc3a@api.steamsale.ir:443/?type=tcp&encryption=none&flow=#%F0%9F%87%A6%F0%9F%87%AA%20AE%20%7C%20VLESS%20%7C%20%40ai_duet%20%231
 vless://568e8786-99b5-4a26-b3af-a90e86ee0223@140.225.209.131:11443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=140.225.209.130&fp=firefox&security=reality&pbk=aRrXkr-ISYHOylnMElRKZ4BoHBdgXLBDgBmCC899j1w&sid=1b10fef2d97c68a3#REALITY|AE🇦🇪
 vless://568e8786-99b5-4a26-b3af-a90e86ee0223@140.225.209.181:11443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=140.225.209.180&fp=firefox&security=reality&pbk=12CuhgRF7B52cRNwcRxqBztQ5lxCZBiRXAvfrmtkpnk&sid=a956eec560f7d409#REALITY|AE🇦🇪
+vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?&security=false&fp=chrome&type=ws&headerType=none&host=95.174.68.188&path=%2Fvless#%5Bwww.v2nodes.com%5D%20vless-AE-1...
 vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?type=ws&host=95.174.68.188&path=/vless#%F0%9F%87%A6%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-AE-1...
 vless://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@db01.ssr.ee:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=itunes.apple.com&pbk=3tyvN86mGzMnYhAMX06SJMYSWhG02rqzTr7GjS-OaWI&sid=6ba85179e30d4fc2#REALITY|AE🇦🇪
 vless://a6690136-c109-45e6-be13-a45f7cb9eb2a@78.40.194.14:19465/?type=tcp&encryption=none&flow=#%F0%9F%87%A6%F0%9F%87%AA%20AE%20%7C%20VLESS%20%7C%20%40orange_vpns%20%231
