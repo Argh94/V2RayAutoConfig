@@ -46,7 +46,6 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@151.241.19.36:19999#AE%F0%9F%87%A6%F0%9F%87%AA+%7C+151.241.19.36-19999+%7C+83.95ms
 ss://a6690136-c109-45e6-be13-a45f7cb9eb2a@78.40.194.14:19465/?type=tcp&encryption=none&flow=#%F0%9F%87%A6%F0%9F%87%AA%20AE%20%7C%20VLESS%20%7C%20%40orange_vpns%20%231
 ss://aa983622-bffd-4313-b4d1-bf0e1b7b6ad8@157.228.172.4:8443?&security=tls&fp=chrome&sni=157.228.172.4&type=tcp&headerType=none&path=%2F#%E9%98%BF%E8%81%94%E9%85%8B%20%7C%20ARE%20%231%204
-ss://aa983622-bffd-4313-b4d1-bf0e1b7b6ad8@157.228.172.4:8443?sni=157.228.172.4&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%AA%20%E9%98%BF%E8%81%94%E9%85%8B%20%7C%20ARE%20%231
 ss://e9979910-79d1-4621-a93c-b2a579c44ba7@94.140.0.109:8880/?type=ws&encryption=none&flow=&host=VngSuPpLY.IP-DdnS.com&path=%2F#%F0%9F%87%A6%F0%9F%87%AA%20AE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxygodratmand%20%5B3%5D
 ss://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru1.com:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru1.com&type=tcp#AE🇦🇪
 trojan://28d98f761aca9d636f44db62544628eb@45.66.134.219:443?security=tls#%F0%9F%87%A6%F0%9F%87%AAAE-45.66.134.219-5202
@@ -74,7 +73,6 @@ vless://568e8786-99b5-4a26-b3af-a90e86ee0223@140.225.209.131:11443?type=tcp&encr
 vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?sni=95.174.68.188&type=ws&host=95.174.68.188&path=/vless#%F0%9F%87%A6%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-AE-1...
 vless://a6690136-c109-45e6-be13-a45f7cb9eb2a@78.40.194.14:19465/?type=tcp&encryption=none&flow=#%F0%9F%87%A6%F0%9F%87%AA%20AE%20%7C%20VLESS%20%7C%20%40orange_vpns%20%231
 vless://aa983622-bffd-4313-b4d1-bf0e1b7b6ad8@157.228.172.4:8443?&security=tls&fp=chrome&sni=157.228.172.4&type=tcp&headerType=none&path=%2F#%E9%98%BF%E8%81%94%E9%85%8B%20%7C%20ARE%20%231%204
-vless://aa983622-bffd-4313-b4d1-bf0e1b7b6ad8@157.228.172.4:8443?sni=157.228.172.4&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%AA%20%E9%98%BF%E8%81%94%E9%85%8B%20%7C%20ARE%20%231
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@94.140.0.109:8880/?type=ws&encryption=none&flow=&host=VngSuPpLY.IP-DdnS.com&path=%2F#%F0%9F%87%A6%F0%9F%87%AA%20AE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxygodratmand%20%5B3%5D
 vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru1.com:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru1.com&type=tcp#AE🇦🇪
 vmess://eyJ2IjoiMiIsInBzIjoiQUUg8J+HpvCfh6ogfCBAUmF5ZGlrYWx4IHwgM0UyNUIzIiwiYWRkIjoiOTUuMTgyLjk0LjIxMCIsInBvcnQiOiI0NDMiLCJpZCI6ImRiNTBhMjBlLTdmZjUtNGU3MC05NDhmLTE3Y2M5Y2E3YzE1NCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InJlbmRlcmVyLXN0cmVhbS0yLTYyLm1pcnJhLm5vdyIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwidGxzIjoidGxzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
