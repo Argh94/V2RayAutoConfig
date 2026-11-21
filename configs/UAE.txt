@@ -11,6 +11,7 @@ ss://2462c208-e2e8-4071-95a7-afaae3ab9f0d@140.225.209.131:11443?security=reality
 ss://2462c208-e2e8-4071-95a7-afaae3ab9f0d@140.225.209.171:11443?security=reality&encryption=none&pbk=ZqHfvrlH6yQwF36OVgnBbgDgMIXtOYZ_QRpkjbwOJBg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=140.225.209.170&sid=341079e3ef711499#REALITY|AE🇦🇪
 ss://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?&security=false&fp=chrome&type=ws&headerType=none&host=uae.unixzone.us&path=%2F#%5Bwww.v2nodes.com%5D%20vless-AE-1...%20%231%202
 ss://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?&security=false&fp=chrome&type=ws&headerType=none&host=uae.unixzone.us&path=%2F#%5Bwww.v2nodes.com%5D%20vless-AE-1...%20%231%203
+ss://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?sni=uae.unixzone.us&type=ws&host=uae.unixzone.us&path=/#%F0%9F%87%A6%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-AE-1...%20%231
 ss://3a4ddfac-e7da-48c9-9648-4a366109fc3a@api.steamsale.ir:443/?type=tcp&encryption=none&flow=#%F0%9F%87%A6%F0%9F%87%AA%20AE%20%7C%20VLESS%20%7C%20%40ai_duet%20%231
 ss://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?encryption=none&security=none&serviceName=service-41f6a2a01377&type=grpc#AE🇦🇪
 ss://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?encryption=none&type=grpc&security=none&serviceName=service-41f6a2a01377#AE🇦🇪
@@ -71,6 +72,7 @@ vless://2462c208-e2e8-4071-95a7-afaae3ab9f0d@140.225.209.131:11443?security=real
 vless://2462c208-e2e8-4071-95a7-afaae3ab9f0d@140.225.209.171:11443?security=reality&encryption=none&pbk=ZqHfvrlH6yQwF36OVgnBbgDgMIXtOYZ_QRpkjbwOJBg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=140.225.209.170&sid=341079e3ef711499#REALITY|AE🇦🇪
 vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?&security=false&fp=chrome&type=ws&headerType=none&host=uae.unixzone.us&path=%2F#%5Bwww.v2nodes.com%5D%20vless-AE-1...%20%231%202
 vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?&security=false&fp=chrome&type=ws&headerType=none&host=uae.unixzone.us&path=%2F#%5Bwww.v2nodes.com%5D%20vless-AE-1...%20%231%203
+vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?sni=uae.unixzone.us&type=ws&host=uae.unixzone.us&path=/#%F0%9F%87%A6%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-AE-1...%20%231
 vless://3a4ddfac-e7da-48c9-9648-4a366109fc3a@api.steamsale.ir:443/?type=tcp&encryption=none&flow=#%F0%9F%87%A6%F0%9F%87%AA%20AE%20%7C%20VLESS%20%7C%20%40ai_duet%20%231
 vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?encryption=none&security=none&serviceName=service-41f6a2a01377&type=grpc#AE🇦🇪
 vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?encryption=none&type=grpc&security=none&serviceName=service-41f6a2a01377#AE🇦🇪
